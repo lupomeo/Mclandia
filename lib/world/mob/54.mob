@@ -1,0 +1,1053 @@
+#5400
+guildmaster writer virus professore guru~
+Il Guru Virus writer~
+Il piu' grande virus writer di tutti i tempi e' qui a progammare in assembler.
+~
+E' sporco e trasandato ma il suo sguardo e' sicuro e ti scruta in
+modo penetrante facendoti sentire un pivellino.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0 
+8 8 1
+#5401
+guildmaster master priest professore~
+Il professore di informatica~
+Un famoso professore di informatica e' qui ad amministrare la rete 
+informatica della citta'.
+~
+Non ci sono dubbi che e' il piu' grande problem solver di Newland.
+Pare possa aggiustare qualunque problema.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0
+8 8 1
+#5402
+guildmaster master allenatore~
+L'allenatore~
+Il tuo allenatore e' qui pronto a migliorare il tuo addestramento.
+~
+Il tuo allenatore e' grosso e forte. I suoi muscoli spuntano prepotentemente
+dalla maglietta. Ha un'aria sicura aperta e leale, ma allo stesso tempo dura
+e decisa.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0
+8 8 1
+#5403
+guildmaster master hacker guru~
+Il guru hacker~
+L'hacker piu' famoso di tutto il mondo e' qui a violare sistemi.
+~
+Ha un'aria buffa di chi ha sempre la testa tra le nuvole.
+Si dice che sia un genio capace di violare qualunque rete.
+~
+blno dhk 1000 S
+16 -10 -10 1d1+10000 5d5+5
+1 0
+8 8 1
+#5404
+receptionist theresa~
+Theresa la receptionist~
+Theresa la receptionist ti sorride da dietro il bancone.
+~
+E' deliziosa. E' molto proporzionata e prosperosa.
+Ha un gran seno ed un aspetto morbido.
+~
+ablno d 800 S
+10 -10 -10 1d1+1871 10d20+10
+1 5000
+6 6 2
+#5405
+barista~
+un anziano barista~
+Un anziano barista e' qui al banco.
+~
+Appare distratto, ma ha l'aria di chi ha visto tutto.
+~
+blno d 0 S
+35 9 -1 1d1+12000 1d5+3
+1 1000
+8 8 1
+#5406
+john musicista strada~
+John il musicista di strada~
+Jhon il musicista di strada e' qui.
+~
+John e' di eta' indefinita. Non si cura molto
+di quello che lo circonda e sta continuamente ad
+accordare il suo strumento.
+~
+bg 0 0 S
+15 4 0 3d5+150 2d5+3
+21 1350
+8 8 1
+#5407
+panhandler barbone~
+un barbone~
+Un barbone vaga parlando da solo.
+~
+E' completamente fuori non capisci se e' ubriaco o solo
+sbroccato.
+~
+cgh 0 -20 S
+2 19 10 10d1+1 1d4+2
+1 5
+5 5 1
+#5408
+panhandler barbone~
+un barbone~
+Un barbone e' qui avvolto negli stracci.
+~
+Puzza ed e' ricoperto di croste si sporcizia.
+~
+cgh 0 -20 S
+3 19 10 10d1+1 1d3+3
+1 5
+5 5 1
+#5409
+beggar mendicante~
+un mendicante~
+Un mendicante ti tende la mano chiedendoti qualche moneta.
+~
+Poveraccio la vita e' stata avara con lui ed e' precipitato
+nella poverta' e nell'angoscia.
+~
+cgh 0 -20 S
+1 19 10 10d1+1 1d2+2
+1 0
+8 8 1
+#5410
+baker panettiere~
+il paniettiere~
+Il panettiere e' qui.
+~
+E' un uomo grosso e grasso, tutto coperto di farina.
+~
+blno d 100 S
+35 0 0 1d1+30000 2d10+2
+1 2000
+8 8 1
+#5411
+shopkeeper proprietario~
+il proprietario del negozio~
+Il proprietario del negozio e' qui dietro il suo registratore di cassa.
+~
+E' un uomo dall'aria molto sorridente e furba.
+~
+blno d 100 S
+35 0 0 1d1+30000 2d10+2
+1 2000
+8 8 1
+#5412
+banker impiegato~
+un impiegato della Banca~
+Un impiegato della Banca e' qui pronto ad aiutarti.
+~
+E? una persona alta e magra, sembra proprio abituata
+a maneggiare i soldi.
+~
+blno d 0 S
+10 1 0 1d1+30000 3d6+2
+1 0
+8 8 1
+#5413
+ahkeem sarto~
+Ahkeem il sarto~
+Ahkeem il sarto ti da il benvenuto nel suo negozio.
+~
+Ti guarda con aria di disapprovazione e si affretta a consigliarti
+un nuovo guardaroba.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 200
+8 8 1
+#5414
+vera fruttivendola~
+Vera la fruttivendola~
+Vera ti accoglie nel suo negozio.
+~
+E' una bella donna dall'aria un po' provocante.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 2000
+8 8 2
+#5415
+butch~
+Butch il macellaio~
+Butch il macellaio e' qui.
+~
+E' un grosso omone tutto sporco di sangue.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 2000
+8 8 1
+#5416
+abdul armorer~
+Abdul~
+Abdul sta qui pronto a venderti la sua merce.
+~
+Abdul ti gurda dritto negli occhi.
+Il suo sguardo e' diretto ma enigmatico.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+1 2000
+8 8 1
+#5417
+igor weaponsmith armaiolo~
+Igor l'armaiolo~
+Igor e' qui a oliare le sue splendide armi.
+~
+E' un uomo grosso e forte con una divorante passione
+per le armi da fuoco.
+~
+blno d 0 S
+35 10 5 1d1+30000 1d5+5
+100000 2000
+8 8 1
+#5418
+cassandra~
+Cassandra la pescivendola~
+Cassandra e' qui a vendere la sua merce.
+~
+Cassandra e' molto bella e abbronzata.
+Ma puzza di pesce. Le tue narici sono invase e
+questo ti fa uno strano effetto.
+~
+blno d 0 S
+35 0 0 1d1+30000 1d5+5
+1 2000
+8 8 2
+#5419
+foreman capocantiere~
+Il capocantiere~
+Il capocantiere e' qui e sta urlando contro gli operai.
+~
+E' grande e grosso e sta qui con il suo taccuino a prendere
+nota dell'avanzamento dei lavori.
+~
+bg 0 0 S
+15 6 -2 3d10+40 1d8+2
+1 100
+8 8 1
+#5420
+operaio worker~
+un operaio~
+Un operaio sta lavorando qui.
+~
+E' forte e muscoloso.
+~
+bg 0 10 S
+10 12 0 3d8+35 2d5+2
+1 50
+8 8 1
+#5421
+statua brahman~
+La statua di Brahman~
+La statua di Brahman e' qui.
+~
+La statua e' fatta di solido marmo e ritrae il Dio mentre combatte 
+con Siva.
+~
+abelnopqr dhk 1000 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5422
+statua siva~
+La statua di Siva~
+La statua di Siva e' qui.
+~
+La statua del Lord della distruzione e' qui raffigurata nel momento
+in cui sta per essere attaccato da Brahman.
+~
+abelnopqr dhk -1000 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5423
+statua indra~
+La statua di Indra~
+La statua di Indra e' qui.
+~
+Questa statua appare come un grossso elefante.
+~
+abelnopqr dhk 1000 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5424
+statu yama~
+La statua di Yama~
+La statua di Yama e' qui.
+~
+E' la statua del Dio della morte.
+E' coperta di antiche rune.
+~
+abelnopqr dhk 0 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5425
+statua surya~
+La statua di Surya~
+La statua di Surya stands here.
+~
+E' la statua del Dio della luce.
+~
+abelnopqr dhk 1000 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5426
+statua kali~
+La statua di Kali~
+La statua di Kali e' qui.
+~
+La statua di Kali e' fatta di marmo nero ed e' coperta di rune
+d'argento.
+~
+abelnopqr dhk -1000 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5427
+statua brihaspati~
+la statua di Brihaspati~
+La statua di Brihaspati e' qui.
+~
+E' il Dio della conoscenza. La statua e' fatta di marmo bianco.
+~
+abelnopqr dhk 0 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5428
+statua puchan~
+La statua di Puchan~
+La statua di Puchan e' qui.
+~
+E' il dio dei viaggiatori.
+~
+abelnopqr dhk 1000 S
+30 -10 -10 1d1+1200 6d10+10
+1200 60000
+8 8 0
+#5429
+arilen canon~
+Arilen~
+Arilen il "Canon" e' qui.
+~
+Ti guarda con un ghigno malevolo.
+~
+gh d 0 S
+11 14 0 2d11+40 2d5+2
+1 384
+8 8 1
+#5430
+mullin robber~
+Mullin~
+Mullin il "Robber" e' qui.
+~
+Ha un'aria pericolosa.
+~
+gh d 0 S
+7 17 30 3d8+41 2d4+1
+1 99
+8 8 1
+#5431
+fatima~
+Fatima~
+Fatima e' qui.
+~
+E' uno strano miscuglio di razze con la pelle chiara e gli occhi
+grigi ed i capelli nerissimi.
+~
+gh d 0 S
+9 18 50 2d6+25 3d3+0
+1 93
+8 8 2
+#5432
+kareem mercenario~
+Kareem~
+Kareem il mercenario e' qui.
+~
+E' brutto e peloso, ma ha un aria dura e solida.
+~
+gh d 0 S
+12 9 0 4d4+50 2d6+5
+1 939
+8 8 1
+#5433
+mercante nomade~
+il mercante nomade~
+Un mercante nomade ti sorride.
+~
+Malgrado il sorriso qualcosa nel suo sguardo ti suggerisce 
+di non fidati.
+~
+cghlmno 0 -100 S
+35 11 20 1d1+1500 1d8+2
+15000 800
+8 8 1
+#5434
+bodyguard guardia corpo~
+la guardia del corpo~
+Una guardia del corpo e' qui.
+~
+E' un uomo grosso i cui muscoli risultano un po' troppo costretti
+nei vestiti.
+~
+abeflm dk 0 S
+12 10 3 3d10+100 1d6+3
+1 400
+8 8 1
+#5435
+teppistello~
+il teppistello~
+Un teppistello si aggira qui intorno.
+~
+Come si accorge che lo guardi volge lo sguardo da un'altra
+parte.
+~
+ch 0 100 S
+7 12 1 14d1+1 2d5+1
+1 100
+8 8 1
+#5436
+facchino~
+un facchino~
+Un facchino trascina un carrello
+~
+Ha una corpratura robusta e l'aria scoglionata.
+~
+g 0 0 S
+12 9 20 3d5+65 1d8+5
+1 550
+8 8 1
+#5437
+esattore tasse~
+l'esattore~
+Un esattore delle tasse si aggira alla ricerca di evasori.
+~
+E' un uomo piccolo e dall'aria severa e irreprensibile.
+~
+gh 0 0 S
+5 16 50 10d2+45 2d3+1
+15 431
+8 8 1
+#5438
+gordon~
+Gordon~
+Gordon e' qui.
+~
+~
+ch dhk 1000 S
+15 0 -3 5d3+105 2d6+4
+1 1000
+8 8 1
+#5439
+chulainn~
+Chulainn~
+Chulainn e' qui.
+~
+E' un uomo grasso con lo sguardo spento di chi non si sorprende
+mai di nulla.
+~
+chlm dk 800 S
+15 0 -10 4d1+231 2d8+5
+650 8700
+8 8 1
+#5440
+dagh~
+Dagh~
+Dagh il programmatore e' qui.
+~
+Ha lo sgurdo assente e distratto ma allo stesso tempo molto
+penetrante.
+~
+ag dhk 200 S
+15 5 3 5d2+180 1d6+2
+0 8700
+8 8 1
+#5441
+bj otis~
+Bj Otis~
+Bj Otis e' qui.
+~
+~
+ch 8 0 S
+15 0 0 3d5+120 3d4+1
+1 1000
+8 8 1
+#5442
+predicatore~
+un predicatore di strada~
+un predicatore di strada e' qui.
+~
+Sta in un angolo e attira i passanti per cercare di convincerli
+che sta per arrivare la fine del mondo.
+~
+h 0 0 S
+7 16 50 1d1+1 1d5+1
+1 10
+8 8 1
+#5443
+randagio gatto~
+un gatto randagio~
+Un picolo gatto randagio e' qui in cerca di cibo.
+~
+Vedi un piccolo gattino spelacchiato.
+~
+h 0 -10 S
+2 18 70 1d2+5 2d2+1
+1 0
+8 8 1
+#5444
+vulture corvo~
+Un corvo nero~
+Un corvo nero vola qui intorno.
+~
+E' un nero corvaccio. Che porti male?.
+~
+gh 0 -200 S
+2 18 7 1d3+1 1d6+1
+1 10
+8 8 1
+#5445
+vecchio~
+Il vecchio~
+Un vecchio e' seduto qui e sta giocando a scacchi.
+~
+E' molto concentrato. pare che stia vincendo la partita
+~
+h 0 200 S
+4 17 80 2d3+1 1d3+1
+1 20
+6 6 1
+#5446
+lugh bibliotecario~
+Lugh il Bibliotecario~
+Lugh il Bibliotecario sta seduto dietro una scrivania.
+~
+E' molto soddisfatto del suo lavoro ed e' felice quando gli
+viene chiesta qualche informazione.
+~
+belno 0 300 S
+10 1 0 10d10+430 3d6+5
+1231 23000
+6 6 1
+#5447
+ologramma perduto~
+un ologramma perduto~
+Un ologramma perduto si confonde con il paesaggio.
+~
+Non sei ben certo di vederlo. Sembra una rappresentazione
+demoniaca.
+~
+cf 0 -1000 S
+1 19 90 2d2+1 2d3+1
+1 10
+8 8 1
+#5448
+replicante bambola~
+una bambola replicante~
+Una bambola replicante dai lineamenti sconvolti dalla rabbia
+e' qui. 
+~
+Questa creatura doveva essere dolce e sensuale e pronta ad
+esaudire i piu' strani desideri seessuali degli uomini, ma
+un difetto di fabbricazione l'ha resa folle e aggressiva.
+~
+cj 0 -500 S
+12 12 3 1d10+120 2d5+1
+1500 10500
+8 8 2
+#5449
+derviscio~
+il danzatore derviscio~
+il danzatore derviscio e' qui.
+~
+Quest'uomo sembra avere bisogno di riposo.
+~
+fg 32768 -750 S
+8 12 3 4d4+20 2d6+1
+1 105
+8 8 1
+#5450
+sindaco~
+il sindaco di NewLand~
+il sindaco di NewLand e' seduto qui.
+~
+E' un ciccione sorridente.
+~
+beilno dhk 200 S
+10 5 -4 6d6+830 1d6+0
+1200 25000
+5 5 1
+#5451
+ragazza~
+una ragazza seminuda~
+Una ragazza seminuda e' qui.
+~
+Una bellissima ragazza vestita solo con dei veli trasparenti
+che lasciano intravedere il suo splendido corpo.
+~
+b 0 0 S
+3 17 7 1d1+15 1d6+1
+0 40
+8 8 2
+#5452
+secondino~
+il secondino~
+Il secondino dorme qui russando sonoramente.
+~
+E' un uomo grosso e patetico.
+~
+bch 0 -100 S
+18 4 0 3d4+100 1d6+6
+157 1200
+4 4 1
+#5453
+guardiano~
+un guardiano~
+Un guardiano sta qui a sorvegliare le ragazze.
+~
+Il guardiano e' grosso ed ha un'aria molto pericolosa.
+~
+bf dk 0 S
+32 8 0 5d1+100 4d8+4
+0 1300
+8 8 0
+#5454
+nichole bellissima~
+Nichole, l'amante del Sindaco~
+La bellissima Nichole, l'amante del sindaco e' qui.
+~
+Vedi la donna piu' bella di Newland. Forse la donna piu' bella
+che i tuoi occhi abbiano mai visto.
+Ma ha uno sguardo molto perfido. Lo sguardo di chi sta per
+ucciderti
+~
+bf dk 100 S
+40 3 -2 1d1+5500 4d8+8
+0 40000
+5 5 2
+#5455
+allah~
+Allah~
+Allah e' qui.
+~
+Ti trovi al cospetto di Allah.
+~
+abeiklnopqr dhks 1000 S
+50 0 0 2d3+23000 4d20+20
+0 45000 
+5 5 0
+#5456
+guildmaster writer virus professore guru~
+Il Guru Virus writer~
+Il piu' grande virus writer di tutti i tempi e' qui a progammare in assembler.
+~
+E' sporco e trasandato ma il suo sguardo e' sicuro e ti scruta in
+modo penetrante facendoti sentire un pivellino.
+~
+belnop d 1000 S
+44 0 -10 6d10+9000 1d8+34
+18794 100000
+8 8 2
+#5457
+guildmaster master priest professore~
+Il professore di informatica~
+Il tuo professore di informatica e' qui ad amministrare la rete di NewLnd.
+~
+Non ci sono dubbi che e' il piu' grande problem solver di NewLand.
+Pare possa aggiustare qualunque problema.
+~
+belnop d 1000 S
+44 0 -10 6d10+9000 1d8+24
+18794 100000
+8 8 1
+#5458
+guildmaster master allenatore~
+L'allenatore~
+Il tuo allenatore e' qui pronto a migliorare il tuo addestramento.
+~
+Il tuo allenatore e' grosso e forte. I suoi muscoli spuntano prepotentemente
+dalla maglietta. Ha un'aria sicura aperta e leale, ma allo stesso tempo dura
+e decisa.
+~
+belnop 0 1000 S
+44 0 -10 6d10+9000 1d8+34
+18794 100000
+8 8 1
+#5459
+guildmaster master hacker guru~
+Il guru hacker~
+L'hacker piu' famoso di tutto il mondo e' qui a violare sistemi.
+~
+Ha un'aria buffa di chi ha sempre la testa tra le nuvole.
+Si dice che sia un genio capace di violare qualunque rete.
+~
+belnop d 1000 S
+44 0 -10 6d10+9000 1d8+24
+18794 100000
+8 8 2
+#5460
+domestico~
+il domestico~
+Un domestico si aggira qui intorno.
+~
+E' un ragazzetto che si aggira per le stanze senza combinare
+nulla.
+~
+g 0 0 S
+2 19 90 10d1+1 1d4+1
+1 10
+8 8 1
+#5461
+vigilantes guardia~
+Un vigilantes~
+Un vigilantes e' qui a proteggere gli innocenti.
+~
+E' indiscutibilmente ben addestrato e difficile da sconfiggere.
+~
+agh 0 1000 S
+40 10 9 2d4+1200 4d8+10
+150 2500
+8 8 1
+#5462
+vigilantes guardia~
+Un vigilantes~
+Un vigilantes e' qui a proteggere gli innocenti.
+~
+E' indiscutibilmente ben addestrato e difficile da sconfiggere.
+~
+abg 0 1000 S
+40 10 9 2d4+1200 4d8+10
+150 2500
+8 8 1
+#5463
+capo vigilantes guardia~
+Il capo dei vigilantes~
+Il capo dei vigilantes e' qui.
+~
+E' un uomo molto pericoloso. Stai attento!!
+~
+ag d 1000 S
+45 0 0 2d4+12000 4d8+20
+435 5000
+8 8 1
+#5464
+mercenario~
+un hacker mercenario~
+Un hacker mercenario e' qui in cerca di lavoro.
+~
+E' un uomo dall'aspetto infido.
+~
+agnopqr 0 0 S
+30 0 0 1d8+1000 1d4+20
+10000 60000
+8 8 1
+#5465
+capitano~
+il capitano~
+Un vecchio capitano di lungo corso e' qui.
+~
+E' un vecchio lupo di mare che sa tutto di
+barche e imbarcazioni.
+~
+blno 0 0 S
+35 0 0 1d1+30000 5d5+5
+1 2000
+8 8 1
+#5466
+meccanico~
+il meccanico~
+Un meccanico e' qui affaccendato a riparare motori.
+~
+E' sporco unto e dall'aria poco raccomandabile.
+~
+blno 0 0 S
+35 0 0 1d1+30000 4d4+4
+1 2000
+8 8 1
+#5467
+cavallo~
+il cavallo~
+Un bellissimo cavallo e' qui.
+~
+Vedi uno dei piu' bei cavalli Arabi esistenti al mondo.
+~
+bgh 0 0 S
+4 20 50 10d1+1 2d4+2
+0 10
+8 8 1
+#5468
+turista~
+il turista~
+Un turista si aggira qui come se si fosse perduto.
+~
+E' un ometto con una macchina fotografica ed una piccola mappa
+in mano che rigira continuamente.
+~
+cgh 0 0 S
+5 18 80 2d10+15 1d8+2
+500 650
+8 8 1
+#5469
+ixitxachitl pesce~
+un ixitxachitl~
+una strana creatura marina nuota qui.
+~
+Ha un aspetto stranissimo che non riesci a mettere bene a fuoco.
+~
+bflpqr dgk -500 S
+10 0 -5 3d3+120 3d4+1
+0 2000
+8 8 0
+#5470
+cryohydra~
+il cryohydra~
+Il cryohydra e' qui.
+~
+Uno strano rettile marrone dagli occhi color ambra.
+~
+fglpq k 0 S
+8 9 5 10d1+1 1d10+0
+0 100
+8 8 1
+#5471
+minotauro lucertola~
+la lucertola minotauro~
+un incrocio tra una lucertola e un minotauro e' qui.
+~
+Fa schifo!!
+~
+fg k 0 S
+8 8 5 1d10+55 3d5+0
+0 100
+8 8 1
+#5472
+cane morto~
+il cane morto~
+Un cane morto e' qui.
+~
+Ha due teste e non sembra poi cosi' morto !!.
+~
+fgl k 0 S
+4 19 7 1d15+76 1d10+1
+0 900
+8 8 0
+#5473
+felino~
+il felino~
+Un gigantesco felino e' qui.
+~
+Assomiglia a un leone ma anche ad una creatura acquatica.
+~
+fg k 0 S
+5 17 6 5d5+45 1d8+1
+0 1500
+8 8 1
+#5474
+behir~
+il behir~
+un behir striscia sul terreno davanti a te.
+~
+E' una specie di largo serpente con decine di zampe.
+~
+fglpq kp -300 S
+12 9 4 4d3+146 2d8+4
+0 1000
+8 8 0
+#5475
+chimera~
+la chimera creatura~
+Una orrenda creatura a tre teste e' qui.
+~
+La chimera e' un mistero. Non riesci neanche a capire bene
+come e' fatto il suo corpo.
+~
+bflq dgkp -500 S
+9 5 0 5d5+261 3d4+4
+0 3500
+8 8 0
+#5476
+couatl~
+il couatl~
+Un couatl e' qui.
+~
+E' un strana creatura con il corpo di un sepente ma ricoperta
+di tutti i colori dell'arcobaleno.
+~
+belnoq dghkp 300 S
+15 10 1 10d5+130 2d4+2
+0 2400
+8 8 0
+#5477
+gigante calabrone~
+il calabrone gigante~
+Un calabrone gigante vola qui intorno.
+~
+Fa schifo !!
+~
+eqr dgk 300 S
+5 15 4 1d1+5 1d4+0
+0 45
+8 8 0
+#5478
+pegaso~
+Pegaso~
+Pegaso e' qui e flette le sue ali.
+~
+Un meraviglioso cavallo alato elegante e bellissimo.
+~
+bglmpq dgk 1000 S
+10 4 0 1d5+700 2d10+5
+0 6500 
+8 8 0
+#5479
+elriva~
+Elriva~
+Elriva e' qui a preparare le sue pozioni.
+~
+E' una bella donna vestita tutta di nero con dei lunghissimi
+capelli scuri che gli arrivano fino al sedere.
+~
+blno 0 0 S
+35 10 0 1d1+30000 1d10+10
+1 2000
+8 8 2
+#5480
+braheem~
+Braheem~
+Braheem e' qui a vaneggiare e parlare ai muri.
+~
+E' un grande programmatore, ma e' diventato completamente
+pazzo.
+~
+blno 0 0 S
+35 -10 -10 1d1+30000 10d10+40
+1 2000
+8 8 1
+#5481
+gran sacerdote~
+il Gran Sacerdote~
+Il gran sacerdote sta meditando qui.
+~
+Uhmm non sembra contento che lo hai disturbato.
+~
+bgh dhk 1000 S
+8 2 0 10d5+1200 2d8+5
+15000 35000
+8 8 1
+#5482
+guardia corpo speciale~
+una guardia del corpo speciale~
+Una guardia del corpo speciale di NewLand e' qui.
+~
+Ha un aspetto sicuro e controlla la zona con sguardo
+attento e penetrante.
+~
+abelmno dhk 1000 S
+40 10 9 2d4+1200 4d8+10
+150 2500
+8 8 1
+#5483
+patch barista~
+Patch il barista~
+Patch il barista e' qui a sevire i clienti.
+~
+E' un omaccione dall'aspetto provato per le numerose sbornie, ma con un occhio sempre vigile alla cassa.
+~
+blno d -500 S
+35 0 -10 1d1+30000 3d8+10
+1 2000
+8 8 1
+#5484
+stitch~
+Stitch, il sarto~
+Stitch, il sarto e' qui.
+~
+E' un uomo piccolo e dall'aspetto furbo e infido.
+~
+blno d -500 S
+35 -10 -5 1d1+30000 3d6+6
+1 2000
+8 8 1
+#5485
+giardiniere~
+il giardiniere~
+Un giardiniere w' qui a curare il giardino.
+~
+E' giovane e carino e sembra amare il suo lavoro.
+~
+b 0 0 S
+10 10 6 5d5+100 2d8+2
+56 1500
+8 8 1
+#5486
+nightmare~
+il nightmare~
+Un brutto personaggio dall'aspetto demoniaco e' qui.
+~
+Ha degli artigli lunghi e pericolosi e la sua immagine
+demoniaca ti penetra nel cervello.
+~
+blno dfghkps 1000 S
+40 0 -5 3d9+9000 3d5+20
+0 50000
+8 8 0
+#5487
+lupo rabbioso~
+il lupo rabbioso~
+Un grosso lupo e' qui.
+~
+E 'rabbioso e aggressivo.
+~
+bf kps -351 S
+15 0 0 10d2+230 2d10+10
+0 5000
+8 8 0
+#5488
+imitatore~
+l'imitatore~
+Un imitatore e' qui e sta impersonando la madre del Sindaco.
+~
+E' veramente buffo.
+~
+b 0 0 S
+10 10 0 5d8+321 2d8+4
+0 6000
+8 8 1
+#5489
+assessore~
+l'assessore~
+Un assessore di Newland e' qui.
+~
+Ha un'aria furba da approfittatore.
+~
+g 0 1000 S
+10 0 0 2d8+600 3d6+6
+1200 15675
+8 8 1
+#5490
+cuoco~
+il cuoco~
+Il cuoco e' qui a preparare il prnazo.
+~
+E' veramente grasso. Pare proprio che assaggia tutto quello
+che prepara.
+~
+b 0 400 S
+14 6 6 10d2+5 2d10+5
+16 40
+8 8 1
+$

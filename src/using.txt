@@ -1,0 +1,71 @@
+Users Guide to Ascii pfiles v2.1
+
+This is a rough draft based on the doc included in 2.0b.  Very little
+has changed.  More/better documentation will follow.
+
+Config.c options:
+
+  auto_pwipe	
+			This option defaults off.  If your mud is
+			beginning to grow large, check and adjust the
+			pclean_criteria data (see below) to your liking,
+			and set this option to YES.  If there's a problem,
+			check the lib/pfiles/backup directory for deleted
+			pfiles.
+
+  selfdelete_fastwipe
+			This option defaults on.  When on, players who self
+			delete will immediately have their pfile removed
+			with no backup.
+
+  pclean_criteria	
+			This is an array of criteria used to determine who
+			gets deleted when the mud boots with auto_pwipe =
+			YES.  The comments in config.c hopefully explain it
+			well enough.  The table used is designed to work
+			exactly like stock purgeplay.c, which will
+			actually work fine with more player levels, but
+			should probably be tweaked anyway.
+
+db.c options:
+
+  ASCII_SAVE_POOFS	This options defaults on.  This will allow
+			immortal poofins and poofouts to be saved in the
+			pfiles.
+
+db.h options:
+
+  By default, pfiles are in lib/pfiles/<first letter of name>, rent files
+  (when ascii rent files are relased) will go in lib/rent/<letter>, and
+  mail will go in lib/mail/<letter>.  Someone mentioned they'd like to
+  put all three files in the lib/pfiles/<letter> directory, with .plr,
+  .obj, and .mail extensions.  You can get this effect by making all
+  prefixes the same, and defining the suffixes.  Note that if you change
+  the PLR_PREFIX, you'll have to rebuild or move the existing pfile
+  directories.
+
+Notes on the pfdefaults.h stuff:
+
+The reason I added pfdefaults.h and changed load_char and save_char to use
+these defaults is to allow for tweaking of the defaults to decrease pfile
+size.  One obvious improvement would be to make PFDEF_AC 100, since armor
+class is going to be 100 in the pfile for most players (I think all
+players in a stock mud).  Only change these values before converting from
+binary to ascii, or you'll get unintended results.  All values in
+pfdefaults.h should be compatible with old pfiles.
+
+I'm working on an automated tweaking system.  If all goes well, there will
+be a new utility that will find the most-used value for each default, and
+write a pfdefaults.h.new file, and another utility to convert pfiles to a
+new set of defaults.  If these utilities are run every few months, it
+should signifigantly descrease pfile size.
+
+Notes on char_file_u:
+
+Since struct char_file_u is no longer used anywhere in the code, this
+struct (and the structs it contains) can be safely deleted, but NOT BEFORE
+RUNNING plrtoascii!  Once you've converted your pfiles to ascii, these
+structs are obsolete.
+
+Please let me know if anything's not clear or if you'd like other things
+explained and I'll add to this doc.

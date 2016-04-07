@@ -1,0 +1,199 @@
+#16000
+milena receptionist~
+Milena le receptionist replicante~
+Milena la receptionist replicante e' qui seduta dietro il bancone.
+~
+Milena e' molto bella e' affascinante ti sembra a
+dir poco perfetta. Ha un corpo statuario e ti
+sorride imperturbabile.
+~
+blnop 0 -500 S
+33 0 -5 6d10+1400 1d8+22
+2000 120000
+8 8 1
+#16001
+guardia sorveglianza~
+una guardia di sorveglianza~
+Una guardia di sorveglianza e' qui a controllare i monitor.
+~
+Ha una aspetto forte e fiero e sembra molto addestrato
+~
+bclmnop h 1000 S
+18 5 5 15d10+200 1d4+0
+15000 60000
+8 8 0
+#16002
+ingegnere replicante~
+un ingegnere replicante~
+un ingegnere replicante e' qui a dirigere la progettazione dei chip.
+~
+E' un mago dell'elettronica.
+Un mostro di intelligenza.
+~
+abcgilno p 500 E
+20 0 0 1d1+812 2d4+10
+5000 110000
+8 8 2
+BareHandAttack: 0
+E
+#16003
+tecnico replicante~
+un tecnico replicante~
+un tecnico replicante e' qui ad assemblare i chip.
+~
+Il tecnico e' molto agile e istancabile.
+Un mostro di efficienza.
+~
+bgnopqr h 1000 S
+20 5 5 15d10+400 1d4+20
+5000 90000
+8 8 0
+#16004
+robot assemblatore~
+Un Robot Assemblatore~
+Un Robot Assemblatore e' qui a impiantare chip.
+~
+Il Robot e' orribile ha centinaia di arti che si muovono
+molto velocemente e portano attacchi di ogni genere.
+~
+abcefglnopqr bcdekpst -500 E
+30 0 0 1d1+800 2d5+10
+0 200000
+8 8 2
+BareHandAttack: 8
+E
+#16005
+guardia sorveglianza~
+una guardia di sorveglianza~
+Una guardia di sorveglianza e' qui a controllare i monitor.
+~
+Ha una aspetto forte e fiero e sembra molto addestrato
+~
+agflnp kd 0 E
+25 11 1 2d6+800 3d8+5
+5000 120000
+8 8 1
+BareHandAttack: 0
+Dex: 17
+E
+#16006
+chimico replicante~
+un chimico replicante~
+un chimico replicante e' qui ad assemblare corpi.
+~
+Il chimico e' molto agile e istancabile.
+Un mostro di efficienza e intelligenza.
+~
+blnop 0 -500 S
+33 0 -5 6d10+1400 1d8+22
+2000 150000
+8 8 1
+#16007
+capo chimico replicante~
+il capo chimico replicante~
+il capo chimico replicante e' qui ad assemblare teste mostruose.
+~
+Il capo-chimico e' molto agile e istancabile.
+Un mostro di efficienza e intelligenza.
+~
+beglnopq p 0 S
+40 0 -6 1d12+4000 2d5+20
+7500 200000
+8 8 1
+#16008
+mostro mostruoso replicante~
+Un mostruoso replicante~
+Un mostruoso replicante e' qui prigioniero del campo di forza.
+~
+E' evidente che questo e' il frutto dei primi esperimenti che
+ha fatto il "creatore".
+La creatura ha braccia e gambe mischiate e monconi di teste
+che spuntano lungo tutto il corpo.
+~
+abcefglnopqr p -500 E
+30 0 0 1d1+1600 2d5+10
+0 180000
+8 8 2
+BareHandAttack: 8
+E
+#16009
+Mayanna replicante donna~
+Mayanna~
+Una bellissima donna competamente nuda e' adagiata qui.
+~
+E' la donna piu' bella e perfetta che tu abbia mai visto.
+Il suo corpo e' splendido, la sua pelle e' bianchissima e 
+le sue curve sono morbide, leggermente piene e abbondanti.
+Ha un aspetto cosi' dolce e indifeso....
+~
+abcefglnopqr hp -500 E
+30 0 0 1d1+2500 2d5+10
+0 240000
+8 8 2
+BareHandAttack: 5
+E
+#16010
+creatore~
+Il Creatore~
+Il Creatore di replicanti e' qui assorto in meditaizione.
+~
+E' completmante nudo e molto vecchio.
+Ha l'aria di chi ha completamente perso il contatto con la
+realta'.
+~
+abcefglmnopqr hp -500 E
+40 0 0 1d1+2200 2d5+20
+100000 350000
+8 8 2
+BareHandAttack: 12
+E
+#16011
+statua scimmia~
+la statua di una scimmia~
+C'e' la statua di una scimmia vicino al tappeto.
+~
+La statua e' di marmo pregiato e finemente realizzata.
+Sembra quasi viva.
+~
+bgmnopqr p 1000 S
+20 5 5 15d10+400 1d4+20
+0 80000
+8 8 0
+#16012
+statua uomo neanderthal~
+la statua di un uomo di neanderthal~
+C'e' la statua di un uomo di neanderthal accanto a quella della scimmia.
+~
+La statua e' di marmo pregiato e finemente realizzata.
+Sembra quasi viva.
+~
+bgmnopqr p 1000 S
+20 5 5 15d10+400 1d4+20
+0 80000
+8 8 0
+#16013
+statua uomo sapiens~
+la statua di un uomo sapiens~
+C'e' la statua di un uomo sapiens accanto a quella del neanderthal.
+~
+La statua e' di marmo pregiato e finemente realizzata.
+Sembra quasi viva.
+~
+bgmnopqr p 1000 S
+20 5 5 15d10+400 1d4+20
+0 80000
+8 8 0
+#16014
+statua cyborg replicante~
+la statua di un cyborg replicante~
+C'e' la statua di un cyborg replicante che domina quella del sapiens,
+quasi nell'atto di schiacciarlo.
+~
+La statua e' di marmo pregiato e finemente realizzata.
+Sembra quasi viva.
+~
+bgmnopqr p 1000 S
+20 5 5 15d10+400 1d4+20
+0 80000
+8 8 0
+$

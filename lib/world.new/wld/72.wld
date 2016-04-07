@@ -1,0 +1,1893 @@
+#7200
+La Tesoreria~
+    Sei in una piccola tesoreria.
+Vedi qualcosa scritto sul muro. Il soffitto ha una strana luminescenza che
+ti permette di vederti intorno. Ma hai l'impressione che vi sia qualcosa
+di indicibilmente gelido... Dev'essere la fredda luce!
+A est c'e' una porta di pietra.
+~
+72 cd 0
+D1
+Guardi da dove sei venuto. Forse devi ritornarci...
+~
+porta pietra~
+2 7205 7201
+E
+porta pietra~
+Vedi una porta di pietra nera, molto pesante e solida.
+~
+E
+muro scritto scritta~
+C'e' scritto sopra il numero '666'. Chissa' che vorra' mai dire!
+~
+S
+#7201
+Una stanza interna~
+    Sei in una stanza ottagonale. Il pavimento e' di marmo nero.
+Alla tua sinistra, verso ovest, c'e' una porta nel muro.
+~
+72 ad 0
+D2
+Guardi da dove sei venuto. Ti chiedi se ne uscirai mai vivo...
+~
+porta legno~
+1 -1 7202
+D3
+La tesoreria.
+~
+porta pietra~
+2 7205 7200
+S
+#7202
+La tana.~
+    Sul pavimento ci sono moltissimi linkers. Ridotti all'essenziale: ossa
+e teschi. Le mura grondano di sangue umano! Il tanfo di decomposizione e
+di sangue ti fa girare la testa e ti rende nauseabondo. Una luce fievole
+proviene dalle torce sul muro.
+~
+72 d 1
+D0
+Una stanza interna.
+~
+porta legno~
+1 -1 7201
+D1
+Ancora la tana.
+~
+~
+0 -1 7205
+D2
+Sempre la tana.
+~
+~
+0 -1 7203
+E
+teschio teschi ossa osso ossi~
+Noti un grosso buco delle dimensioni di un floppy disk sulla fronte
+di ogni teschio. Tutte le ossa sono rotte e sature di sangue.
+Rabbrividite.
+~
+E
+sangue~
+Il sangue e' scivoloso, umanoide e sempre sul punto di raggrumarsi.
+~
+E
+torcia supporto muro~
+La torcia e' saldamente fissato al suo supporto. E il supporto e'
+saldamente attaccato al muro. Lascia perdere, ti bruceresti una mano!
+~
+S
+#7203
+La tana.~
+    E' calda ed umida. Sul pavimento ci sono una miriade di ossa e
+teschi di linker, artisticamente disposte. Tutti i muri grondano
+sangue... Alcune torce sono fissate ai muri e non fanno molta luce.
+~
+72 d 1
+D0
+Il resto della tana.
+~
+~
+0 -1 7202
+D1
+Ancora la tana.
+~
+~
+0 -1 7206
+D2
+La tana.
+~
+~
+0 -1 7204
+E
+teschio teschi ossa osso ossi~
+Noti un grosso buco delle dimensioni di un obsoleto caddy sulla fronte
+di TUTTI i teschi. Tutte le ossa sono state spezzate. Ti innervosisci.
+~
+E
+sangue~
+Il sangue e' scivoloso, umanoide e sempre sul punto di raggrumarsi.
+~
+E
+torcia supporto muro~
+La torcia e' saldamente fissato al suo supporto. E il supporto e'
+saldamente attaccato al muro. Lascia perdere, ti romperesti un'unghia!
+~
+S
+#7204
+La tana~
+    Senti un rumore di qualcosa che si sbriciola sotto i tuoi piedi.
+Guardi il pavimento... AAAHHH!!!! Ossa e teschi di linkers sparsi
+apparentemente a casaccio! Ti appoggi al muro per ripigliarti... Ma
+ti ritiri dal muro schifato: vi scorre incessantemente qualcosa di
+rossiccio e grumoso... Quando ti accorgi dell'odore peculiare,
+inorridisci! In mezzo ai rivoli di sangue, sul muro, ci sono delle
+torce.
+~
+72 d 1
+D0
+Sempre la tana.
+~
+~
+0 -1 7203
+D1
+Ancora la tana.
+~
+~
+0 -1 7207
+D2
+L'uscita della tana.
+~
+porta legno~
+1 -1 7208
+E
+teschio teschi ossa osso ossi~
+TUTTI i teschi hanno sulla nuca una presa parallela e in fronte una
+fessura di circa 21 cm. Le ossa sono state tagliate a meta'.
+~
+E
+sangue~
+Il sangue e' scivoloso, umanoide e sempre sul punto di raggrumarsi.
+~
+E
+torcia supporto muro~
+Lascia perdere. La torcia e' saldamente fissato al suo supporto.
+Il supporto e' saldamente attaccato al muro. Fatica sprecata.
+~
+S
+#7205
+La tana~
+    Le mura grondano incessantemente sangue denso e rossiccio. Noti che
+il pavimento e' fittamente decorato da ossa e teschi di linkers.
+Ma le decorazioni non seguono canoni estetici umani. E' inquietante.
+Oltre al sangue, vedi anche delle torce sul muro.
+~
+72 d 1
+D2
+Ancora la tana.
+~
+~
+0 -1 7206
+D3
+Sempre la tana.
+~
+~
+0 -1 7202
+E
+teschio teschi ossa osso ossi~
+Ogni teschio ha sulla sommita' una serie di fessure delle dimensioni
+di una presa RJ-45. Le ossa sono diventate gommose e nerastre.
+~
+E
+sangue~
+Il sangue e' scivoloso, umanoide e sempre sul punto di raggrumarsi.
+~
+E
+torcia supporto muro~
+Non ci provare. La torcia e' saldamente fissato al suo supporto. E il
+supporto e' saldamente attaccato al muro. Ovviamente. Mica so' scemi.
+~
+S
+#7206
+La tana.~
+    Il pavimento e' composto da ossa (Linkers? Anoressici?). Avanzi
+con cautela. Non hai voglia di verificare se il liquido che le pareti
+stanno trasudando sia veramente sangue o no. Il tanfo di sangue ti
+opprime piu' che abbastanza. La luce delle torce sul muro non allieta
+l'ambiente manco per nulla.
+~
+72 cd 1
+D0
+Sempre la tana.
+~
+~
+0 -1 7205
+D2
+Ancora la tana.
+~
+~
+0 -1 7207
+D3
+Di nuovo la tana.
+~
+~
+0 -1 7203
+E
+ossa ossi osso~
+Non puo' essere anoressia: tutte le ossa sono spezzate nettamente
+a meta' o per il lungo o per il corto. Sono impregnate di sangue.
+~
+E
+sangue~
+Il sangue e' scivoloso, umanoide e sempre sul punto di raggrumarsi.
+~
+E
+torcia supporto muro~
+Non ci provare. La torcia e' saldamente fissato al suo supporto.
+E il supporto e' saldamente attaccato al muro. Ovviamente.
+~
+S
+#7207
+La tana~
+    Il pavimento e' composto da ossa e teschi disposti ad uhm? arte?.
+Avanzi con cautela. Non vuoi verificare se il liquido che le pareti
+stanno trasudando sia veramente sangue o no. Il tanfo di sangue ti
+opprime piu' che abbastanza. La luce delle torce sul muro non allieta
+l'ambiente. Vedi che sono state comprate all'ikea.
+~
+72 d 1
+D0
+Il resto della tana.
+~
+~
+0 -1 7206
+D3
+Ancora la tana.
+~
+~
+1 -1 7204
+E
+teschi teschio ossa ossi osso~
+Tutti i teschi sono stati tagliati nettamente a meta' e i loro denti
+sono stati anneriti e sparpagliati tutt'intorno. Le ossa invece hanno
+segni di bruciature di sigaretta.
+~
+E
+sangue~
+Il sangue e' scivoloso, umanoide e sempre sul punto di raggrumarsi.
+~
+E
+torcia supporto ikea~
+La torcia e' saldamente fissato al suo supporto. E il supporto e'
+saldamente attaccato al muro. All'IKEA hanno fatto un buon lavoro.
+~
+S
+#7208
+L'entrata alla tana~
+    Finalmente sei in una parte asciutta delle fogne... Ma c'e'
+qualcosa che non va. Vedi per terra un rivolo di un liquido denso e
+scivoloso che sembra provenire da sotto una porta di legno, a nord.
+~
+72 acd 2
+D0
+La tana.
+~
+porta pietra~
+1 -1 7204
+D1
+E' buio, stretto e umidiccio.
+~
+~
+0 -1 7209
+E
+liquido~
+Il liquido e' scivoloso e denso. Senti uno strano odore. Non riesci a
+capire di che cosa si tratti.
+~
+S
+#7209
+Il cunicolo~
+    Sei in un cunicolo irregolare, umido, stretto e afoso. Dall'alto
+cadono gocce di un liquido appiccicoso. Devi procedere carponi.
+Senti che le tue mani affondano in un liquido scivoloso e grumoso.
+~
+72 ad 3
+D1
+Un quadrivio.
+~
+~
+0 -1 7210
+D3
+L'entrata ad una tana.
+~
+~
+0 -1 7208
+S
+#7210
+Il quadrivio~
+    Sei ad un incrocio tra le condotte fognarie. L'umidita' e l'afa
+sono opprimenti. A nord intravedi un piccolo passaggio e a ovest un
+piccolo cunicolo. Senti delle vaghissime voci spettrali venire da
+tutte le direzioni. Le condotte continuano nelle altre direzioni.
+~
+72 ad 3
+D0 
+Una piccola stanza.
+~
+~
+0 -1 7211
+D1 
+Una condotta.
+~
+~
+0 -1 7212
+D2
+Una condotta.
+~
+~
+0 -1 7215
+D3
+Un cunicolo.
+~
+~
+0 -1 7209
+S
+#7211
+Una piccola grotta~
+    Sei in una condotta collassata che e' oramai diventata una
+piccola grotta. Senti un lieve rumore regolare ed irritante. Se
+resti qui ancora un po', cercherai di chiamare l'idraulico.
+Che non esiste. Come il cucchiaio.
+~
+72 ad 3
+D2
+Il quadrivio.
+~
+~
+0 -1 7210
+S
+#7212
+La condotta~
+    Sei in una condotta asciutta (si fa per dire) che prosegue verso
+nord. Gocce di un liquido non identificabile ti cadono in testa e sulla
+nuca. Ti accorgi che la temperatura continua a salire.
+~
+72 ad 3
+D0
+La condotta.
+~
+~
+0 -1 7213
+D3
+Il quadrivio.
+~
+~
+0 -1 7210
+S
+#7213
+La condotta~
+    Sei in una condotta asciutta che prosegue verso est. Senti nelle tue
+orecchie solo l'eco dei tuoi passi e rabbrividisci. Eppure il freddo sta
+diminuendo!
+~
+72 ad 3
+D1
+La condotta.
+~
+~
+0 -1 7214
+D2
+La condotta.
+~
+~
+0 -1 7212
+S
+#7214
+La fine della condotta~
+    Sei alla fine della condotta. Intorno a te il sistema fognario
+e' collassato. Ad un tratto senti degli inquietanti scricchiolii.
+Nonostante non si veda granche', ti guardi intorno preoccupato...
+Forse e' meglio se te ne torni indietro?
+~
+72 ad 3
+D3
+La condotta.
+~
+~
+0 -1 7213
+S
+#7215
+La condotta.~
+    Sei in una condotta inclinata che pare essere in funzione. Vedi
+che l'acqua copre il pavimento. Fa freddo ed e' umido. A nord l'acqua
+sembra piu' bassa, mentre a sud ti sembra piu' alta.
+~
+72 ad 4
+D0
+Il quadrivio.
+~
+~
+0 -1 7210
+D2
+La condotta prosegue ma sembra inondata.
+~
+~
+0 -1 7216
+E
+acqua~
+L'acqua e' sporchissima. Pero' sembra che ci si possa nuotare...
+Bere? Oh, no di sicuro!
+~
+S
+#7216
+Sott'acqua~
+    Stai nuotando sott'acqua. E' buio, ti manca il respiro e non credi
+di essere in buona compagnia...
+~
+72 ad 6
+D0 
+Non vedi nulla.
+~
+~
+0 -1 7215
+D2
+Non vedi nulla.
+~
+~
+0 -1 7217
+S
+#7217
+Una condotta semipiena~
+    Sei in una condotta piena a meta' di qualcosa di indefinibile. A
+nord ti sembra che la condotta finisca nell'acqua. Ma non sei sicuro.
+Intravedi nelle tenebre un buco a est ed un'altra condotta ad ovest.
+~
+72 ad 4
+D0
+Ti sembra di vedere la condotta scendere.
+~
+~
+0 -1 7216
+D1
+Una piccola stanza.
+~
+~
+0 -1 7218
+D3
+La condotta.
+~
+~
+0 -1 7219
+E
+acqua~
+L'acqua e' sporchissima. Pero' sembra che ci si possa nuotare...
+Bere? Oh, no di sicuro!
+~
+E
+buco~
+Attraverso il buco intravedi a stento una stanza piccolissima.
+~
+S
+#7218
+Una piccola stanza~
+    Sei in una piccolissima stanza e non ci vedi nulla di
+interessante...
+~
+72 ad 3
+D3
+La condotta.
+~
+~
+0 -1 7217
+S
+#7219
+Una condotta sgocciolante~
+    Sei in una condotta sgocciolante che continua a est e a sud.
+Il pavimento e' ricoperto di fanghiglia.
+~
+72 ad 3
+D1
+La condotta.
+~
+~
+0 -1 7217
+D2
+Un'altra condotta del cazzo.
+~
+~
+0 -1 7220
+S
+#7220
+Un'altra condotta del cazzo~
+    Inizi a stufarti di queste condotte. Del freddo. Dell'umidita'.
+Delle gocce. Che ci stai a fare qui, insomma? Molto meglio stare a
+casa a tagliarsi le dita con lo chassis del pc, no?
+~
+72 ad 3
+D0
+La condotta.
+~
+~
+0 -1 7219
+D1
+La condotta.
+~
+~
+0 -1 7221
+S
+#7221
+La condotta~
+    Sei in una condotta fognaria. Non vedi nulla di interessante.
+Un'eco rimbombante ti fa venire la pelle d'oca.
+~
+72 ad 3
+D1
+Un'altra condotta.
+~
+~
+0 -1 7222
+D3
+Un'altra condotta a ovest.
+~
+~
+0 -1 7220
+D4
+Un cunicolo.
+~
+~
+0 -1 7129
+S
+#7222
+La condotta fognaria~
+    Sei in una condotta fognaria. Il pavimento e' ricoperto di
+melma. Il tuo naso si rifiuta di fare il suo lavoro. Per tua
+fortuna.
+~
+72 ad 3
+D1
+Una svolta?
+~
+~
+0 -1 7223
+D3
+Una condotta.
+~
+~
+0 -1 7221
+E
+melma~
+La melma proviene da est.
+~
+S
+#7223
+L'ansa~
+    Sei in un'ansa fognaria che gira da ovest a nord.
+Fatichi a camminare nella melma.
+~
+72 ad 3
+D0
+Una condotta fognaria.
+~
+~
+0 -1 7224
+D3
+Una condotta fognaria.
+~
+~
+0 -1 7222
+S
+#7224
+L'incrocio~
+    Qui si incrociano tre condotte fognarie. Ogni tanto qualche
+goccia ti cade sul collo e rabbrividisci. Ti sembra di sentire
+dei rumori inquietanti provenire dalle zone che non riesci ad
+illuminare.
+~
+72 ad 3
+D0 
+Una condotta fognaria.
+~
+~
+0 -1 7225
+D2
+Una condotta fognaria.
+~
+~
+0 -1 7223
+D3
+Una strana ansa.
+~
+~
+0 -1 7229
+S
+#7225
+Le fogne~
+    Sei nelle fogne. L'acqua melmosa scorre giu' lungo le condotte.
+Ti si rizzano i peli della nuca: hai la sensazione che qui si
+annidino dei pericoli e degli strani esseri. Il fatto che il freddo
+e l'umidita' ti penetrano fino alle ossa non ti calma per nulla.
+~
+72 ad 3
+D2
+Una condotta fognaria.
+~
+~
+0 -1 7224
+S
+#7229
+Le fogne~
+    Sei in un tratto molto sinistro del sistema fognario. Hai la
+sensazione di sentire strani rumori che non ti fanno pensare a
+nulla di buono. Sul pavimento vedi ossa sparse. Fai fatica ad
+identificarle come umane o animalesche. Forse nessuna delle due.
+A ovest la condotta sembra salire.
+~
+72 ad 3
+D1
+Un incrocio.
+~
+~
+0 -1 7224
+D3
+Una condotta fognaria melmosa.
+~
+~
+0 -1 7230
+S
+#7230
+Una condotta umida~
+    Sei in una condotta fognaria il cui pavimento e' ricoperto di
+una strana sostanza umidiccia. A est e ad ovest la condotta sembra
+correre verso il basso. Sulle pareti vedi incrostazioni melmose,
+che arrivano anche fino al soffitto.
+~
+72 acd 3
+D1
+Fogne e ancora fogne.
+~
+~
+0 -1 7229
+D3
+Fogne e ancora fogne.
+~
+~
+0 -1 7231
+S
+#7231
+Ancora fogne~
+    Dove pensavi di essere? Il pavimento e' ricoperto di melmosi
+rifiuti biologici. Il che dovrebbe aiutarti a capire dove sei.
+~
+72 ad 3
+D1
+Fogne.
+~
+~
+0 -1 7230
+D3
+Sempre fogne.
+~
+~
+0 -1 7232
+E
+rifiuti biologici melma~
+Se hai mangiato, non ti conviene entrare nei dettagli!
+~
+S
+#7232
+Ancora fogne~
+    Il pavimento e' ricoperto di melmosi rifiuti organici. Ne deduci
+che FORSE sei ancora nelle fogne.
+~
+72 ad 3
+D0
+Ancora fogne.
+~
+~
+0 -1 7233
+D1
+Un'ansa.
+~
+~
+0 -1 7231
+S
+#7233
+Una condotta fognaria~
+    Sei in una condotta fognaria. Guardandoti intorno, intravedi
+una specie di grotta. Senti una puzza diversa dal solito provenire
+da li'.
+~
+72 ad 3
+D1
+Una grotta.
+~
+~
+0 -1 7234
+D2
+Fogne... che altro ti aspettavi??
+~
+~
+0 -1 7232
+S
+#7234
+La tana della bestia~
+    Sei in una piccola grotta molto buia e piena di rifiuti
+dall'aspetto inquietante. A ovest c'e' una condotta fognaria.
+~
+72 ad 3
+D3
+Fogne, come al solito.
+~
+~
+0 -1 7233
+S
+#7279
+Il muro dell'Abisso~
+    Stai procedendo nell'oscurita' piu' totale. A tastoni intuisci
+che ci dovrebbe essere un'uscita verso l'alto. Forse devi aprire
+la roccia?
+~
+72 ad 5
+D4
+~
+roccia~
+1 -1 7111
+D5
+~
+~
+0 -1 7299
+S
+#7280
+L'entrata~
+    Sei in una stanza molto buia.
+Al centro della stanza vedi un piccolo altare.
+~
+72 ad 1
+D0
+Un fascio di luce rossa esce da sotto una porta.
+~
+porta~
+1 -1 7281
+D4
+~
+altare segreto triangolo~
+1 -1 7116
+E
+altare~
+Questo altare e' molto speciale. C'e' un triangolo scolpito
+su di esso.
+~
+E
+triangolo~
+Il triangolo e' inciso con piccoli simboli. Ti sembra che
+appartengano ad un linguaggio che non hai mai visto finora.
+~
+S
+#7281
+Il Corridoio~
+    Il corridoio e' illuminato da un'oppressiva luce rossa.
+A est vedi un buco e a sud una porta.
+~
+72 d 1
+D1
+Il buco e' talmente buio che sembra mangiarsi la luce.
+~
+~
+0 -1 7282
+D2
+~
+porta~
+1 -1 7280
+E
+porta~
+La porta e' perfettamente rotonda e non ha serratura.
+~
+E
+luce rossa~
+Sono le mura che emanano quest'oppressiva luce rossa!
+~
+E
+muro mura muri~
+Le mura sembrano pulsare, come se fossero vive.
+~
+S
+#7282
+Il regno dei dead link~
+    Sei nel nulla piu' assoluto, fatta eccezione per alcune luci
+molto ma molto distanti! Ogni tanto senti alcune presenze sfiorarti.
+A nord c'e' un buco luminoso e a ovest c'e' un buco rosso.
+~
+72 d 0
+D0
+Non vedi nulla.
+~
+~
+0 -1 7283
+D3
+Non vedi nulla.
+~
+~
+0 -1 7281
+E
+presenze~
+Sembrano sagome di esseri in preda ad un dolore infinito.
+~
+S
+#7283
+Incrocio a T~
+    Ci sono delle porte a est e ad ovest. A sud vedi un buco
+nero. Vedi delle forme scintillanti in mezzo all'aria. Sembra
+una specie di cartello.
+~
+72 acd 1
+D1
+Non vedi nulla.
+~
+~
+0 -1 7286
+D2
+Un buco nero.
+~
+~
+0 -1 7282
+D3
+Vedi un grande fuoco. Non ti sembra un posto sicuro!
+~
+~
+0 -1 7284
+E
+cartello~
+Leggi a fatica... 'Ad est vedrai giorni migliori.
+Ad ovest invece troverai la fine dei tuoi ardori!'
+~
+S
+#7284
+I cadaveri ardenti~
+    Questa stanza e' molto calda. Le fiamme ti circondano e
+non vedi uscite. Il pavimento e' ricoperto di scheletri.
+C'e' una scritta sul muro.
+~
+72 cd 1
+E
+scheletri~
+I vari scheletri sembrano tutti essere morti di inedia. Ma
+uno di essi deve aver lasciato un messaggio sul muro proprio
+prima di arrendersi allo Shutdown Definitivo.
+~
+E
+scritta muro~
+E' inutile pregare gli Dei! Uscirai da qui solo quando
+lo Shutdown Definitivo verra' a prend.....
+~
+S
+#7285
+La stanza delle torture~
+    Sei in una stanza circolare. Lungo i muri una serie di
+scheletri e' oscenamente seduta su degli sgabelli, in posizioni
+innaturali. Al centro della stanza c'e' una grande botola di
+metallo.
+~
+72 d 1
+D2
+Non vedi nulla.
+~
+porta metallo~
+1 -1 7286
+E
+scheletri~
+Puoi facilmente intuire che sono tutti morti in modo molto doloroso.
+Alcuni sono appesi per le braccia, altri per le gambe. Ed alcuni di
+essi sono stati uccisi con degli strumenti molto affilati o molto
+aguzzi.
+~
+E
+grande botola metallo~
+La botola metallica e' coperta da uno spesso strato di polvere
+nerastra. Probabilmente era un contenitore di carbone, visto che in
+mezzo alla polvere puoi intravedere piccoli pezzi di carbone.
+~
+S
+#7286
+Il cortile infernale~
+    Sei immerso in una disgustosa melma ribollente. Piccole fiammelle
+blu vengono improvvisamente su dalla melma puzzolente. A ovest c'e'
+una porta e a nord una porta di metallo.
+~
+72 cd 5
+D0
+Non vedi nulla.
+~
+porta metallo~
+1 -1 7285
+D3
+Non vedi nulla.
+~
+~
+0 -1 7283
+S
+#7299
+I muri dell'Abisso~
+    Ti arrampichi aggrappandoti ai gradini in modo da non cadere.
+Ma non trovi piu' appigli sopra di te e cio' ferma il tuo viaggio...
+visto che l'unica uscita e' appunto in alto!
+~
+72 ad 5
+D4
+~
+~
+0 -1 7279
+S
+#7300
+L'entrata nella grotta~
+    Sei all'entrata di una caverna. Intravedi una scritta su un
+muro. E' molto buio ed umido. Una scala porta verso l'alto.
+C'e' un'uscita a nord.
+~
+73 ad 1
+D0
+Un piccolo tunnel.
+~
+~
+0 -1 7301
+D4
+Le scale salgono nell'oscurita'.
+~
+~
+2 -1 7102
+E
+scritta muro~
+Mentre cerchi di leggere la scritta senti una risata malvagia
+risuonare nella tua testa. Ti guardi intorno invano. La risata
+continua finche' non ti allontani dal muro.
+~
+S
+#7301
+Il Tunnel nella roccia~
+    Stai camminando in un tunnel. E' gelido. Senti delle strane
+presenze da qualche parte.
+~
+73 ad 1
+D0
+Il tunnel.
+~
+~
+0 -1 7302
+D2
+Il tunnel.
+~
+~
+0 -1 7300
+S
+#7302
+La stanza nella roccia~
+    Sei in una stanza molto fredda e le pareti sono circondate
+da un alone luminoso.
+~
+73 d 1
+D1
+il tunnel.
+~
+~
+0 -1 7303
+D2
+il buio.
+~
+~
+0 -1 7301
+D3
+~
+~
+0 -1 7321
+S
+#7303
+L'incrocio~
+    Sei in una sostanza melmosa e puzzolente. Senti vaghi rumori
+che ti riempiono di disgusto. Vedi alcune luci a ovest.
+~
+73 ad 2
+D1
+il tunnel.
+~
+~
+0 -1 7304
+D2
+~
+~
+0 -1 7308
+D3
+Vedi alcune luci.
+~
+~
+0 -1 7302
+E
+sostanza melma~
+Mentre cerchi di esaminare la melma, alcuni piccoli vermi si
+incavolano e cercano di morsicarti il naso!
+~
+E
+vermi~
+Non sono vermi, sono cavettini di alimentazione! Sono violacei
+e incavolati. Non ti conviene mangiarli.
+~
+S
+#7304
+Il Punto di Ritorno~
+    La melma sta diventando piu' chiara e pulita. E con meno
+vermi morsicanti. Ma a sud vedi una pietra che ti blocca la
+strada. A ovest vedi solo melma. E vermi.
+~
+73 ad 2
+D2
+Vedi un'uscita dietro la pietra.
+~
+pietra~
+1 -1 7305
+D3
+~
+~
+0 -1 7303
+E
+pietra~
+Guardandola bene, ti rendi conto che la pietra puo' essere rimossa.
+~
+S
+#7305
+La stanza segreta~
+    C'e' polvere dappertutto. Sembra che nessuno si sia mai degnato
+di pulire, da parecchio tempo. In mezzo alla stanza vedi un piedistallo
+con sopra una sfera di cristallo. La sfera emana una luce pulsante.
+A nord vedi una porta di pietra, a sud un blocco grigiastro.
+~
+73 d 1
+D0
+Vedi una porta rotonda di pietra.
+~
+door round stone~
+1 -1 7304
+D2
+vedi un blocco grigiastro.
+~
+block grey~
+1 -1 7306
+E
+piedistallo~
+Il piedistallo e' veramente molto bello. Sicuramente e' stata opera
+di un nano. No, non di QUEL nano.
+~
+E
+sfera cristallo~
+La sfera e' di cristallo ed emana una luce pulsante, quasi ipnotica.
+Hai l'impressione che dentro ci sia del fumo.
+~
+S
+#7306
+Il buco marrone~
+    Stai in piedi, in MOLTO fango. Il fango arriva al tuo petto. Ma...
+sara' veramente fango?!? Intanto che ponderi questa importante domanda,
+ti accorgi che c'e' qualcos'altro DENTRO il 'fango'! Che schifo!!!
+L'unica uscita ovvia e' ad ovest... Sbrigati!
+~
+73 ad 6
+D0
+Non si vede assolutamente nulla.
+~
+blocco grigiastro~
+1 -1 7305
+D3
+~
+~
+0 -1 7307
+S
+#7307
+Il tunnel~
+    Una sostanza marroncina ti arriva alle ginocchia. A parte questo
+particolare inquietante, il tunnel sembra un tunnel come tanti altri.
+~
+73 ad 5
+D0
+~
+~
+0 -1 7308
+D1
+Intravedi un buco.
+~
+~
+0 -1 7306
+D2
+~
+~
+0 -1 7309
+S
+#7308
+Il lungo tunnel...~
+    Non ci sono quasi piu' tracce di fanghiglia. Sei in piedi sopra
+una piccola roccia. Proprio davanti a te c'e' un cartello con su
+scritto bello grande: 'ATTENZIONE! I vermi sono pericolosi!'
+~
+73 ad 1
+D0
+Vedi un sacco di schifosa fanghiglia... 
+~
+~
+0 -1 7303
+D2
+Il tunnel discende leggermente.
+~
+~
+0 -1 7307
+S
+#7309
+La stanza calda~
+    Incominci a sudare profusamente e cio' ti sorprende. Credevi che
+questa stanza fosse fredda come le altre! Vedi che a nord c'e' una
+discesa che finisce nella fanghiglia. Anche ad ovest c'e' una uscita.
+~
+73 ad 1
+D0
+Vedi un sacco di fango.
+~
+~
+0 -1 7307
+D3
+Ti sembra di vedere una piccola stanza.
+~
+~
+0 -1 7310
+S
+#7310
+La stanzina~
+    E' molto piccola. Vedi una statua, anch'essa piuttosto piccola, e
+delle uscite a destra e a sinistra.
+~
+73 ad 1
+D1
+E' buio pesto, qui dentro.
+~
+~
+0 -1 7309
+D3
+Vedi un corridoio MOLTO luuuuuuungooooo....
+~
+~
+0 -1 7311
+E
+statua piccola~
+E' la statua di un daemoncino che indica ghignando a sinistra. Il
+piccolo daemon assomiglia ad un'omino con le corna e la coda.
+~
+S
+#7311
+La caverna delle stalagmiti~
+    Sei in una caverna piena di stalagmiti. E' terribilmente fredda
+ed umida. L'acqua sgocciola dalle pareti e senti in lontananza degli
+echi, ma non capisci da dove vengano.
+~
+73 ad 2
+D0
+~
+~
+0 -1 7314
+D1
+Vedi un lungo corridoio e del fango.
+~
+~
+0 -1 7310
+D2
+~
+~
+0 -1 7312
+E
+stalagmite stalagmiti~
+Le stalagmiti sono molto alte e hanno una loro strana bellezza.
+~
+S
+#7312
+Il tunnel delle stalagmiti~
+    Stai percorrendo un piccolo tunnel, abbastanza asciutto. Non
+senti piu' gli echi. Sembra un ottimo posto per riposarti un po'.
+~
+73 ad 1
+D0
+Puoi vedere una piccola grotta
+~
+~
+0 -1 7311
+D3
+~
+~
+0 -1 7313
+S
+#7313
+La stanza spugnosa~
+    Non riuscirai MAI a farti piacere questa stanza. E' veramente molto
+umida (ne hai decisamente piene le scatole, di 'sta umidita'!) e buona
+parte della stanza e' addirittura bagnata.
+~
+73 cd 3
+D1
+~
+~
+0 -1 7312
+D3
+~
+~
+0 -1 7345
+S
+#7314
+L'incrocio stalagmitico~
+    Sei in mezzo ad un incrocio. Vedi in lontananza un po' di luce.
+Il resto e' tutto buio.
+~
+73 cd 1
+D0
+Vedi una luce piu' avanti.
+~
+~
+0 -1 7317
+D1
+~
+~
+0 -1 7315
+D2
+~
+~
+0 -1 7311
+S
+#7315
+Una stanza cieca~
+    Ovviamente i vicoli non sono gli unici ad essere ciechi. A nord
+vedi un dipinto molto rozzo e primitivo.
+~
+73 ad 1
+D0
+Il dipinto raffigura delle persone che danzano intorno ad un'enorme
+sole... Ti rendi conto che il sole ha un diametro di circa due metri!
+~
+sole~
+1 -1 7316
+D3
+~
+~
+0 -1 7314
+E
+dipinto rozzo primitivo~
+Il dipinto raffigura delle persone che danzano intorno ad un'enorme
+sole... Ti rendi conto che il sole ha un diametro di circa due metri!
+~
+S
+#7316
+La stanza del tesoro segreto~
+    Vedi che e' stata riccamente adornata. Sulle mura sono state incise
+delle persone che ballano intorno ad una luna dipinta per terra. Il tutto
+sembra molto antico e c'e' pure molta polvere. A sud vedi il retro di
+una porta segreta.
+~
+73 adj 1
+D2
+Vedi un dipinto con delle persone intorno ad una enorme luna.
+~
+porta luna~
+1 -1 7315
+S
+#7317
+The Square Lair~
+   You are standing in the sud-est part of the lair.  You can see a skeleton
+lying in the corner.
+~
+73 d 1
+D0
+Another part of the lair.
+~
+~
+0 -1 7318
+D3
+Another part of the lair.
+~
+~
+0 -1 7320
+D2
+~
+~
+0 -1 7314
+E
+skeleton~
+It looks like a adventurer who wasn't lucky.  You'd better watch out...
+~
+S
+#7318
+The Square Lair~
+   You are standing in the nord-est part of the lair.
+You see a sign on the wall.
+~
+73 ad 1
+D1
+You see a wooden door.
+~
+door wooden~
+1 -1 7321
+D2
+Another part of the lair.
+~
+~
+0 -1 7317
+D3
+Another part of the lair.
+~
+~
+0 -1 7319
+E
+sign wall~
+The sign says 'Gods of War I call you, my sword is by my side,
+               I seek a light free from all false pride'
+                       Reyemle Grug...
+~
+S
+#7319
+The Square Lair~
+   You are standing in the nord-ovest part of the lair.  Here there is another
+sign.  There is an exit from the lair to the nord.
+~
+73 ad 1
+D0
+You see a small tunnel leading nord.
+~
+~
+0 -1 7322
+D1
+Another part of the lair.
+~
+~
+0 -1 7318
+D2
+Another part of the lair.
+~
+~
+0 -1 7320
+E
+sign~
+The sign says 'I'm wandering around in a everlasting tale,
+               seeking the light to regain my pride
+                           Corama...
+~
+S
+#7320
+The Lair End~
+   You can see a table in front of you.  It is very dusty.  Five skeletons are
+sitting around the table.  Exits are nord and est.
+~
+73 ad 1
+D0
+The nordern part of the lair.
+~
+~
+0 -1 7319
+D1
+The estern part of the lair.
+~
+~
+0 -1 7317
+E
+table~
+On the table there is dust, in the center there is a small statue of a
+Dragon sleeping.
+~
+E
+skeleton skeletons~
+They've obviously been killed somehow, but it doesn't look like it was by 
+sword or club.
+~
+E
+dragon statue~
+It looks like a silver dragon.  It is nailed onto the table.  The dragon sits
+on a red dragon that looks dead.  But the eyes of the red dragon are glowing,
+pulsating red.  You feel condotta fognariaed.
+~
+S
+#7321
+The est Tunnel~
+   You are standing in dark tunnel, the exits are est and ovest.  To the ovest
+you see a wooden door.
+~
+73 cd 1
+D3
+You can see a wooden door.
+~
+door wooden~
+1 -1 7318
+D1
+You can see a muddy tunnel.
+~
+~
+0 -1 7302
+S
+#7322
+The nord Tunnel~
+   You are standing in a dark tunnel, it leads upwards.
+~
+73 ad 1
+D0
+The dark tunnel continues.
+~
+~
+0 -1 7323
+D2
+You can see the lair.
+~
+~
+0 -1 7319
+D3
+You can see a cave entrance.
+~
+~
+0 -1 7336
+S
+#7323
+The L-Shaped Room~
+   You are standing in deep darkness.  To the sud there is a small exit.
+To the est you can see a gaping hole.
+~
+73 ad 1
+D1
+~
+~
+0 -1 7324
+D2
+~
+~
+0 -1 7322
+S
+#7324
+The Circular Hall~
+   You are standing in round hall.  To the nord, est and sud you can see
+a stone head hanging on the walls.
+~
+73 ad 1
+D0
+You see a red dragon's head hanging on the wall.
+~
+head red~
+2 0 7324
+D1
+You see a green dragon's head hanging on the wall.
+~
+head green~
+1 -1 7325
+D2
+You see a blue dragon's head hanging on the wall.
+~
+head blue~
+2 0 7324
+D3
+You see a room far away.
+~
+~
+0 -1 7323
+E
+head heads~
+When you study the faces of the heads you see that they are faces of dragons.
+The face to the nord is red, the face to the est is green, and the face to
+the sud is blue.
+~
+E
+green~
+This looks like an evil dragon.
+~
+E
+red~
+This looks like a neutral dragon.
+~
+E
+blue~
+This looks like a good dragon.
+~
+S
+#7325
+A Dusty Tunnel~
+   You are standing in dust.  This place has not been touched for a long time. 
+Otherwise it is quite boring here, looks like a place to rest!  To the ovest
+you see the outline of a door.  A tunnel leads to the est.
+~
+73 cd 1
+D1
+You see a tunnel which leads downwards.  It is quite dark.
+~
+~
+0 -1 7326
+D3
+You can see the outline of a door.  Just like in the description!
+~
+door~
+1 -1 7324
+S
+#7326
+The Crossing~
+   You are standing in a crossing of hallways.  You can leave this place
+in every direction, except up and down.  In the dust you notice strange
+footprints.
+~
+73 ad 1
+D0
+~
+~
+0 -1 7331
+D1
+~
+~
+0 -1 7330
+D2
+~
+~
+0 -1 7327
+D3
+~
+~
+0 -1 7325
+E
+footprints foot~
+You have never seen this kind of footprint before!
+~
+S
+#7327
+The L-Shaped Room~
+   You are standing in a L-shaped room.  You can hear noises from the long
+tunnel to the est.  You feel very afraid!
+A sign is hanging on the wall.
+~
+73 ad 2
+D0
+~
+~
+0 -1 7326
+D1
+~
+~
+0 -1 7328
+E
+sign~
+The sign says:
+
+DANGER!!
+
+~
+S
+#7328
+The Dragon's Lair~
+   You can see burned walls, the floorstones are fiery red.  All kinds
+of bones are scattered all over the floor.  On the walls you can see
+some burned shapes.  You smell burnt flesh.  Two creatures are half
+melted into the floor.
+~
+73 d 2
+D0
+You can see a long tunnel.
+~
+~
+0 -1 7329
+D3
+You can see nothing but darkness.
+~
+~
+0 -1 7327
+S
+#7329
+The Burnt Room~
+   You are in a room, which once has at one time been quite burnt.  There
+is writing on the wall.
+~
+73 ad 1
+D2
+You can see a red glow...
+~
+~
+0 -1 7328
+D3
+~
+~
+0 -1 7330
+E
+writing~
+The writing says:
+
+                        DANGER
+
+~
+S
+#7330
+The Windy Tunnel~
+   You are standing in a tunnel.  Above you, you can feel a breeze.
+~
+73 ad 1
+D1
+It is too dark to tell.
+~
+~
+0 -1 7329
+D3
+~
+~
+0 -1 7326
+E
+breeze~
+The breeze comes from a hole above you.  NO way to get up there.
+~
+S
+#7331
+The Glittering Room~
+   This room is very bright.  On the walls you can see some silver.  Exits
+are ovest, est and sud.
+~
+73 d 1
+D1
+~
+~
+0 -1 7332
+D2
+~
+~
+0 -1 7326
+D3
+~
+~
+0 -1 7333
+E
+glitter walls silver~
+The glittering silver looks like it is INSIDE the walls.
+~
+S
+#7332
+The Secret Passageway~
+   You have entered a tiny room.  There is only an exit to the ovest.
+~
+73 ad 1
+D3
+You can see a light to the ovest.
+~
+~
+0 -1 7331
+S
+#7333
+The End Of Long Tunnel~
+   You are at a end of a long tunnel.  Right in front of you, you can see a
+grey mass.  To the est you can see a tremendously long tunnel, but you know
+that, you were just there.
+~
+73 ad 5
+D1
+A long tunnel.  JUST like in the description!
+~
+~
+0 -1 7331
+D3
+A grey mass is blocking the way.
+~
+mass grey~
+1 -1 7334
+E
+grey mass~
+The mass is nothing but a mass, but it is quite suspicious!
+~
+S
+#7334
+The Stair-Room~
+   You are standing in a small room.  Drawings of faces in pain are on the
+walls.  You can feel that darkness is ruling the place.  There is one exit:
+sud.
+~
+73 ad 1
+D2
+Nothing but darkness...
+~
+~
+0 -1 7335
+S
+#7335
+A Dark Tunnel~
+   You are standing in a dark tunnel.  It continues to the nord and to the
+sud.  Bones are spread on the floor.
+~
+73 ad 1
+D0
+~
+~
+0 -1 7334
+D2
+~
+~
+0 -1 7336
+E
+bones bone~
+It looks like bones of a human.
+~
+S
+#7336
+The Entrance To The Lair~
+   The smell here is awful.  To the sud you can see some smoke.  A tunnel
+leads nord and est.
+~
+73 acd 2
+D0
+~
+~
+0 -1 7335
+D2
+The only thing you can see is smoke.
+~
+~
+0 -1 7337
+D1
+A small cave is to the est.
+~
+~
+0 -1 7322
+S
+#7337
+The nord-estern Part Of The Basilisk's Cave~
+   It is hard to see here because of the smoke.  To the nord you can barely
+see a small tunnel.  Other exits are to the sud and to the ovest.
+~
+73 ad 2
+D0
+~
+~
+0 -1 7336
+D2
+~
+~
+0 -1 7338
+D3
+~
+~
+0 -1 7339
+S
+#7338
+The sud-estern Part Of The Basilisk's Cave~
+   There is a very small hole in wall from which the smoke is coming from. 
+Otherwise it is pitch black.  Exits are nord and ovest.
+~
+73 ad 2
+D0
+You can see nothing but smoke.
+~
+~
+0 -1 7337
+D3
+You can see nothing but smoke.
+~
+~
+0 -1 7340
+E
+hole small~
+It seems to be a small hole, about one foot in diameter.
+~
+S
+#7339
+The nord-ovestern Part Of The Basilisk's Cave~
+   You can see some hay spread on the floor.  The smell is awful here, and it
+makes you feel sick.  This place where the Basilisk sleeps.  Watch out...
+maybe it is not far from here...
+~
+73 ad 2
+D1
+~
+~
+0 -1 7337
+D2
+~
+~
+0 -1 7340
+E
+hay~
+The hay is very dirty.  The smell of it makes you feel sick.
+~
+S
+#7340
+The sud-ovestern Part Of The Basilisk's Cave~
+   You can see nothing but smoke.  
+~
+73 ad 5
+D0 
+~
+~
+0 -1 7339
+D1
+~
+~
+0 -1 7338
+D2
+~
+~
+0 -1 7341
+S
+#7341
+The Small Cave~
+   You are standing in small cave.  You can see some light at the end.  Exits
+are nord and sud.
+~
+73 acd 2
+D0
+You can see only smoke.
+~
+~
+0 -1 7340
+D2
+You can see a blue glow.  And you feel a fresh breeze... ahhhh...
+~
+~
+0 -1 7342
+S
+#7342
+The nordern End Of The Pool~
+   You have wet feet, you are standing in water.  The water looks calm.  You
+can see that it is a big lake.  Light seeps from the water.
+~
+73 d 4
+D0
+You can see a small cave.
+~
+~
+0 -1 7341
+D1
+You can see more water.
+~
+~
+0 -1 7343
+D2
+You can see water.
+~
+~
+0 -1 7344
+S
+#7343
+The Pool~
+   You are swimming in water.  It is getting deep here.  It is also dark in
+this end.
+~
+73 ad 6
+D2
+You can see some bubbles in the water.
+~
+~
+0 -1 7345
+D3 
+You see calm water.
+~
+~
+0 -1 7342
+S
+#7344
+The sud End Of The Pool~
+   You standing in water up to your neck!  You can only see water.
+~
+73 d 5
+D0 
+You can see calm water.
+~
+~
+0 -1 7342
+D1
+To dark to tell, but you can feel something nearby.
+~
+~
+0 -1 7345
+S
+#7345
+The Pool~
+   You are swimming in DARKNESS.  You feel something touching your right leg.
+~
+73 ad 6
+D0 
+To dark to tell.
+~
+~
+0 -1 7343
+D1
+You can feel a warm breeze.
+~
+~
+0 -1 7313
+D3
+~
+~
+0 -1 7344
+S
+$

@@ -1,0 +1,77 @@
+#206
+Campo Terroristi 6~
+20699 30 2
+*
+* Created by Amedeo de Longis
+*
+* Mobs
+M 0 20600 1 20616 * terrorista vagante
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 124 100 17  * fa tenere la pistola
+G 1 114 100   * carica nell'inv la scatola di pallottole
+M 0 20601 1 20650 * terrorista vagante2
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 116 100 17  * fa tenere l'arma
+G 1 110 100    * carica nell'inv la scatola di pallottole
+M 0 20602 2 20682 * terrorista in ass di guerra
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 116 100 17  * fa tenere la pistola
+G 1 110 100   * carica nell'inv la scatola di pallottole
+M 0 20602 2 20633 * terrorista in ass di guerra
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 116 100 17  * fa tenere l'arma
+G 1 110 100   * carica nell'inv la scatola di pallottole
+*
+* qui non cambia il numero dei mob
+*
+M 0 20003 18 20695 * terrorista patt esterna
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 116 100 17  * fa tenere l'arma
+G 1 110 100   * carica nell'inv la scatola di pallottole
+M 0 20003 18 20694 * terrorista patt esterna
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 72 100 17  * fa tenere l'arma
+G 1 70 100    * carica nell'inv la scatola di pallottole
+M 0 20006 18 20657 * terrorista di sentinella
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 72 100 17  * fa tenere l'arma
+G 1 70 100    * carica nell'inv la scatola di pallottole
+M 0 20006 18 20635 * terrorista di sentinella
+E 1 20000 100 5   * fa indossare la tuta mimetica
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 100 100 17  * fa tenere l'arma
+G 1 104 100    * carica nell'inv la scatola di pallottole
+M 0 20013 6 20619 * terrorista luogotenente
+E 1 20001 100 5   * fa indossare la tuta
+E 1 3085 100 8   * fa indossare gli anfibi
+E 1 71 100 17  * fa tenere l'arma
+G 1 69 100   * carica nell'inv la scatola di pallottole
+M 0 20009 12 20688 * terrorista dormiente
+M 0 20009 12 20688 * terrorista dormiente
+M 0 20009 12 20690 * terrorista dormiente
+M 0 20009 12 20690 * terrorista dormiente
+M 0 20012 4 20627 * terrorista pilota
+E 1 20004 100 5   * fa indossare la tuta
+E 1 124 100 17  * fa tenere l'arma
+G 1 114 100    * carica nell'inv la scatola di pallottole
+M 0 20012 4 20627 * terrorista pilota
+E 1 20004 100 5   * fa indossare la tuta
+E 1 124 100 17  * fa tenere l'arma
+G 1 114 100    * carica nell'inv la scatola di pallottole
+M 0 20012 4 20654 * terrorista pilota
+E 1 20004 100 5   * fa indossare la tuta
+E 1 124 100 17  * fa tenere l'arma
+G 1 114 100    * carica nell'inv la scatola di pallottole
+M 0 20012 4 20655 * terrorista pilota
+E 1 20004 100 5   * fa indossare la tuta
+E 1 124 100 17  * fa tenere l'arma
+G 1 114 100    * carica nell'inv la scatola di pallottole
+S
+$

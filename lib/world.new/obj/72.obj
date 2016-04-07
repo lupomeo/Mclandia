@@ -1,0 +1,199 @@
+#7200
+hub demoniaco~
+il hub demoniaco~
+Il misterioso hub demoniaco giace abbandonato per terra.~
+~
+5 gj 8193
+0 2 5 3
+6 16000 0
+E
+hub demoniaco~
+E' veramente un hub misterioso. E' tutto nero, ma da esso escono quattro
+cavi violacei ben appuntiti.
+~
+A
+18 3
+A
+1 -1
+#7201
+grande rack~
+il grande rack~
+Un grande rack sta qua per terra.~
+~
+5 g 8193
+0 1 6 7
+10 1000 0
+E
+rack grande~
+Il rack e' puttosto grande e pesa circa 4 chili. E' violaceo e molto ma
+moooolto spigoloso.
+~
+A
+19 2
+#7202
+rack~
+il rack~
+Un rack e' qui per terra.~
+~
+5 g 8193
+0 1 6 7
+6 600 0
+E
+rack~
+E' un po' strano come rack e ti sembra che possa fare parecchi danni. Ma
+non ne sei sicuro. E' color viola e ha dei cavi neri strettamente
+intrecciati tra di loro, che puoi usare a mo' di manico.
+~
+A
+19 1
+#7203
+firewall viola~
+un firewall viola~
+Un firewall viola e' steso qui per terra.~
+~
+11 g 5
+0 0 0 0
+20 5000 0
+E
+firewall viola~
+E' un firewall fatto veramente bene, con un codice che non conosci, ed e'
+di un viola veramente molto carino...
+~
+A
+24 2
+A
+17 -10
+#7204
+pozione blu elettrico~
+una pozione color blu elettrico~
+Per terra c'e' una pozione color blu elettrico.~
+~
+10 g 1
+14 6 15 16
+4 100 100
+E
+pozione blu~
+Vedi un liquido color blu elettrico nella bottiglietta.
+~
+#7205
+chiave nera~
+una chiave nera~
+Una chiave nera e' qui per terra.~
+~
+18 c 16385
+0 0 0 0
+2 0 0
+E
+chiave nera~
+Questa piccola chiave sembra essere costituita da un codice ignoto.
+~
+#7206
+chassis grigio~
+uno strano chassis grigio~
+Uno strano chassis grigio giace abbandonato per terra e sembra guardarti.~
+~
+9 abh 17
+1 0 0 0
+30 0 0
+E
+chassis grigio~
+Lo chassis ha delle macchie di sangue sui fianchi. All'interno vedi degli
+scarabocchi.
+~
+E
+scarabocchi testo scritte~
+Oltre a delle irriferibili bestemmie in Perl Arcaico, vedi anche un
+numero: '666'. Non sai se e' uno chmod o un gid. Mah!
+~
+A
+2 -4
+#7207
+guanti infangati~
+un paio di guanti infangati~
+Un paio di guanti infangati e' stato buttato qui, per terra.~
+~
+9 g 129
+6 0 0 0
+10 6000 0
+E
+guanti infangati~
+Questi guanti sono ricoperti di fango, ma sembrano in buono stato.
+~
+A
+1 1
+#7208
+bastoncino verde~
+un bastoncino verde~
+Un bastoncino color verde e' qui per terra.~
+~
+1 0 16385
+0 0 -1 0
+4 200 0
+E
+bastoncino verde~
+Il bastoncino non sembra granche'. Ma, proprio mentre stai per
+ributtarlo via, ti accorgi di una piccola scritta.
+~
+E
+scritta testo~
+La scritta dice:
+
+Tienimi!
+
+~
+#7209
+stivali infangati~
+un paio di stivali sporchi di fango~
+Un paio di stivali infangati e' stato abbandonato qui.~
+~
+9 g 65
+4 0 0 0
+10 75 0
+E
+stivali infangati~
+Gli stivali sono sporchi di fango e non ti sembrano neanche nuovi.
+Ma forse sono comodi.
+~
+A
+14 15
+#7210
+tesoro monete coins~
+un grosso tesoro~
+Qui c'e' un grosso tesoro, forse ci puoi pagare la bolletta Telecom...~
+~
+20 0 1
+6522 0 0 0
+5 6522 0
+E
+tesoro monete coins~
+Sembra un gran bel mucchio di monete!
+~
+#7211
+piccolo traceroute~
+un piccolo traceroute~
+Un piccolo traceroute e' qui per terra.~
+~
+5 0 8193
+0 2 3 3
+4 100 0
+E
+piccolo traceroute~
+Un'arma piccola ma utile.
+~
+#7212
+Teletrasporto~
+un teletrasporto~
+In un angolo della stanza vedi un'oggetto molto strano che sembra
+assomigliare ad un teletrasporto.
+~
+~
+12 0 0
+0 0 0 0 0
+1 20 0
+E
+teletrasporto~
+E' una pedana illuminata da un fascio di luce che sembra sbucare dal
+soffitto. E' da quando eri ragazzino e vedevi Star trek che sognavi di
+provarne uno! Insomma, che aspetti ad usarlo?!?
+~
+$

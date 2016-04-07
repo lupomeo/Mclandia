@@ -1,0 +1,92 @@
+
+Nome:				Classe e Liv:					Danno
+
+Animate dead			-
+aura sight            Ps 5
+backstab              Ha 3
+bash                  Wa 15
+call lightning        SA 35								7d8 +7
+canibalize            Ps 30
+cdslash               Vw 28 Sa 12
+charm person          Vw 42
+clone                 Vw 55
+control weather       Sa 37
+curse                 Vw 30 Sa 52
+detect alignment      Sa 7 Li 13
+detect infected       Vw 18 Sa 6
+disarm                Wa 35 Ma 18 Ha 45
+dispel evil           Sa 31								6d8 +6
+dispel good           Sa 32								6d8 +6
+doorway               Ps 7
+earthquake            Sa 30								2d8 +lev
+echooff               Vw 15 Sa 11
+echoon                Sa 8
+electromagnetic pulse Vw 22								7d8 *lev/4
+enchant weapon        Vw 46
+energy drain          Vw 25								1d10
+find objectfile       Vw 10
+firewall              Sa 33
+fireweapon            Vw 2 Sa 3 Ha 2 Wa 2 Ps 3 Li 2
+first aid             Ha 25 Wa 21 Ma 10
+flame                 Vw 1 Sa 5 Li 10					1d8 *lev/2
+fly                   Vw 20 Sa 15
+great sight           Ps 15
+group heal            Sa 50
+group netshield       Sa 20
+harm                  Sa 45								8d8 +8
+heal                  Sa 35
+hide                  Ha 5 Ma 45
+hypnosys              Ps 3
+infect                Vw 32 Sa 17
+kick                  Wa 1 Ma 1 Li 1
+levitation            Ps 12
+load foodfile         Sa 4
+load waterfile        Sa 5
+mail bombing          Vw 5 Sa 10 Li 22					1d8 *lev/2
+messenger             Ps 2
+mind blast            Ps 1								1d4 *lev/2
+mind burn             Ps 10								2d8 +lev
+mind flame            Ps 18								5d8 *lev/3
+mind nightvision      Ps 24
+mind over body        Ps 22
+mind strength         Ps 9
+mind summon           Ps 11
+netshield             Vw 8 Sa 2
+nightvision           Vw 6 Sa 11 Li 15
+overclock             Vw 11 Li 17
+pick lock             Ha 2
+ping flood            Wv 37								11d8 +level
+privilege             Sa 9
+protection from evil  Sa 13
+psi shield            Ps 8
+psionic teleport      Ps 16
+quivering palm        Ma 25
+remove curse          Sa 52
+remove poison         Sa 27
+rescue                Wa 3 Ma 35
+restore critic        Sa 22
+restore light         Sa 1 Li 15
+second attack         Ha 30 Wa 18 Li 30
+send                  Vw 3 Sa 4 Ha 5 Li 7
+sense life            Sa 40
+set hidden            Vw 7 Li 20
+shortcut              Vw 12
+show hidden           Vw 3 Sa 10
+show property         Vw 4 Li 13
+sleep                 Vw 13
+sneak                 Ha 1 Ma 30
+snow crash            Vw 27								9d8 + level
+sommersault           Ma 15
+springleap            Ma 10
+spy                   Ha 20
+steal                 Ha 4
+summon                Vw 35 Sa 25
+teleport              -
+telnet                Vw 40 Sa 26 Ha 23 Li 50
+third attack          Wa 40
+throw                 tutti 1
+track                 Ha 8 Wa 12
+warm cpu              Vw 9 Sa 18
+waterwalk             -
+wave kamehameha       Ma 35
+

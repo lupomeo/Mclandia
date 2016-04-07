@@ -1,0 +1,252 @@
+#186
+Montagne Area~
+18699 40 2
+*
+* Michele Di Gaetano
+*
+* Obj
+*
+* rimozione drink e frigobar nelle 6 stanze
+R 1 18637 18603
+R 1 18637 18603
+R 1 18637 18603
+R 1 18637 18603
+R 1 18637 18603
+R 1 18637 18600
+R 1 18638 18603
+R 1 18638 18603
+R 1 18638 18603
+R 1 18638 18603
+R 1 18638 18603
+R 1 18638 18600
+R 1 18639 18603
+R 1 18639 18603
+R 1 18639 18603
+R 1 18639 18603
+R 1 18639 18603
+R 1 18639 18600
+R 1 18640 18603
+R 1 18640 18603
+R 1 18640 18603
+R 1 18640 18603
+R 1 18640 18603
+R 1 18640 18600
+R 1 18641 18603
+R 1 18641 18603
+R 1 18641 18603
+R 1 18641 18603
+R 1 18641 18603
+R 1 18641 18600
+R 1 18642 18603
+R 1 18642 18603
+R 1 18642 18603
+R 1 18642 18603
+R 1 18642 18600
+* caricamento frigobar e drink nelle 6 stanze
+O 0 18600 6 18637
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+O 0 18600 6 18638
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+O 0 18600 6 18639
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+O 0 18600 6 18640
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+O 0 18600 6 18641
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+O 0 18600 6 18642
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+P 1 18603 100 18600
+* rimozione pizze e forno nelle 6 stanze
+R 1 18637 18602
+R 1 18637 18602
+R 1 18637 18602
+R 1 18637 18602
+R 1 18637 18602
+R 1 18637 18601
+R 1 18638 18602
+R 1 18638 18602
+R 1 18638 18602
+R 1 18638 18602
+R 1 18638 18602
+R 1 18638 18601
+R 1 18639 18602
+R 1 18639 18602
+R 1 18639 18602
+R 1 18639 18602
+R 1 18639 18602
+R 1 18639 18601
+R 1 18640 18602
+R 1 18640 18602
+R 1 18640 18602
+R 1 18640 18602
+R 1 18640 18602
+R 1 18640 18601
+R 1 18641 18602
+R 1 18641 18602
+R 1 18641 18602
+R 1 18641 18602
+R 1 18641 18602
+R 1 18641 18601
+R 1 18642 18602
+R 1 18642 18602
+R 1 18642 18602
+R 1 18642 18602
+R 1 18642 18602
+R 1 18642 18601
+* caricamento pizze e forno nelle 6 stanze
+O 0 18601 6 18637
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+O 0 18601 6 18638
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+O 0 18601 6 18639
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+O 0 18601 6 18640
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+O 0 18601 6 18641
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+O 0 18601 6 18642
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+P 0 18602 100 18601
+O 0 18605 1 18617 * portapacchi
+P 1 18604 1 18605 * catena speciale
+P 1 18606 1 18605 * casco speciale
+*
+* Mobs
+*
+M 0 18652 4 18603 * motociclista tipo 2
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18652 100 16  * fa impugnare la catena
+M 0 18651 4 18606 * motociclista tipo 1
+E 1 18655 100 9   * fa indossare i guanti
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18654 100 16  * fa impugnare il coltello a serramanico
+M 0 18652 4 18609 * motociclista tipo 2
+E 1 18658 100 8   * fa indossare gli stivali
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18652 100 16  * fa impugnare la catena
+M 0 18651 4 18609 * motociclista tipo 1
+E 1 18655 100 9   * fa indossare i guanti
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18654 100 16  * fa impugnare il coltello a serramanico
+M 0 18652 4 18613 * motociclista tipo 2
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18652 100 16  * fa impugnare la catena
+M 0 18651 4 18613 * motociclista tipo 1
+E 1 18655 100 9   * fa indossare i guanti
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18654 100 16  * fa impugnare il coltello a serramanico
+M 0 18651 4 18617 * motociclista tipo 1
+E 1 18655 100 9   * fa indossare i guanti
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18654 100 16  * fa impugnare il coltello a serramanico
+M 0 18652 4 18605 * motociclista tipo 2
+E 1 18656 100 5   * fa indossare la tuta di pelle
+E 1 18657 100 6   * fa indossare il casco jet
+E 1 18652 100 16  * fa impugnare la catena
+G 1 18611 2       * da fasce borchiate al motociclista
+M 0 18600 1 18621 * Incubo del collegamento
+G 1 18612 2       * da flusso di byte a Incubo collegamento
+M 0 18601 1 18628 * Abbonamento
+G 1 18609 1       * da chiave magnetica ad Abbonamento
+M 0 18603 1 18623 * user-id
+M 0 18604 1 18622 * password
+M 0 18602 4 18626 * linee occupate
+G 1 18608 30      * da ampolla di cura a linee occupate
+M 0 18602 4 18625 * linee occupate
+M 0 18602 4 18624 * linee occupate
+G 1 18608 30      * da ampolla di cura a linee occupate
+M 0 18602 4 18620 * linee occupate
+G 1 18612 2       * da flusso di byte a linee occupate 
+M 0 18650 1 18627 * vombato
+M 0 18680 1 18627 * mamma telecom
+M 0 18681 1 18645 * Bill Gate
+G 1 18610 1       * da la chiave della botola ad Bill
+M 0 18682 1 18647 * Alan Cox
+G 1 18613 1       * da backdoor a Alan Cox
+M 0 18692 2 18655 * utente microsoft 
+M 0 18692 2 18655 * utente microsoft 
+M 0 18693 5 18655 * thread Os/2
+M 0 18693 5 18656 * thread Os/2
+M 0 18693 5 18656 * thread Os/2
+M 0 18693 5 18657 * thread Os/2
+G 1 18608 30      * da ampolla di cura a thread Os/2
+M 0 18693 5 18657 * thread Os/2 
+M 0 18694 2 18659 * licenza Microsoft
+M 0 18694 3 18660 * licenza Microsoft
+M 0 18695 1 18661 * licenza GNU
+M 0 18696 2 18672 * kernel
+G 1 18608 30      * da ampolla di cura a kernel
+M 0 18697 2 18672 * kernel
+M 0 18698 2 18672 * kernel
+M 0 18699 1 18675 * backoffice
+G 1 18698 1       * da documento word a backoffice
+*
+* Doors
+* Format: D <if-flag> <room vnum> <exit num> <state>
+*
+D 1 18607 1 1       * chiusura cespugli da west
+D 1 18617 3 1       * chiusura cespugli da est
+D 1 18644 2 2       * chiusura porta  da nord
+D 1 18645 0 2       * chiusura porta  da sud
+D 1 18661 5 2       * chiusura botola da sopra
+D 1 18662 4 2       * chiusura botola da sotto
+*
+O 1 18699 1 18630   * bug in biforcazione corridoio
+O 1 18651 100 18618 * tubo di ferro nel prato
+O 1 18607 50 18619  * gamba tavolino locanda
+O 1 18607 50 18619  * gamba tavolino locanda
+S
+

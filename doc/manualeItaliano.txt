@@ -1,0 +1,2444 @@
+Il Manuale Dei Costruttori di Zone del CircleMUD
+Jeremy Elson, jelson@circlemud.org
+Revision 1.14, 30 September 1996, per CircleMUD 3.00
+
+Tradotto da Ake, giake@iol.it, http://members.xoom.it/Ake
+
+Questo documento descrive come creare aree per il CircleMUD, e specifica il
+formato dei file per stanze, mob,oggettimnegozi e zone e fornendo esempi per
+ognuno di essi.Tutte le informazioni necessarie per costruire aree possono
+essere trovate in questo documento.
+Il pubblico a cui e' rivolto questo documento e' composto dai costruttori di
+aree interessati a creare nuovi mondi, implementor che vogliono
+decodicifcare il mondo esistente e programmatori che voflgiono estendere le
+specifiche del loro database.
+Grazie a Jeff Fink (teker) per la documentazione sul formato dei negozi (e
+per aver messo a disposizione il codice stesso !) e Alex Fletcher (Furry)
+per aver scritto perti dell'introduzione.
+Altre informazioni sul CircleMUD, comprese versioni aggiornate di questo
+documento si possono trovare in ASCII e PostScript alla Home page del
+CircleMUD
+<http://www.circlemud.org/> or FTP site
+<ftp://ftp.circlemud.org/pub/CircleMUD/>.
+
+______________________________________________________________________
+
+Indice:
+
+1.      Introduzione
+1.1.    Il tuo lavoro come costruttore di zone
+1.2.    Bilanciamento del gioco
+1.3.    Rendere le proprie aree interessanti
+1.4.    Usare i programmi per la costruzione di mondi
+
+2.      La meccanica della costruzione di mondi
+2.1.    panoramica del mondo dei MUD
+2.2.    Imparare dagli esempi
+2.3.    I file del mondo del CircleMUD
+2.4.    Usare i Bitvector
+2.5.    Aggiungere nuove aree al MUD
+
+3.      File delle Stanze
+3.1.    Il formato di una stanza
+3.2.    I campi di direzione
+3.3.    Descrizioni extra per le stanze
+3.4.    Esempio di file di stanze
+
+4.      File dei Mob(mostri)
+4.1.    Il formato di un mob
+4.2.    Mob di tipo S
+4.3.    Esempio di mob di tipo S
+4.4.    Mob di tipo E
+4.5.    Esempio di mob di tipo E
+4.6.    Estensioni ai mob di tipo S valide nel CircleMUD3.0
+
+5.      File degli oggetti
+5.1.    Il formato di un oggetto
+5.2.    Variabili degli oggetti -definizione-
+5.3.    Descrizioni extra per un oggetto
+5.4.    Modificatori degli oggetti.
+5.5.    Esempio di un file di oggetti.
+
+6.      File di zona
+6.1.    Il formato di un file di zona
+6.2.    Comandi di zona
+6.3.    Esempio di un file di zona
+
+7.      File dei negozi
+7.1.    Il formato dei negozi nel CircleMUD3.0
+7.2.    Lista dei nomi degli articoli nei negozi del CircleMUD3.0
+7.3.    Il formato dei negozi nei MUD Diku e nel CircleMUD2.20
+
+8.      Numero degli incantesimi
+
+9.      Variabili per gli oggetti Contenitori di Bevande
+______________________________________________________________________
+
+1.  Introduzione
+
+1.1.  Il tuo lavoro come creatore di mondi
+
+Come creatore di mondi il tuo lavoro e' di creare un mondo virtuale in cui
+tutti i giocatori possono scorrazzare, risolvere enigmi, trovare tesori, e
+guadagnare esperienza.
+Un costruttore crea le stanze, gli oggetti e i mostri con cui i giocatori
+interagiranno, definendo descrizioni testuali, statistiche, abilita' e
+altre cosette speciali.
+I costruttori non dovrebbero essere confusi con il programmatore di MUD, il
+cui lavoro e' di modificare il codice C che fa girare il server del MUD.
+Un costruttore non deve essere un programmatore e costruire non e'
+programmare; costruire si fa scrivendo file di dati in un particolare
+formato che questo documento descrive in dettagli.
+
+C'e' un mondo standard incluse nella distribuzione del CircleMUD che serve
+come partenza e guida per dimostrare quale genere di mondi si possono
+costruire per il proprio MUD.
+Usare il mondo fornito con il MUD senza modificarlo o aggiungere niente di
+originale garantira' il fallimento del MUD che sara' noioso ed evitato dai
+giocatori.le aree sono cio' che rende un MUD originale (NdAke:non sono per
+niente d'accordo).Per esempio un MUD potrebbe essere basato su un mondo
+ricco di magia e il codice e le aree rispecchierebbero questo fatto, mentre
+un altro potrebbe essere incentrato su citta' e ladri.
+Ognuno di questi MUD avrebbe le sue aree, progettate in modo da rendere
+credibile la sua ambientazione.
+In pratica costruire un'area e' come scrivere un libro.
+Serve una trama, bisogna essere descrittivi e si devono mettere personaggi e
+luoghi che abbiano 'appealing'
+
+Scrivere un' area richiede ispirazione e immaginazione prima di tutto.
+Le idee spesso vengono dalla letteratura; per esempio, un' area che ricalca
+le avventure di Alice nel Paese delle Meraviglie o il viaggio di Dante
+nell'Inferno.
+Le aree di solito iniziano su carta molto prima di arrivare sul computer;
+una mappa generale della regione puo' aiutare a materializzare l'idea e una
+mappa specifica di ogni stanza e' assolutamente richiesta in modo da poter
+collegare 2 stanze in modo che abbia geograficamente senso.
+Anche prendere appunti su come fare incontrare i mostri ai giocatori o per
+scrivere le descrizioni puo' aiutare a pianificare un'area.
+
+1.2.  Bilanciamento del gioco
+
+Bilanciare un gioco pup' essere interpretato da molte perosne in modi
+diversi.
+La cosa piu' importante e' di ricordare per chi viene costruita l'area--per
+esempio, giocatori di alto livello, di basso livello o piccoli gruppi di
+giocatori.
+Gli oggetti e i mostri gtrovati nell'area devono essere concordi con il
+livello, le abilita' e le necessita' dei giocatori che divrebbero
+frequentare tale area.
+Alla maggior parte dei giocatori non piace trovare grandi tesori senza
+affrontare nessuna difficolta' per averli, ma d'altra parte non piace
+nemmeno combattere il mob piu' duro del MUD e poi non guadagnarci niente.Il
+lavoro di capo-costruttore di un MUD e degli autori delle varie aree e' di
+trovare una felice via di mezzo tra 2 estremi.
+Il processo di trovare quella via di mezzo e' cio' che rende il MUD
+originale.
+
+Il principale fattore che agisce sul bilanciamento del gioco sono le aree
+che compongono il MUD.A causa di questo, ogni area deve essere controllata e
+confrontata rispetto alle altre per assicurarsi che una non sia
+esageratamente dura e l'altra non sia esageratamente facile.Ogni area che
+viene con il MUD o che e' aggiunta dopo dovrebbe essere controllata da uno o
+piu' implementor o costruttori e le caratteristiche dei mob e degli oggetti
+dovrebbero essere cambiati per adattarsi al bilanciamento del MUD.
+Ogni nuova area che diventa parte del mondo non dovrebbe essere aggiunta
+fino a che non e' stata bene bilanciata a detta degli impl.
+Giustamente i costruttori di aree vogliono che le loro zone siano popolari,
+ma questo a volte li spinge a rendere la zone sbilanciata agiungendo armi
+troppo potenti, mib facili etc...
+Queste zone sono destinate a diventare molto popolari e a portare la morte
+al bilanciamento del MUD.
+
+Il bilanciamento dell'area dovrebbe essere parte integrante del processo di
+progettazione, non qualcosa da fare dopo, in un secondo momento.
+Troppo spesso le aree vengono progettate con armi o armature troppo belle che
+rovinano il bilanciamento del gioco.
+Naturalmente, dopo aver aggiunto tali zone i giocatori si lamentano se poi
+vengono tolte o modificate.Inoltre siccome il sistema di salvataggio (rent)
+salva i bonus al colpire, al danno etc..i giocatori 'vecchi' ed esperti
+saranno in grado di mantenere il loro vecchio equipaggiamento anche se
+queste zone sono state depotenziate (a meno di non costringerli a
+restituirlo)
+Quindi l'implementor saggio sara' sempre attento a controllare le zone e ad
+aggiungerle al suo MUD.
+Non e' generalmente una buona idea 'lasciare che i giocatori bilancino
+l'area' schiaffando una nuova zona senza averla prima controllata e stare a
+guardare che succede.
+
+1.3.  Rendere le aree del tuo MUd Interessanti
+
+Un'area interessante attrae sempre piu' giocatori di una noiosa.
+Ci sono tanti modi per rendere un'area interessante.
+Provate ad essere il piu' descrittivi possibile; non trattenetevi dallo
+scrivere descrizioni extra.
+Spesso ci si dimentica di mettere le descrizioni delle porte e delle uscite,
+descriverle tutte da un senso di maggior completezza e cala il giocatore
+nell' ambientazione.
+Una descrizione extra che si potrebbero mettere se il giocatore si trovasse
+in un campo all' aperto sarebbe:
+
+	Il campo si estende verso delle grandi colline all'orizzonte.Lontano
+	verso nord vedi una colonna di fumo.
+
+Molti giocatori (sia alle prime armi che esperti) leggono le descrizioni
+attentamente la prima volta che entrano in un' area, e mettere tante
+descrizioni extra li aiuta a farsi un' idea di come sono realmente le cose,
+ad immaginarsi la scena in cui il loro personaggio si trova.
+
+Una cosa che non si dovrebbe mai fare e' di avere descrizioni di stanze
+generiche come 'Ti trovi in una grossa stanza.E' molto buio', perche' questo
+genere di descrizioni, se continuamente ripetute annoiano a morte i
+giocatori.
+Una descrizione simile andrebbe cambiata in qualcosa come:
+
+	Ti trovi in una stanza molto grande.
+	Le ombre corrono lungo le pareti e sembrano quasi muoversi
+	impercettibilmente mentre ti guardi attorno.Il pavimento e' fatto da
+	pesanti pietre di colore scuro.Il soffitto e' molto alto, ma puoi 
+	scorgere degli oggetti che penzolano da esso.	
+
+
+Un altro modo di costruire un'area e' di creare una specie di trama, o un'
+tema coerente, invece di una collezione di stanze legate insieme solo dalla
+geografia.La trama puo' essere complessa come penetrare in un castello per
+rubare dei piani di guerra di qualche oscuro signore o semplicemente fare
+qualche scorribanda nelle caverne dei goblin etc..Spesso la trama in un'area
+si puo' migliorare con qualche enigma o descrizione.
+Con l'aiuto delle procedure speciali scritte in C dai programmatori del MUD,
+enigmi alla 'Zork' (NdAke:Una vecchia avventura testuale per home computer,
+famosi negli anni '80) saranno semplici da aggiungere ed efficaci per
+movimentare un po' le cose.
+
+Non tutti i mob devono per forza essere creati per essere uccisi, e non
+tutti i negozianti devono pe forza comprare o vendere qualcosa--potrebbero
+essere stati creati solo per rifiutarsi di commerciare con qualunque
+giocatore.I giocatori si domanderanno cosi' perche' esiste quel particolare
+negoziante. Forse dargli un gioiello lo rendera' piu' amichevole.In questo
+modo un'area puo' essere resa infinitamente piu' eccitante da piccole
+procedure speciali, come teletrasportatori sparsi per la zona, o procedure
+che fanno in modo che un mob risponda a delle semplici domande..
+
+
+Alla fine, il modo migliore per rendere un'area interessante e' di usare
+varieta', intelligenza e immaginazione nel costruirla.Provate ad immaginare
+come sarebbe camminare attraverso una stanza e cosa potreste provare a
+guardare o fare e poi incorporate tutto questo nella vostra area.Mostrate la
+vostra area agli altri e prendete nota dei olor consigli.Sforzarsi cosi'
+tanto nel migliorare la propria area vi ricompensera' lasciando un ricordo
+di quell'area nelle menti dei giocatori per sempre.
+
+1.4.  Usare programmi per la costruzione di mondi
+
+Nei tempi che furono, l'unico strumento che si poteva usare per scrivere
+un'area era un semplice editor di testi.Pero' nel mentre molte persone hanno
+scritto programmi che aiutano i costruttori di aree a creare i loro mondi
+senza dover capire i complessi dettagli dei formati dei file.
+Questi programmi ormai sono divenuti popolari, specie quelli grafici che
+girano sotto Microsoft WIndows.
+Forse potresti preferire usare uno di questi programmi anziche' scrivere 
+tutto a mano con un editor di testi e dover imparare il formato dei file.
+Questi programmi sono in costante evoluzione, cosi' non verranno descritti
+qui.Comunque si possono trovare nella sezione 'contrib' del sito FTP
+ufficiale del CircleMUD:
+<ftp://ftp.circlemud.org/pub/CircleMUD/contrib>.
+
+2.  La meccanioca della costruzione di mondi
+
+2.1.  Panoramica sul mondo dei MUD
+
+Il mondo del CircleMUD e' diviso in sezioni distinte chiamate zone.Ognuna di
+queste zone tipicamente consiste di una singola, modulare, geograficamente
+coerente regione del mondo virtuale del MUD con una storia consistente.Ogni
+zona puo' definire i suoi spazi fisici (il mondo), mostri (chiamati mob),
+oggetti (come armi,armature etc..) e negozi in cui un mob in una prticolare
+stanza puo' vendere/comprare oggetti da/ai giocatori.
+
+
+Una singola zona tipicamente contiene meno di 100 stanze, 100 definizioni di
+mostri e 100 defiizioni di oggetti, ma una grossa regione puo' essere
+suddivisa in tante zone a discrezione dell'autore.Per esempio, la Citta' di
+MIdgaard e' divisa in 2 zone, una per la citta' principale e l'altra per la
+zona residenziale a sud.Una zona puo' anche usare mob e oggetti definiti
+inun altra zone, ma questa pratica e' da sconsigliare perche' rende le
+stanze meno modulari, cioe' diventa piu' difficile aggiungere o rimuovere
+zone senza che questo abbia effetto anche sulle altre.
+
+Ogni stanza,mob,oggetto in una zona ha un numero univoco chiamato Numero
+Virtuale (Vnum).
+I Vnum delle stanze, mob e oggetti sono indipendenti, cosi' ci sara' una
+stanza con Vnum 3001 e un oggetto con Vnum 3001.
+Quando si definiscono e indicano parti di una zona, l'autore della zona si
+riferisce sempre ad ogni entita' con il suo vnum e mai con il nome.Una
+convenzione comunemente adottata e' di numerae le zone con i Vnum delle
+stanza che la compongono, divisi per 100.Per esempio, Midgaard e' la zona
+30, e comprende le stanze dalla 3000 alla 3099.Mob e oggetti seguono la
+stessa convenzione.
+
+L'autore della zona puo' definire aspetti di ogni stanza come il tipo di
+terreno, proprieta' speciali (per esempio se la stanza ha le sue sorgenti di
+luce o se e' una trappola).Un aspetto molto importante di ogni stanza e' la
+posizione relativa delle altre stanze.Per esempio dalla stanza 3014 uno
+puo' andare a nord ed entrare nella stanza 3005, puo' andare a est nella
+3015 etc..Grande attenzione bisogna fare nel collegare assieme queste stanza
+in modo logico e consistente.Un giocatore che si muove verso est e pii
+immediatamente verso ovest dovrebbe ritrovarsi nella stessa stanza di prima.
+
+Ad ogni mob vengono assegnate delle caratteristiche come il numero di punti
+ferita, il danno a mani nude, forza e abilita' speciali.
+Gli oggetti hanno parametri come peso, valore e proprieta' magiche.
+L'autore puo' scegliere come queste tre parti del mondo si possono combinare
+insieme per formare lo stato iniziale della zona: per esempio, il numero di
+ogni mob che deve essere creato e in quale stanza deve nascere,
+l'equipaggiamento di cui sono dotati, gli oggetti che possono essere per
+terra e le porte che possono essere inizialmente chiuse o chiuse a chiave.
+
+Quando il MUD viene eseguito, inizializza ogni zona allo stato definito
+dall'autore della zona e poi rende viva la zona facendo in modo che i mob
+vaghino casualmente per la zona e se permesso dall'autore attacchino i
+giocatori magari..
+Mentre i giocatori stanno usando le zone (per ammazzare mob o raccogliere
+oggetti) il MUD periodicamente reinizializza le zone al loro stato iniziale
+per prepararle ad accogliere nuovi giocatori.
+
+2.2.  Imparare dagli esempi
+
+Prima di scendere in profondita' nei dettagli della costruzione di un MUD,
+si deve tenere conto che il formato dei vari file del mondo e' abbastanza
+complesso e che non e' probabilmente possibile imparare a conoscerli
+soltanto leggendo questa documentazione.Questo documento e' progettato per
+essere un manuale da consultare e quindi non serve come 'tutorial'.
+Anche se ci sono esempi alla fine di ogni sezione, servono solo per
+illustrare il formato del file o di una definizione 'graficamente' , ma non
+comprendono l'uso di tutte le possibilita' offerte dal MUD e descritte in
+questo documento.Il modo piu' efficente per imparare e' di osservare gli
+esempi gia' pronti: esaminare le aree che sono distribuite conil CircleMUD e
+cercare di immaginare i significati dei numeri nelle vari file delle stanze, 
+degli oggetti,dei mob e delle zone, usando questo manuale come guida.
+Una volta che siete capaci di leggere questi file, scoprirete che scriverne
+di nuovi sara' molto piu' facile.
+  
+
+
+2.3.  I file del mondo del MUD
+
+Ogni zona del CircleMUD e' definita da 5 tipi di file:
+i file delle stanze (world),degli oggetti, dei negozi (shop) e delle zone.
+I file delle stanze (*.wld) definiscono le stanze e i collegamenti da una
+stanza all'altra.I mob sono i mostri che abitano il MUD (file *.mob).
+Gli oggetti sono le armi,armature,tesori e altri oggetti manipolati
+dai giocatori (file *.obj).I file dei negozi (*.shp) definiscono i mob che
+fanno da negozianti, controllando cosa possono comprare,vendere e dire.
+In fine i file delle zone (*.zon) mettono tutti gli elementi descritti prima
+insieme per definire qual'e' lo stato iniziale di una zona, descrivendo come
+devono essere equipaggiati i mob, dove devono trovarsi, dove si trovano gli
+oggetti, quali porte sono chiuse etc..Questi 5 tipi di file sono 
+formano il database.
+
+Il CircleMUD divide i file del database in modo da poterli manipolare con
+piu' facilita'.Invece di mettere tutte le stanze in un unico grande file, le
+stanze vengono distribuite in diversi file, uno per ogni area del mondo.
+Tutti i 5 tipi di file descritti prima sono divisi in questo modo.Il
+CircleMUD ha una directory per i file delle stanze (lib/world/wld, una per
+gli oggetti (lib/world/obj) e cosi' via..
+
+Al CircleMUD non importa in che modo vengono divisi i file del databse o che
+nome abbiano, ma ci sono certe convenzioni che rendono la gestione del
+database piu' semplice.Ogni file tipicamente contiene solo informazioni su
+una singola zona e il nome del file e' il numero della zona con una
+estensione che indica uno dei 5 tipi di file.
+Per esempio, il file 30.wld contiene le stanze dalla 3000 alla 3099 della
+zona 30.
+Il file 42.mob contiene i mob dal 4200 al 4299 della zona 42 etc..
+
+
+In ognuna delle directory c'e' un file chiamato 'index' che dice al MUD
+quali file da quella directory devono essere caricati quando il mud viene
+eseguito e c'e' un file 'index.mini' che dice qual'e' l'insieme minimo dei
+file che possono essere caricati quando il mud viene eseguito con l'opzione
+-m.
+
+Ogni file del databse del CircleMUD (compresi i file 'index') deve essere
+terminato dal simbolo di dollaro ($) per dire al mud che il file e'
+finito.Senza questo simbolo in fondo al file il mud non sarebbe in grado di
+funzionare correttamente.
+
+C'e' un'utiluty che viene fornita insieme al mud e serve per dividere un
+grosso file in piu' file piu' piccoli; per esempio, se c'e' una grossa zona
+che vuoi dividere in zone piu' piccole.
+vedere CircleMUD Utility Manual
+<http://www.circlemud.org/~jelson/circle/cdp/utils> per avere informazioni
+ulteriori su come dividere file.
+
+2.4 Usare i vettori di bit (bitvector)
+
+Imparando i formati dei file del databse del CircleMUD vedrai spesso
+riferimenti ai bitvector. Un bitvector e' un gruppo di flag, ovvero
+variabili che possono assumere solo 2 valori on/off, oppure 0/1 oppure
+vero/falso.
+I bitvector e le loro flag sono usate in molti modi nel CircleMUD, in modo
+da definire il modo di agire dei mob, le caratteristiche delle stanze,etc..
+Imparare ad usare i bitvector e' essenziale se volete costruire un mondo per
+il CircleMUD.
+
+In ogni punto di questo documento in cui si fara' riferimento ad un
+bitvector, ci sara' anche una tabella che descrivera' le flag che potete
+usare in quel bitvector.
+la tabella assomigliera' a questa:
+
+     ______________________________________________________________________
+     1    a    SPORCO     La stanza e' sporcs.
+     2    b    PUZZOLENTE    La stanza puzza.
+     4    c    UMIDA     Il pavimento e' umido.
+     8    d    MELMOSA    Il pavimento e' melmoso.
+     ______________________________________________________________________
+
+Notare che ci sono 4 colonne nella tabella.La prima contiene il valore
+numerico della flag.La seconda contiene la rappresentazione alfanumerica
+della flag.La terza e' il nome della flag e la quesrta la descrizione
+dell'effetto della flag.
+
+Ci sono 2 modi di costruire un bitvector con la tabella sopra:il metodo
+numerico e quello alfanumerico.
+Il metodo numerico consiste nel selezionare tutte le flag che si vogliono
+attivare, prendere i numeri corrispondenti che si trovano nella 
+prima colonna e sommarli assieme.La somma che si ottiene sara' il nostro
+bitvector.
+Il metodo alfanumerico e' piu' semplice: basta scrivere tutte le lettere che
+corrispondono alle flag che si vogliono attivare una dopo l'altra senza
+spazi.
+entrambi i metodi usano lo zero (0) per indicare che il bitvector e' spento,
+cioe' che nessuna delle sue flag e' accesa.
+
+per esempio , immagina di voler creare una stanza che e' sporca, umida e
+melmosa ma non puzza.usando il metodo numerico dovrai cercare i numeri di
+queste 3 flag (1=sporca,4=umida e 8=melmosa) e sommarli per ottenere un 13.
+Usando il metodo alfanumerico, il bitvector sara':
+	acd
+I bitvector sono case-sensitive, cioe' le lettere maiuscole sono diverse
+dalle minuscole, dunque scrivere Abc e aBc non e' la stessa cosa
+
+Inogni punto in cui il CircleMUD richiede un bitvector puoi scrivere sia un
+bitvector numerico che alfanumerico in quanto sono assolutamente
+intercambiabili ed equivalenti.Comunque ritieniti avvisato che se usi
+bitvector alfanumerici la tua area non sara' compatibile con i MUD basati
+sul DikuMUD originale (E quando mai ? NdAke)
+I bitvector alfanumerici sono un miglioramento presente solo nel DikuMUD e
+non possono essere supportati dai MUD basati sul Diku.
+
+In alcune tabelle di bitvector troverai valori a cui corrisponde una
+descrizione che dice 'Riservato per uso interno' o 'Non usare'.Mai attivare
+quelle flag !!!
+
+2.5 Aggiungere nuove aree al MUD
+Dopo che un'area e' scritta ci sono 3 passi da seguire per aggiungerla al
+MUD e testarla:copiare i file nelle giuste directory, aggiungere i nuovi
+nomi dei file negli indici (i file che si chiamano index), eseguire il MUD
+in modalita' Syntax-Check (controllo sintassi) per assicurarsi che le nuove
+aree siano formattate in modo corretto.
+
+Tutti i file relativi al database (al 'Mondo') vanno nella directory
+lib/world.In questo esempio immaginiamo che la tua nuova area sia la numero
+57 (e comprende stanze,oggetti e mob numerati da 5701 a 5799).
+La tua zona probabilmente ha 5 file: 57.wld,57.obj,57.mob,57.shp e 57.zon.
+Il primo passo e' di copiare ognuno di questi file nella sua directory.
+57.wld andra' in lib/world/wld, 57.mob in lib/world/mob etc..
+
+Il passo sucessivo e' di aggiungere i nomi dei file appena copiati nei file
+indice contentuti in ognuna delle sottodirectory della lib/world.
+Notare che dovete cambiare 5 file indice: uno per ogni file che avete
+copiato al passo precedente.Aggiungere i nomi dei file nel file indice dice
+al CircleMUD che quei file devono essere caricati: non saranno caricati solo
+perche' li avete copiati dentro la directory giusta.
+prima cosa editare il file lib/world/wld/index; dovresti vedere la lista dei
+file delle stanze correnti.Aggiungere una riga che dice 57.wld nel corretto
+ordine numerico (per esempio tra la 56.wld e la 58.wld NdAke)
+Poi aggiungere una riga simile in tutti gli altri file di indice:
+aggiungere 57.mob in lib/world/mob/index, aggiungere 57.obj in
+lib/world/obj/index etc..
+
+
+Ora potete provare a eseguire il MUD con il nuovo database. Se state
+aggiungendo una nuova area che ancora non e' stata debuggata (testata) e' di
+solito una buona idea eseguire il MUD in modalita' Controllo-Sintassi prima.
+Dalla directory principale del CircleMUD digitare bin/circle -c per usare il
+controllore di sintassi del MUD.Se non appariranno messaggi di errore
+(SYSERR) probabilmente la sintassi che avete usato nell'editare le zone e'
+corretta e il MUD ptra' essere eseguito senza problemi.Altrimenti
+controllare la LISTA DEI SYSERR DEL CIRCLEMUD 
+<http://www.circlemud.org/~jelson/circle/cdp/syserr> per altre informazioni
+su come correggere errori di sintassi, inoltre date un'occhiata anche alla
+GUIDA PER GLI AMMINISTRATORI DI CIRCLEMUD
+<http://www.circlemud.org/~jelson/circle/cdp/guide> per altre informazioni
+su come eseguire il mud in modalita' controllo-sintassi
+
+
+
+3.  I File delle stanze (World (Room) Files)
+
+3.1.  Il formato di una stanza
+
+Il formato di una stanza e':
+
+     ______________________________________________________________________
+     #<numero virtuale>
+     <nome della stanza>~
+     <descrizione della stanza>
+     ~
+     <numero della zona> <bitvector della stanza> <tipo di settore>
+     {Zero o vari Campi di Direzioni e/o Descrizioni Extra}
+     S
+     ______________________________________________________________________
+
+NdAke:
+ I Campi di Direzione, orrenda traduzione del sottoscritto di
+Direction Fields, sono dei blocchi di testo che descrivono le varie uscite
+della stanza.
+
+Ci possono essere da 0 a 6 Campi di Direzioni.Non ci puo' essere piu' di un
+campo di direzione per una particolare direzione.Le descrizioni extra non
+sono obbligatorie ma se ne possono mettere un numero infinito.(NdAke:avendo
+pazienza..)
+Ogni stanza viene terminata con il simbolo 'S' (NdAke:esse)
+
+  Numero Virtuale
+	Questo numero e' critico; e' l'identita' della stanza nel
+gioco.Tutti gli altri file useranno questo numero per riferirsi a questa
+stanza. Mentre si gioca (NdAke:Con un immortale pero') questo numero puo'
+essere usato con il comando 'goto' per andare nella stanza desiderata
+all'istante.Il numero virtuale deve apparire in ordine crescente nel file
+delle stanze.
+
+   Nome della stanza
+	Questa stringa e' il titolo della stanza che e' mostrato prima della
+descrizione quando un giocatore guarda la stanza o viene mostrato da solo se
+il giocatore e' in modalita' 'brief' (sintetico,veloce)
+
+
+   Descrizione della stanza
+      La descrizione che compare quando si digita 'look' (guarda) o quando i
+giocatori entrano in una stanza e non hanno il modo 'brief' attivo.
+
+   Numero di zona
+      Questo numero e' obsoleto e non viene piu' usato.Storicamente
+conteneva il numero della zona della stanza corrente ma viene ignorato.Viene
+mantenuto per compatibilita' verso file vecchi.
+
+   Bitvector delle stanze
+      Un bitvector (vedi la sezione sui Bitvector) con i seguenti valori:
+
+   ___________________________________________________________________
+   1     a   DARK           Stanza buia
+   2     b   DEATH          E' una Trappola, il personaggio che entra muore
+			    ma non perde xp 
+   4     c   NOMOB          I mob non posssono entrare in questa stanza.
+   8     d   INDOORS        La stanza e' al chiuso.
+   16    e   PEACEFUL       La stanza e' pacifica e non si possono compiere
+			    atti violenti dentro ad essa (combattere, 
+			    castare magie aggressive etc..).
+   32    f   SOUNDPROOF     shout e gossip non si sentono dentro alla stanza.
+   64    g   NOTRACK        Il comando 'track' non trovera' nessuna traccia
+			    attraverso questa stanza.
+   128   h   NOMAGIC        la magia non funzionera' dentro a questa stanza
+   256   i   TUNNEL         Solo una persona alla volta puo' stare nella
+			    stanza
+   512   j   PRIVATE        Se ci sono gia' dentro 2 persone non ci si puo'
+			    teleportare.
+   1024  k   GODROOM        Solo personaggi di livello > LVL_GOD (immortali).
+   2048  l   HOUSE          Risarvato
+   4096  m   HOUSE_CRASH    Riservato
+   8192  n   ATRIUM         Riservato
+   16384 o   OLC            Riservato
+   32768 p   BFS_MARK       Riservato
+   ___________________________________________________________________
+
+   Tipo di Settore
+      Un numero (non un bitvector) che definisce il tipo di terreno della
+	stanza.Notare che questo valore non e' il numero di punti movimento
+	necessari, ma solo un numero che identifica il tipo di settore.
+	(I punti di movimento necessari pr camminarci dentro stanno
+	nell'array movement_loss[] nel file constants.c)
+      Il Tipo di Settore puo' essere uno di questi:
+
+        ___________________________________________________________________
+        0    INSIDE         Al chiuso (pochi punti movimento richiesti).
+        1    CITY           le strade di una citta'.
+        2    FIELD          Un campo aperto.
+        3    FOREST         Una foresta intricata.
+        4    HILLS          Colline.
+        5    MOUNTAIN       Grandi zone motagnose.
+        6    WATER_SWIM     Acqua (ci si puo' nuotare).
+        7    WATER_NOSWIM   Acqua (non ci si puo' nuotare, serve una
+			    imbarcazione).
+        8    UNDERWATER     Sott'acqua.
+        9    FLYING         nel cielo
+        ___________________________________________________________________
+
+  Campi di direzione e descrizioni extra: 
+	Questa sezione definisce le uscite delle stanze, sempre che ce ne
+siano e le descrizioni di cose come cartelli e altri strani oggetti che
+possono essere nella stanza-Questa sezione puo' anche essere vuota se la
+stanza non ha descrizioni extra o uscite.Altrimenti puo' avere un certo
+numero di sezioni 'D' (Direzioni) ed 'E' (descrizioni Extra)
+Dopo che tutte le uscite e le descrizioni extra sono state scritte si
+segnala la fine della stanza con una 'S'.
+Direzioni e descrizioni extra sono spiegate dettagliatamente in seguito.
+
+3.2.  Le Direzioni
+
+Il formato di un campo di Direzioni e':
+
+     ______________________________________________________________________
+     D<numero della direzione>
+     <descrizione generica>
+     ~
+     <lista delle parole chiave>~
+     <flag per le porte> <numero della chiave> <stanza a cui porta l'uscita>
+     ______________________________________________________________________
+
+   Numero della direzione
+      La direzione cardinale che questo campo descrive.
+	Deve essere un odi questi numeri:
+
+             0    Nord
+             1    Est
+             2    Sud
+             3    Ovest
+             4    Su
+             5    Giu
+
+   Descrizione Generica
+	La descrizione viene mostrata al giocatore quando digita 'look
+<direzione>'. Questa non deve essere confusao con la descrizione 
+della stanza ! Diversamente dalla descrizione della stanza, che si vede
+automaticamente quando un giocatore cammina in una stanza, la descrizione
+generica di una uscita si vede solo se il giocatore guarda nella direzione
+dell'uscita. ('Look north' per esempio)
+
+   Lista delle parole chiave
+	Una lista di termini accettabili che possono essere usati per
+manipolare porte con comandi come 'open', 'close' etc..
+Le parole della lista devono essere separate da spazi, per esempio:
+      porta quercia grossa~
+
+   Flag della porta
+	Puo' avere uno dei 3 valori (0,1 o 2):
+
+      0  Un uscita senza restrizioni che non ha porta, oppure una porta
+	speciale non possono essere aperte o chiuse con il comando
+	'open/close'.La seconda possibilita' e' utile per porte segrete,
+	botole o altre porte che possono essere aperte/chiuse da qualcosa
+	che non e' uno dei soliti comandi, come una procedura speciale
+	assegnata alla stanza o ad un oggetto nella stanza.
+
+      1 Una porta normale che puo' essere aperta,chiusa,forzata etc..
+
+      2 Se la porta e' chiusa a chiave puo' essere aperta solo con la chiave
+	e non si puo' scassinare 
+
+      Lo stato iniziale di tutte le porte e' aperto, ma possono essere
+      aperte,chiuse o chiuse a chiave automaticamente quando la zona viene
+      resettata (vedere la documentazione sui file di zona)	
+
+
+   Numero della chiave
+      Il numero virtuale della chiave richiesta per aprire/chiudere il
+	lucchetto della porta nella direzione data.Un valore -1 significa
+	che non c'e' lucchetto e nessuna chiave aprira' questa porta.Se la
+	flag di questa porta (NdAke:vista prima) e' 0 questo campo viene
+	ignorato.
+
+   Stanza a cui porta l'uscita
+      Il numero virtuale della stanza a cui porta questa uscita.
+      Se questo numero e' -1 (NOWHERE, cioe' NessunPosto) l'uscita non
+	portera' da nessuna parte; utile se volete mostrare l'uscita con il
+	comando 'exit' ma senza che conduca da nessuna parte, oppure se
+	volete aggiungere una descrizione per il comando 'look <direzione>' 
+	senza dover aggiungere un uscita in quella direzione
+
+3.3.  Le descrizioni Extra delle stanze
+
+Le descrizioni extra vengono usate per rendere piu' interessanti le stanze,
+e per renderle piu' interattive.i giocatori possono vedere queste
+descrizioni con il comando 'look at <qualcosa>' dove <qualcosa> e' una
+qualunque delle parole chiave scelte.Per esempio se scriveste nella
+descrizione di una stanza una frase tipo :"Il muro sembra strano in questo
+punto", i giocatori potrebbero vedere dei dettagli (le descrizioni extra
+appunto) in piu' con il comando 'look at muro'.
+Ci possono essere un numero illimitato di descrizioni extra in ogni stanza.
+
+Il formato di una descrizione extra e' semplice:
+
+     ______________________________________________________________________
+     E
+     <lista delle parole chiave>~
+     <descrizione>
+     ~
+     ______________________________________________________________________
+
+   Lista delle parole chiavi
+      E' la lista delle parole chiave (separate da uno spazio) che si
+      useranno per vedere la descrizione.(NdAke: sono le parole che si usano
+      con il comando 'look at <qualcosa>'
+
+   Descrizione
+      Questo e' il testo che verra' mostrato quando il giocatore usera' il
+      comando 'look at <qualcosa>, dove <qualcosa> e' una delle parole
+      chiave della lista.
+
+3.4.  Esempio di come si scrive una stanza nel file *.wld
+
+
+     #18629
+     La stanza di Pippo~
+       La stanza di Pippo e' bella e accogliente.Al centro c'e' un tavolo
+       con qualcosa sopra e sulle pareti ci sono degli arazzi.
+       C'e' una porta di legno che conduce verso sud. 
+     ~
+     186 ad 0
+     D0
+     Vedi una grande stanza in quella direzione.
+     ~
+     ~
+     0 -1 18620
+     D1
+     C'e' una piccola stanza in quella direzione
+     ~
+     porta legno~
+     1 18000 18630
+     E
+     arazzo muro~
+     Su uno degli arazzi c'e' scritto :'W AKESOFT!'
+     ~
+     E
+     tavolo~
+     Sul tavolo c'e' una bottiglia di fragolino.
+     ~
+     S
+
+Questa e' la stanza con numero virtuale 18629, chiamata la Stanza di Pippo,
+e' buia e al chiuso, e si trova in un settore del tipo "al coperto".
+C'e' un' uscita a nord e una a est.L'uscita a nord porta alla stanza 18620;
+se un giocatore scrive 'look north' il mud rispondera' con :'vedi una grande
+stanza in quella direzione'.
+L'uscita verso est e' una porta normale scassinabile che conduce alla stanza
+18630 e che si apre con la chiave numero 18000.
+C'e' infine una descrizione extra per la parola 'arazzo' e una per la parola
+'tavolo'.
+
+
+4.  File dei MOB (mostri)
+
+4.1.  Il formato di un mob
+
+Il formato di un mob e':
+
+     ______________________________________________________________________
+     #<numero virtuale>
+     <lista degli alias>~
+     <breve descrizione>~
+     <descrizione lunga>
+     ~
+     <descrizione dettagliata>
+     ~
+     <bitvector del comportamento> <bitvector di stato> <allineamento> <flag
+tipo di mob>
+     {informazioni sulla flag tipo si trovano piu' avanti}
+     ______________________________________________________________________
+
+     NdAke: i vari bitvector,l'allineamento e la flag tipo vanno tutti sulla
+	    stessa riga !!!
+
+Il formato dei mob varia in base alla flag che ne determina il tipo.
+Vedere piu' avanti nella documentazione per i formati dei vari tipi di mob.
+
+
+   Numero Virtuale
+      
+     Questo numero e' critico: e' l'identita' del mob all0interno del
+gioco.E' il numero che verra' usato per riferirsi al mob nei file di zona ed
+e' il numero che si usa con il comando 'load' (NdAke:per immortali) durante
+il gioco.Il numero virtuale deve comparire in ordine crescente nel file dei
+mob. 
+
+
+   Lista degli Alias
+   	E' la lista delle parole chiave, separate da spazi che i giocatori
+possono usare per identificare un mob.Il mob puo' solo essere identificato
+usando una delle parole chiave della lista; non puo' essere identificato da
+una parola che appare solo nel suo nome o nella sua descrizione.
+Bisogna fare grande attenzione che le parole chiave nella lista siano
+scritte bene e siano coerenti con le parole che compaiono nel nome del mob.
+Articoli in/determinativi tipo 'the', 'a' o 'an' non devono comparire nella
+lista degli alias.(NdAke: perche' ci pensa il mud ad aggiungerli,
+naturalmente questo funziona bene finche' si creano mob con nomi inglesi,
+altrimenti no.)
+	
+
+
+   Descrizione breve
+	E' la descrizione usata dal MUD quando il mob compie qualche azione.
+	Per esempio, una descrizione breve come :'Fido il cane se ne va
+	verso sud' e 'Fido il cane ti morde forte'.
+	La descrizione breve non deve mai finire con un punto perche' verra'
+	inserita all'interno di una frase come quelle dell'esempio di prima. 
+	(NdAke:Se la descrizione fosse:'Fido il cane.' quando Fido
+	attaccasse un giocatore, questi vedrebbe il messaggio :
+	'Fido il cane.ti morde forte' (bruttino) )	
+
+
+   Descrizione lunga
+
+	La descrizione lunga viene mostrata quando un mob si trova nella
+	posizione di default: per esempio, 'Fido il cane e' qui che rovista
+	nell'immondizia alla ricerca di cibo.'.
+	Quando il mob si trova in una posizione diversa da quella di
+	default, come quando dorme o sta morendo, viene invece usata la
+	descrizione breve.Per esempio, 'Fido il cane giace a terra ferito'
+	Diversamente dalla descrizione breve, quella lunga dovrebbe
+	terminare con un punto.
+
+
+
+   Descrizione dettagliata
+	Questa descrizione viene mostrata quando il giocatore usa il comando
+	'look at <nome del mob>'
+	(NdAke: dove <nome del mob> e' una delle parole nella lista degli
+	alias del mob)
+
+   Bitvector del Comportamento
+	Vedere Bitvector per ulteriori informazioni sul loro uso e
+	significato.
+	Questo bitvector puo' assumere i seguenti valori.
+   ___________________________________________________________________
+   1      a  SPEC       Questa flag viene attivata quando il mob ha una
+			procedura speciale scritta in C.Oltre ad attivare il
+			bit, deve anche essere assegnata al mob la procedura 
+			speciale nel file spec_assign.c e la procedura
+			stessa deve essere scritta.Vedere la sezione sulle
+			procedure speciali per altre informazioni 
+			sull'argomento.     
+
+
+   2      b  SENTINEL   I mob per default vagano per il mud; quando questo
+			bit e' attivato (NdAke:lasciatemi dire 'settato' 
+			ogni tanto !) il mob rimane fermo nella stanza in
+			cui e' stato caricato.    
+
+
+   4      c  SCAVENGER  Il mob raccoglie gli oggetti di valore che trova per
+			terra.Gli oggetti piu' preziosi vengono presi per 
+			primi.    
+
+
+   8      d  ISNPC          Riservato per uso interno.
+
+   16     e  AWARE      Il mob non puo' essere backstabbato 
+			(NdAke: il backstab e' l'abilita' dei ladri di
+			pugnalare alle spalle infliggendo grandi danni)    
+                        Sostituisce il bit ACT_NICE_THIEF dei mud di tipo
+			Diku (NdAke: che rendeva il mob 'gentile' verso i
+			ladri)
+
+   32     f  AGGRESSIVE     Il mob aggredira' il primo giocatore che vede
+			    nella stanza.
+
+   64     g  STAY_ZONE      Il mob non vaghera' al di fuori della sua zona
+			    utile per tenere i mob di una zona separati da
+			    quelli di un'altra
+
+   128    h  WIMPY          Il mob fuggira' se verra' attaccato quando ha
+		            meno del 20% dei propri punti ferita.
+			    Se questo bit viene attivato insieme al bit
+			    AGGRESSIVE il mob attacchera' solo altri mob che
+			    sono morenti o addormentati)
+				
+
+   256    i  AGGR_EVIL      Il mob attacchera' i giocatori di allineamento
+			    malvagio.
+
+   512    j  AGGR_GOOD      Il mob attacchera' i giocatori di allineamento
+			    buono.
+
+   1024   k  AGGR_NEUTRAL   Il mob attacchera' i giocatori di allineamento
+			    neutrale.
+
+   2048   l  MEMORY         Il mob ricordera' i giocatori che hanno iniziato
+			    un attacco contro di lui e li attacchera' 
+			    se per caso dovesse reincontrarli.
+
+   4096   m  HELPER         Il mob attacchera' i giocatori che stanno
+			    combattendo contro un altro mob nella sua stessa 
+			    stanza.utile per gruppi di mob che viaggiano
+			    assieme.
+			    per esempio: 3 serpenti in una buca, per
+			    obbligare i giocatori a combattere tutti e 3 i 
+			    mob assieme, invece di attaccarne uno per volta.
+
+
+   8192   n  NOCHARM        L'incantesimo 'charm' non funziona sul mob
+
+   16384  o  NOSUMMON       Il mob non puo' essere evocato
+
+   32768  p  NOSLEEP        il mob e' immune a incantesimi del sonno.
+
+   65536  q  NOBASH         Mob grossi come alberi non possono essere
+			    buttati a terra con il comando 'bash'    
+
+   131072 r  NOBLIND        Il mob non puo' essere accecato.
+   ___________________________________________________________________
+
+   Bitvector di stato del mob
+	Assume questi valori:
+        ___________________________________________________________________
+        1       a BLIND          Il mob e' acciecato.
+        2       b INVISIBLE      Il mob e' invisibile.
+        4       c DETECT_ALIGN   Il mob e' sensibile all'allineamento degli
+				 altri.
+        8       d DETECT_INVIS   Il mob vede l'invisibile.
+        16      e DETECT_MAGIC   Il mob sente la presenza della magia.
+        32      f SENSE_LIFE     Il mob sente la presenza di persone
+				 nascoste nella stanza
+        64      g WATERWALK      Il mob puo' attraversare stanze che si
+				 trovano in settori d'acqua in cui non si 
+				 puo' nuotare (WATER_NOSWIM)
+        128     h SANCTUARY      Il mob e' protetto dall'incantesimo
+				 'sanctuary' che dimezza i danni da lui 
+				 subiti.
+        256     i GROUP          Riservato per uso interno
+        512     j CURSE          Il mob e' maledetto.
+        1024    k INFRAVISION    Il mob vede al buio.
+        2048    l POISON         Riservato.
+        4096    m PROTECT_EVIL   Il mob e' protetto da personaggi malvagi
+        8192    n PROTECT_GOOD   Il mob e' protetto da personaggi buoni.
+        16384   o SLEEP          Riservato.
+        32768   p NOTRACK        Il mob non puo' essere inseguito con il
+				 comando 'track'
+        65536   q UNUSED16       Non utilizzato
+        131072  r UNUSED17       Non utilizzato.
+        262144  s SNEAK          Il mob si muove in silenzio
+				 (NdAke: Quando entra in una stanza non
+				 compare il messaggio e non viene avvisato
+				 nessuno)
+        524288  t HIDE           Il mob e' nascosto (si puo' vedere solo se
+				 si dispone dell'incantesimo 'sense life'
+        1048576 u UNUSED20       Inutilizzato
+        2097152 v CHARM          Riservato
+        ___________________________________________________________________
+
+   Allineamento
+ 	Un numero tra -1000 e 1000 che rappresenta l'allineamento iniziale
+	del mob
+
+             -1000...-350   malvagio
+              -349...349    neutrale
+               350...1000   buono
+
+   Flag tipo di mob
+      
+	Questo flag e' una singola lettera che indica che tipo di mob viene
+        si sta definendo, e controlla quali informazioni il MUD si 
+	aspettera' di trovare di seguito.
+	
+	Il CircleMUD 3.0 supporta 2 tipi di mob: quelli Semplici (lettera
+	'S') e quelli Estesi ('E').Quelli Complessi ('C') erano parte del
+	DikuMUD originale e del CircleMUD, ora pero' non sono piu' 
+	supportati.
+
+
+	Chiedi agli implementor se ci sono altri tipi di mob disponibili per
+	il loro particolare MUD
+
+4.2.  Mob di tipo S
+
+Le informazioni specifiche dei mob di tipo S sono queste:
+
+     ______________________________________________________________________
+     <livello> <thac0> <classe armatura> <max numer di punti ferita> <danno
+a mani nude>
+     <denaro> <punti esperienza>
+     <posizione in fase di boot del mud> <posizione di default> <sesso>
+     ______________________________________________________________________
+
+NdAke: livello,thaco,classe armatura,punti ferita e danno vanno tutti sulla
+stessa rigaaaaa!
+
+   Livello
+      Il livello del mob da 1 a 30.
+
+   THAC0
+      ``To Hit Armor Class 0'' -- ('Per colpire classe armatura zero')
+	E' una misura dell'abilita' del mob nel penetrare le armature e fare
+	danno, misura che va da 0 a 20.
+	Numeri bassi significano che il mob probabilmente riuscira' a
+	penetrare l'armatura dell'avversario.
+	La definizione formale di THAC0	e' :il minimo risultato con un tiro
+	di dado a 20 facce che e' richiesto per colpire un avversario di
+	classe armatura zero.(NdAKe:Consultare il proprio manuale di D&D,
+	per sicurezza)
+
+
+   Classe Armatura
+	L'abilita' di un mostro di evitare danni.
+	Assume valori tra -10 a 10, dove i valori piu' bassi indicano
+	un'armatura migliore.
+	Piu' o meno la scala e':
+
+
+             AC  10    Nudo
+             AC   0    Armato pesantemente
+             AC -10    Corazzato (per i mortali dovrebbe essere molto
+			difficile da raggiungere)
+
+Nota su THAC0 e Classe Armatura (AC):
+Quando qualcuno cerca di colpire una vittima, la thaco
+dell'attaccante, l' AC della vittima piu' un tiro di dado determina se
+l'attaccante colpisce la vittima.(Se il colpo va a segno una formula diversa
+determina il danno).
+Un attaccante con una bassa thaco colpira' una vittima con AC bassa con la
+stessa probabilita' (stessa nel senso di simile) con cui un attaccante con
+una thaco alta colpisce una vittima con AC alta.(NdAke:secondo me questa
+frase ha poco senso..comunque...)
+Thaco bassa dell'attaccante e AC alta della vittima favoriscono l'attaccante
+Thaco alta dell'attaccante e Ac bassa della vittima favoriscono la vittima.
+
+   Massimo numero di punti ferita
+	Il massimo numero di punti ferita viene dato nella forma xdy+z dove
+	x,y e z sono di numeri interi.
+	Per esempio 4d6+10 significa lanciare 4 dadi da 6 facce e aggiungere
+	10 al risultato.
+	Ogni istanza dello stesso mob avra' lo stesso numero massimo di 
+	punti ferita da quando nasce a quando muore.
+	I dadi vengono 'rollati' (tirati) una volta sola, cioe' quando 
+	una particolare istanza del mob e' creata. 
+	In altre parole una particolare copia di un mob avra' sempre lo
+	stesso numero massimo di punti ferita durante la sua vita, ma copie
+	differenti dello stesso mob possono avere un massimo di punti ferita
+	diversi.
+	Da notare che devono essere scritti tutti e 3 i numeri e la
+	'd', anche se alcuni sono degli zeri.
+	Per esempio se vogliamo che ogni copia di un mob abbia sempre
+	esattamente 100 punti ferita (come massimo) scriveremo 0d0+100.
+
+
+   Danno a mani nude
+	E' l'ammontare del danno che il mob puo' fare ad ogni round quando
+	non ha nessuna arma in mano.
+	Anche questo valore viene specificato nella forma 'xdy+z' e segue le
+	stesse regole spiegate sopra per il Massimo Numeri Di Punti Ferita.
+	Diversamente da questo caso pero' i dadi vengono tirati ad ogni
+	round di combattimento, in modo che il danno del mob vari ad ogni
+	colpo entro i limiti stabiliti.
+
+	xdy specifica quanti dadi a quante facce tirare e z e' il bonus
+	forza aggiunto sia al danno a mani nude che al danno inflitto 
+	da un'arma.
+	Per esempio un mob con danno a mani nude 1d4+10 fara' tra 11 e 14
+	puti ferita di danno al suo avversario ad ogni round (se combatte 
+	senza armi)
+	Se il mob raccoglie un'arma e la impugna e l'arma fa 1d2 di danno,
+	allora il mob fara' 1d2+10 punti ferita di danno per round di
+	combattimento (per ogni round di combattimento in cui impugna
+	l'arma)
+
+   Denaro
+	Il numero di monete d'oro che il mob ha alla nascita.
+
+   Esperienza
+      Il numero di punti esperienza con cui nasce il mob
+
+   Posizione al boot del MUD
+	Quando il mob nasce (quando il mud viene eseguito e le zone
+	caricate) si trova in questa posizione che puo' variare tra :
+
+        0   POSITION_DEAD       Riservato
+        1   POSITION_MORTALLYW  Riservato.
+        2   POSITION_INCAP      Riservato.
+        3   POSITION_STUNNED    Riservato.
+        4   POSITION_SLEEPING   Il mob sta dormendo.
+        5   POSITION_RESTING    Il mob sta riposando.
+        6   POSITION_SITTING    Il mob e' seduto.
+        7   POSITION_FIGHTING   Riservato.
+        8   POSITION_STANDING   Il mob e' in piedi.
+
+   Posizione di default
+	Questa e' la posizione in cui si mettono i mob dopo un
+	combattimento, e si usano gli stessi valori elencati sopra.
+	In piu' la posizione di default indica quando la descrizione lunga
+	del mob viene mostrata.
+
+   Sesso
+      Uno tra i seguenti valori
+
+        0    Neutrale (esso/suo)
+        1    Maschio  (egli/suo)
+        2    Femmmina (ella/sua)
+
+	NdAke: il sesso serve al mud per capire se deve usare parole come
+	suo/sua, egli/ella, esso/essa in alcuni casi, ma ovviamente lo fa 
+	in lingua inglese dove 'esso' ed 'essa' per esmepio si dicono allo
+	stesso modo.
+
+4.3.  esempio di Mob di tipo S
+
+     #3062
+     fido cane~
+     Fido il cane~
+     Fido il cane sta cercando qualcosa in mezzo all'immondizia.
+     ~
+     Fido e' un piccolo cane dai denti aguzzi da cui pendono brandelli di
+     carne putrefatta
+     ~
+     afghq p -200 S
+     0 20 10 1d6+4 1d4+0
+     0 25
+     8 8 1
+
+Questo mob ha numero virtuale 3062.
+Il suo bitvector di comportamento indica che ha una procedura speciale (bit
+a), e' aggressivo (bit f), rimane nella sua zona (bit g), e' codardo (bit h)
+e non puo' essere atterrato con il comando 'bash' (bit q).
+Inoltre non puo' essere inseguito (bit p) e ha un allineamento iniziale di
+-200
+Dopo la flag S troviamo il livello (0), thaco (20), Classe Armatura (10),
+1d6+4 punti ferita (numero casuale tra 5 e 10), e a mani nude (NdAke:per un
+cane si fa per dire) infliggera' 1d4 punti ferita di danni per round di
+combattimento.
+Fido ha 0 monete d'oro e 25 punti esperienza, sia la posizione al boot che
+quella di default e' in piedi.
+Fido e' un maschio.
+
+
+4.4.  Mob di tipo E
+
+I mob di tipo E sono specifici del Circle3.0 e sono stati progettati per
+rendere piu' facile agli implementor del MUD l'estensione del formato dei
+mob.
+Un mob di tipo E e' un'estensione dei mob di tipo S, infatti e' come un mob
+S ma con dei dati in piu' aggiunti alla fine.
+Dopo l'ultima riga che normalmente si trova nel mob di tipo S (quella che
+finisce con il sesso del mob) i mob di tipo E terminano con una sezione che
+viene chiamata Estesa.
+Questa sezione consiste in zero o piu' specifiche del mob, una per riga.
+Ognuna di queste e' costituita da una parola chiave seguita da un 2 punti
+(':') e un valore.
+Le parole chiavi valide sono elencate qui sotto.
+La lettera E deve poi venire dopo tutte le estensioni per segnalare la fine
+del mob.
+
+Il formato di un mob Esteso e':
+
+______________________________________________________________________
+<livello> <thac0> <classe armatura> <max punti ferita> <danno a mani nude>
+<denaro> <punti esperienza>
+<posizione al boot> <posizione default> <sesso>
+{Lista di estensioni}
+E
+______________________________________________________________________
+
+4.5.  Esempio di Mob di tipo E
+
+Diciamo che vogliamo creare un Fido migliore, come quello dell'esempio di
+prima ma che fa un tipo di attacco diverso (tipo=4) cosi' che invece di
+prendere a pugni i giocatori li morda.
+Supponiamo anche di volere che Fido abbia Forza = 18
+
+Ecco come:
+     #3062
+     fido cane~
+     Fido il cane~
+     Fido il cane sta rovistando nella monnezza.
+     ~
+	Fido e' un piccolo cane con i denti aguzzi etc.. etc..
+     ~
+     afghq p -200 E
+     0 20 10 1d6+4 1d4+0
+     0 25
+     8 8 1
+     BareHandAttack: 4
+     Str: 18
+     E
+
+In questo esempio abbiamo aggiunto 2 estensioni che sono barehandAttack e
+Str.
+Si possono mettere un numero senza limiti di Estensioni e in ogni ordine.
+Il formato e' semplice: parola chiave, 2 punti, valore.
+Diversamente dai mob di tipo S quelli di tipo E vogliono un carattere di
+terminazione alla fine (la lettera 'E')
+
+
+4.6.  Parole chiavi per l'estensione dei mob di tipo E
+
+Le uniche parole chiave supportate dal CircleMUD 3.0 sono
+BareHandAttack, Str, StrAdd, Int, Wis, Dex, Con, and Cha.
+Comunque queste estensioni sono state progettate affinche' sia possibile
+aggiungerne altre con estrema facilita'.
+Contattate gli implementor e fatevi dire quali altre estensioni sono
+disponibili.
+Il CircleMUD 3.10 dara' in questa sezione di estensione dei mob la
+possibilita' di settare individualmente per ogni mob le sue abilita'.
+
+   BareHandAttack
+      Controlla il testo che viene mostrato durante i combattimenti quando
+      qualcuno colpisce (o manca) un altro.(roba del tipo:'Fido il cane ti
+      morde estremamente forte').
+      
+      BareHandAttack deve assumere uno di questi valori
+             0    hit/hits		// comlpisce
+             1    sting/stings		// punge
+             2    whip/whips		// frusta
+             3    slash/slashes		// taglia,fende (lama)
+             4    bite/bites		// morde
+             5    bludgeon/bludgeons	// colpisce	(martello)	
+             6    crush/crushes		// ""
+             7    pound/pounds		// ""		(clava)
+             8    claw/claws		// graffia
+             9    maul/mauls		// non lo so ;)
+             10   thrash/thrashes	// rovina ?
+             11   pierce/pierces	// arma da punta (non conosco il
+					// verbo adatto)
+             12   blast/blasts		// BOOM!
+             13   punch/punches		// prende a pugni
+             14   stab/stabs		// come pierce
+
+I messaggi mostrati quando un attaccante manca o uccide la sua vittima
+vengono caricati dal file lib/misc/messages.
+Il numero del tipo di attacco per le armi e' 300 + il numero che si trova
+nell'elenco sopra dei BareHandAttack, cosi' per modificare il messaggio che
+appare quando un giocatore viene frustato (tipo di attacco 2) si deve andare
+a cercarlo nel file lib/misc/messages in corrispondenza del numero
+sotto il numero 300+2=302
+
+Nota: aggiungere nuovi tipi di attacco richiede modificare il codice e non
+basta semplicemente aggiungere i nuovi messaggi nel fiule lib/misc/messages
+Vedere il manuale di programmazione del CircleMUD su
+<http://www.circlemud.org/~jelson/circle/cdp/coding> per maggiori
+informazioni.
+
+   Str, StrAdd, Int, Wis, Dex, Con, Cha
+
+nell' ordine sono la Forza, il bonus della
+Forza,Intelligenza,Saggezza,Destrezza,Costituzione e Carisma.      
+Devono assumere valori tra 3 e 18
+
+5.  File degli Oggetti
+
+5.1.  Il formato di un oggetto
+
+     ______________________________________________________________________
+     #<numero virtuale>
+     <lista degli alias>~
+     <descrizione breve>~
+     <descrizione lunga>~
+     <descrizione dell'azione>~
+     <flag tipo di oggetto> <bitvector caratteristiche> <bitvector
+abbigliamento>
+     <variabile 0> <variabile 1> <variabile 2> <variabile 3>
+     <peso> <valore in monete d'oro> <costo di rent al giorno>
+     {Zero o piu' descrizioni extra e Modificatori}
+     ______________________________________________________________________
+
+NdAke: La flag del tipo di oggetto e i 2 bitvector vanno sulla
+rigaaaaaaaaa!
+
+Ci possono essere un numero illimitato di descrizioni extra e fino a 6 Campi
+Di Stato
+
+   Numero Virtuale
+	Questop numero e' critico, e' l'identita' dell'oggetto nel gioco.E'
+	il numero che verra' usato nei file delle zone per fare riferimento
+	all'oggetto ed e' il numero usato con il comando 'load' per caricare
+	oggetti durante il gioco.I numeri virtuali devono apparire in ordine
+	crescente nel file degli oggetti.
+
+
+   Lista degli Alias
+	La lista delle parole chiave, separate da spazi che possono essere
+	usate dai giocatori per identificare un oggetto.
+	L'oggetto puo' solo essere identificato dalle parole chiave che
+	appaiono nella lista; non puo' essere identificato da una parola se
+	compare solo nella descrizione dell'oggetto.
+	Bisogna fare grande attenzione e assicurarsi che le parole chiave
+	siano le stesse che compaiono nel nome dell'oggetto.      
+	(NdAke:significa che siccome i giocatori vedono una descrizione
+	dell'oggetto (e non le parole chiave), si deve fare in modo che 
+	in essa compaiano le parole chiave con cui poi possono riferirsi 
+	all'oggetto, o per lo meno che le si possano dedurre.)
+	Non inserire parole come 'the', 'a', 'an' nella lista degli alias.
+	(NdAke: perche' il mud provvede ad aggiungerle se necessario al
+	momento giusto, ma questo ha senso se le parole chiave sono in
+	inglese)	
+
+
+
+   Descrizione Brave
+	E' la descrizione di un oggetto usata dal MUD quando l'oggetto viene
+	utilizzato.
+	Per esempio, una descrizione breve di
+	'un bastone lungo e verde' si ritroverebbe in un messaggio come:
+	'Fido il cane raccoglie un bastone lungo e verde'.
+	Non terminare la descrizione breve con un punto, perche' verra'
+	usata dal MUD e inserita per essere inserita all'interno di una frase.
+
+
+   Descrizione Lunga
+	E' la descrizione mostrata quando l'oggetto viene visto per terra,
+	per esempio:'un mazza ferrata e' stat abbandonata per terra.'
+	Diversamente dalle descrizioni brevi quelle lunghe devono terminare
+	con un punto.	
+
+
+   Descrizione dell'azione
+	Vengono usate soprattutto per oggetti magici (bacchette, bastoni,
+	pergamene e pozioni) per specificare il messaggio da mostrare quando
+	l'oggetto viene utilizzato.
+      	Queste descrizioni devono essere date nel formato specificato nel
+	file act.doc.Se questa descrizione viene lasciata vuota viene
+	utilizzato un messaggio di default
+
+
+Action Descriptions are primarily used for magical objects
+      (staves, wands, scrolls, and potions) to specify what message
+      displayed to the room when the magical item is used.  The Action
+      Description should be given in the act format specified in
+      act.doc.  If no Action Description is present, a default message
+      will be used:
+	nel caso di bastoni:
+      	  Rasmussen taps <object> three times on the ground.
+  	nel caso di bachette:
+      	  Rasmussen points <object> at Onivel.
+	nel caso di pergamene:
+      	  Rasmussen recites <object>.
+	nel caso di pozioni:
+          Rasmussen quaffs <object>.
+
+	Per oggetti leggibili (carte,fogli etc..), questa descrizione 
+	contiene il testo scritto sul foglio
+
+   Flag per il tipo di oggetto
+	Questa flag assume valore numerici per determinare di che tipo di
+	oggetto si tratta (arma,cibo,torcia, etc..)
+	Inoltre da questa flag dipendono i significati delle variabili
+	variabile0,variabile1,variabile2,variabile3
+	I valori che puo' assumere sono:
+   ___________________________________________________________________
+   1    LIGHT          sorgente di luce
+   2    SCROLL         pergamena magica.
+   3    WAND           bacchetta magica.
+   4    STAFF          bastone magico.
+   5    WEAPON         arma.
+   6    FIREWEAPON     Non implementato
+   7    MISSILE        Non implementato
+   8    TREASURE       un tesoro (che non siano soldi, per esempio gemme)
+   9    ARMOR          armatura.
+   10   POTION         pozione magica.
+   11   WORN           Non implementato
+   12   OTHER          oggetto generico senza proprieta' particolari.
+   13   TRASH          Immondizia, viene raccolta da spazzini e non viene
+		       comprata dai negozianti.
+   14   TRAP           Non implementata
+   15   CONTAINER      Contenitore (ci si possono mettere dentro altri
+		       oggetti).
+   16   NOTE           E' un'appunto (un pezzo di carta con qualcosa scritto
+		       sopra per esempio).
+   17   DRINKCON       Contenitore di liquidi (bottiglia,barile,etc).
+   18   KEY            Chiave
+   19   FOOD           Cibo.
+   20   MONEY          Denaro  (monete d'oro).
+   21   PEN            Penna.
+   22   BOAT           Barca (per attraversare settori d'acqua in cui 
+			non si puo' nuotare [SECT_WATER_NOSWIM]).
+   23   FOUNTAIN       Fontana.
+   ___________________________________________________________________
+
+   Bitvector caratteristiche
+	vedere la sezione sui bitvector per informazioni su cosa sono e come
+	si usano.
+	Serve per specificare alcune caratteristiche particolari 
+	dell'oggetto.Le flag che sono marcate come 'cosmetic' si limitano ad
+	aggiungere un messaggio all'oggetto quando viene esaminato, 
+	ma non hanno altri effetti.
+ 	Queste sono le flag:
+        ___________________________________________________________________
+        1     a   GLOW           Luminoso,brillante  (cosmetic).
+        2     b   HUM            Ronzante (cosmetic).
+        4     c   NORENT         Non si puo' rentare.
+        8     d   NODONATE       Non si puo' donare.
+        16    e   NOINVIS        Non si puo' rendere invisibile.
+        32    f   INVISIBLE      E' invisibile.
+        64    g   MAGIC          E' magico e non si puo' incantare.
+        128   h   NODROP         E' maledetto e non si puo' gettare.
+        256   i   BLESS          E' benedetto (cosmetic).
+        512   j   ANTI_GOOD      Non puo' essere usato da personaggi buoni
+        1024  k   ANTI_EVIL      Non puo' essere usato da personaggi cattivi
+        2048  l   ANTI_NEUTRAL   Non puo' essere usato da personaggi
+				 neutrali.
+        4096  m   ANTI_MAGIC_USER Non puo' essere usato da maghi
+        8192  n   ANTI_CLERIC    Non puo' essere usato da chierici
+        16384 o   ANTI_THIEF     Non puo' essere usato da ladri
+        32768 p   ANTI_WARRIOR   Non puo' essere usato da guerrieri
+        65536 q   NOSELL         I negozianti non lo venderanno ne
+				compreranno
+        ___________________________________________________________________
+
+   Bitvector abbigliamento
+	vedere la sezione sui bitvector per informazioni su cosa sono e come
+	si usano.
+	Le flag sono le seguenti:
+        ___________________________________________________________________
+        1     a   WEAR_TAKE      Puo' essere raccolto
+        2     b   WEAR_FINGER    Si indossa al dito
+        4     c   WEAR_NECK      Si indossa al collo
+        8     d   WEAR_BODY      Si mette sul corpo
+        16    e   WEAR_HEAD      Si mette in testa
+        32    f   WEAR_LEGS      Si mette sulle gambe
+        64    g   WEAR_FEET      Si mette ai piedi
+        128   h   WEAR_HANDS     Si mette sulle mani
+        256   i   WEAR_ARMS      Si mette sulle braccia
+        512   j   WEAR_SHIELD    Si usa come scudo
+        1024  k   WEAR_ABOUT     Si mette intorno al corpo (mantello).
+        2048  l   WEAR_WAIST     Si mette alla vita (cintura).
+        4096  m   WEAR_WRIST     Si mette al polso
+        8192  n   WEAR_WIELD     Si puo' impugnare (armi)
+        16384 o   WEAR_HOLD      Si puo' tenere in mano (con il comando
+				'hold')
+        ___________________________________________________________________
+
+	Notare che il bit WEAR_TAKE rende possibile/impossibile raccogliere da
+	terra un oggetto con il comando 'get', mentre il bit WEAR_HOLD
+	controlla se un oggetto si puo' indossare con il comando 'hold'
+
+
+   variabile 0, variabile 1, variabile 2, variabile 3
+      Queste variabili sono importantissime.
+	Definiscono le abilita' dell'oggetto in base al tipo di oggetto di
+	cui si tratta.
+	Vedere la sezione sulle Definizioni delle Variabili di un Oggetto
+	per altre informazioni sui valori che queste variabili possono
+	assumere.
+
+   peso
+	E' il peso dell'oggetto.
+	Il peso controlla quale forza deve avere un personaggio per prendere
+	l'oggetto e viene usato per controllare se borse o altri contenitori 
+	sono pieni.
+
+   valore
+      Il valore in monete d'oro.
+	Viene usato dai negozianti ad esempio.
+
+   Costo di rent al giorno
+	Rentare questo oggetto costa del denaro al giorno specificato da
+	questo campo.
+	
+5.2.  Definizione delle variabili degli oggetti
+
+Il significato delle 4 variabili dipende dal tipo di oggetto,
+determinato dalla apposita flag.
+
+Nella tabella sotto 'inutilizzata' significa che il MUD ignora il valore di
+quella variabile, ci si puo' mettere qualcunque numero (anche se zero
+sarebbe da un punto di vista dell'ordine la scelta migliore).
+Invece "Non implementata" indica che la corrispondente flag che individua il
+tipo dell'oggetto non e' ancora stata implementata.
+
+Un indice dei numeri degli incantesimi da usare con gli oggetti magici si
+trova nell' Appendice A 'Numeri degli Incantesimi'
+
+
+   LIGHT (Flag per il tipo di oggetto 1)	// luce
+
+        variabile 0: inutilizzata
+        variabile 1: inutilizzata
+        variabile 2: Quante ore di luce.
+                   0: Esaurita.
+                  -1: Luce eterna.
+        variabile 3: inutilizzata
+
+   SCROLL (Flag per il tipo di oggetto 2)	// pergamena
+
+             variabile 0: Livello dell'incantesimo da lanciare.
+             variabile 1: Numero dell'incantesimo 1
+             variabile 2: Numero dell' incantesimo 2
+             variabile 3: Numero dell' incantesimo 3
+                  Se si desidera mettere meno di 3 incantesimi
+		  basta usare -1 come Numero dell'incantesimo
+
+   WAND (Flag per il tipo di oggetto 3)		// bacchetta
+
+             variabile 0: Livello dell'incantesimo
+             variabile 1: Quante cariche al massimo  ? (>= 1)
+             variabile 2: Cariche rimaste
+             variabile 3: Numero dell' incantesimo
+
+   STAFF (Flag per il tipo di oggetto 4)	// bastone
+
+             variabile 0: Livello dell'incantesimo
+             variabile 1: Quante cariche al massimoe (>= 1)
+             variabile 2: Quante cariche rimangono ?
+             variabile 3: Numero dell' incantesimo
+
+   WEAPON (Flag per il tipo di oggetto 5)	// arma
+
+        variabile 0: inutilizzata
+        variabile 1: Numero di dadi per determinare il danno
+        variabile 2: Dimensione dei dadi per determinare il danno
+        variabile 3: Tipo di arma per i messaggi di danno, uno tra:
+                  0    hit/hits			//colpisce
+                  1    sting/stings		// punge
+                  2    whip/whips		//frusta
+                  3    slash/slashes		//taglia, fende
+                  4    bite/bites		// morde
+                  5    bludgeon/bludgeons	// colpisce (mazza)
+                  6    crush/crushes		// colpisce (martello)
+                  7    pound/pounds		// colpisce (clava)
+                  8    claw/claws		//graffia
+                  9    maul/mauls		// boh? (odio il vocabolario)
+                  10   thrash/thrashes		// Distrugge ?
+                  11   pierce/pierces		// pugnala (armi da punta)
+                  12   blast/blasts		// BOOM!
+                  13   punch/punches		// prende a pugni
+                  14   stab/stabs		// pugnala
+
+   FIREWEAPON (Flag per il tipo di oggetto 6)	// non usata
+      Non implementata	
+
+   MISSILE (Flag per il tipo di oggetto 7)	// non usata
+      Non implementata
+	
+   TREASURE (Flag per il tipo di oggetto 8)	// tesoro
+
+             variabile 0: inutilizzata
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: inutilizzata
+
+   ARMOR (Flag per il tipo di oggetto 9)	// armatura
+
+             variabile 0: 
+			AC da applicare all'armatura.Notare che l'effettivo
+			cambiamento dell' AC e' questo valore per un 
+			moltiplicatore che varia in base a dove viene
+			indossata l'armatura.
+			Valori positivi migliorano la classe armatura,
+			valori negativi la peggiorano (armature maledette
+			per esempio).
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: inutilizzata
+
+   POTION (Flag per il tipo di oggetto 10)	// pozione
+
+        variabile 0: Livello dell' incantesimo
+        variabile 1: Numero dell' incantesimo 1
+        variabile 2: Numero dell' incantesimo 2
+        variabile 3: Numero dell' incantesimo 3
+		Se si vogliono associare alla pozione meno di 3 incantesimi
+		 usare -1 come numero dell' incantesimo
+
+   WORN (Flag per il tipo di oggetto 11)	// non usata
+      Non implementata
+
+   OTHER (Flag per il tipo di oggetto 12)	// generico
+	
+             variabile 0: inutilizzata
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: inutilizzata
+
+   TRASH (Flag per il tipo di oggetto 13)	// immondizia
+
+             variabile 0: inutilizzata
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: inutilizzata
+
+   TRAP (Flag per il tipo di oggetto 14)	// trappola
+      Non implementata
+
+   CONTAINER (Flag per il tipo di oggetto 15)	// contenitore
+
+             variabile 0: Capacita' (max peso che puo' contenere) del
+			  contenitore
+             variabile 1: Bitvector (DEVE essere bitvector numerico e NON
+			  alfanumerico !!!)
+		Il contenitore
+                  1    CLOSEABLE      si puo' chiudere e chiudere a chiave.
+                  2    PICKPROOF      Non si puo' scassinarne il lucchetto.
+                  4    CLOSED         e' chiuso quando viene creato
+                  8    LOCKED         e' chiuso a chiave quando viene creato
+             variabile 2: Il numero virtuale della chiave che apre questo
+			  contenitore
+	                       -1 se non ha chiave
+             variabile 3: Riservato (zero)
+
+   NOTE (Flag per il tipo di oggetto 16)	// nota,manoscritto
+
+        variabile 0: Linguaggio con cui e' scritta la nota (non implementato).
+        variabile 1: inutilizzata
+        variabile 2: inutilizzata
+        variabile 3: inutilizzata
+
+   DRINKCON (Flag per il tipo di oggetto 17)	// contenitore bevande
+      vedere Appendice ``Contentori di Bevande''.
+
+   KEY (Flag per il tipo di oggetto 18)		// chiave
+
+             variabile 0: inutilizzata
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: inutilizzata
+
+   FOOD (Flag per il tipo di oggetto 19)	//cibo
+
+             variabile 0: Numero di ore di sazieta' che il cibo fornisce
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: Diverso da zero se avvelenato, 0 altrimenti.
+
+   MONEY (Flag per il tipo di oggetto 20)	// denaro
+
+             variabile 0: Numero di monete d'oro
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: inutilizzata
+
+   PEN (Flag per il tipo di oggetto 21)		// penna
+
+             variabile 0: inutilizzata
+             variabile 1: inutilizzata
+             variabile 2: inutilizzata
+             variabile 3: inutilizzata
+
+   BOAT (Flag per il tipo di oggetto 22)	// barca
+
+        variabile 0: inutilizzata
+        variabile 1: inutilizzata
+        variabile 2: inutilizzata
+        variabile 3: inutilizzata
+
+   FOUNTAIN (Flag per il tipo di oggetto 23)	//Fontana
+      Vedere Appendice ``Contenitori di bevande''.
+
+5.3.  Descrizioni Extra 
+
+Le descrizioni extra permettono ai giocatori di esaminare certi aspetti
+degli oggetti definiti dagli area-builder, proprio come le descrizioni extra
+delle stanze.
+Ci possono essere un numero illimitato di descrizioni extra di ogni oggetto.
+Il formato e' lo stesso usato per le descrizioni extra delle stanze.
+
+     ______________________________________________________________________
+     E
+     <lista parole chiave>~
+     <Descrizione>
+     ~
+     ______________________________________________________________________
+
+   Lista parole chiave
+	Una lista di parole chiave separate da spazi che vengono usate dai
+	giocatori per accedere alle descrizioni
+
+   Descrizione
+	Il testo che apparira' quando un giocatore digitera' 'look
+	<qualcosa>', dove <qualcosa> e' una delle parole chiave della lista
+
+
+5.4.  Modificatori di un oggetto
+
+NdAke: I Modificatori sarebbero gli Affect Field
+
+Servono a dare agli oggetti proprieta' magiche.
+Modificano il personaggio che sta indossando l' oggetto.
+
+Il formato e':
+
+     ______________________________________________________________________
+     A
+     <locazione> <valore>
+     ______________________________________________________________________
+
+   Locazione
+	L'aspetto del personaggio che deve essere modificato.
+	Deve essere uno dei seguenti:
+        ___________________________________________________________________
+        0    NONE           Nessuno
+        1    STR            Modifica la forza.
+        2    DEX            Modifica la destrezza.
+        3    INT            Modifica la intelligenza.
+        4    WIS            Modifica la saggezza.
+        5    CON            Modifica la costituzione.
+        6    CHA            Modifica il carisma.
+        7    CLASS          Non Implementato.
+        8    LEVEL          Non Implementato.
+        9    AGE            Modifica l'eta' in anni-MUD.
+        10   CHAR_WEIGHT    Modifica il peso.
+        11   CHAR_HEIGHT    Modifica l'altezza.
+        12   MANA           Modifica il massimo numero di punti mana
+        13   HIT            Modifica il massimo numero di punti ferita
+        14   MOVE           Modifica il massimo numero di punti movimento
+        15   GOLD           Non Implementato.
+        16   EXP            Non Implementato.
+        17   AC             Modifica la classe armatura
+        18   HITROLL        Modifica il bonus al tiro per colpire
+        19   DAMROLL        Modifica il bonus al tiro per i danni.
+        20   SAVING_PARA    Modifica il tiro salvezza contro: paralisi
+        21   SAVING_ROD     Modifica il tiro salvezza contro: Bastoni
+        22   SAVING_PETRI   Modifica il tiro salvezza contro:
+			    pietrificazione
+        23   SAVING_BREATH  Modifica il tiro salvezza contro: soffio
+        24   SAVING_SPELL   Modifica il tiro salvezza contro: incantesimi
+        ___________________________________________________________________
+
+   Valore
+	Il numero usato per modifcare la Locazione
+
+Per esempio
+Un campo di modifica cosi' fatto:
+
+     A
+     12 50
+
+aggiungera' 50 al massimo numero di punti mana del personaggio.
+
+5.5.  Esempio di file degli oggetti.
+
+#901
+scudo minotauro~
+uno scudo da minotauro~
+Uno scudo da minotauro e' stato abbandonato qui.~
+~
+9 dgh 513
+12 0 0 0
+15 5000 1350
+E
+scudo minotauro~
+E' uno scudo resistente e pesante su cui sono incise immagini di lotta.
+~
+A
+23 -4
+A
+4 2
+
+Questo oggetto ha numero virtuale 901, e' di tipo 9 (armatura), non puo'
+essere donato, e' magico e non puo' essere abbandonato.
+Si puo' raccogliere e usare come scudo.
+Ha un modificatore della classe armatura = 12, pesa 15 libbre, e' valutato
+5000 monete d'oro e costa 1350 monete al giorno rentarlo.
+I suoi Modificatori indicano che l'oggetto migliora i tiri salvezza contro
+incantesimi di 4 punti (abbassandoli di 4) e aumenta la saggezza di 2.
+
+6.  File delle zone
+
+I file delle zone sono quelli che controllano come sono configurate le aree
+e come vengono resettate, fanno cioe' in modo di combinare insieme
+mob,oggetti e stanze per popolare il mondo del MUD.
+
+Un file di zona contiene certe informazioni iniziali (specificate sotto)
+seguite da u na serie di comandi di reset. Ogni volta che una zona viene
+resettata (inizializzata) il MUD esegue tutti i comandi in ordine dal primo
+all'ultimo.
+Tutte le zone sono inizializzate quando il MUD viene eseguito (al boot) e
+periodicamente reinizializzate durante il gioco.
+
+6.1.  Il formato di un file di zona
+
+     ______________________________________________________________________
+     #<numero virtuale>
+     <nome della zona>~
+     <numero dell' ultima stanza> <tempo di vita> <modalita' di reset>
+     {zero o piu' comandi di zona}
+     S
+     ______________________________________________________________________
+
+Le linee che iniziano con '*' sono considerate commenti e ignorate.
+I comandi di zona possono essere seguiti da commenti delimitati da un '*'
+iniziale.
+I comandi di zona devono essere tertminati da un 'S'.
+(NdAke: meglio, ci deve essere un 'S' sulla riga successiva all'ultimo 
+comando di zona)
+
+   Numero virtuale
+	Un numero arbitrario usato per identificare la zona.
+	I numeri di zona tradizionalmente sono i numeri delle stanze della
+	zona divisi per 100.
+	Per esempio Midgaard, che e' composta dalle stanze dalla 3000 alla
+	3099 e' la zona 30.
+
+
+   Nome della zona
+	Un'etichetta in modo da poter identificare eventi che accadono in
+	quella zona nei messaggi di log.    
+
+   Numero dell' ultima stanza della zona
+      La stanza che appartiene alla zona e che ha il numero piu' alto.
+	Una stanza con numero virtuale V appartiene alla zona N se
+	La_Stanza_ConIl_Numero_Massimo(zona N-1) < V <= 
+		<= La_Stanza_ConIl_Numero_Massimo(zona N)
+	pewr tutti gli N > 0
+	Le stanze appartengono alla zona zero se il loro numero e' tra 0 e
+	il numero della stanza con il numero piu' alto.
+
+   
+   Tempo di vita
+	Il numero di minuti (reali !!) tra un reset e l'altro per questa
+	zona.   
+	Quando l'eta' della zona (misurata in minuti dall' ultimo reset)
+	raggiunge il tempo di vita, la zona viene messa in attesa per la
+	reinizializzazione.
+	La zona e' poi effettivamente resettata quando raggiunge la cima
+	della coda e le condizioni di reset (imposte dalla modalita' di
+	reset) sono rispettate.
+
+   Condizioni di reset (o inizializzazione)
+	Possono assumere 3 valori: 0,1 o 2:
+
+      0  Non resettare mai la zona.In questo caso l'eta' della zona non
+	 viene mai aggiornata e la zone non verra' mai messa in attesa 
+	 di reset.
+
+      1  Resetta la zona solo dopo che ha raggiunto il suo tempo di vita 
+	 ed e' deserta (controllato ogni minuto) 
+	 (NdAke:deserta=senza giocatori)
+	Questo puo' rendere la zona 'giusta' perche' impedisce ai mob
+	'grossi' di ripoppare (riapparire) fino a quando i giocatori 
+	non l'hanno abbandonata, ma su un MUd pieno di gente potrebbe
+	impedire alla zone di essere mai reinizializzata...	
+
+      2  Resetta la zona non appena ha raggiunto il suo tempo di vita
+	indipendentemente da chi o cosa c'e' dentro.Questo e' il 
+	modo di reset piu' usato. 
+
+6.2.  Comandi di zona
+
+Ogni comando consiste di una lettera, che identifica il tipo di comando,
+seguita da 3 o 4 argomenti.
+Il primo argomento, comune a tutti i comandi, e' chiamato flag-condizionale
+Se questa flag per un comando vale 1 allora il comando viene eseguito solo
+se il comando immediatamente precedente era stato eseguito.
+Se la flag condizionale e' 0 il comando viene eseguito sempre.
+Queste flag sono utili per esempio per equipaggiare i mob, perche' non si
+vorrebbe mai equipaggiare un mob prima che questi sia stato caricato !!
+
+
+I comandi che caricano mob e oggetti includono anche un argomento che dice
+il numero massimo di copie in gioco (del mob o dell'oggetto) che possono 
+esistere in tutto il mondo.
+Se il numero delle copie esistenti e' maggiore o uguale al valore di questo
+argomento il comando non viene eseguito.
+(NdAke:Se decidiamo che di Super-Spade ne possono esistere al max 2 nel MUD,
+al boot ne verra' caricata una, al primo reset della zona verra' caricata
+l'altra e poi basta fin tanto che una delle 2 o entrambe spariscono, oppure
+fino al prossimo reboot del MUD.
+Naturalmente questo 'maxaggio' degli oggetti non tiene conto delle copie 
+degli oggetti che non sono in gioco.)
+
+NdAke:
+	Chiamero' per brevita' i numeri virtuali 'vnum'
+	e il numero massimo di copie di un mob o di un oggetto
+	<max num copie>
+
+I comandi di zona sono M, O, G, E, P, D , R
+
+   M: carica un Mob
+      Formato: M <flag-condiz> <vnum del mob> <max num copie> <vnum stanza>
+
+	<vnum> del mob e' il numero virtuale del mob da caricare.
+	L'ultimo argomento e' il numero virtuale della stanza in cui
+	caricare il mob.     
+	 
+
+   O: load an object
+      Format: O <flag-condiz> <vnum oggetto> <max num copie> <vnum stanza>
+
+	<vnum oggetto> e' il numero dell'oggetto da caricare nella stanza
+	con numero virtuale <vnum stanza>.
+	L'oggetto viene caricato nella stanza per terra.
+
+   G: give object to mobile
+      Format: G <flag-condiz> <vnum oggetto> <max num copie>
+
+      <vnum oggetto> e' il numero dell'oggetto che viene caricato e messo
+	nell'inventario dell'ultimo mob caricato con il comando 'M'
+
+	In genere questo comando viene usato con la flag-condizionale
+	settata a 1, dato che tentare di mettere in inventario un oggetto 
+	ad un mob che non esiste genererebbe errore.
+
+   E: equipaggia il mob con un oggetto.
+      Format: E <flag-condiz> <vnum oggetto> <max num copie> <posizione>
+
+	<vnum oggetto> e' il numero dell' oggetto che viene caricato e
+	indossato dall'ultimo mob caricato con il comando 'M' nella 
+	posizione indicata, che deve essere una tra:
+	Indossato :
+                  0	come luce    
+                  1    al dito destro
+                  2    al dito sinistro
+                  3    attorno al collo (primo oggetto)
+                  4    attorno al collo (secondo oggetto)
+                  5    sul corpo
+                  6    sulla testa
+                  7    sulle gambe
+                  8    sui piedi
+                  9    sulle mani
+                  10   sulle braccia
+                  11   come scudo
+                  12   attorno al corpo
+                  13   alla vita
+                  14   al polso destro
+                  15   al polso sinistro
+                  16   Impugnato come arma
+                  17   tenuto in mano
+
+   Questo comando viene generalmente usato con la flag-condizionale settata
+   ad 1, dato che dare un oggetto ad un mob che non esiste genererebbe
+   errore.
+
+
+   P: mette un oggetto dentro ad un altro
+      Format: P <flag-condiz> <vnum oggetto 1> <max num copie> <vnum oggetto 2>
+
+      <vnum oggetto 1> e' il numero virtuale dell' oggetto che viene
+      caricato e messo dentro alla copia dell' oggetto con numero virtuale
+      <vnum oggetto 2> che e' stato caricato piu' di recente.
+
+      Viene generalmente usato con flag-condizionale = 1 per evitare di
+      mettere un oggetto dentro ad uno che non esiste.	
+
+
+   D: determina lo stato di una porta
+      Format: D <flag-condiz> <vnum stanza> <direzione> <stato>
+
+      <vnum stanza> e' il numero virtuale della stanza in cui c'e' la porta
+      da sistemare.
+      La <direzione> e':
+
+                  0    Nord
+                  1    Est
+                  2    Sud
+                  3    Ovest
+                  4    Su
+                  5    Giu
+
+   <stato>:
+
+                  0    Aperta
+                  1    Chiusa
+                  2    Chiusa e chiusa a chiave
+
+   IMPORTANTE: si devono sistemare entrambi i lati delle porte in modo
+	       corretto.
+	       Chiudere una porta che conduce a nord non implica 
+	       automaticamente che l'uscita a sud della stanza adiacente 
+	       sia chiusa!
+
+   R: rimuovere un oggetto da una stanza
+      Format: R <flag-condiz> <vnum stanza> <vnum oggetto>
+	
+      <vnum oggetto> e' il numero dell' oggetto da togliere dalla stanza con
+      numero virtuale <vnum stanza>.
+
+
+6.3.  Esempio di file di zona
+
+
+#30                           * Questa e' la zona 30
+Northern Midgaard Main City~  * Nome della zona
+3099 15 2                     * Ultima stanza #3099; la zona viene
+*                             * reinizializzata ogni 15 minuti SEMPRE
+*
+* Mob
+M 0 3010 1 3062         * Carica il Postino e lo mette in stanza 3062
+* Negozianti
+M 0 3003 1 3011         Carica l'armaiolo nella stanza 3011
+* Diamo all'armaiolo un po' di oggetti (nel suo inventario)
+* Al massimo 100 copie di questi oggetti possono coesistere nel mud
+* contemporaneamente
+G 1 3020 100                    Daga
+G 1 3021 100                    Spada Corta
+G 1 3022 100                    Spada Lunga
+G 1 3023 100                    Mazza di Legno
+G 1 3024 100                    martello da guerra
+G 1 3025 100                    Frusta
+* e infine gli diamo una Spada Lunga da impugnare
+E 1 3022 100 16                 Spada Lunga
+* Carica le bacheche
+O 0 3099 2 3000         Bacheca dei Mortali in stanza 3000
+* La "S" deve apparire quando sono terminati tutti i comandi di una zona.
+S
+
+7.  File dei Negozi
+
+Il CircleMUD 3.0 ha un nuovo formato per i file dei negozi.
+Siccome il vecchio formato e' ancora supportato, entrambe le documentazioni
+saranno presenti nelle prossime pagine.
+Se volessi convertire i vecchi file dei negozi al formato nuovo devi
+compilare ed eseguire l'utility shopconv..il MUd poi sara' in grado di
+distinguere i file vecchi da quelli nuovi ed eseguire la conversione solo
+dei vecchi.
+
+7.1.  Il formato dei file dei negozi nel CircleMUD v3.0 
+
+Il formato totale e':
+
+     ______________________________________________________________________
+     CircleMUD v3.0 Shop File~
+     <Shop 1>
+     <Shop 2>
+     <Shop n>
+     $~
+     ______________________________________________________________________
+
+La prima stringa (quella con la versione) serve al MUD per capire che si
+tratta del nuovo formato.
+Poi ci sono le descrizioni dei vari negozi (che vedremo di seguito) e poi il
+file termina con un '$~'
+
+Il formato di un negozio e':
+______________________________________________________________________
+#<Numero del negozio>~
+<Vnum Oggetto 1>
+<Vnum Oggetto 2>
+<Vnum Oggetto 3>
+  .
+  .
+  .
+<Vnum Oggetto n>
+-1
+<Profitto quando vende>
+<Profitto quando compra>
+<Tipo di articolo che compra 1>  [Lista parole chiave 1]
+<Tipo di articolo che compra 2>  [Lista Parole Chiave 2]
+<Tipo di articolo che compra 3>  [Lista parole Chiave 3]
+  .
+  .
+  .
+<Tipo di articolo che compra n>  [Lista Parole Chiave n]
+-1
+<Messaggio al giocatore quando cerca di comprare un articolo inesistente>~
+<Messaggio al giocatore quando cerca di vendere un articolo inesistente>~
+<Messaggio quando il negoziante non vuole comprare>~
+<Messaggio quando il negozio non ha abbastanza soldi>~
+<Messaggio quando il giocatore non ha soldi>~
+<Messaggio quando il giocatore compra>~
+<Messaggi quando il giocatore vende>~
+<Temperamento>
+<Bitvector del negozio>
+<Numero del mob-negoziante>
+<Bitvector antipatia>
+<Numero virtuale stanza del negozio 1>
+<Numero virtuale stanza del negozio 2>
+<Numero virtuale stanza del negozio 3>
+   .
+   .
+   .
+<Numero virtuale stanza del negozio n
+-1
+<orario di apertura 1>
+<orario di chiusura 1>
+<orario di apertura 2>
+<orario di chiusura 2>
+______________________________________________________________________
+
+   Numero negozio
+	Un numero univoco per il negozio (viene usato solo per poterlo
+	mostrare in alcuni casi)
+
+   Vnum Oggetto 1...Vnum Oggetto n
+	Una lista lunga a piacere di numeri virtuali di oggetti che il
+	negozio produce (cioe' che sono sempre disponibili, indipendentemente da
+	quanti ne vengono comprati)
+	La lista deve essere terminata da un -1
+
+   Profitto quando vende
+	Il prezzo di vendita e' il valore dell'oggetto moltiplicato per
+	questo fattore di profitto, che e' un numero in viorgola 
+	mobile >= 1.0      
+
+   Profitto quando compra
+	Il negoziante si offrira' di comprare qualcosa ad un prezzo pari al
+	valore dell' oggetto moltiplicato per il fattore di profitto, che e' 
+	un numero in virgola mobile <= 1.0
+
+   Tipo di articolo che compra e lista parole chiave
+	Queste righe controllano il tipo di articoli che il negozio compra.
+	Possono essere liste arbitrariamente lunghe di tipi di oggetti
+	terminate da un -1.
+	Il primo argomento, chiamato 'Tipo di oggetto che compra' e' il flag
+	per il tipo di oggetto che individua il genere di oggetti che il
+	negozio puo' comprare (vedere 'Tipo di un oggetto' nella sezione
+	sul formato degli oggetti)
+	In questo campo si possono usare sia numeri che parole inglesi	
+	(cioe' 5, oppure WEAPON, 9 oppure ARMOR etc..)
+
+	Il secondo argomento (opzionale) e' una lista delle parole chiave 
+	e permette al
+	creatore di zone di fornire quelle parole chiave (opzionali) 
+	che devono essere presenti nella lista delle parole chiave
+	dell'oggetto (vedi la sezione sugli oggetti) affinche' il negoziante
+	possa comprare o vendere l'oggetto in questione.
+
+
+   Messaggio al giocatore quando cerca di comprare un articolo inesistente
+	Il giocatore riceve questo messaggio se cerca di comprare un oggetto
+	che il negoziante non ha in inventario.
+
+   Messaggio al giocatore quando cerca di vendere un articolo inesistente
+	Il giocatore riceve questo messaggio se cerca di vendere un oggetto
+	che non ha in inventario.
+
+   Messaggio quando il negoziante non vuole comprare
+	Il messaggio viene mostrato al giocatore se cerca di vendere un
+	articolo che il negoziante non vuole (dipende dal tipo di oggetto 
+	e dalle parole chiave)
+
+   Messaggio quando il negozio non ha abbastanza soldi
+	Il messaggio che viene mostrato al giocatore se cerca di vendere un
+	articolo al negozio, ma il negoziante non ha abbastanza denaro per 
+	comprarlo
+
+   Messaggio quando il giocatore non ha soldi
+	Il messaggio viene mostrato ad un giocatore se cerca di comprare un
+	articolo dal negozio ma non ha abbastanza denaro.
+
+   Messaggio quando il giocatore compra
+	Il messaggio viene mostrato al giocatore quando compra con successo
+	qualcosa dal negozio.
+	L'espressione %d puo' essere usata al posto del costo dell'oggetto.
+	(per esempio: 'Quello ti costera' %d monete !')
+
+   Messaggi quando il giocatore vende
+	Il messaggio viene mostrato al giocatore quando riesce a vendere con
+	successo un articolo ad un negozio.
+	L'espressione %d puo' essere usata al posto del costo dell'articolo
+	venduto.
+
+   Temperamento
+	Quando un giocatore non puo' permettersi un articolo, il negoziante
+	dice che non se lo possono permettere e poi puo' compiere altre 
+	azioni opzionali
+      (-1, 0, or 1):
+
+      -1 nessuna azione dopo il messaggio.
+
+      0  Il negoziante vomita addosso al giocatore.
+
+      1  Il negoziante si fuma 'na sizza.
+
+	Altre azioni possono essere aggiunte facilmente dagli implementor
+
+   Bitvector del negozio
+	vedi la sezione sui Bitvecotr per sapere cosa sono e come si usano
+
+        ___________________________________________________________________
+        1    a    WILL_START_FIGHT    I giocatori possono combattere col
+					negoziante.
+        2    b    WILL_BANK_MONEY     Il negoziante mette il denaro che
+				      supera i 15000 pezzi d'oro in banca.
+        ___________________________________________________________________
+
+   Una noticina:
+	I negozianti dovrebbero essere duri da sconfiggere (addirittura
+	impossibili da uccidere).
+
+
+   Numero del mob che agisce da negoziante
+      Il numero virtuale del mob
+
+   Bitvector Antipatia
+	Vedi la sezione sui Bitvector per saperne di piu'.
+	Questo bitvector determina quali allineamenti o classi stanno
+	antipatici al negoziante e con quali non trattera'.
+
+        ___________________________________________________________________
+        1     a   NOGOOD         Non tratta con i buoni.
+        2     b   NOEVIL         Non tratta con i cattivi.
+        4     c   NONEUTRAL      Non tratta con i neutrali.
+        8     d   NOMAGIC_USER   Non tratta con i maghi.
+        16    e   NOCLERIC       Non tratta con i chierici.
+        32    f   NOTHIEF        Non tratta con i ladri.
+        64    g   NOWARRIOR      Non tratta con i guerrieri.
+        ___________________________________________________________________
+
+Numero virtuale stanza del negozio 1...Numero virtuale stanza del negozio n
+	Il numero virtuale della stanza in cui si deve trovare il mob
+	affinche' il negozio sia funzionante
+	(per evitare che negozianti trasferiti nel deserto si mettano a
+	vendere anche li)
+	la lista puo' essere lunga a piacere e deve essere terminata da un
+	-1
+
+
+   orario di apertura
+	Le ore in cui il negozio e' aperto (ore-MUD, non ore reali!)
+	Si possono specificare due insiemi di coppie Apertura/Chiusura cosi'
+	che il negozio possa essere aperto due volte al giorno (per 
+	esempio una al mattino e l'altra di notte).
+	Per far si che il negozio sia sempre aperto, questi quattro valori
+	devono essere:	
+
+        0
+        28
+        0
+        0
+
+7.2.  Lista dei Nomi degli articoli per negozi del CircleMUD3.0
+
+Le liste di nomi sono formate da espressioni booleane.
+I seguenti operatori sono disponibili:
+
+               ',^ = Not      *, & = And     +, | = Or
+
+La precedenza e':
+ parentesi, Not, And, or.
+
+Ecco un esempio:
+
+WEAPON [spada & lunga|corta | martello | ^dorato & arco] & magico
+
+Questo negozio comprera' i seguenti tipi di ARMI (WEAPON):
+
+1. spada lunga magica
+
+2. corta magica (il primo & viene risolto prima del primo | )
+
+3. martello magico
+
+4. ^dorato arco magico
+
+Nota che il ^ davanti a "dorato" ha effetto solo su "dorato" e su
+nient'altro nella lista.
+Fondamentalmente l'espressione sopra puo' essere scritta in Italiano come:
+
+
+[(spada e lunga) oppure corta oppure martello oppure (non dorato e arco)] e
+magico
+
+Se volete che il negozio compri solo "corta magica" SOLO se sono spade
+("spada") l'espressione diventa:
+
+
+WEAPON [spada & (lunga|corta) | martello | ^dorato & arco] & magico
+                ^-Cambiato--^
+
+Si possono anche includere le flag del Bitvector Caratteristiche degli
+oggetti (Vedi sezione sugli oggetti).
+Il precedente esempio usava "magico" come parola chiave che doveva essere
+nell'oggetto.
+Se avessimo voluto che la flag MAGIC fosse settata sull'oggetto, avremmo
+dovuto cambiare "magico" con "MAGIC".
+Allo stesso modo si potevano inserire le altre flag semplicemente
+scrivendole ("HUM", "GLOW" etc..)
+Queste espressioni sono case-sensitive e quindi le parole chiave devono
+apparire in minuscolo per poterle distinguere dalle flag che invece sono in
+maiuscolo.
+
+7.3.  Il formato dei negozi nei DikuMUD e nel CircleMUD 2.20 
+
+Questo formato e' vecchio ma viene presentato lo stesso perche' ancora
+supportato dal CircleMUD3.0
+In molti casi e' piu' semplice usare l'utility shopconv distribuita assieme
+al CircleMUD per convertire i vecchi file dei negozi nel nuovo formato.
+
+
+#num~
+     Numero del negozio
+
+num1
+num2
+num3
+num4
+num5
+	Numeri virtuali degli oggetti che il negozio produce
+	Si deve mettere -1 negli slot vuoti.
+	NdAke: Solo 5, non infiniti come nel formato nuovo !
+
+Profitto di vendita
+	L'oggetto viene venduto al suo valore moltiplicato per il profitto,
+	che e' un numero in virgola mobile >=1.0
+
+Profitto di acquisto
+	L'oggetto viene comprato al suo valore moltiplicato per il profitto,
+	che e' un numero in virgola mobile <=1.0
+
+num1
+num2
+num3
+num4
+num5
+	Questi 5 numeri sono i tipi di oggetti che il negozio tratta
+	(cioe' compra)
+
+Messaggio quando il giocatore cerca di comprare un oggetto che non c'e'~
+Messaggio quando il giocatore cerca di vendere un oggetto che non c'e'~
+Messaggio quando il giocatore tenta di vendere un oggetto del tipo sbagliato~
+Messaggio quando il negoziante non ha abbastanza denaro per comrpare~
+Messaggio quando il giocatore non ha abbastanza denaro per comprare~
+Message quando il giocatore compra un articolo~
+     Il prezzo viene indicato con %d
+messaggio quando il giocatore vende un articolo~
+	Il prezzo e' rappresentato con %d
+
+Temperamento
+	Quando il giocatore non ha denaro per comprare un articolo che aveva
+	chiesto il negoziante gli dice che non puo' permetterselo e poi
+	compie un'azione:
+
+     0 - vomita sul giocatore
+     1 - Si fuma 'na sizza.
+     altro - nessuna azione (tranne il messaggio)
+
+Bitvector del negozio
+	vedi sezione sui bitvector per altre informazioni.
+
+1    a    WILL_START_FIGHT    I giocatori possono tentare di uccidere il
+				negoziante.
+2    b    WILL_BANK_MONEY     IL negoziante mette tutto il denaro che eccede
+				le 15000 monete d'oro in banca
+
+Nota:
+	I negozianti devono essere duri da uccidere !!
+
+Numero del negoziante
+	Numero virtuale del mob-negoziante
+
+   Bitvector Antipatia
+	Vedi la sezione sui Bitvector per saperne di piu'.
+	Questo bitvector determina quali allineamenti o classi stanno
+	antipatici al negoziante e con quali non trattera'.
+
+        ___________________________________________________________________
+        1     a   NOGOOD         Non tratta con i buoni.
+        2     b   NOEVIL         Non tratta con i cattivi.
+        4     c   NONEUTRAL      Non tratta con i neutrali.
+        8     d   NOMAGIC_USER   Non tratta con i maghi.
+        16    e   NOCLERIC       Non tratta con i chierici.
+        32    f   NOTHIEF        Non tratta con i ladri.
+        64    g   NOWARRIOR      Non tratta con i guerrieri.
+        ___________________________________________________________________
+
+Numero virtuale stanza del negozio 
+	Il numero virtuale della stanza in cui si deve trovare il mob
+	affinche' il negozio sia funzionante
+	(per evitare che negozianti trasferiti nel deserto si mettano a
+	vendere anche li)
+
+
+Ora di apertura 1
+Ora di chiusura 1
+     le ore in mezzo alle quali il negozio e' aperto
+
+Ora di apertura 2
+Ora di chiusura 2
+     le ore in mezzo alle quali il negozio e' aperto
+
+
+H.  Numeri Degli Incantesimi
+
+I numeri di questi incantesimi fanno parte del CircleMUD3.0.
+Molti implementor tendono ad aggiungere altre spell cosi' questa lista in
+realta' potrebbe non essere aggiornata con il tuo MUD
+Consulta i tuoi implementor per saperne di piu'
+
+______________________________________________________________________
+animate dead           45		// anima morti
+armor                   1		// armatura magica
+bless                   3		// benedizione
+blindness               4		// cecita'
+burning hands           5		// mani brucianti
+call lightning          6		// evoca fulmine
+charm                   7		// ammalia
+chill touch             8		// tocco gelido
+clone                   9		// clona
+color spray            10		// spray colorato
+control weather        11		// controlla tempo atmosferico
+create food            12		// crea cibo
+create water           13		// crea acqua
+cure blind             14		// cura cecita'
+cure critic            15		// cura ferite critiche
+cure light             16		// cura ferite leggere
+curse                  17		// maledici
+detect align           18		// scopri allineamento
+detect invis           19		// scopri l'invisibile
+detect magic           20		// scopri il magico
+detect poison          21		// scopri veleno
+dispel evil            22		// scaccia il Male
+dispel good            46		// scaccia il Bene
+earthquake             23		// terremoto
+enchant weapon         24		// incanta arma
+energy drain           25		// succhia energia vitale
+fireball               26		// palla di fuoco(NdAke:un classico)
+group armor            47		// armatura magica di gruppo
+group heal             48		// Guarigione di gruppo
+group recall           49		// ritorno in reception di gruppo
+harm                   27		// ferisci
+heal                   28		// cura
+identify              201		// identifica
+infravision            50		// infravisione
+invisible              29		// invisibilita'
+lightning bolt         30		// dardo fulminante
+locate object          31		// localizza oggetto
+magic missile          32		// missile magico
+poison                 33		// avvelena
+prot from evil         34		// protezione dal Male
+remove curse           35		// Rimuovi maledizione
+remove poison          43		// rimuovi veleno
+sanctuary              36		// Santuario (dimezza i danni)
+sense life             44		// percepisci forme di vita
+shocking grasp         37		// abbraccio elettrico
+sleep                  38		// addormenta
+strength               39		// rafforza
+summon                 40		// evoca
+teleport                2		// teletrasporto
+ventriloquate          41		// vetriloquismo
+waterwalk              51		// cammina sull'acqua
+word of recall         42		// ritorno in reception
+______________________________________________________________________
+
+I.  Valori delle variabili per contenitori di bevande
+
+DRINKCON (Type Flag 17) and FOUNTAIN (Type Flag 23)
+// Contenitori di Bevande e Fontane
+
+     variabile 0: Capacita' del contenitore
+     variabile 1: Quantita' corrente di liquido nel contenitore
+     variabile 2: vedi sotto
+     variabile 3: Diverso da zero se avvelenato, 0 altrimenti.
+
+La variabile 2indica il tipo di liquido dentro al contenitore.
+la tabella seguente dice quali valori sono accettabili:
+     ______________________________________________________________________
+              Tipo           nr.         Effetto del liquido su:
+                                   Ubriachezza  Fame      Sete
+              LIQ_WATER      0      0           1           10 //acqua
+              LIQ_BEER       1      3           2           5	//birra
+              LIQ_WINE       2      5           2           5	// vino
+              LIQ_ALE        3      2           2           5	//liquore
+              LIQ_DARKALE    4      1           2           5
+              LIQ_WHISKY     5      6           1           4	//whysky
+              LIQ_LEMONADE   6      0           1           8	//limonata
+              LIQ_FIREBRT    7      10          0           0	//sputafuoco
+              LIQ_LOCALSPC   8      3           3           3	
+              LIQ_SLIME      9      0           4           -8 //melma,Yuck!
+              LIQ_MILK       10     0           3           6	//latte
+              LIQ_TEA        11     0           1           6	// te
+              LIQ_COFFE      12     0           1           6	//caffe
+              LIQ_BLOOD      13     0           2           -1	//sangue
+              LIQ_SALTWATER  14     0           1           -2//acqua salata
+              LIQ_CLEARWATER 15     0           0           13//acqua pura
+     ______________________________________________________________________
+
+I valori di ubriachezza,fame e sete sono in unita' di 1 ora di effetto per
+ogni 4 unita' di liquido bevuto.
+Per esempio:immaginate che Pippo beva un'intera bottiglia (diciamo 7 unita')
+di acqua salata.
+Secondo la tabella l'ubriachezza sara' zero, fame 1 e sete -2, quindi:
+l'ubriachezza non cambia (7/4) * 0
+la fame aumenta di (7/4)*1 ore
+la sete aumenta di (7/4)*-2 ore rendendolo piu' assetato.
+
+Ubriachezza,fame e sete possono variare da 0 a 24.
+0 significa che la persona e' sobria, sazia e dissetata, mentre 24 significa
+affamata, sbronza persa e assetata.
+gli immortali hanno questi 3 valori a -1.
+

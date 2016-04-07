@@ -1,0 +1,110 @@
+Ecco l'esempio di come funzionano gli ascensori nel codice che
+ho implementato:
+
+Le stanze dove c'e' l'entrata all'ascensore devono avere il flag
+dq
+L'uscita ad est deve sempre essere linkata all'ascensore.
+e poi ci deve essere una extradescription di questo tipo:
+E
+VNUM_e~
+(numerolocazione ascensore)~
+
+L'ascensore invece deve avere un'uscita ad ovest collegata
+alla stanza del piano terra.
+Deve avere i flag cdr
+e deve avere infine una extradescription per ogni stanza
+in cui deve arrivare.
+L'extrades deve essere di questo genere:
+E
+terra zero 0~
+(numerolacazione pianoterra)~
+E
+primo uno one 1~
+(numerolocazione primo piano)~
+S
+
+Ecco l'esempio come funziona nel palazzo dei
+replicanti:
+
+-----------cut here--------------------------------
+
+
+
+#16005
+Atrio~
+   Sei nell'atrio degli ascensori.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+~
+0 -1 16007
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16010
+Atrio del I piano~
+   Sei nell'atrio degli ascensori del I piano.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+porta~
+1 16005 16011
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16099
+Ascensore~
+   Sei nell'ascensore.
+L'ascensore pur essendo ultrmoderno e' molto lussoso.
+E' tutto foderato in legno pregiato e molto confortevole.
+Il pannello con la tastiera dei comandi e' in argento
+lucidato.
+I bottoni dei piani vanno da 0 a 4.
+Un piccolo cartello e' incastonato nel legno e recita la scritta:
+"Per usare l'ascensore: push button numeropiano"
+~
+160 cdr 0
+D3
+
+~
+~
+1 -1 16005
+E
+terra zero 0~
+16005~
+E
+primo uno one 1~
+16010~
+S

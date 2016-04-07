@@ -1,0 +1,709 @@
+#21000
+Una strada periferica~
+   Questa strada congiunge Corso Meeting con una zona "storica".
+I maligni sostengono che si tratta di una zona malfamata, ma
+in realta' e' il quartiere piu' adatto ai newbie per iniziare
+la loro giovane carriera.
+~
+210 0 1
+D1
+
+~
+~
+0 -1 3044
+D3
+
+~
+~
+0 -1 21009
+S
+#21009
+L'entrata ad Harlem~
+   Sei all'ingresso della zona storica di uno dei piu' famosi 
+quartieri del mondo.
+Chiusi tra la 125 e la 135 strada da una parte e tra Lenox e la 
+Seventh avenue dall'altra qui erano attivi tra il 1920 e il 1930 
+piu' di 125 locali di intrattenimento.
+C'era di tutto, club ristoranti, caffetterie, teatri, sale da ballo 
+e sale da gioco clandestine.
+~
+210 0 1
+D1
+
+~
+~
+0 -1 21000
+D3
+
+~
+~
+0 -1 21010
+S
+#21010
+Seventh Avenue~
+   Sei nella famosa Seventh Avenue. Il cuore di Harlem.
+Lungo questa strada si trovano i famosi e leggendari locali che
+hanno visto la nascita di alcuni fra i piu' grandi talenti artistici
+e musicali del mondo.
+A nord c'e' una sala biliardi e a sud il noto Hotel Theresa.
+~
+210 0 1
+D0
+
+~
+~
+0 -1 21020
+D1
+
+~
+~
+0 -1 21009
+D2
+
+~
+~
+0 -1 21030
+D3
+
+~
+~
+0 -1 21011
+S
+#21011
+Seventh Avenue~
+   Sei nel centro della famosa Seventh Avenue.
+La strada prosegue a est e ad ovest.
+A nord c'e' il mitico Cotton Club mentre a sud c'e' il meno noto
+ma non meno storico Hot Cha Club.
+~
+210 0 1
+D0
+
+~
+~
+0 -1 21040
+D1
+
+~
+~
+0 -1 21010
+D2
+
+~
+~
+0 -1 21045
+D3
+
+~
+~
+0 -1 21012
+S
+#21012
+Seventh Avenue~
+   Sei nella parte ovest della famosa Seventh Avenue.
+Proseguendo ancora a ovest ci si imbatte nella sede della Peace Mission
+of Father Divine.
+A nord c'e' il leggendario Apollo Theatre.
+~
+210 0 1
+D0
+
+~
+~
+0 -1 21050
+D1
+
+~
+~
+0 -1 21011
+D3
+
+~
+~
+0 -1 21060
+S
+#21020
+Sala biliardi~
+   Appena entrato nel locale ti rendi conto che qui dentro sono 
+tutti neri e non c'e' neanche un bianco.
+La sala e' molto ampia ed e' divisa in vari cubicoli dove i
+giocatori si affollano intorno ai singoli tavoli.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21023
+D1
+
+~
+~
+0 -1 21021
+D2
+
+~
+~
+0 -1 21010
+D3
+
+~
+~
+0 -1 21025
+S
+#21021
+Il tavolo da biliardo n. 1~
+   Dei pannelli separano questo ambiente dagli altri.
+Un bellissimo tavolo da biliardo nuovo e' al centro
+della stanza.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21022
+D3
+
+~
+~
+0 -1 21020
+S
+#21022
+Il tavolo da biliardo n. 2~
+   Dei pannelli separano questo ambiente dagli altri.
+Un tavolo da biliardo nuovissimo e' al centro della 
+stanza.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21021
+D3
+
+~
+~
+0 -1 21023
+S
+#21023
+Il tavolo da biliardo n. 3~
+   Dei pannelli separano questo ambiente dagli altri.
+Un tavolo da biliardo vecchio e dal panno consunto
+e' al centro della stanza.
+~
+210 0 0
+D1
+
+~
+~
+0 -1 21022
+D2
+
+~
+~
+0 -1 21020
+D3
+
+~
+~
+0 -1 21024
+S
+#21024
+Il tavolo da biliardo n. 4~
+   Dei pannelli separano questo ambiente dagli altri.
+Un tavolo da biliardo molto usato e' al centro della
+stamza.
+~
+210 0 0
+D1
+
+~
+~
+0 -1 21023
+D2
+
+~
+~
+0 -1 21025
+S
+#21025
+Il tavolo da biliardo n. 5~
+   Dei pannelli separano questo ambiente dagli altri.
+Un tavolo da biliardo vecchio e cadente e' qui
+al centro della stanza.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21024
+D1
+
+~
+~
+0 -1 21020
+S
+#21030
+Hotel Theresa~
+   Il piu' grande e famoso albergo di Harlem.
+Qui ha soggiornato Fidel Castro nel 1960 durante la sua storica
+visita negli U.S.A.
+Questa è stata sempre la residenza abituale degli artisti e
+scrittori di Harlem.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21010
+D4
+
+~
+~
+0 -1 21033
+S
+#21031
+Corridoio dell'hotel~
+   Ti trovi al primo piano dell'Hotel.
+Piu' esattamente ti trovi alla fine del corridoio.
+Davanti a te c'e' la porta di una stanza.
+Il corridoio prosegue solo verso ovest.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21035
+D3
+
+~
+~
+0 -1 21032
+S
+#21032
+Corridoio dell'hotel~
+   Ti trovi al primo piano dell'Hotel.
+Davanti a te c'e' la porta di una stanza.
+Il corridoio prosegue verso est e verso ovest.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21036
+D1
+
+~
+~
+0 -1 21031
+D3
+
+~
+~
+0 -1 21033
+S
+#21033
+Corridoio dell'hotel~
+   Ti trovi al primo piano dell'Hotel.
+Piu' esattamente ti trovi al centro del corridoio.
+Davanti a te c'e' la porta di una stanza.
+Le scale portano giu' nell'atrio.
+Il corridoio prosegue verso est e verso ovest.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21037
+D1
+
+~
+~
+0 -1 21032
+D3
+
+~
+~
+0 -1 21034
+D5
+
+~
+~
+0 -1 21030
+S
+#21034
+Corridoio dell'hotel~
+   Ti trovi al primo piano dell'Hotel.
+Sei all'estremita' ovest del corridoio.
+Davanti a te c'e' la porta di una stanza.
+Il corridoio prosegue solo verso est.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21038
+D1
+
+~
+~
+0 -1 21033
+S
+#21035
+Una stanza d'albergo~
+   Sei in una delle stanze dell'Hotel.
+La stanza e' spaziosa e pulita.
+Ti sembra piu' una suite che una semplice stanza.
+L'arredamento e' caldo e le tappezzerie sono
+curate.
+Un grande letto matrimoniale troneggia al centro
+della stanza.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21031
+S
+#21036
+Una stanza d'albergo~
+   Sei in una delle stanze dell'Hotel.
+La stanza e' spaziosa e pulita.
+La stanza e' in ordine ed il letto e' rifatto.
+Hai l'impressione che questa stanza al momento
+non sia occupata.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21032
+S
+#21037
+Una stanza d'albergo~
+   Sei in una delle stanze dell'Hotel.
+La stanza e' spaziosa ma piena di oggetti e molto
+disordinata.
+Il letto e' sfatto.
+C'e' un tavolino con una macchina da scrivere ed
+un gran mucchio di fogli accanto.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21033
+S
+#21038
+Una stanza d'albergo~
+   Sei in una delle stanze dell'Hotel.
+La stanza e' in penombra.
+Una spessa coltre di fumo e una opprimente puzza di sigaro
+e di wiskey di scarsa qualita' ti assale la gola.
+Al posto del letto vedi, al centro della stanza, un tondo 
+tavolo verde da gioco con delle sedie intorno.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21034
+S
+#21040
+Cotton Club~
+   Sei all'entrata del mitico Cotton Club, da sempre chiamato:
+"The Aristocrat of Harlem".
+Qui fuori non e' raro vedere Ferrari e Rolls Royce.
+E' qui che Lena Horne ha iniziato a 16 anni la sua carriera
+come giovane corista.
+E' qui che dal 1927 al 1931 ha suonato Duke Ellington con la
+sua banda ed e' qui che ha composto brani come "East St. Louis
+Toodle-Oo", "The Mooch" e "Creole Love Call".
+Ed e' qui che nel 1931 la band di Cab Calloway e' stata chiamata
+al suo posto.
+Una rampa di scale conduce verso il basso al club vero e proprio
+ed una verso l'alto.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21011
+D4
+
+~
+~
+0 -1 21041
+D5
+
+~
+~
+0 -1 21042
+S
+#21041
+Sala da pranzo~
+   Ti trovi al primo piano del Club.
+Ci sono pochi tavoli riservati per i clienti speciali.
+Qui puoi avere l'onore di essere servito dal capo-cameriere
+dell' "Aristrocat". Il famoso "Kid" Grimlinn.
+La musica proveniente dalla sala si diffonde nella stanza
+ed alcune coppie di avventori ballano in una piccola pedana
+posta tra i tavoli.
+~
+210 0 0
+D5
+
+~
+~
+0 -1 21040
+S
+#21042
+Il Club~
+   Sei nel Tempio sacro.
+Questa e' la sala da cui si puo' assistere allo spettacolo.
+A est c'e' il vano dell'orchestra mentre davanti a te si
+staglia il palco.
+La sala e' gremita malgrado l'alto prezzo che bisogna pagare
+per passare una serata in questo posto.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21044
+D1
+
+~
+~
+0 -1 21043
+D4
+
+~
+~
+0 -1 21040
+S
+#21043
+L'orchestra~
+   Sei tra la leggenda.
+~
+210 0 0
+D3
+
+~
+~
+0 -1 21042
+S
+#21044
+Chorus Line~
+   Ti trovi sul palco.
+Sei nello show. Il Chorus Line e' composto di 12 persone
+6 chorus boys e 6 chorus girls, le ragazze piu' discinte 
+che si possano vedere da queste parti.
+Guardandoli vedi cantanti e ballerini tra i piu' famosi del
+mondo.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21042
+S
+#21045
+Hot Cha Club~
+   La fama di questo oscuro night club di Harlem e' dovuta
+al fatto che qui e' iniziata la carriera della grande,
+grandissima "Lady Day".
+Billie Holiday ha esordito qui riempiendo questa
+sala con la sua voce roca, calda e avvolgente finche' 
+Benni Goodman non l'ha portata nella sua prima
+"studio session".
+Billie ha inciso oltre 200 fortunati brani tra il 1933 
+ed il 1944, ma non ha mai percepito royalties.
+La sala e' piccola e in penombra.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21011
+D2
+
+~
+~
+0 -1 21046
+S
+#21046
+Il palco~
+   Una piccola pedana.
+Solo un pianoforte e lei, la favolosa..
+La sua voce ti avvolge in spire lente e carezzevoli.
+Lei sa che morira' e sembra aspettarlo, mentre ti guarda
+negli occhi e canta con voce roca ed insinuante.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21045
+S
+#21050
+Apollo Theatre~
+   Sei nel piu' importante teatro di Harlem.
+Davanti a te si staglia il palcoscenico dove viene reppresentato
+il MacBeth.
+Guardando bene ti accorgi che gli attori sono tutti neri.
+Ma la qualita' della rappresentazione e' di assoluta eccellenza.
+~
+210 0 0
+D0
+
+~
+~
+0 -1 21051
+D2
+
+~
+~
+0 -1 21012
+D4
+
+~
+~
+0 -1 21052
+S
+#21051
+Il Palcoscenico~
+   Sei in mezzo agli attori.
+Sono tutti neri e molto incazzati della tua intromissione
+nello spettacolo.
+~
+210 0 0
+D2
+
+~
+~
+0 -1 21050
+S
+#21052
+Un palco~
+   Sei in uno dei palchi del teatro.
+~
+210 0 0
+D1
+
+~
+~
+0 -1 21053
+D3
+
+~
+~
+0 -1 21055
+D5
+
+~
+~
+0 -1 21050
+S
+#21053
+Un palco~
+   Sei in uno dei palchi del teatro.
+~
+210 0 0
+D1
+
+~
+~
+0 -1 21054
+D3
+
+~
+~
+0 -1 21052
+S
+#21054
+Un palco~
+   Sei in uno dei palchi del teatro.
+~
+210 0 0
+D3
+
+~
+~
+0 -1 21053
+S
+#21055
+Un palco~
+   Sei in uno dei palchi del teatro.
+~
+210 0 0
+D1
+
+~
+~
+0 -1 21052
+D3
+
+~
+~
+0 -1 21056
+S
+#21056
+Un palco~
+   Sei in uno dei palchi del teatro.
+~
+210 0 0
+D1
+
+~
+~
+0 -1 21055
+D5
+
+~
+~
+0 -1 21050
+S
+#21060
+Peace Mission of Father Divine~
+   Sei dentro un "Sancta Sanctorum".
+La sala e' tutta ricoperta di pannelli di legno ed ha un'aria
+austera e severa. Tutto qui sembra solenne, pesante e oppressivo.
+La missione e' stata fondata dall'uomo conosciuto come "Father Major
+Jealous Divine". La vita di quest'uomo rimane un mistero. Compare
+A Brooklin nel 1914 e fonda il movimento. Diviene famoso quando viene 
+arrestato per disturbo alla quiete pubblica per un ingorgo di traffico
+formatosi attorno alla sua abitazione.
+Il giudice che lo condanna ad un anno di carcere, un uomo in ottima
+salute, muore subito dopo avere emesso la sentenza e naturlamente
+Father Divine sostiene che non si e' trattato di morte naturale, ma
+di giustizia divina in quanto lui aveva pregato che accadesse.
+Si stabilisce ad Harlem nel 1932 e diviene un eroe della comunita' nera.
+~
+210 0 0
+D1
+
+~
+~
+0 -1 21012
+S
+$
+
+

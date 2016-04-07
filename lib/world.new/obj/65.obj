@@ -1,0 +1,191 @@
+#6500
+foglio~
+Il foglio con la combinazione~
+Noti un pezzo di carta a terra.~
+~
+18 c 16385
+6500 0 0 0
+1 0 0
+#6501
+grande montagna fondi moneta coin~
+I fondi societari~
+Un enorme cumulo di eurodollari e titoli obligazionali al portatore sono
+qui sistemati nei cassetti del caveau.~
+~
+20 0 1
+250000 0 0 0
+20 250000 0
+#6502
+tesserino laboratorio~
+Un tesserino magnetico marrone~
+Il tesserino magnetico per l'accesso e' qui a terra.~
+~
+18 c 16385
+6502 0 0 0
+1 0 0
+#6503
+budge dorato~
+Un budge dorato~
+Un budge dorato brilla al buio per terra.~
+~
+18 c 16385
+6503 0 0 0
+1 0 0
+#6504
+katana~
+Una Katana Elettromagnetica~
+Un ronzante fascio di luce blu e' a terra.~
+~
+5 abjm 8193
+0 3 8 3
+6 10000 500
+A
+18 2
+A
+19 2
+A
+13 10
+#6505
+Campo Stasi~
+Un campo di stasi~
+Intravedi una distorsione nella luce.~
+~
+9 dh 9
+-25 0 0 0
+80 10 30000
+A
+1 -3
+A
+18 -5
+A
+19 -5
+#6506
+siringa adrenalina pera~
+Una siringa di adrenalina pura~
+Una siringa contenente del liquido giallo e' qui in una
+pozza di sangue.~
+~
+4 q 16385
+36 5 5 28
+1 10000 5000
+#6507
+topo~
+Un topo morto a due teste~
+Uno strano animaletto e' qui a terra privo di vita.~
+~
+1 q 16385
+0 0 0 0
+1 100 0
+#6508
+aspirapolvere~
+Un'aspirapolvere a inversione protonica~
+Uno strano congegno meccanico che emette un forte ronzio e' qui a terra.~
+~
+5 b 8193
+0 2 5 12
+10 15000 0
+A
+18 1
+A
+19 1
+#6509
+ninja-to~
+Un ninja-to da combattimento.~
+Un ricordo dei tempi che furono e' qui a terra.~
+~
+5 g 8193
+0 2 7 3
+14 5000 300
+A
+18 2
+A
+1 2
+#6510
+protesi~
+Delle protesi oculari~
+Un binocolo metallico stilizzato e' stato lasciato incustodito.~
+~
+9 aegimn as
+0 0 0 0
+2 50000 0
+A
+3 1
+A
+11 20
+A
+24 -2
+C
+1068
+#6511
+anello ideogramma~
+Un fine anello con un ideogramma~
+Un piccolo cerchietto metallico con uno strano simbolo inciso giace qui.~
+~
+11 g 3
+0 0 0 0
+1 500000 1500
+A
+18 2
+A
+19 2
+A
+1 1
+A
+17 10
+#6512
+guanti carbonio~
+Un paio di guanti in carbonio~
+Un paio di guanti neri con cuciture gialle e placche sulle nocche e' a terra.~
+~
+9 0 129
+1 0 0 0
+2 4000 200
+A
+5 1
+A
+2 1
+#6513
+rifiuti~
+Dei rifiuti organici~
+Un ammasso di rifiuti organici emana un pessimo odore.~
+~
+13 0 16385
+0 0 0 0
+100 0 0
+#6514
+asse legno~
+Un asse di legno~
+Un asse di legno e' appoggiato al muro.~
+~
+5 i 8193
+0 2 3 11
+9 300 0
+E
+asse legno~
+Sembra di un tavolo!
+~
+#6515
+carta verde~
+Una carta magnetica verde scuro~
+Una carta magnetica verde scuro e' qui a terra.~
+~
+18 c 16385
+6515 0 0 0
+10 0 0
+#6516
+sbarra~
+Una sbarra di metallo lucido~
+Un pezzo di ferro molto lucido e' qui.~
+~
+18 c 16385
+6516 0 0 0
+1 0 0
+#6517
+sete~
+Un chip di sete~
+Una piccola fontanella elettronica fa acqua da tutte le parti.~
+~
+23 aq 1
+500 500 0 0
+1 250000 500
+$

@@ -1,0 +1,3753 @@
+
+------------------------
+VNUM: #16000
+Nome: Milena le receptionist replicante
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+1400 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  120000
+
+------------------------
+VNUM: #16001
+Nome: una guardia di sorveglianza
+Livello: 18 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+200 
+Danno a mani nude: 1d4+0
+Soldi: 15000 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #16002
+Nome: un ingegnere replicante
+Livello: 20 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+812 
+Danno a mani nude: 2d4+10
+Soldi: 5000 
+Punti Esperienza:  110000
+
+------------------------
+VNUM: #16003
+Nome: un tecnico replicante
+Livello: 20 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+400 
+Danno a mani nude: 1d4+20
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #16004
+Nome: Un Robot Assemblatore
+Livello: 30 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+800 
+Danno a mani nude: 2d5+10
+Soldi: 0 
+Punti Esperienza:  200000
+
+------------------------
+VNUM: #16005
+Nome: una guardia di sorveglianza
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+800 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  120000
+
+------------------------
+VNUM: #16006
+Nome: un chimico replicante
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+1400 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  150000
+
+------------------------
+VNUM: #16007
+Nome: il capo chimico replicante
+Livello: 40 
+Tach0: 0 
+Armor Class: -6 
+Hit Points: 1d12+4000 
+Danno a mani nude: 2d5+20
+Soldi: 7500 
+Punti Esperienza:  200000
+
+------------------------
+VNUM: #16008
+Nome: Un mostruoso replicante
+Livello: 30 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+1600 
+Danno a mani nude: 2d5+10
+Soldi: 0 
+Punti Esperienza:  180000
+
+------------------------
+VNUM: #16009
+Nome: Mayanna
+Livello: 30 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+2500 
+Danno a mani nude: 2d5+10
+Soldi: 0 
+Punti Esperienza:  240000
+
+------------------------
+VNUM: #16010
+Nome: Il Creatore
+Livello: 40 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+2200 
+Danno a mani nude: 2d5+20
+Soldi: 100000 
+Punti Esperienza:  350000
+
+------------------------
+VNUM: #16011
+Nome: la statua di una scimmia
+Livello: 20 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+400 
+Danno a mani nude: 1d4+20
+Soldi: 0 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #16012
+Nome: la statua di un uomo di neanderthal
+Livello: 20 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+400 
+Danno a mani nude: 1d4+20
+Soldi: 0 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #16013
+Nome: la statua di un uomo sapiens
+Livello: 20 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+400 
+Danno a mani nude: 1d4+20
+Soldi: 0 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #16014
+Nome: la statua di un cyborg replicante
+Livello: 20 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+400 
+Danno a mani nude: 1d4+20
+Soldi: 0 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #18600
+Nome: l'Incubo della configurazione
+Livello: 2 
+Tach0: 5 
+Armor Class: 10 
+Hit Points: 20d2+20 
+Danno a mani nude: 1d2+1
+Soldi: 25 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #18601
+Nome: l'abbonamento
+Livello: 5 
+Tach0: 10 
+Armor Class: 10 
+Hit Points: 10d6+300 
+Danno a mani nude: 1d10+1
+Soldi: 1500 
+Punti Esperienza:  10000
+
+------------------------
+VNUM: #18602
+Nome: l'incubo della linea occupata
+Livello: 5 
+Tach0: 10 
+Armor Class: 10 
+Hit Points: 10d6+10 
+Danno a mani nude: 0d0+1
+Soldi: 50 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #18603
+Nome: l'User-ID
+Livello: 6 
+Tach0: 10 
+Armor Class: 10 
+Hit Points: 10d6+10 
+Danno a mani nude: 0d0+1
+Soldi: 50 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #18604
+Nome: la Password
+Livello: 7 
+Tach0: 10 
+Armor Class: 10 
+Hit Points: 10d6+10 
+Danno a mani nude: 0d0+1
+Soldi: 50 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #18650
+Nome: il vombato della rete
+Livello: 5 
+Tach0: 8 
+Armor Class: 10 
+Hit Points: 20d4+20 
+Danno a mani nude: 1d4+0
+Soldi: 100 
+Punti Esperienza:  1500
+
+------------------------
+VNUM: #18651
+Nome: il motociclista
+Livello: 5 
+Tach0: 10 
+Armor Class: 0 
+Hit Points: 4d8+50 
+Danno a mani nude: 1d4+1
+Soldi: 75 
+Punti Esperienza:  500
+
+------------------------
+VNUM: #18652
+Nome: il motociclista
+Livello: 5 
+Tach0: 10 
+Armor Class: 0 
+Hit Points: 4d8+60 
+Danno a mani nude: 1d4+1
+Soldi: 75 
+Punti Esperienza:  500
+
+------------------------
+VNUM: #18680
+Nome: Mamma Telecom
+Livello: 20 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+255 
+Danno a mani nude: 2d5+0
+Soldi: 5000 
+Punti Esperienza:  12500
+
+------------------------
+VNUM: #18681
+Nome: Bill Gates 
+Livello: 20 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+800 
+Danno a mani nude: 2d4+0
+Soldi: 5000 
+Punti Esperienza:  25000
+
+------------------------
+VNUM: #18682
+Nome: Alan Cox
+Livello: 15 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+512 
+Danno a mani nude: 2d4+0
+Soldi: 5000 
+Punti Esperienza:  25000
+
+------------------------
+VNUM: #18692
+Nome: un utente Microsoft
+Livello: 10 
+Tach0: 19 
+Armor Class: 10 
+Hit Points: 10d20+0 
+Danno a mani nude: 3d1+1
+Soldi: 1000 
+Punti Esperienza:  14000
+
+------------------------
+VNUM: #18693
+Nome: un thread Os/2
+Livello: 10 
+Tach0: 7 
+Armor Class: 5 
+Hit Points: 1d2+150 
+Danno a mani nude: 1d1+1
+Soldi: 2000 
+Punti Esperienza:  10000
+
+------------------------
+VNUM: #18694
+Nome: una licenza Microsoft
+Livello: 18 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+200 
+Danno a mani nude: 1d4+0
+Soldi: 15000 
+Punti Esperienza:  40000
+
+------------------------
+VNUM: #18695
+Nome: una licenza GNU
+Livello: 15 
+Tach0: 5 
+Armor Class: 5 
+Hit Points: 15d10+200 
+Danno a mani nude: 4d4+0
+Soldi: 15000 
+Punti Esperienza:  40000
+
+------------------------
+VNUM: #18696
+Nome: un kernel impazzito
+Livello: 10 
+Tach0: 18 
+Armor Class: 8 
+Hit Points: 10d10+10 
+Danno a mani nude: 2d3+0
+Soldi: 5000 
+Punti Esperienza:  25000
+
+------------------------
+VNUM: #18697
+Nome: un kernel windows
+Livello: 10 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 10d10+10 
+Danno a mani nude: 2d0+0
+Soldi: 1000 
+Punti Esperienza:  5000
+
+------------------------
+VNUM: #18698
+Nome: un kernel Os/2 impazzito
+Livello: 10 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 10d10+10 
+Danno a mani nude: 2d0+0
+Soldi: 1000 
+Punti Esperienza:  5000
+
+------------------------
+VNUM: #18699
+Nome: il BackOffice
+Livello: 23 
+Tach0: 18 
+Armor Class: 50 
+Hit Points: 20d3+650 
+Danno a mani nude: 2d3+2
+Soldi: 10000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20000
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20001
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20002
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20003
+Nome: un terrorista di pattuglia esterna
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20004
+Nome: un terrorista di pattuglia interna
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20005
+Nome: un terrorista di guardia
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20006
+Nome: un terrorista di sentinella interna
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20007
+Nome: un tecnico terrorista
+Livello: 15 
+Tach0: 5 
+Armor Class: 10 
+Hit Points: 5d10+200 
+Danno a mani nude: 2d6+13
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #20008
+Nome: un tiratore terrorista
+Livello: 35 
+Tach0: 11 
+Armor Class: 5 
+Hit Points: 5d10+400 
+Danno a mani nude: 2d6+13
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #20009
+Nome: un terrorista
+Livello: 15 
+Tach0: 0 
+Armor Class: 10 
+Hit Points: 5d10+200 
+Danno a mani nude: 2d6+13
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #20010
+Nome: un cuoco terrorista
+Livello: 15 
+Tach0: 0 
+Armor Class: 10 
+Hit Points: 5d10+200 
+Danno a mani nude: 2d6+13
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #20011
+Nome: un terrorista esperto di arti marziali
+Livello: 35 
+Tach0: 11 
+Armor Class: -4 
+Hit Points: 5d10+1000 
+Danno a mani nude: 4d6+25
+Soldi: 5000 
+Punti Esperienza:  200000
+
+------------------------
+VNUM: #20012
+Nome: un pilota terrorista
+Livello: 15 
+Tach0: 5 
+Armor Class: 10 
+Hit Points: 5d10+200 
+Danno a mani nude: 2d6+13
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #20013
+Nome: Il luogotenente di Bin
+Livello: 35 
+Tach0: 15 
+Armor Class: -2 
+Hit Points: 5d10+800 
+Danno a mani nude: 4d6+15
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20014
+Nome: Bin il terribile
+Livello: 35 
+Tach0: 15 
+Armor Class: -2 
+Hit Points: 5d10+2000 
+Danno a mani nude: 4d6+20
+Soldi: 5000 
+Punti Esperienza:  400000
+
+------------------------
+VNUM: #20100
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20101
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20102
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20200
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20201
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20202
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20300
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20301
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20302
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20400
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20401
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20402
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20500
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20501
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20502
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20600
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20601
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20602
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20700
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20701
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20702
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20800
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20801
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20802
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #20900
+Nome: un terrorista vagante per il campo
+Livello: 18 
+Tach0: 8 
+Armor Class: 2 
+Hit Points: 4d8+350 
+Danno a mani nude: 2d8+1
+Soldi: 3000 
+Punti Esperienza:  45000
+
+------------------------
+VNUM: #20901
+Nome: un terrorista vagante
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+500 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #20902
+Nome: un terrorista in assetto di guerra
+Livello: 30 
+Tach0: 11 
+Armor Class: -1 
+Hit Points: 5d10+700 
+Danno a mani nude: 4d6+13
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #21000
+Nome: uno spettatore
+Livello: 1 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d4+8 
+Danno a mani nude: 1d4+0
+Soldi: 1 
+Punti Esperienza:  90
+
+------------------------
+VNUM: #21001
+Nome: moses il custode
+Livello: 5 
+Tach0: 17 
+Armor Class: 5 
+Hit Points: 4d6+42 
+Danno a mani nude: 1d5+1
+Soldi: 100 
+Punti Esperienza:  5000
+
+------------------------
+VNUM: #21002
+Nome: un giocatore di biliardo
+Livello: 2 
+Tach0: 19 
+Armor Class: 9 
+Hit Points: 2d4+16 
+Danno a mani nude: 1d4+1
+Soldi: 25 
+Punti Esperienza:  900
+
+------------------------
+VNUM: #21003
+Nome: Mamita Jo
+Livello: 7 
+Tach0: 15 
+Armor Class: 5 
+Hit Points: 3d5+85 
+Danno a mani nude: 2d4+1
+Soldi: 1000 
+Punti Esperienza:  5000
+
+------------------------
+VNUM: #21004
+Nome: uno scrittore
+Livello: 4 
+Tach0: 17 
+Armor Class: 7 
+Hit Points: 8d5+20 
+Danno a mani nude: 1d6+1
+Soldi: 25 
+Punti Esperienza:  500
+
+------------------------
+VNUM: #21005
+Nome: una prostituta
+Livello: 4 
+Tach0: 17 
+Armor Class: 7 
+Hit Points: 8d5+20 
+Danno a mani nude: 1d6+1
+Soldi: 25 
+Punti Esperienza:  500
+
+------------------------
+VNUM: #21006
+Nome: un gangster
+Livello: 4 
+Tach0: 17 
+Armor Class: 7 
+Hit Points: 8d5+20 
+Danno a mani nude: 1d6+1
+Soldi: 25 
+Punti Esperienza:  500
+
+------------------------
+VNUM: #21007
+Nome: un giocatore di poker
+Livello: 4 
+Tach0: 17 
+Armor Class: 7 
+Hit Points: 8d5+20 
+Danno a mani nude: 1d6+1
+Soldi: 25 
+Punti Esperienza:  500
+
+------------------------
+VNUM: #21008
+Nome: Kid Grimlinn
+Livello: 7 
+Tach0: 15 
+Armor Class: 5 
+Hit Points: 3d5+85 
+Danno a mani nude: 2d4+1
+Soldi: 10 
+Punti Esperienza:  3000
+
+------------------------
+VNUM: #21009
+Nome: Duke Ellington
+Livello: 7 
+Tach0: 15 
+Armor Class: 5 
+Hit Points: 3d5+85 
+Danno a mani nude: 2d4+1
+Soldi: 10 
+Punti Esperienza:  3000
+
+------------------------
+VNUM: #21010
+Nome: Cotie "Virtuoso" Williams
+Livello: 5 
+Tach0: 17 
+Armor Class: 9 
+Hit Points: 10d5+20 
+Danno a mani nude: 2d3+2
+Soldi: 11 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #21011
+Nome: Tricky Sam Nanton
+Livello: 5 
+Tach0: 17 
+Armor Class: 9 
+Hit Points: 10d5+20 
+Danno a mani nude: 2d3+2
+Soldi: 11 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #21012
+Nome: Johnny Hodges
+Livello: 5 
+Tach0: 17 
+Armor Class: 9 
+Hit Points: 10d5+20 
+Danno a mani nude: 2d3+2
+Soldi: 11 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #21013
+Nome: Harry Carney
+Livello: 5 
+Tach0: 17 
+Armor Class: 9 
+Hit Points: 10d5+20 
+Danno a mani nude: 2d3+2
+Soldi: 11 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #21014
+Nome: Barney Bigard
+Livello: 5 
+Tach0: 17 
+Armor Class: 9 
+Hit Points: 10d5+20 
+Danno a mani nude: 2d3+2
+Soldi: 11 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #21015
+Nome: Aletha Hill
+Livello: 3 
+Tach0: 18 
+Armor Class: 8 
+Hit Points: 6d5+22 
+Danno a mani nude: 1d7+1
+Soldi: 11 
+Punti Esperienza:  200
+
+------------------------
+VNUM: #21016
+Nome: Ethel Waters
+Livello: 3 
+Tach0: 18 
+Armor Class: 8 
+Hit Points: 6d5+22 
+Danno a mani nude: 1d7+1
+Soldi: 11 
+Punti Esperienza:  200
+
+------------------------
+VNUM: #21017
+Nome: May Johnson
+Livello: 3 
+Tach0: 18 
+Armor Class: 8 
+Hit Points: 6d5+22 
+Danno a mani nude: 1d7+1
+Soldi: 11 
+Punti Esperienza:  200
+
+------------------------
+VNUM: #21018
+Nome: Jazzroot Richardson
+Livello: 3 
+Tach0: 18 
+Armor Class: 8 
+Hit Points: 6d5+42 
+Danno a mani nude: 1d7+1
+Soldi: 11 
+Punti Esperienza:  300
+
+------------------------
+VNUM: #21019
+Nome: Coles
+Livello: 3 
+Tach0: 18 
+Armor Class: 8 
+Hit Points: 6d5+42 
+Danno a mani nude: 1d7+1
+Soldi: 11 
+Punti Esperienza:  300
+
+------------------------
+VNUM: #21020
+Nome: Atkinson
+Livello: 3 
+Tach0: 18 
+Armor Class: 8 
+Hit Points: 6d5+42 
+Danno a mani nude: 1d7+1
+Soldi: 11 
+Punti Esperienza:  300
+
+------------------------
+VNUM: #21021
+Nome: un pianista anonimo
+Livello: 6 
+Tach0: 16 
+Armor Class: 3 
+Hit Points: 3d5+62 
+Danno a mani nude: 2d4+2
+Soldi: 10 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #21022
+Nome: Billie Holiday
+Livello: 4 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d1+0 
+Danno a mani nude: 1d1+0
+Soldi: 10 
+Punti Esperienza:  500
+
+------------------------
+VNUM: #21023
+Nome: Duncan
+Livello: 6 
+Tach0: 16 
+Armor Class: 3 
+Hit Points: 3d5+62 
+Danno a mani nude: 2d4+0
+Soldi: 0 
+Punti Esperienza:  1600
+
+------------------------
+VNUM: #21024
+Nome: Lady Macbeth
+Livello: 6 
+Tach0: 16 
+Armor Class: 3 
+Hit Points: 3d5+62 
+Danno a mani nude: 2d4+0
+Soldi: 0 
+Punti Esperienza:  1600
+
+------------------------
+VNUM: #21025
+Nome: La Dama Strega
+Livello: 10 
+Tach0: 16 
+Armor Class: 3 
+Hit Points: 3d5+62 
+Danno a mani nude: 2d4+0
+Soldi: 0 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #21026
+Nome: Il sicario
+Livello: 6 
+Tach0: 13 
+Armor Class: 1 
+Hit Points: 3d5+62 
+Danno a mani nude: 2d4+0
+Soldi: 0 
+Punti Esperienza:  1600
+
+------------------------
+VNUM: #21027
+Nome: Father Major Jealous Divine
+Livello: 15 
+Tach0: 15 
+Armor Class: 5 
+Hit Points: 3d5+185 
+Danno a mani nude: 3d4+1
+Soldi: 8000 
+Punti Esperienza:  6000
+
+------------------------
+VNUM: #22000
+Nome: L'impresario della cava.
+Livello: 26 
+Tach0: 0 
+Armor Class: -2 
+Hit Points: 10d8+99 
+Danno a mani nude: 2d6+16
+Soldi: 31570 
+Punti Esperienza:  170000
+
+------------------------
+VNUM: #22001
+Nome: un custode 
+Livello: 12 
+Tach0: 5 
+Armor Class: -20 
+Hit Points: 9d100+10 
+Danno a mani nude: 4d7+1
+Soldi: 0 
+Punti Esperienza:  9000
+
+------------------------
+VNUM: #22002
+Nome: Un cavatore in pausa.
+Livello: 15 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 20d100+250 
+Danno a mani nude: 3d10+7
+Soldi: 0 
+Punti Esperienza:  8000
+
+------------------------
+VNUM: #22003
+Nome: Yang Yin 
+Livello: 40 
+Tach0: -30 
+Armor Class: -50 
+Hit Points: 10d100+1000 
+Danno a mani nude: 10d10+10
+Soldi: 0 
+Punti Esperienza:  180000
+
+------------------------
+VNUM: #22004
+Nome: Prof. Aldous Huxley 
+Livello: 50 
+Tach0: -50 
+Armor Class: -90 
+Hit Points: 10d250+4500 
+Danno a mani nude: 12d10+10
+Soldi: 100000 
+Punti Esperienza:  400000
+
+------------------------
+VNUM: #22005
+Nome: polo neurale
+Livello: 20 
+Tach0: 0 
+Armor Class: -40 
+Hit Points: 5d100+99 
+Danno a mani nude: 6d8+15
+Soldi: 5000 
+Punti Esperienza:  15000
+
+------------------------
+VNUM: #22006
+Nome: un manovale
+Livello: 11 
+Tach0: 2 
+Armor Class: 0 
+Hit Points: 97d9+4 
+Danno a mani nude: 10d6+1
+Soldi: 1020 
+Punti Esperienza:  1500
+
+------------------------
+VNUM: #3000
+Nome: Ottobino il commesso
+Livello: 33 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 30000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3001
+Nome: Il garzone di Zio Lone
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 100 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3002
+Nome: Il proprietario dell'emporio
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 30000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3003
+Nome: the weaponsmith
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 30000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3004
+Nome: La commessa di Julilla
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 28500 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3005
+Nome: Cecilia la receptionist
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+32
+Soldi: 0 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #3006
+Nome: Un fricchettone
+Livello: 33 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+12
+Soldi: 2000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3007
+Nome: il marinaio
+Livello: 33 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+12
+Soldi: 2000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3008
+Nome: Uncle Juan
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 2000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3009
+Nome: Wally the Watermaster
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d8+18
+Soldi: 1000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3010
+Nome: Il postino
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d8+18
+Soldi: 2000 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #3011
+Nome: La statua di Harpo
+Livello: 60 
+Tach0: 5 
+Armor Class: -10 
+Hit Points: 0d0+30000 
+Danno a mani nude: 10d12+100
+Soldi: 10 
+Punti Esperienza:  150000
+
+------------------------
+VNUM: #3020
+Nome: Il guru hacker
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+24
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #3021
+Nome: Il professore di informatica
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+24
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #3022
+Nome: Il Guru Virus writer
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+34
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #3023
+Nome: L'allenatore
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+34
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #3024
+Nome: L'usciere
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #3025
+Nome: L'usciere
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3026
+Nome: L'usciere
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+25
+Soldi: 2000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3027
+Nome: L'usciere
+Livello: 33 
+Tach0: 0 
+Armor Class: -8 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+40
+Soldi: 2000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3028
+Nome: Il professore
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+34
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #3029
+Nome: L'usciere
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #3030
+Nome: Il Maestro
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+34
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #3031
+Nome: L'usciere
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #3032
+Nome: Il mentore
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+34
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #3033
+Nome: L'usciere
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #3040
+Nome: the bartender
+Livello: 24 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 6d10+390 
+Danno a mani nude: 1d8+12
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3041
+Nome: the waiter
+Livello: 23 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 6d10+390 
+Danno a mani nude: 1d8+12
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3042
+Nome: the waiter
+Livello: 23 
+Tach0: 1 
+Armor Class: 2 
+Hit Points: 6d10+390 
+Danno a mani nude: 1d8+12
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3043
+Nome: the waiter
+Livello: 23 
+Tach0: 1 
+Armor Class: 2 
+Hit Points: 6d10+390 
+Danno a mani nude: 1d8+12
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3044
+Nome: the waiter
+Livello: 23 
+Tach0: 1 
+Armor Class: 2 
+Hit Points: 6d10+390 
+Danno a mani nude: 1d8+12
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3045
+Nome: the waiter
+Livello: 23 
+Tach0: 1 
+Armor Class: 2 
+Hit Points: 6d10+390 
+Danno a mani nude: 1d8+12
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3046
+Nome: Piumetta
+Livello: 33 
+Tach0: 1 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3059
+Nome: Il Sorvegliante
+Livello: 17 
+Tach0: 3 
+Armor Class: 0 
+Hit Points: 5d6+225 
+Danno a mani nude: 3d3+13
+Soldi: 2500 
+Punti Esperienza:  30000
+
+------------------------
+VNUM: #3060
+Nome: il poliziotto
+Livello: 10 
+Tach0: 10 
+Armor Class: 1 
+Hit Points: 1d12+123 
+Danno a mani nude: 1d8+5
+Soldi: 500 
+Punti Esperienza:  9000
+
+------------------------
+VNUM: #3061
+Nome: il portiere
+Livello: 1 
+Tach0: 20 
+Armor Class: 9 
+Hit Points: 2d6+10 
+Danno a mani nude: 1d5+0
+Soldi: 34 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #3062
+Nome: un cane randagio
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d6+4 
+Danno a mani nude: 1d4+0
+Soldi: 0 
+Punti Esperienza:  25
+
+------------------------
+VNUM: #3063
+Nome: Un mimo
+Livello: 5 
+Tach0: 15 
+Armor Class: 5 
+Hit Points: 2d6+60 
+Danno a mani nude: 1d6+1
+Soldi: 87 
+Punti Esperienza:  900
+
+------------------------
+VNUM: #3064
+Nome: l'ubriaco
+Livello: 2 
+Tach0: 19 
+Armor Class: 8 
+Hit Points: 2d6+22 
+Danno a mani nude: 1d6+0
+Soldi: 103 
+Punti Esperienza:  200
+
+------------------------
+VNUM: #3065
+Nome: il barbone
+Livello: 1 
+Tach0: 20 
+Armor Class: 9 
+Hit Points: 2d6+10 
+Danno a mani nude: 1d5+0
+Soldi: 0 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #3066
+Nome: il Giocoliere
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d6+4 
+Danno a mani nude: 1d4+0
+Soldi: 0 
+Punti Esperienza:  25
+
+------------------------
+VNUM: #3067
+Nome: La guardia
+Livello: 10 
+Tach0: 10 
+Armor Class: 1 
+Hit Points: 1d12+123 
+Danno a mani nude: 1d8+5
+Soldi: 500 
+Punti Esperienza:  9000
+
+------------------------
+VNUM: #3068
+Nome: Uno spazzino
+Livello: 20 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d11+325 
+Danno a mani nude: 3d6+5
+Soldi: 1000 
+Punti Esperienza:  40000
+
+------------------------
+VNUM: #3089
+Nome: the Pet Shop Boy
+Livello: 10 
+Tach0: 10 
+Armor Class: 1 
+Hit Points: 1d1+30000 
+Danno a mani nude: 20d4+10
+Soldi: 500 
+Punti Esperienza:  9000
+
+------------------------
+VNUM: #3090
+Nome: il gattino
+Livello: 1 
+Tach0: 20 
+Armor Class: 9 
+Hit Points: 1d6+11 
+Danno a mani nude: 1d4+0
+Soldi: 0 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #3091
+Nome: il barboncino
+Livello: 1 
+Tach0: 20 
+Armor Class: 9 
+Hit Points: 1d6+13 
+Danno a mani nude: 1d4+0
+Soldi: 0 
+Punti Esperienza:  125
+
+------------------------
+VNUM: #3092
+Nome: il bassotto
+Livello: 2 
+Tach0: 19 
+Armor Class: 8 
+Hit Points: 1d12+22 
+Danno a mani nude: 1d6+0
+Soldi: 0 
+Punti Esperienza:  200
+
+------------------------
+VNUM: #3093
+Nome: Il rottweiler
+Livello: 3 
+Tach0: 18 
+Armor Class: 7 
+Hit Points: 1d12+35 
+Danno a mani nude: 1d7+0
+Soldi: 0 
+Punti Esperienza:  800
+
+------------------------
+VNUM: #3094
+Nome: Il Lupo
+Livello: 4 
+Tach0: 17 
+Armor Class: 6 
+Hit Points: 1d12+47 
+Danno a mani nude: 1d8+0
+Soldi: 0 
+Punti Esperienza:  1600
+
+------------------------
+VNUM: #3095
+Nome: the cryogenicist
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+32
+Soldi: 0 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #3096
+Nome: Linus il barista
+Livello: 24 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 6d10+390 
+Danno a mani nude: 1d8+12
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3097
+Nome: Hackie Mnemonic la guida dei newbie
+Livello: 58 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 1d2+29000 
+Danno a mani nude: 1d8+500
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3098
+Nome: Piccolo
+Livello: 
+Tach0: 
+Armor Class: 
+Hit Points: 
+Danno a mani nude: 
+Soldi: 
+Punti Esperienza: 
+
+------------------------
+VNUM: #30000
+Nome: uno jerkiens
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #30001
+Nome: uno jerkiens
+Livello: 33 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #30002
+Nome: Jerkiel
+Livello: 40 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 6d10+990 
+Danno a mani nude: 1d8+22
+Soldi: 2000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #30003
+Nome: una guardia di pattuglia
+Livello: 33 
+Tach0: 0 
+Armor Class: 10 
+Hit Points: 20d3+650 
+Danno a mani nude: 2d10+2
+Soldi: 10000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #30004
+Nome: una guardia armata
+Livello: 25 
+Tach0: 11 
+Armor Class: 1 
+Hit Points: 2d6+800 
+Danno a mani nude: 3d8+5
+Soldi: 5000 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #30005
+Nome: Il capo delle guardie della citta'
+Livello: 35 
+Tach0: 15 
+Armor Class: -2 
+Hit Points: 5d10+1200 
+Danno a mani nude: 4d6+15
+Soldi: 5000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #30006
+Nome: l'implementor
+Livello: 59 
+Tach0: 0 
+Armor Class: -6 
+Hit Points: 1d12+20000 
+Danno a mani nude: 3d5+35
+Soldi: 75000 
+Punti Esperienza:  350000
+
+------------------------
+VNUM: #30007
+Nome: un programmatore
+Livello: 40 
+Tach0: 0 
+Armor Class: -6 
+Hit Points: 1d12+4000 
+Danno a mani nude: 2d5+20
+Soldi: 7500 
+Punti Esperienza:  125000
+
+------------------------
+VNUM: #30008
+Nome: un costruttore di aree
+Livello: 40 
+Tach0: 0 
+Armor Class: -6 
+Hit Points: 1d12+3000 
+Danno a mani nude: 2d5+20
+Soldi: 7500 
+Punti Esperienza:  125000
+
+------------------------
+VNUM: #30095
+Nome: Dakket il mago dell'Hi-Tech
+Livello: 22 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 6d10+20000 
+Danno a mani nude: 1d8+10
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #30096
+Nome: Snaffu il barista
+Livello: 22 
+Tach0: 2 
+Armor Class: 2 
+Hit Points: 6d10+20000 
+Danno a mani nude: 1d8+10
+Soldi: 2000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #3100
+Nome: Uno zingarello che vende i fiori
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 300 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3101
+Nome: Un manager della new economy
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 20d8+20 
+Danno a mani nude: 1d3+1
+Soldi: 0 
+Punti Esperienza:  400
+
+------------------------
+VNUM: #3102
+Nome: Uno spacciatore
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 300 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3103
+Nome: Uno sbirro
+Livello: 10 
+Tach0: 10 
+Armor Class: 1 
+Hit Points: 1d12+123 
+Danno a mani nude: 1d8+5
+Soldi: 500 
+Punti Esperienza:  9000
+
+------------------------
+VNUM: #3104
+Nome: La segretaria
+Livello: 15 
+Tach0: 10 
+Armor Class: 5 
+Hit Points: 20d3+450 
+Danno a mani nude: 7d2+5
+Soldi: 300 
+Punti Esperienza:  20000
+
+------------------------
+VNUM: #3105
+Nome: Il sindaco
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 2d8+200 
+Danno a mani nude: 1d1+1
+Soldi: 1000 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #3106
+Nome: Un venditore ambulante
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 300 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3107
+Nome: Il barman Pennywise
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 30000 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3108
+Nome: Un vigile napoletano
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 300 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3109
+Nome: Un cigno bianco
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d2+10 
+Danno a mani nude: 1d4+4
+Soldi: 0 
+Punti Esperienza:  25
+
+------------------------
+VNUM: #3110
+Nome: Un brutto anatroccolo
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d2+10 
+Danno a mani nude: 1d2+1
+Soldi: 0 
+Punti Esperienza:  3
+
+------------------------
+VNUM: #3111
+Nome: Un passero
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d2+10 
+Danno a mani nude: 1d2+2
+Soldi: 0 
+Punti Esperienza:  4
+
+------------------------
+VNUM: #3112
+Nome: Un' anatra starnazza
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d2+10 
+Danno a mani nude: 1d2+1
+Soldi: 0 
+Punti Esperienza:  20
+
+------------------------
+VNUM: #3113
+Nome: Una rana
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 1d1+10 
+Danno a mani nude: 1d2+1
+Soldi: 0 
+Punti Esperienza:  10
+
+------------------------
+VNUM: #3114
+Nome: Drum lo stilista
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 300 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3115
+Nome: Contrabbandiere d'organi
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 20d2+20 
+Danno a mani nude: 1d3+1
+Soldi: 0 
+Punti Esperienza:  400
+
+------------------------
+VNUM: #3116
+Nome: Un tossico
+Livello: 0 
+Tach0: 20 
+Armor Class: -5 
+Hit Points: 1d2+1 
+Danno a mani nude: 2d4+1
+Soldi: 0 
+Punti Esperienza:  800
+
+------------------------
+VNUM: #3117
+Nome: Ciccio
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d8+18
+Soldi: 300 
+Punti Esperienza:  160000
+
+------------------------
+VNUM: #3118
+Nome: Duundee
+Livello: 10 
+Tach0: 10 
+Armor Class: 1 
+Hit Points: 1d12+123 
+Danno a mani nude: 1d8+5
+Soldi: 500 
+Punti Esperienza:  9000
+
+------------------------
+VNUM: #3119
+Nome: Una prostituta di alto bordo
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 20d8+20 
+Danno a mani nude: 1d3+1
+Soldi: 0 
+Punti Esperienza:  400
+
+------------------------
+VNUM: #3120
+Nome: Un viaggiatore di passaggio
+Livello: 0 
+Tach0: 20 
+Armor Class: 10 
+Hit Points: 20d8+20 
+Danno a mani nude: 1d3+1
+Soldi: 0 
+Punti Esperienza:  400
+
+------------------------
+VNUM: #3600
+Nome: Una guardia di Marrakesh
+Livello: 10 
+Tach0: 1 
+Armor Class: 100 
+Hit Points: 1d8+6 
+Danno a mani nude: 1d3+1
+Soldi: 1000 
+Punti Esperienza:  15000
+
+------------------------
+VNUM: #3601
+Nome: Abathar l'oste
+Livello: 1 
+Tach0: 1 
+Armor Class: 100 
+Hit Points: 1d8+6 
+Danno a mani nude: 1d3+1
+Soldi: 3 
+Punti Esperienza:  15
+
+------------------------
+VNUM: #3602
+Nome: Un cacciatore d'organi
+Livello: 1 
+Tach0: 1 
+Armor Class: 100 
+Hit Points: 1d8+6 
+Danno a mani nude: 1d3+1
+Soldi: 1000 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #5400
+Nome: Il Guru Virus writer
+Livello: 16 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+10000 
+Danno a mani nude: 5d5+5
+Soldi: 1 
+Punti Esperienza:  0 
+
+------------------------
+VNUM: #5401
+Nome: Il professore di informatica
+Livello: 16 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+10000 
+Danno a mani nude: 5d5+5
+Soldi: 1 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #5402
+Nome: L'allenatore
+Livello: 16 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+10000 
+Danno a mani nude: 5d5+5
+Soldi: 1 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #5403
+Nome: Il guru hacker
+Livello: 16 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+10000 
+Danno a mani nude: 5d5+5
+Soldi: 1 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #5404
+Nome: Theresa la receptionist
+Livello: 10 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1871 
+Danno a mani nude: 10d20+10
+Soldi: 1 
+Punti Esperienza:  5000
+
+------------------------
+VNUM: #5405
+Nome: un anziano barista
+Livello: 35 
+Tach0: 9 
+Armor Class: -1 
+Hit Points: 1d1+12000 
+Danno a mani nude: 1d5+3
+Soldi: 1 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #5406
+Nome: John il musicista di strada
+Livello: 15 
+Tach0: 4 
+Armor Class: 0 
+Hit Points: 3d5+150 
+Danno a mani nude: 2d5+3
+Soldi: 21 
+Punti Esperienza:  1350
+
+------------------------
+VNUM: #5407
+Nome: un barbone
+Livello: 2 
+Tach0: 19 
+Armor Class: 10 
+Hit Points: 10d1+1 
+Danno a mani nude: 1d4+2
+Soldi: 1 
+Punti Esperienza:  5
+
+------------------------
+VNUM: #5408
+Nome: un barbone
+Livello: 3 
+Tach0: 19 
+Armor Class: 10 
+Hit Points: 10d1+1 
+Danno a mani nude: 1d3+3
+Soldi: 1 
+Punti Esperienza:  5
+
+------------------------
+VNUM: #5409
+Nome: un mendicante
+Livello: 1 
+Tach0: 19 
+Armor Class: 10 
+Hit Points: 10d1+1 
+Danno a mani nude: 1d2+2
+Soldi: 1 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #5410
+Nome: il paniettiere
+Livello: 35 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d10+2
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5411
+Nome: il proprietario del negozio
+Livello: 35 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+30000 
+Danno a mani nude: 2d10+2
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5412
+Nome: un impiegato della Banca
+Livello: 10 
+Tach0: 1 
+Armor Class: 0 
+Hit Points: 1d1+30000 
+Danno a mani nude: 3d6+2
+Soldi: 1 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #5413
+Nome: Ahkeem il sarto
+Livello: 35 
+Tach0: 10 
+Armor Class: 5 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d5+5
+Soldi: 1 
+Punti Esperienza:  200
+
+------------------------
+VNUM: #5414
+Nome: Vera la fruttivendola
+Livello: 35 
+Tach0: 10 
+Armor Class: 5 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d5+5
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5415
+Nome: Butch il macellaio
+Livello: 35 
+Tach0: 10 
+Armor Class: 5 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d5+5
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5416
+Nome: Abdul
+Livello: 35 
+Tach0: 10 
+Armor Class: 5 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d5+5
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5417
+Nome: Igor l'armaiolo
+Livello: 35 
+Tach0: 10 
+Armor Class: 5 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d5+5
+Soldi: 100000 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5418
+Nome: Cassandra la pescivendola
+Livello: 35 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d5+5
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5419
+Nome: Il capocantiere
+Livello: 15 
+Tach0: 6 
+Armor Class: -2 
+Hit Points: 3d10+40 
+Danno a mani nude: 1d8+2
+Soldi: 1 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #5420
+Nome: un operaio
+Livello: 10 
+Tach0: 12 
+Armor Class: 0 
+Hit Points: 3d8+35 
+Danno a mani nude: 2d5+2
+Soldi: 1 
+Punti Esperienza:  50
+
+------------------------
+VNUM: #5421
+Nome: La statua di Brahman
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5422
+Nome: La statua di Siva
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5423
+Nome: La statua di Indra
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5424
+Nome: La statua di Yama
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5425
+Nome: La statua di Surya
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5426
+Nome: La statua di Kali
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5427
+Nome: la statua di Brihaspati
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5428
+Nome: La statua di Puchan
+Livello: 30 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+1200 
+Danno a mani nude: 6d10+10
+Soldi: 1200 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5429
+Nome: Arilen
+Livello: 11 
+Tach0: 14 
+Armor Class: 0 
+Hit Points: 2d11+40 
+Danno a mani nude: 2d5+2
+Soldi: 1 
+Punti Esperienza:  384
+
+------------------------
+VNUM: #5430
+Nome: Mullin
+Livello: 7 
+Tach0: 17 
+Armor Class: 30 
+Hit Points: 3d8+41 
+Danno a mani nude: 2d4+1
+Soldi: 1 
+Punti Esperienza:  99
+
+------------------------
+VNUM: #5431
+Nome: Fatima
+Livello: 9 
+Tach0: 18 
+Armor Class: 50 
+Hit Points: 2d6+25 
+Danno a mani nude: 3d3+0
+Soldi: 1 
+Punti Esperienza:  93
+
+------------------------
+VNUM: #5432
+Nome: Kareem
+Livello: 12 
+Tach0: 9 
+Armor Class: 0 
+Hit Points: 4d4+50 
+Danno a mani nude: 2d6+5
+Soldi: 1 
+Punti Esperienza:  939
+
+------------------------
+VNUM: #5433
+Nome: il mercante nomade
+Livello: 35 
+Tach0: 11 
+Armor Class: 20 
+Hit Points: 1d1+1500 
+Danno a mani nude: 1d8+2
+Soldi: 15000 
+Punti Esperienza:  800
+
+------------------------
+VNUM: #5434
+Nome: la guardia del corpo
+Livello: 12 
+Tach0: 10 
+Armor Class: 3 
+Hit Points: 3d10+100 
+Danno a mani nude: 1d6+3
+Soldi: 1 
+Punti Esperienza:  400
+
+------------------------
+VNUM: #5435
+Nome: il teppistello
+Livello: 7 
+Tach0: 12 
+Armor Class: 1 
+Hit Points: 14d1+1 
+Danno a mani nude: 2d5+1
+Soldi: 1 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #5436
+Nome: un facchino
+Livello: 12 
+Tach0: 9 
+Armor Class: 20 
+Hit Points: 3d5+65 
+Danno a mani nude: 1d8+5
+Soldi: 1 
+Punti Esperienza:  550
+
+------------------------
+VNUM: #5437
+Nome: l'esattore
+Livello: 5 
+Tach0: 16 
+Armor Class: 50 
+Hit Points: 10d2+45 
+Danno a mani nude: 2d3+1
+Soldi: 15 
+Punti Esperienza:  431
+
+------------------------
+VNUM: #5438
+Nome: Gordon
+Livello: 15 
+Tach0: 0 
+Armor Class: -3 
+Hit Points: 5d3+105 
+Danno a mani nude: 2d6+4
+Soldi: 1 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #5439
+Nome: Chulainn
+Livello: 15 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 4d1+231 
+Danno a mani nude: 2d8+5
+Soldi: 650 
+Punti Esperienza:  8700
+
+------------------------
+VNUM: #5440
+Nome: Dagh
+Livello: 15 
+Tach0: 5 
+Armor Class: 3 
+Hit Points: 5d2+180 
+Danno a mani nude: 1d6+2
+Soldi: 0 
+Punti Esperienza:  8700
+
+------------------------
+VNUM: #5441
+Nome: Bj Otis
+Livello: 15 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 3d5+120 
+Danno a mani nude: 3d4+1
+Soldi: 1 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #5442
+Nome: un predicatore di strada
+Livello: 7 
+Tach0: 16 
+Armor Class: 50 
+Hit Points: 1d1+1 
+Danno a mani nude: 1d5+1
+Soldi: 1 
+Punti Esperienza:  10
+
+------------------------
+VNUM: #5443
+Nome: un gatto randagio
+Livello: 2 
+Tach0: 18 
+Armor Class: 70 
+Hit Points: 1d2+5 
+Danno a mani nude: 2d2+1
+Soldi: 1 
+Punti Esperienza:  0
+
+------------------------
+VNUM: #5444
+Nome: Un corvo nero
+Livello: 2 
+Tach0: 18 
+Armor Class: 7 
+Hit Points: 1d3+1 
+Danno a mani nude: 1d6+1
+Soldi: 1 
+Punti Esperienza:  10
+
+------------------------
+VNUM: #5445
+Nome: Il vecchio
+Livello: 4 
+Tach0: 17 
+Armor Class: 80 
+Hit Points: 2d3+1 
+Danno a mani nude: 1d3+1
+Soldi: 1 
+Punti Esperienza:  20
+
+------------------------
+VNUM: #5446
+Nome: Lugh il Bibliotecario
+Livello: 10 
+Tach0: 1 
+Armor Class: 0 
+Hit Points: 10d10+430 
+Danno a mani nude: 3d6+5
+Soldi: 1231 
+Punti Esperienza:  23000
+
+------------------------
+VNUM: #5447
+Nome: un ologramma perduto
+Livello: 1 
+Tach0: 19 
+Armor Class: 90 
+Hit Points: 2d2+1 
+Danno a mani nude: 2d3+1
+Soldi: 1 
+Punti Esperienza:  10
+
+------------------------
+VNUM: #5448
+Nome: una bambola replicante
+Livello: 12 
+Tach0: 12 
+Armor Class: 3 
+Hit Points: 1d10+120 
+Danno a mani nude: 2d5+1
+Soldi: 1500 
+Punti Esperienza:  10500
+
+------------------------
+VNUM: #5449
+Nome: il danzatore derviscio
+Livello: 8 
+Tach0: 12 
+Armor Class: 3 
+Hit Points: 4d4+20 
+Danno a mani nude: 2d6+1
+Soldi: 1 
+Punti Esperienza:  105
+
+------------------------
+VNUM: #5450
+Nome: il sindaco di NewLand
+Livello: 10 
+Tach0: 5 
+Armor Class: -4 
+Hit Points: 6d6+830 
+Danno a mani nude: 1d6+0
+Soldi: 1200 
+Punti Esperienza:  25000
+
+------------------------
+VNUM: #5451
+Nome: una ragazza seminuda
+Livello: 3 
+Tach0: 17 
+Armor Class: 7 
+Hit Points: 1d1+15 
+Danno a mani nude: 1d6+1
+Soldi: 0 
+Punti Esperienza:  40
+
+------------------------
+VNUM: #5452
+Nome: il secondino
+Livello: 18 
+Tach0: 4 
+Armor Class: 0 
+Hit Points: 3d4+100 
+Danno a mani nude: 1d6+6
+Soldi: 157 
+Punti Esperienza:  1200
+
+------------------------
+VNUM: #5453
+Nome: un guardiano
+Livello: 32 
+Tach0: 8 
+Armor Class: 0 
+Hit Points: 5d1+100 
+Danno a mani nude: 4d8+4
+Soldi: 0 
+Punti Esperienza:  1300
+
+------------------------
+VNUM: #5454
+Nome: Nichole, l'amante del Sindaco
+Livello: 40 
+Tach0: 3 
+Armor Class: -2 
+Hit Points: 1d1+5500 
+Danno a mani nude: 4d8+8
+Soldi: 0 
+Punti Esperienza:  40000
+
+------------------------
+VNUM: #5455
+Nome: Allah
+Livello: 50 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 2d3+23000 
+Danno a mani nude: 4d20+20
+Soldi: 0 
+Punti Esperienza:  45000 
+
+------------------------
+VNUM: #5456
+Nome: Il Guru Virus writer
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+34
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #5457
+Nome: Il professore di informatica
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+24
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #5458
+Nome: L'allenatore
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+34
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #5459
+Nome: Il guru hacker
+Livello: 44 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 6d10+9000 
+Danno a mani nude: 1d8+24
+Soldi: 18794 
+Punti Esperienza:  100000
+
+------------------------
+VNUM: #5460
+Nome: il domestico
+Livello: 2 
+Tach0: 19 
+Armor Class: 90 
+Hit Points: 10d1+1 
+Danno a mani nude: 1d4+1
+Soldi: 1 
+Punti Esperienza:  10
+
+------------------------
+VNUM: #5461
+Nome: Un vigilantes
+Livello: 40 
+Tach0: 10 
+Armor Class: 9 
+Hit Points: 2d4+1200 
+Danno a mani nude: 4d8+10
+Soldi: 150 
+Punti Esperienza:  2500
+
+------------------------
+VNUM: #5462
+Nome: Un vigilantes
+Livello: 40 
+Tach0: 10 
+Armor Class: 9 
+Hit Points: 2d4+1200 
+Danno a mani nude: 4d8+10
+Soldi: 150 
+Punti Esperienza:  2500
+
+------------------------
+VNUM: #5463
+Nome: Il capo dei vigilantes
+Livello: 45 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 2d4+12000 
+Danno a mani nude: 4d8+20
+Soldi: 435 
+Punti Esperienza:  5000
+
+------------------------
+VNUM: #5464
+Nome: un hacker mercenario
+Livello: 30 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d8+1000 
+Danno a mani nude: 1d4+20
+Soldi: 10000 
+Punti Esperienza:  60000
+
+------------------------
+VNUM: #5465
+Nome: il capitano
+Livello: 35 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+30000 
+Danno a mani nude: 5d5+5
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5466
+Nome: il meccanico
+Livello: 35 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 1d1+30000 
+Danno a mani nude: 4d4+4
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5467
+Nome: il cavallo
+Livello: 4 
+Tach0: 20 
+Armor Class: 50 
+Hit Points: 10d1+1 
+Danno a mani nude: 2d4+2
+Soldi: 0 
+Punti Esperienza:  10
+
+------------------------
+VNUM: #5468
+Nome: il turista
+Livello: 5 
+Tach0: 18 
+Armor Class: 80 
+Hit Points: 2d10+15 
+Danno a mani nude: 1d8+2
+Soldi: 500 
+Punti Esperienza:  650
+
+------------------------
+VNUM: #5469
+Nome: un ixitxachitl
+Livello: 10 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 3d3+120 
+Danno a mani nude: 3d4+1
+Soldi: 0 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5470
+Nome: il cryohydra
+Livello: 8 
+Tach0: 9 
+Armor Class: 5 
+Hit Points: 10d1+1 
+Danno a mani nude: 1d10+0
+Soldi: 0 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #5471
+Nome: la lucertola minotauro
+Livello: 8 
+Tach0: 8 
+Armor Class: 5 
+Hit Points: 1d10+55 
+Danno a mani nude: 3d5+0
+Soldi: 0 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #5472
+Nome: il cane morto
+Livello: 4 
+Tach0: 19 
+Armor Class: 7 
+Hit Points: 1d15+76 
+Danno a mani nude: 1d10+1
+Soldi: 0 
+Punti Esperienza:  900
+
+------------------------
+VNUM: #5473
+Nome: il felino
+Livello: 5 
+Tach0: 17 
+Armor Class: 6 
+Hit Points: 5d5+45 
+Danno a mani nude: 1d8+1
+Soldi: 0 
+Punti Esperienza:  1500
+
+------------------------
+VNUM: #5474
+Nome: il behir
+Livello: 12 
+Tach0: 9 
+Armor Class: 4 
+Hit Points: 4d3+146 
+Danno a mani nude: 2d8+4
+Soldi: 0 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #5475
+Nome: la chimera creatura
+Livello: 9 
+Tach0: 5 
+Armor Class: 0 
+Hit Points: 5d5+261 
+Danno a mani nude: 3d4+4
+Soldi: 0 
+Punti Esperienza:  3500
+
+------------------------
+VNUM: #5476
+Nome: il couatl
+Livello: 15 
+Tach0: 10 
+Armor Class: 1 
+Hit Points: 10d5+130 
+Danno a mani nude: 2d4+2
+Soldi: 0 
+Punti Esperienza:  2400
+
+------------------------
+VNUM: #5477
+Nome: il calabrone gigante
+Livello: 5 
+Tach0: 15 
+Armor Class: 4 
+Hit Points: 1d1+5 
+Danno a mani nude: 1d4+0
+Soldi: 0 
+Punti Esperienza:  45
+
+------------------------
+VNUM: #5478
+Nome: Pegaso
+Livello: 10 
+Tach0: 4 
+Armor Class: 0 
+Hit Points: 1d5+700 
+Danno a mani nude: 2d10+5
+Soldi: 0 
+Punti Esperienza:  6500 
+
+------------------------
+VNUM: #5479
+Nome: Elriva
+Livello: 35 
+Tach0: 10 
+Armor Class: 0 
+Hit Points: 1d1+30000 
+Danno a mani nude: 1d10+10
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5480
+Nome: Braheem
+Livello: 35 
+Tach0: -10 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 10d10+40
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5481
+Nome: il Gran Sacerdote
+Livello: 8 
+Tach0: 2 
+Armor Class: 0 
+Hit Points: 10d5+1200 
+Danno a mani nude: 2d8+5
+Soldi: 15000 
+Punti Esperienza:  35000
+
+------------------------
+VNUM: #5482
+Nome: una guardia del corpo speciale
+Livello: 40 
+Tach0: 10 
+Armor Class: 9 
+Hit Points: 2d4+1200 
+Danno a mani nude: 4d8+10
+Soldi: 150 
+Punti Esperienza:  2500
+
+------------------------
+VNUM: #5483
+Nome: Patch il barista
+Livello: 35 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 1d1+30000 
+Danno a mani nude: 3d8+10
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5484
+Nome: Stitch, il sarto
+Livello: 35 
+Tach0: -10 
+Armor Class: -5 
+Hit Points: 1d1+30000 
+Danno a mani nude: 3d6+6
+Soldi: 1 
+Punti Esperienza:  2000
+
+------------------------
+VNUM: #5485
+Nome: il giardiniere
+Livello: 10 
+Tach0: 10 
+Armor Class: 6 
+Hit Points: 5d5+100 
+Danno a mani nude: 2d8+2
+Soldi: 56 
+Punti Esperienza:  1500
+
+------------------------
+VNUM: #5486
+Nome: il nightmare
+Livello: 40 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 3d9+9000 
+Danno a mani nude: 3d5+20
+Soldi: 0 
+Punti Esperienza:  50000
+
+------------------------
+VNUM: #5487
+Nome: il lupo rabbioso
+Livello: 15 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 10d2+230 
+Danno a mani nude: 2d10+10
+Soldi: 0 
+Punti Esperienza:  5000
+
+------------------------
+VNUM: #5488
+Nome: l'imitatore
+Livello: 10 
+Tach0: 10 
+Armor Class: 0 
+Hit Points: 5d8+321 
+Danno a mani nude: 2d8+4
+Soldi: 0 
+Punti Esperienza:  6000
+
+------------------------
+VNUM: #5489
+Nome: l'assessore
+Livello: 10 
+Tach0: 0 
+Armor Class: 0 
+Hit Points: 2d8+600 
+Danno a mani nude: 3d6+6
+Soldi: 1200 
+Punti Esperienza:  15675
+
+------------------------
+VNUM: #5490
+Nome: il cuoco
+Livello: 14 
+Tach0: 6 
+Armor Class: 6 
+Hit Points: 10d2+5 
+Danno a mani nude: 2d10+5
+Soldi: 16 
+Punti Esperienza:  40
+
+------------------------
+VNUM: #6500
+Nome: Un Affiliato della Asukaga
+Livello: 21 
+Tach0: 0 
+Armor Class: -1 
+Hit Points: 4d20+436 
+Danno a mani nude: 2d8+19
+Soldi: 7000 
+Punti Esperienza:  40000
+
+------------------------
+VNUM: #6501
+Nome: Un impiegato della Asukaga
+Livello: 13 
+Tach0: 7 
+Armor Class: 2 
+Hit Points: 25d5+270 
+Danno a mani nude: 2d4+12
+Soldi: 2000 
+Punti Esperienza:  20000
+
+------------------------
+VNUM: #6502
+Nome: Il Direttore del Laboratorio
+Livello: 35 
+Tach0: 3 
+Armor Class: -8 
+Hit Points: 9d7+5000 
+Danno a mani nude: 10d5+70
+Soldi: 36789 
+Punti Esperienza:  150000
+
+------------------------
+VNUM: #6503
+Nome: L'addetto alle vendite
+Livello: 25 
+Tach0: 8 
+Armor Class: -5 
+Hit Points: 1d1+12000 
+Danno a mani nude: 2d4+55
+Soldi: 30000 
+Punti Esperienza:  120000
+
+------------------------
+VNUM: #6504
+Nome: Gotropex
+Livello: 40 
+Tach0: 2 
+Armor Class: -9 
+Hit Points: 1d1+20000 
+Danno a mani nude: 2d5+100
+Soldi: 54321 
+Punti Esperienza:  300000
+
+------------------------
+VNUM: #6505
+Nome: Un cane da guardia cybernetico
+Livello: 21 
+Tach0: 0 
+Armor Class: -3 
+Hit Points: 4d20+540 
+Danno a mani nude: 3d7+14
+Soldi: 500 
+Punti Esperienza:  30000
+
+------------------------
+VNUM: #6506
+Nome: Un Enorme Automa
+Livello: 30 
+Tach0: 2 
+Armor Class: -10 
+Hit Points: 4d20+1000 
+Danno a mani nude: 3d3+25
+Soldi: 2000 
+Punti Esperienza:  50000
+
+------------------------
+VNUM: #6507
+Nome: Un vecchio inserviente
+Livello: 10 
+Tach0: 10 
+Armor Class: 4 
+Hit Points: 3d13+240 
+Danno a mani nude: 20d3+5
+Soldi: 100 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #6508
+Nome: Il Comandante della sicurezza
+Livello: 25 
+Tach0: 1 
+Armor Class: -5 
+Hit Points: 50d2+2500 
+Danno a mani nude: 10d4+60
+Soldi: 15000 
+Punti Esperienza:  80000
+
+------------------------
+VNUM: #6509
+Nome: Il dottore della Asukaga
+Livello: 25 
+Tach0: 0 
+Armor Class: -5 
+Hit Points: 90d4+575 
+Danno a mani nude: 3d10+15
+Soldi: 10000 
+Punti Esperienza:  40000
+
+------------------------
+VNUM: #6510
+Nome: Un infermiere anabolizzato
+Livello: 10 
+Tach0: 10 
+Armor Class: 2 
+Hit Points: 10d3+235 
+Danno a mani nude: 20d3+8
+Soldi: 100 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #6511
+Nome: Un Corporativo
+Livello: 15 
+Tach0: 5 
+Armor Class: -4 
+Hit Points: 10d15+570 
+Danno a mani nude: 30d3+25
+Soldi: 1000 
+Punti Esperienza:  15000
+
+------------------------
+VNUM: #6514
+Nome: Una guardia del dormitorio
+Livello: 30 
+Tach0: 4 
+Armor Class: -4 
+Hit Points: 5d10+870 
+Danno a mani nude: 5d5+25
+Soldi: 2000 
+Punti Esperienza:  30000
+
+------------------------
+VNUM: #6516
+Nome: Il Custode
+Livello: 38 
+Tach0: 0 
+Armor Class: -8 
+Hit Points: 250d4+2500 
+Danno a mani nude: 4d3+40
+Soldi: 1000 
+Punti Esperienza:  200000
+
+------------------------
+VNUM: #6517
+Nome: Blanka il distruttore
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 300d6+1200 
+Danno a mani nude: 10d8+80
+Soldi: 1000 
+Punti Esperienza:  250000
+
+------------------------
+VNUM: #6518
+Nome: Il Dott. Asukaga
+Livello: 55 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 0d1+29000 
+Danno a mani nude: 2d2+100
+Soldi: 30000 
+Punti Esperienza:  1000000
+
+------------------------
+VNUM: #7000
+Nome: il mostro della bbs
+Livello: 12 
+Tach0: 9 
+Armor Class: 2 
+Hit Points: 4d6+340 
+Danno a mani nude: 2d5+3
+Soldi: 100 
+Punti Esperienza:  13000
+
+------------------------
+VNUM: #7001
+Nome: la botta di lag
+Livello: 1 
+Tach0: 20 
+Armor Class: 5 
+Hit Points: 5d2+50 
+Danno a mani nude: 1d5+0
+Soldi: 0 
+Punti Esperienza:  150
+
+------------------------
+VNUM: #7002
+Nome: un ghost della chat
+Livello: 5 
+Tach0: 16 
+Armor Class: 5 
+Hit Points: 1d12+100 
+Danno a mani nude: 2d4+3
+Soldi: 30 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #7003
+Nome: il subdolo plop
+Livello: 1 
+Tach0: 20 
+Armor Class: 3 
+Hit Points: 1d12+80 
+Danno a mani nude: 1d4+1
+Soldi: 1 
+Punti Esperienza:  100
+
+------------------------
+VNUM: #7004
+Nome: lo scatto telecom
+Livello: 8 
+Tach0: 13 
+Armor Class: 3 
+Hit Points: 2d10+98 
+Danno a mani nude: 2d4+2
+Soldi: 1000 
+Punti Esperienza:  3750
+
+------------------------
+VNUM: #7005
+Nome: un upload interrotto
+Livello: 3 
+Tach0: 17 
+Armor Class: 9 
+Hit Points: 2d5+50 
+Danno a mani nude: 1d7+0
+Soldi: 2 
+Punti Esperienza:  350
+
+------------------------
+VNUM: #7006
+Nome: il bug xpress
+Livello: 4 
+Tach0: 16 
+Armor Class: 7 
+Hit Points: 2d5+80 
+Danno a mani nude: 1d9+0
+Soldi: 1 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #7007
+Nome: l'odioso spamming
+Livello: 10 
+Tach0: 11 
+Armor Class: 2 
+Hit Points: 4d10+300 
+Danno a mani nude: 2d6+1
+Soldi: 300 
+Punti Esperienza:  9500
+
+------------------------
+VNUM: #7008
+Nome: l'off topic
+Livello: 11 
+Tach0: 10 
+Armor Class: 1 
+Hit Points: 6d3+250 
+Danno a mani nude: 2d6+2
+Soldi: 500 
+Punti Esperienza:  11500
+
+------------------------
+VNUM: #7009
+Nome: la mail infetta
+Livello: 10 
+Tach0: 12 
+Armor Class: 3 
+Hit Points: 1d20+220 
+Danno a mani nude: 2d6+0
+Soldi: 1 
+Punti Esperienza:  9000
+
+------------------------
+VNUM: #7010
+Nome: un file corrotto
+Livello: 12 
+Tach0: 9 
+Armor Class: 2 
+Hit Points: 2d26+248 
+Danno a mani nude: 2d7+1
+Soldi: 1500 
+Punti Esperienza:  13000
+
+------------------------
+VNUM: #7040
+Nome: il modem inceppato
+Livello: 19 
+Tach0: 2 
+Armor Class: 0 
+Hit Points: 5d4+330 
+Danno a mani nude: 3d6+3
+Soldi: 16842 
+Punti Esperienza:  40000
+
+------------------------
+VNUM: #7041
+Nome: l'attach smarrito
+Livello: 14 
+Tach0: 7 
+Armor Class: 1 
+Hit Points: 1d8+250 
+Danno a mani nude: 2d8+1
+Soldi: 0 
+Punti Esperienza:  18000
+
+------------------------
+VNUM: #7042
+Nome: la guardina naga
+Livello: 12 
+Tach0: 9 
+Armor Class: 2 
+Hit Points: 1d18+248 
+Danno a mani nude: 2d7+1
+Soldi: 100 
+Punti Esperienza:  13500
+
+------------------------
+VNUM: #7043
+Nome: l'interferenza
+Livello: 13 
+Tach0: 11 
+Armor Class: 0 
+Hit Points: 1d12+210 
+Danno a mani nude: 2d7+2
+Soldi: 350 
+Punti Esperienza:  16000
+
+------------------------
+VNUM: #7044
+Nome: l'avviso di chiamata
+Livello: 5 
+Tach0: 16 
+Armor Class: 6 
+Hit Points: 3d5+120 
+Danno a mani nude: 2d4+0
+Soldi: 0 
+Punti Esperienza:  1000
+
+------------------------
+VNUM: #7045
+Nome: La bolletta telecom
+Livello: 10 
+Tach0: 11 
+Armor Class: 2 
+Hit Points: 1d5+280 
+Danno a mani nude: 2d6+2
+Soldi: 60 
+Punti Esperienza:  11000
+
+------------------------
+VNUM: #7046
+Nome: il moderatore
+Livello: 6 
+Tach0: 14 
+Armor Class: 4 
+Hit Points: 3d5+150 
+Danno a mani nude: 1d8+0
+Soldi: 40 
+Punti Esperienza:  1500
+
+------------------------
+VNUM: #7200
+Nome: il server smtp ribelle
+Livello: 14 
+Tach0: 7 
+Armor Class: 0 
+Hit Points: 1d10+170 
+Danno a mani nude: 3d4+4
+Soldi: 0 
+Punti Esperienza:  20000
+
+------------------------
+VNUM: #7201
+Nome: il server smtp principale
+Livello: 8 
+Tach0: 13 
+Armor Class: 2 
+Hit Points: 1d10+100 
+Danno a mani nude: 2d4+3
+Soldi: 400 
+Punti Esperienza:  4500
+
+------------------------
+VNUM: #7202
+Nome: il server smtp secondario
+Livello: 6 
+Tach0: 15 
+Armor Class: 4 
+Hit Points: 1d10+75 
+Danno a mani nude: 1d4+2
+Soldi: 200 
+Punti Esperienza:  1500
+
+------------------------
+VNUM: #7203
+Nome: il newsserver zombie
+Livello: 6 
+Tach0: 15 
+Armor Class: 3 
+Hit Points: 4d6+109 
+Danno a mani nude: 2d4+2
+Soldi: 50 
+Punti Esperienza:  1500
+
+------------------------
+VNUM: #7204
+Nome: un mouse impazzito
+Livello: 12 
+Tach0: 9 
+Armor Class: 2 
+Hit Points: 1d10+200 
+Danno a mani nude: 2d6+2
+Soldi: 2513 
+Punti Esperienza:  13000
+
+------------------------
+VNUM: #7900
+Nome: Rich Williams guardia privata del MIT.
+Livello: 26 
+Tach0: 0 
+Armor Class: -2 
+Hit Points: 10d8+550 
+Danno a mani nude: 2d6+16
+Soldi: 31570 
+Punti Esperienza:  170000
+
+------------------------
+VNUM: #7901
+Nome: un custode 
+Livello: 14 
+Tach0: 5 
+Armor Class: -20 
+Hit Points: 10d100+10 
+Danno a mani nude: 4d7+1
+Soldi: 0 
+Punti Esperienza:  10000
+
+------------------------
+VNUM: #7902
+Nome: un ingegnere del MIT
+Livello: 30 
+Tach0: -20 
+Armor Class: -10 
+Hit Points: 20d100+250 
+Danno a mani nude: 4d10+10
+Soldi: 0 
+Punti Esperienza:  90000
+
+------------------------
+VNUM: #7903
+Nome: la Professoressa Patti Richards
+Livello: 50 
+Tach0: -30 
+Armor Class: -50 
+Hit Points: 10d100+2500 
+Danno a mani nude: 10d10+20
+Soldi: 0 
+Punti Esperienza:  200000
+
+------------------------
+VNUM: #7904
+Nome: il coordinatore Alex Prengel
+Livello: 50 
+Tach0: -30 
+Armor Class: -50 
+Hit Points: 20d100+1500 
+Danno a mani nude: 8d12+15
+Soldi: 0 
+Punti Esperienza:  150000
+
+------------------------
+VNUM: #7905
+Nome: Yajun Fang 
+Livello: 50 
+Tach0: -9 
+Armor Class: -50 
+Hit Points: 100d99+99 
+Danno a mani nude: 8d10+9
+Soldi: 0 
+Punti Esperienza:  180000
+
+------------------------
+VNUM: #7906
+Nome: un droide possente
+Livello: 33 
+Tach0: 0 
+Armor Class: -10 
+Hit Points: 3d60+1480 
+Danno a mani nude: 4d8+16
+Soldi: 35000 
+Punti Esperienza:  1000000
+
+------------------------
+VNUM: #7907
+Nome: Marsette (Marty) Vona
+Livello: 45 
+Tach0: -50 
+Armor Class: -20 
+Hit Points: 3d250+1000 
+Danno a mani nude: 6d8+20
+Soldi: 500 
+Punti Esperienza:  175000
+
+------------------------
+VNUM: #7908
+Nome: Ronald Wiken addetto stampa
+Livello: 50 
+Tach0: -50 
+Armor Class: -90 
+Hit Points: 10d250+4500 
+Danno a mani nude: 12d10+10
+Soldi: 100000 
+Punti Esperienza:  400000
+
+------------------------
+VNUM: #7909
+Nome: guardia squadra A
+Livello: 30 
+Tach0: -20 
+Armor Class: -40 
+Hit Points: 5d100+900 
+Danno a mani nude: 6d8+15
+Soldi: 5000 
+Punti Esperienza:  50000
+
+------------------------
+VNUM: #7910
+Nome: guardia squadra B
+Livello: 30 
+Tach0: 0 
+Armor Class: -40 
+Hit Points: 5d100+900 
+Danno a mani nude: 6d8+15
+Soldi: 5000 
+Punti Esperienza:  50000
+
+------------------------
+VNUM: #7911
+Nome: uno studente
+Livello: 10 
+Tach0: 2 
+Armor Class: 0 
+Hit Points: 97d9+4 
+Danno a mani nude: 10d6+1
+Soldi: 1020 
+Punti Esperienza:  1100
+
+------------------------

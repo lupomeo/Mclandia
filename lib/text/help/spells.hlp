@@ -1,0 +1,752 @@
+"AURA SIGHT"
+
+Sintassi       : psi 'aura sight'
+Livello        : Psi 5.
+
+Con questo spell lo psionista vede l'aura invisibile di ogni persona
+e puo' capire quali sono quelle malvage.
+#
+CANIBALIZE
+
+Sintassi       : psi 'canibalize'
+Livello        : Psi 30.
+
+Con questo skill lo psionista converte la sua forza fisica (100 punti
+vita) in potere mentale (100 punti mana). 
+Il guadagno di mana non superera' pero' il massimo. In altre parole
+il mana puo' essere solo recuperato e non addizionato.
+#
+"GREAT SIGHT"
+
+Sintassi       : psi 'great sight'
+Livello        : Psi 15.
+
+Con questo spell lo psionista richiama i suoi poteri mentali per
+vedere tutti gli oggetti e le aure invisibili.
+#
+HYPNOSYS
+
+Sintassi       : psi 'hypnosis' <nome>
+Livello        : Psi 3.
+
+Questo skill consente ad uno psionista di ipnotizzare una vittima
+trasformandola in un seguace. E' simile allo spell 'charm' e ne
+rispetta le regole. Ricorda che e' considerata aggressiva, per cui
+alcuni mostri potrebbero attaccarti se lo skill non ha successo.
+Comunque nel caso non abbia successo un messaggio ti avvertira' di
+questo.
+#
+LEVITATION
+
+Sintassi       : psi 'levitation' <nome>
+Livello        : Psi 12.
+Accumulazione  : No.
+Durata         : (Livello del caster + 3) ore.
+
+Questo spell permette di volare superando cosi' fiumi o mari
+e con meno spesa di punti movimento.
+Al chiuso invece conviene non volare perche' si perdono piu' punti.
+"Levitation" consente anche di volare su stanze "pozzo"
+dove altrimenti si morirebbe.
+
+Vedi anche : FLY, GROUP FLY
+#
+MESSENGER
+
+Sintassi       : messenger <nome> <msg>
+Livello        : Psi 2.
+
+Con questo potere lo psionista puo' inviare messaggi telepatici.
+#
+"MIND BLAST"
+
+Sintassi       : psi 'mind blast' <nome>
+Livello        : Psi 1.
+Danno          : 1d4*livello/2
+
+Con questo skill lo psionista focalizza i suoi poteri mentali su un
+mostro e colpisce la sua mente. Piu' potente e' lo psionista piu'
+sara' il danno prodotto (1d4 per livello).
+Il blast ai livelli piu' alti puo' accecare e anche stordire il
+nemico con ovvia conseguenza favorevole ai fini del combattimento!
+#
+"MIND BURN"
+
+Sintassi       : psi 'mind burn' <nome>
+Livello        : Psi 10.
+Danno          : 2d8+livello
+
+Lo psionista scatena i suoi poteri mentali trasformando in una massa
+gelatinosa la mente della vittima.
+#
+"MIND FLAME"
+
+Sintassi       : psi 'mind flame' <nome>
+Livello        : Psi 18.
+Danno          : 5d8*livello/3
+
+Lo psionista scatena i suoi poteri in una vampata mentale che
+colpisce la vittima.
+#
+"MIND OVER BODY"
+
+Sintassi       : psi 'mind over body'
+Livello        : Psi 22.
+
+Lo psionista ricorre ai suoi poteri mentali per avere il controllo
+del proprio corpo e non soffrire piu'gli effetti della fame e della 
+sete.
+#
+"MIND STRENGTH"
+
+Sintassi       : mind 'mind strength'
+Livello        : Psi 9.
+
+Lo psionista utilizza i suoi poteri mentali per caricarsi
+di forza magica. Puo' essere usato soltanto su se stessi.
+#
+"MIND SUMMON"
+
+Sintassi       : psi 'mind summon' <nome>
+Accumulazione  : -
+Durata         : Istantaneo.
+Livello        : Psi 11.
+
+Convoca la persona corrispondente al nome immesso. Non e' possibile convocare
+qualcuno maggiore di tre o piu' livelli rispetto a se stesso.
+In caso di convocazione di mob, essi avranno diritto ad un lancio salvezza.
+#
+"PSI SHIELD"
+
+Sintassi       : mind 'psi shield' [bersaglio]
+Accumulazione  : No
+Durata         : 24 Ore.
+Livello        : Psi 8.
+
+Lo Scudo Psionico incrementa l'AC di 2.
+
+Vedi anche: AC
+#
+"PSIONIC TELEPORT"
+
+Sintassi       : mind 'psionic teleport [vittima]
+Livello        : Psi 16.
+
+Con questo potere lo psionico trasporta la vittima in un'altra
+locazione (casuale).
+#
+FIREWEAPON
+
+Sintassi       : FIRE <arma> <MOB> [direzione]
+Livello        :VirWri 2, SysAdm 3, Hack 2, Psi 3, Link 2.
+
+La direzione va inserita se il mob non e' presente nella stanza
+Se il mob e' nella stessa stanza, e' sufficiente: 
+FIRE <weapon> <MOB>
+Per ricaricare l'arma, essa va tenuta con hold e dare il comando:
+RELOAD <arma> <ammo>
+Per vedere il numero di colpi rimasti basta dare:
+LOOK IN <arma|ammo>
+#
+THROW
+
+Sintassi       : THROW <MOB> <direzione>
+Livello        : Tutti 1.
+
+Con le armi da lancio, per tirare  il mob deve essere 
+in un altra stanza :
+THROW <MOB> <direzione>
+Con le bombe a mano, Prima bisogna attivarle tirando 
+la linguetta con:
+PULL PIN
+e tirare il piu presto possibile con:
+THROW <direzione>
+#
+NETSHIELD
+
+Sintassi       : exec 'netshield' [self]
+Cumulativo     : No.
+Durata         : 24 Ore.
+Livello        : VirWri 4, SysAdm 1.
+
+Il NetShield migliora l'AC di 2 punti.
+
+Vedi anche: AC
+#
+PRIVILEGE
+
+Sintassi       : exec 'privilege' <vittima | oggetto>
+Cumulativo     : No
+Durata         : 6 ore, permanente per gli oggetti.
+Livello        : SysAdm 9.
+
+
+Il privilegio su una vittima aumenta il tiro salvezza contro gli spells di 1 punto e inoltre incrementa l'hitroll di 2 punti.
+
+Il privilegio su un oggetto per ora non ha una azione ben precisa.
+Si puo' usare solo su oggetti non-evil, e l'oggetto 'privileggiato' pesera' non piu' di 5 pounds per livello del caster.
+#
+ECHOOFF
+
+Sintassi       : exec 'echooff' <vittima>
+Cumulativo     : No
+Durata         : 2 ore.
+Livello        : VirWri 14, SysAdm 11.
+
+Echooff impedisce alla vittima che fallisce il tiro salvezza di vedere. In questo stato la vittima subisce una penalita' di 4 punti sia all'hitroll che all'AC.
+
+
+Vedi anche: AC
+#
+"WARM CPU"
+
+Sintassi       : exec 'warm cpu' <vittima>
+Cumulativo     : -
+Durata         : Instantaneo
+Livello        : VirWri 9, SysAdm 18.
+Salvezza       : Versus spell per meta' danno.
+
+Piu' potente del Mail Bombing.
+
+Vedi anche: "MAIL BOMBING"
+#
+"CALL LIGHTNING"
+
+Sintassi       : exec 'call lightning' <vittima>
+Cumulativo     : -
+Durata         : Instantaneo
+Livello        : SysAdm 15.
+Salvezza       : Versus spell per meta' danno.
+Danno          : 7d8+7
+
+Questo programma concentra le forze elettrostatiche presenti
+nell'ambiente per generare un fulmine che colpisce la vittima.
+A volte puo' essere necessario essere in ambiente aperto per poterlo lanciare con successo.
+
+Vedi anche: "CONTROL WEATHER", WEATHER
+#
+EXEC
+
+Sintassi: exec '<nome programma>' [target]
+
+Per Virus Writer o esperti di programmazione.
+Permette di lanciare l'esecuzione dei programmi.
+
+
+Esempio:
+
+  > exec 'warm cpu' <bersaglio>
+  Attenzione: il nome del programma deve essere racchiuso tra apici (').
+
+Vedi anche: help su ogni singolo programma
+
+Esempi:
+
+  > help warm cpu
+  > help flame
+  > help energy drain
+#
+"CHARM PERSON"
+
+Sintassi       : exec 'charm person' <vittima>
+Cumulativo     : No.
+Durata         : (432/Punti intelligenza della persona) ore.
+Livello        : VirWri 42.
+Salvezza       :Versus paralisi per annulare.
+
+Non e' possibile lanciare il programma su una vittima gia' affascinata,
+o se si e' affascinati, o se la vittima e' di livello maggiore a voi.
+La vittima usufruira' di un lancio salvezza contro "paralisi".
+
+La vittima affascinata vi seguira' e non potra' attaccarvi; eseguira'
+ogni vostro desiderio utilizzando il comando "order".
+
+
+Vedi anche: FOLLOW, ORDER
+#
+"MAIL BOMBING"
+
+Sintassi       : exec 'mail bombing' <vittima>
+Cumulativo     : -
+Durata         : Instantaneo
+Livello        : VirWri 5, SysAdm 10, Link 22.
+Salvezza       : Versus spell per meta' danno.
+Danno          : 1d8*livello/2
+
+Programma piu' potente del flame.
+La vittima che fallisce il tiro salvezza avra' inoltre ridotto il suo overclock di 1
+
+Vedi anche: "FLAME"
+#
+SNOW CRASH
+
+Sintassi       : exec 'snow crash' <vittima>
+Cumulativo     : -
+Durata         : Instantaneous
+Livello        : VirWri 27.
+Salvezza       : Versus spell per meta' danno.
+Danno          : 9d8+livello
+
+Evoluzione, piu' potente, del programma electromagnetic pulse.
+
+Vedi anche: "ELECTROMAGNETIC PULSE"
+#
+"CONTROL WEATHER"
+
+Sintassi       : exec 'control weather' <'better' | 'worse'>
+Cumulativo     : Si.
+Durata         : -
+Livello        : SysAdm 37.
+
+Questo programma provochera' una modificazione
+delle condizioni atmosferiche.
+
+Esempio:
+
+  > exec 'control weather' worse
+#
+"LOAD FOODFILE"
+
+Sintassi       : exec 'load foodfile'
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : SysAdm 4.
+
+Questo programma provochera' la creazione immediata di un pezzo di pane.
+Esso saziera' per le prossime (5+livello) ore, fino ad un massimo di 24 ore.
+
+Vedi anche: "LOAD WATERFILE"
+#
+"LOAD WATERFILE"
+
+Sintassi       : exec 'load waterfile' <drink container>
+Cumulativo     : No.
+Durata         : Istantaneo.
+Livello        : SysAdm 5.
+
+Attendetevi risultati disastrosi se eseguito su un contenitore
+gia' pieno di un altro liquido diverso dall'acqua.
+Contenitori vuoti o con dell'acqua verranno riempiti a seconda
+del livello dell'esecutore.
+
+Quantita' doppie verranno create se sta piovendo (o peggio).
+
+Vedi anche: "LOAD FOODFILE"
+#
+"ECHOON"
+
+Sintassi       : exec 'echoon' <vittima>
+Cumulativo     : No
+Durata         : Istantaneo.
+Livello        : SysAdm 8.
+
+Questo programma ripristinera' la vista ad una vittima del programma
+"echooff", non puo' rimuovere la cecita' causata da, per esempio, un
+oggetto maledetto.
+#
+"RESTORE CRITIC"
+
+Sintassi       : exec 'restore critic' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : SysAdm 22.
+
+Questo programma ripristina 3d8+3 punti ferita.
+#
+"RESTORE LIGHT"
+
+Sintassi       : exec 'restore light' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : SysAdm 1, Link 15.
+
+Cura graffi e ferite minori.
+#
+CURSE
+
+Sintassi       : exec 'curse' <vittima | oggetto>
+Cumulativo     : Si.
+Durata         : 7 giorni, permanente sugli oggetti.
+Livello        : VirWri 30, SysAdm 52
+
+Se eseguito su una persona che fallisce il tiro salvezza, ridurra' il
+suo hitroll e damage roll di 1. Ridurra' inoltre il suo tiro salvezza
+contro l aparalisi di 1
+
+Quando eseguito su un oggetto lo fa diventare non posabile.
+#
+"DETECT ALIGNMENT"
+
+Sintassi       : exec 'detect alignment'
+Cumulativo     : Si (Durata)
+Durata         : 12 ore + Livello
+Livello        : SysAdm 7, Link 13.
+
+Permette all'esecutore di visualizzare l'allineamento di tutti quelli
+Attorno a lui.
+I malvagi mostreranno una aura rossa, mentre i buoni una aura blu.
+
+
+Vedi anche: "SHOW HIDDEN FILEIBILITY"
+#
+"SHOW HIDDEN FILEIBILITY"
+
+Sintassi       : exec 'show hidden fileibility' [self]
+Cumulativo     : Si (Durata).
+Durata         : 12 ore + Livello/4.
+Livello        : VirWri 3, SysAdm 10.
+
+Questo programma permette di vedere cose e persone invisibili.
+#
+"SHOW PROPERTY"
+
+Sintassi       : exec 'show property' [self]
+Cumulativo     : Si (Durata).
+Durata         : 12 ore + Livello
+Livello        : VirWri 4, Link 13.
+
+Questo programma permette di visualizzare l'aura magica
+che circonda alcuni oggetti.
+#
+"DETECT INFECTED"
+
+Sintassi       : exec 'detect infected' <vittima | cibo | liquido>
+Cumulativo     : No.
+Durata         : Istantaneo
+Livello        : VirWri 18, SysAdm 6.
+
+Eseguito su cibo o liquidi (contenitori) permette di controllare
+se avvelenati o meno.
+
+Eseguito su una persona permette di controllare se e' avvelenata.
+#
+"DISPEL EVIL"
+
+Sintassi       : exec 'dispel evil' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : SysAdm 31.
+Salvezza       : Special.
+Danno          :
+
+Questo programma danneggia solo creature malefiche.
+
+Una persona malvagia di livello uguale o inferiore all'esecutore
+perdera' 100 punti ferita.
+
+Se la vittima e' di livello maggiore causera' (Livello esecutore)d4
+danni, con un tiro salvezza per meta' danno.
+
+
+Vedi anche: DISPEL GOOD
+#
+"DISPEL GOOD"
+
+Sintassi       : exec 'dispel good' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo
+Livello        : SysAdm 32.
+Salvezza       : Special.
+Danno          :
+
+Questo programma danneggia solo creature benigne.
+
+Una persona buona di livello uguale o inferiore all'esecutore
+perdera' 100 punti ferita.
+
+Se la vittima e' di livello maggiore causera' (Livello esecutore)d4
+danni, con un tiro salvezza per meta' danno.
+
+
+Vedi anche: DISPEL EVIL
+#
+EARTHQUAKE
+
+Sintassi       : exec 'earthquake'
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : SysAdm 30.
+Salvezza       : -
+Danno          : 2d8+Livello
+
+Questo programma danneggera' tutti tranne l'esecutore
+di 2d8 + Livello dell'esecutore.
+#
+"ENCHANT WEAPON"
+
+Sintassi       : exec 'enchant weapon' <weapon>
+Cumulativo     : No.
+Durata         : Permanente
+Livello        : VirWri 46.
+
+Il programma modifica solo armi non magiche, comprese quelle
+che modificano abilita', quali per esempio il danno.
+L'unico modo per sapere se e' possibile eseguire il prg e' quello
+di identificare completamente l'oggetto.
+
+Il programma modifichera' l'arma secondo la seguente tabella:
+
+
+    Livello    Hit Roll    Damage
+
+     0..17     +1         +1
+    18..19     +2         +1
+    20..20+    +2         +2
+#
+"ENERGY DRAIN"
+
+Sintassi       : exec 'energy drain' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : VirWri 25.
+Salvezza       : Versus spell per meta' danno.
+Danno:         : 1d10
+
+Questo programma non causa eccessivi danni fisici, ma la vittima
+che fallisce il tiro salvezza perdera' fino a 40.000 punti esperienza.
+L'esecutore guadagnera' un quarto di questi punti.
+
+Attenzione: questo programma e' malvagio!
+#
+PING FLOOD
+
+Sintassi       : exec 'ping flood' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : SysAdm 33.
+Save           : Versus spell per meta' danno.
+Danno          : 11d8+livello
+
+Uno dei piu' potenti programmi eseguibili.
+Invia velocissime serie di segnali energetici.
+
+Vedi anche: "SNOW CRASH"
+#
+HARM
+
+Sintassi       : exec 'harm' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo
+Livello        : SysAdm 45.
+Salvezza       : Versus spell per meta' danno.
+
+This spell removes all but 1d4 hitpoints from the vittima.  The
+maximum number of damage points are 100.  It is not possible to
+kill using this spell (but almost).
+#
+HEAL
+
+Sintassi       : exec 'heal' <vittima>
+Cumulativo     : No.
+Durata         : Istantaneo.
+Livello        : SysAdm 35.
+
+Il programma curera' tutti i danni subiti da una persona eccetto
+1d4 punti ferita. Si possono curare al massimo 100 punti.
+Il programma funziona anche su vittime accecate.
+
+
+Vedi anche: "RESTORE ECHOOFF"
+#
+NIGHTVISION
+
+Sintassi       : exec 'nightvision'
+Cumulativo     : Si (Durata)
+Durata         : 12 ore + Livello
+Livello        : VirWri 6, SysAdm 11, Link 15.
+
+Permette all'esecutore di visualizzare il calore emesso dagli oggetti e
+dalle persone, migliorando sensibilmente la visuale notturna.
+
+
+Vedi anche: "SHOW HIDDEN FILEIBILITY"
+#
+SET HIDDEN
+
+Sintassi       : exec 'set hidden' <vittima | oggetto>
+Cumulativo     : Si (Durata)
+Durata         : 24 ore, permanente sugli oggetti.
+Livello        : VirWri 7, Link 20.
+
+Causa l'immediata invisibilita' del bersaglio a chiunque tranne a coloro
+che hanno eseguito il programma "show hidden".
+
+Attaccare mentre si e' invisibili causa l'interruzione del programma.
+
+La parola chiave "visibile" causa l'immediata interruzione del programma.
+
+Vedi anche: "SHOW HIDDEN FILEIBILITY"
+#
+"ELECTROMAGNETIC PULSE"
+
+Sintassi       : exec 'electromagnetic pulse' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : VirWri 22.
+Save           : Versus spell per meta' danno.
+
+Versione aggiornata e piu' potente del programma short circuit.
+
+Vedi anche: "SHORT CIRCUIT"
+#
+"FIND OBJECTFILE"
+
+Sintassi       : exec 'find objectfile' <oggetto>
+Cumulativo     : -
+Durata         : Istantaneo
+Livello        : VirWri 10.
+
+Se possibile l'esecuzione del programma creera' un report
+su dove l'oggetto bersaglio si trovi, o su quale persona
+lo sta utilizzando.
+Il massimo numero di righe del report sara' pari al livello
+dell'esecutore diviso per 2.
+#
+"FLAME"
+
+Sintassi       : exec 'flame' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo
+Livello        : VirWri 1, SysAdm 5, Link 10.
+Salvezza       : Versus spell per meta' danno.
+Danno          : 1d8*livello/2
+
+Crea un flusso di energia che colpisce la vittima.
+#
+INFECT
+
+Sintassi       : exec 'infect' <vittima | cibo | bevanda>
+Cumulativo     : Si sulle persone.
+Durata         : Livello*ore, o permanente su cibo e bevande.
+Livello        : VirWri 32, SysAdm 17.
+
+Il programma causa l'infezione di cibo o bevande (contenitori).
+Ingerire cibo/bevande infettate causa l'avvelenamento della persona
+stessa.
+Una persona infetta perdera': punti ferita ogni ora, punti 
+overclock subito e riguadagnera' meno punti ferita del normale.
+
+Vedi anche: "REMOVE POISON", "DETECT INFECTED"
+#
+"PROTECTION FROM EVIL"
+
+Sintassi       : exec 'protection from evil' [self]
+Cumulativo     : Si (Durata).
+Durata         : 24 ore
+Livello        : SysAdm 13.
+
+Il programma e' ancora in beta, per cui gli effetti
+sono attualmente sconosciuti.
+#
+"REMOVE CURSE"
+
+Sintassi       : exec 'remove curse' <vittima | oggetto>
+Cumulativo     : No.
+Durata         : Istantaneo.
+Livello        : SysAdm 52.
+
+Il programma rimuove la maledizione dagli oggetti trasportati
+o da tutte le persone presenti nella stanza.
+#
+"REMOVE POISON"
+
+Sintassi       : exec 'remove poison' <vittima | cibo | bevanda> 
+Cumulativo     : No.
+Durata         : Istantaneo.
+Livello        : SysAdm 27.
+
+Il programma rimuove l'avvelenamento da una vittima o un oggetto.
+
+Vedi anche: INFECT
+#
+FIREWALL
+
+Sintassi       : exec 'firewall' [nome]
+Cumulativo     : Si (Durata).
+Durata         : 4 ore.
+Livello        : SysAdm 33.
+
+Il programma permette il dimezzamento di tutti i danni subiti.
+
+
+Vedi anche: NETSHIELD, PRIVILEGE
+#
+"SHORTCUT"
+
+Sintassi       : exec 'shortcut' vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : VirWri 12.
+Salvezza       : Versus spell per meta' danno.
+
+Versione aggiornata del programma Warm Cpu.
+
+See also: "WARM CPU"
+#
+"SENSE LIFE"
+
+Sintassi       : exec 'sense life'
+Cumulativo     : Si (Durata).
+Durata         : Ore*Livello.
+Livello        : SysAdm 40.
+
+Esegue una procedura di controllo che permette di stabilire
+la presenza di persone o mostri nascosti.
+Non visualizza l'identita'.
+Le persone invisibili sono considerate nascoste.
+
+Vedi anche: HIDE
+#
+OVERCLOCK
+
+Sintassi       : exec 'overclock' <vittima>
+Cumulativo     : Si.
+Durata         : Livello/2 + 4.
+Livello        : VirWri 11, Link 17.
+
+Programma per intensificare la forza, si guadagna 1 punto di
+overclock per ogni esecuzione (2 punti se il livello dell'esecutore
+e' maggiore di 18). L'overclock massimo e' 18/100.
+#
+SUMMON
+
+Sintassi       : exec 'summon' <vittima>
+Cumulativo     : -
+Durata         : Istantaneo.
+Livello        : VirWri 35, SysAdm 25.
+
+Convoca la persona oggetto del programma. Non e' possibile
+utilizzare la procedura per persone superiori a 3 o piu'
+livelli rispetto all'esecutore.
+Ci sara' un tiro salvezza nel caso di mostri.
+ throw.
+
+Vedi anche: NOSUMMON
+#
+VENTRILOQUATE
+
+Sintassi       : exec 'ventriloquate' <vittima | oggetto> <text>
+Cumulativo: -
+Durata    : Instantaneous
+Livello       : Mage Livello 1.
+Save        : Versus spell vittima only sees attempted cast.
+
+For all people in the same room as the caster that fail a saving throw, the
+spell will make the oggetto or vittima appear to say the text written.
+
+Example:
+
+  > exec 'vent' Mirlen I got 399,823 coins, don't even consider killing me!
+#
+"CDSLASH"
+
+Sintassi       : exec 'cdslash' 
+Cumulativo     : -
+Durata         : Instantaneous
+Livello        : VirWri 28, SysAdm 12.
+
+L'esecutore verra' immediatamente trasferito presso la reception dell'hotel
+di McLandia.
+#
+$
+

@@ -1,0 +1,75 @@
+#20000
+tuta mimetica~
+una tuta mimetica~
+Una tuta mimetica sta qui per terra.~
+~
+9 0 ak
+5 0 0 0
+5 50 0
+E
+tuta~
+E' una normale tuta mimetica. 
+~
+#20001
+tuta combattimento~
+una tuta da combattimento~
+Una tuta da combattimento sta qui per terra.~
+~
+9 0 ak
+8 0 0 0
+5 50 0
+E
+tuta~
+E' una tuta corazzata. 
+~
+#20002
+tuta hi-tech~
+una tuta da combattimento hi-tech~
+Una tuta hi-tech e' qui in terra.~
+~
+9 b ak
+20 0 0 0
+1 50 0
+E
+tuta ~
+E' una tuta dotata di tutti i piu' avanzti sistemi elettronici
+per difesa-offesa. 
+~
+#20003
+kimono~
+Un kimono~
+Un Kimono sta qui per terra.~
+~
+9 0 ak
+5 0 0 0
+1 50 0
+E
+kimono~
+E' una normale kimono. 
+~
+#20004
+tuta aviatore~
+una tuta da aviatore~
+Una tuta da aviatore sta qui per terra.~
+~
+9 0 ak
+6 0 0 0
+5 50 0
+E
+tuta~
+E' una bellissima tuta da aviatore robusta ma molto
+comoda e funzionale. 
+~
+#20005
+camice bianco~
+un camice bianco~
+Una semplice camice bianco sta qui per terra.~
+~
+9 0 ak
+1 0 0 0
+5 50 0
+E
+camice~
+E' un semplice camice bianco. 
+~
+$

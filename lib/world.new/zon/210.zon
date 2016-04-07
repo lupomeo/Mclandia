@@ -1,0 +1,201 @@
+#210
+Harlem 1930 - Area Newbie~
+21099 30 2
+*
+* Created by Amedeo de Longis
+*
+* Mobs
+M 0 21001 1 21020 * moses
+E 1 21000 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 50 100 17  * fa tenere la pistola
+G 1 53 100   * carica nell'inv la scatola di pallottole
+M 0 21002 10 21021 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 18654 100 16  * fa impugnare coltello
+G 1 1350 100   * carica nell'inv occhiali da sole
+M 0 21002 10 21021 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 3044 100 12   * fa indossare giubbotto
+E 1 21018 100 16  * fa impugnare pugno di ferro
+M 0 21002 10 21022 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 18654 100 16  * fa impugnare coltello
+G 1 1350 100   * carica nell'inv occhiali da sole
+M 0 21002 10 21022 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 3044 100 12   * fa indossare giubbotto
+E 1 21018 100 16  * fa impugnare pugno di ferro
+M 0 21002 10 21023 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 18654 100 16  * fa impugnare coltello
+G 1 1350 100   * carica nell'inv occhiali da sole
+M 0 21002 10 21023 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 3044 100 12   * fa indossare giubbotto
+E 1 21018 100 16  * fa impugnare pugno di ferro
+M 0 21002 10 21024 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 18654 100 16  * fa impugnare coltello
+G 1 1350 100   * carica nell'inv occhiali da sole
+M 0 21002 10 21024 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 3044 100 12   * fa indossare giubbotto
+E 1 21018 100 16  * fa impugnare pugno di ferro
+M 0 21002 10 21025 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 18654 100 16  * fa impugnare coltello
+G 1 1350 100   * carica nell'inv occhiali da sole
+M 0 21002 10 21025 * giocatore biliardo
+E 1 21003 100 5   * fa indossare camicia
+E 1 21001 100 7   * fa indossare jeans
+E 1 21002 100 8   * fa indossare scarpe
+E 1 3044 100 12   * fa indossare giubbotto
+E 1 21018 100 16  * fa impugnare pugno di ferro
+M 0 21003 1 21030 * mamita
+E 1 21004 100 12   * fa indossare camicia
+E 1 21005 100 8   * fa indossare scarpe
+E 1 50 100 17  * fa tenere la pistola
+G 1 53 100   * carica nell'inv la scatola di pallottole
+M 0 21004 1 21037 * scrittore
+E 1 21006 100 12   * fa indossare vest
+M 0 21005 1 21035 * prostituta
+M 0 21006 1 21035 * gangster
+M 0 21007 4 21038 * giocatore poker
+E 1 21007 100 12   * fa indossare giacca
+E 1 21008 100 7   * fa indossare pant
+E 1 3086 100 8   * fa indossare scarpe
+M 0 21007 4 21038 * giocatore poker
+E 1 21007 100 12   * fa indossare giacca
+E 1 21008 100 7   * fa indossare pant
+E 1 3086 100 8   * fa indossare scarpe
+M 0 21007 4 21038 * giocatore poker
+E 1 21007 100 12   * fa indossare giacca
+E 1 21008 100 7   * fa indossare pant
+E 1 3086 100 8   * fa indossare scarpe
+M 0 21007 4 21038 * giocatore poker
+E 1 21007 100 12   * fa indossare giacca
+E 1 21008 100 7   * fa indossare pant
+E 1 3086 100 8   * fa indossare scarpe
+M 0 21008 1 21041 * kid
+E 1 21011 100 12   * fa indossare giacca
+E 1 21013 100 7   * fa indossare pant
+E 1 3086 100 8   * fa indossare scarpe
+M 0 21000 29 21042 * spettatori
+M 0 21000 29 21042 * spettatori
+M 0 21000 29 21042 * spettatori
+M 0 21000 29 21042 * spettatori
+M 0 21000 29 21042 * spettatori
+M 0 21000 29 21042 * spettatori
+M 0 21000 29 21042 * spettatori
+M 0 21000 29 21042 * spettatori
+M 0 21009 1 21043 * duke
+E 1 21012 100 5   * fa indossare camicia
+E 1 21010 100 7   * fa indossare pant
+E 1 21009 100 12   * fa indossare giacca
+E 1 3086 100 8   * fa indossare scarpe
+E 1 50 100 17  * fa tenere la pistola
+G 1 53 100   * carica nell'inv la scatola di pallottole
+M 0 21010 1 21043 * cootie
+E 1 21012 100 5   * fa indossare camicia
+E 1 21013 100 7   * fa indossare pant
+E 1 21011 100 12   * fa indossare giacca
+E 1 3086 100 8   * fa indossare scarpe
+E 1 21019 100 16  * fa impugnare strumento
+M 0 21011 1 21043 * tricky
+E 1 21012 100 5   * fa indossare camicia
+E 1 21013 100 7   * fa indossare pant
+E 1 21011 100 12   * fa indossare giacca
+E 1 3086 100 8   * fa indossare scarpe
+E 1 21021 100 16  * fa impugnare strumento
+M 0 21012 1 21043 * jonny
+E 1 21012 100 5   * fa indossare camicia
+E 1 21013 100 7   * fa indossare pant
+E 1 21011 100 12   * fa indossare giacca
+E 1 3086 100 8   * fa indossare scarpe
+E 1 21020 100 16  * fa impugnare strumento
+M 0 21013 1 21043 * harry
+E 1 21012 100 5   * fa indossare camicia
+E 1 21013 100 7   * fa indossare pant
+E 1 21011 100 12   * fa indossare giacca
+E 1 3086 100 8   * fa indossare scarpe
+E 1 21020 100 16  * fa impugnare strumento
+M 0 21014 1 21043 * barney
+E 1 21012 100 5   * fa indossare camicia
+E 1 21013 100 7   * fa indossare pant
+E 1 21011 100 12   * fa indossare giacca
+E 1 3086 100 8   * fa indossare scarpe
+E 1 21022 100 16  * fa impugnare strumento
+M 0 21015 1 21044 * aletha
+E 1 21014 100 12   * fa indossare costume
+M 0 21016 1 21044 * ethel
+E 1 21014 100 12   * fa indossare costume
+M 0 21017 1 21044 * may
+E 1 21014 100 12   * fa indossare costume
+M 0 21018 1 21044 * ja
+E 1 21015 100 12   * fa indossare costume
+M 0 21019 1 21044 * co
+E 1 21015 100 12   * fa indossare costume
+M 0 21020 1 21044 * at
+E 1 21015 100 12   * fa indossare costume
+M 0 21000 29 21045 * spettatori
+M 0 21000 29 21045 * spettatori
+M 0 21000 29 21045 * spettatori
+M 0 21000 29 21045 * spettatori
+M 0 21000 29 21045 * spettatori
+M 0 21000 29 21045 * spettatori
+M 0 21000 29 21045 * spettatori
+M 0 21000 29 21045 * spettatori
+M 0 21021 1 21046 * pianista
+E 1 21011 100 12   * fa indossare giacca
+E 1 21013 100 7   * fa indossare pant
+E 1 3086 100 8   * fa indossare scarpe
+M 0 21022 1 21046 * billie holiday
+E 1 21016 100 12   * fa indossare vestito
+E 1 3087 100 8   * fa indossare scarpe
+E 1 3129 100 7   * fa indossare calze
+M 0 21000 29 21050 * spettatori
+M 0 21000 29 21050 * spettatori
+M 0 21000 29 21050 * spettatori
+M 0 21000 29 21052 * spettatori
+M 0 21000 29 21052 * spettatori
+M 0 21000 29 21053 * spettatori
+M 0 21000 29 21053 * spettatori
+M 0 21000 29 21054 * spettatori
+M 0 21000 29 21054 * spettatori
+M 0 21000 29 21055 * spettatori
+M 0 21000 29 21055 * spettatori
+M 0 21000 29 21056 * spettatori
+M 0 21000 29 21056 * spettatori
+M 0 21023 1 21051 * duncan
+E 1 21017 100 12   * fa indossare costume
+M 0 21024 1 21051 * lady macb
+E 1 21017 100 12   * fa indossare costume
+M 0 21025 1 21051 * dama strega
+E 1 21017 100 12   * fa indossare costume
+M 0 21026 1 21051 * sicario
+E 1 21017 100 12   * fa indossare costume
+M 0 21027 1 21060 * father divine
+E 1 21023 100 12   * fa indossare costume
+S
+$
+

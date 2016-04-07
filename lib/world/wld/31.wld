@@ -1,0 +1,1052 @@
+#3100
+Largo Gerry~
+Sei appena entrato nella zona sud della citta', dopo
+aver attraversato il Ponte Nuti sotto il quale scorre
+il fiume  Perrier.
+Una piccola stradina (passeggiata degli innamotati) e'
+ad est ed il Ponte Nuti è a nord. Ad Ovest, un grande
+cartello pubblicitario annuncia una nuova iniziativa
+del Sindaco.
+~
+31 0 1
+D0
+Vedi il Ponte Nuti
+~
+~
+0 -1 3051
+D1
+Vedi la passeggiata degli innamorati
+~
+~
+0 -1 3101
+E
+cartello~
+GROSSA TAGLIA PER CHI DA' INFORMAZIONI SUL COVO DELLA 
+TIPOGRAFIA CLANDESTINA DI GERRY. MAGGIORI INFO AL MUNICIPIO.
+~
+S
+#3101
+Passeggiata degli innamorati~
+Il fiume costeggia gentilmente la stradina che continua
+a est e a ovest  (dove puoi vedere in lontananza le mura
+della citta'). 
+Da qui, in direzione sud, inizia Corso Fraticelli.
+~
+31 0 1
+D1
+La passeggiata degli innamorati continua.
+~
+~
+0 -1 3102
+D2
+Inizio di Corso Fraticelli
+~
+~
+0 -1 3111
+D3
+Vedi Largo Gerry, dal quale puoi tornare nella zona Nord
+~
+~
+0 -1 3100
+S
+#3102
+Passeggiata degli innamorati~
+Il fiume costeggia gentilmente la stradina che continua
+a est e a ovest  (dove puoi vedere in lontananza le mura
+della citta'). 
+A sud, puoi vedere l'entrata del Piolo Park.
+~
+31 0 2
+D1
+La passeggiata degli innamorati continua.
+~
+~
+0 -1 3103
+D2
+
+~
+Vedi l'ingresso del Piolo Park.~
+0 -1 3105
+D3
+La passeggiata degli innamorati continua.
+~
+~
+0 -1 3101
+S
+#3103
+Passeggiata degli innamorati~
+Il fiume costeggia gentilmente la stradina che continua a
+est e a ovest  (dove puoi vedere in lontananza le mura 
+della citta'). Ad est c'e' il Belvedere e a sud inizia 
+Viale Duncan
+~
+31 0 0
+D1
+ad Est c'e' l'Argo Belvedere
+~
+~
+0 -1 3104
+D2
+Inizia Viale Duncan
+~
+~
+0 -1 3132
+D3
+La passeggiata degli innamorati continua.
+~
+~
+0 -1 3102
+S
+#3104
+Argo belvedere~
+Alla fine della passeggiata degli innamorati c'e' un belvedere
+dal quale ammirare il fiume Perrier e la riva della citta' nord.
+~
+31 0 2
+D3
+Vedi la passeggiata degli innamorati.
+~
+~
+0 -1 3103
+S
+#3105
+Entrata del Piolo Park~
+Ti trovi davanti un cancello dal quale si accede al famoso Piolo
+Park.
+Molte sono le leggende che si narrano su questo luogo. A nord
+c'e' la Passeggiata degli Innamorati ed a sud un viottolo che
+prosegue nel parco.
+Ad est c'e' il famoso Piolo Pub, dove nel pomeriggio servono
+dei panini deliziosi mentre di sera l'ambiente non e' certo
+consigliabile per le signore.
+~
+31 0 3
+D0
+Vedi la passeggiata degli innamorati.
+~
+~
+0 -1 3102
+D1
+Vedi il Piolo Pub
+
+~
+~
+0 -1 3106
+D2
+
+~
+~
+0 -1 3108
+S
+#3106
+Piolo Pub~
+In un parco ci si aspetterebbe un luogo tranquillo dove
+assaporare del te con pasticcini dopo una lunga passeggiata.
+Ma il Piolo Pub ha antichissime tradizioni: per questa ragione,
+pur essendo ai limiti della legalita', continua ad essere uno
+dei luoghi di ritrovo piu' ambiti della citta'.
+Dietro il bancone il famigerato barista Pennywise serve i clienti.
+Ad ovest puoi vedere l'entrata del parco.
+~
+31 0 0
+D3
+Piolo Park
+
+~
+~
+0 -1 3105
+E
+palm schermo computer~
+In una piccola finestrella in basso vedi scritto:
+Attenzione ai falsi indizi.
+Il verde e' il colore da seguire.
+~
+E
+giornale~
+Ehi e' il Corriere dello Sport!!
+Guardando meglio vedi che c'e' un postit verde
+appiccicato su cui e' scritto:
+Apri quello che trovi chiuso e scoprirai un nuovo
+mondo.
+Non ti fermare davanti all'aspetto.
+Cio' che e' chiuso nasconde sempre qualcosa.
+~
+E
+24ore borsa~
+E' una normale borsa porta documenti.
+~
+S
+#3107
+Non usato~
+
+~
+31 0 9
+S
+#3108
+Tigre Bowling~
+Immerso in una cornice di verde, un austero edificio racchiude 5
+piste di bowling. Per entrare e giocare bisogna essere soci. La 
+titolare del club e' Tigre, una ex campione del mondo di questo gioco.
+A nord si intravede l'antico Piolo Pub
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3105
+D2
+
+~
+~
+0 -1 3114
+S
+#3109
+Non usato~
+
+~
+31 0 9
+S
+#3110
+Municipio~
+Di nuova costruzione, il municipio della citta' si trova ad ovest
+del Piolo Park, in una zona tranquilla e residenziale dove molti
+linker hanno i loro appartamenti. Il sindaco, Ale, e' un personaggio
+dalla dubbia moralita'. Molte sono le inchieste a suo carico, 
+ma come sempre tutto si ferma e viene insabbiato.
+~
+31 0 0
+D1
+Corso Fraticelli
+~
+door~
+1 3105 3111
+S
+#3111
+Corso Fraticelli~
+La strada continua a nord (dove trovi la passeggiata degli innamorati)
+e a sud.  
+Il municipio e' ad ovest, dove noti un cartello sulla porta di ingresso.
+~
+31 0 1
+D0
+Corso Fraticelli prosegue fino alla passeggiata degli innamorati
+~
+~
+0 -1 3101
+D1
+Piolo Park
+~
+~
+0 -1 3112
+D2
+Continua Corso Fraticelli
+~
+~
+0 -1 3135
+D3
+Entrata del Municipio
+~
+door~
+1 3105 3110
+E
+cartello~
+Il cartello sulla porta dice:
+
+                 Municipio di McLandia
+
+             ATTENZIONE: CHIUSO PER FERIE
+
+~
+S
+#3112
+Entrata ovest del Piolo Park~
+Ti trovi alla estremita' ovest del parco.
+A destra intravedi il laghetto e l'austero edificio 
+Tigre Bowling. Andando ad ovest si raggiunge Corso Fraticelli. 
+Un bell albero e' alla tua destra.
+~
+31 0 1
+D1
+
+~
+~
+0 -1 3114
+D3
+
+~
+~
+0 -1 3111
+S
+#3113
+Non usato~
+
+~
+31 0 9
+S
+#3114
+Laghetto Oipaz~
+Nascosto da una foltissima vegetazione, ti ritrovi ai bordi del 
+Laghetto Oipaz.
+Anche su questo sito ci sono molte leggende metropolitane.
+E' comunque un luogo di ritrovo di linker che vengono qui, 
+a weekend alterni per sfidarsi con i propri modellini di barche
+a vela e motoscafi. L'organizzatore di queste manifestazioni e'
+proprio Oipaz, brillante personaggio che tra le tante invenzioni
+ha il merito di aver scoperto un nuovo modo propulsivo che adotta
+sui suoi modellini. A nord c'e' il Tigre Bowling
+~
+31 0 7
+D0
+
+~
+~
+0 -1 3108
+D1
+Ingresso ovest del Piolo Park
+~
+~
+0 -1 3117
+D3
+
+~
+~
+0 -1 3112
+S
+#3115
+Non usato~
+
+~
+31 0 9
+S
+#3116
+Non usato~
+
+~
+31 0 9
+S
+#3117
+Viale Duncan~
+Ti trovi su Viale Duncan. 
+A nord c'e' la Passeggiata degli Innamorati, 
+a nordest c'e' Largo Obelix, e ad ovest intravedi,nascosto da
+una folta vegetazione, il Lago Oipaz.
+Ad est c'e' il famigerato centro Benessere di FatMan, con attigua
+la Arco Piscina, gestita da Arcobaleno, Julius e Pablo.
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3132
+D1
+
+~
+~
+0 -1 3137
+D2
+
+~
+~
+0 -1 3119
+D3
+
+~
+~
+0 -1 3114
+S
+#3118
+Non usato~
+
+~
+31 0 9
+S
+#3119
+Viale Duncan~
+Sei ad un angolo di Viale Duncan che prosegue a nord e ovest. 
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3117
+D3
+
+~
+~
+0 -1 3133
+S
+#3120
+Piazza Caos~
+Ti trovi in piazza Caos. Questa e' una delle piazze piu' pericolose
+della citta' perche' si incrociano Corso Fraticelli e Viale Duncan.  
+La segnaletica e' pessima ed accadono moltissimi incidenti.
+~
+31 0 1
+D0
+
+~
+~
+0 -1 3133
+D1
+
+~
+~
+0 -1 3136
+D2
+
+~
+~
+0 -1 3134
+D3
+
+~
+~
+0 -1 3135
+S
+#3121
+Ospedale~
+Sei nell'ospedale.
+In realta' la moderna teconologia ha ormai fatto passi da
+gigante.
+Tutte le malattie possone essere facilmente curate su Mclandia
+senza bisogno di alcun ricovero.
+L'unica cosa che ancora risulta utile agli abitanti della citta'
+e' la macchina della Tac che puo' fare un check completo non
+solo dello stato di salute ma anche ti tutte le carattersitiche
+e statistiche della persona.
+~
+31 cd 0
+D1
+
+~
+~
+0 -1 3122
+S
+#3122
+Corso Fraticelli~
+Sei su Corso Fraticelli, e la strada prosegue a sud oves e nord. 
+Ad est trovi il Vicolo Barba.  a Sud trovi Piazza RiffRaff.
+A ovest c'e' l'ospedale.
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3136
+D1
+
+~
+~
+0 -1 3123
+D2
+
+~
+~
+0 -1 3126
+D3
+
+~
+~
+0 -1 3121
+S
+#3123
+Vicolo Barba~
+Sei nel Vicolo Barba.  Corso Fraticelli e' alla tua sinistra,
+mentre il vicolo continua ad est dove finisce con le vetrine
+del sexy shop.
+Il vicolo e' stretto e buio e poco raccomandabile, ma molti
+sono i clienti che ogni giorno si recano al sexy shop.
+~
+31 0 1
+D1
+
+~
+~
+0 -1 3124
+D3
+
+~
+~
+0 -1 3122
+S
+#3124
+Sexy Shop~
+Ti trovi nel Sexy Shop dei Cafoni Animati. 
+Ciccio, uno dei proprietari, intrattiene un gruppo di nuovi 
+clienti mentre Eze e Dunde mostrano, ai clienti affezionati, 
+degli articoli appena arrivati dal giappone.
+Si narra che esista una convenzione tra il Sexy Shop e l'albergo
+ad ore, anche se nulla valgono le richieste fatte ai titolari
+dell'esercizio.
+~
+31 0 0
+D3
+
+~
+~
+0 -1 3123
+S
+#3125
+Non usato~
+
+~
+31 0 9
+S
+#3126
+Piazza RiffRaff~
+Sei nella Piazza RiffRaff nell'estremo Sud della citta': 
+il luogo e' molto malfamato: si narra di guerriglie tra bande rivali.
+E' circondata da una zona incolta denominata Area Depressa.
+~
+31 0 1
+D0
+
+~
+~
+0 -1 3122
+D2
+
+~
+~
+0 -1 3129
+S
+#3127
+Non usato~
+
+~
+31 0 9
+S
+#3128
+Non usato~
+
+~
+31 0 9
+S
+#3129
+Aree Depresse~
+Quest'area delimita i confini della citta': l'anarchia vige 
+sovrana e a nulla valgono gli interventi mirati di bonifica
+orginati dal Sindaco. In quest'area ci sono infatti, nascosti
+nella boscaglia, i covi dei peggiori criminali della citta'.
+Proseguendo a sud lasci McLandia.
+~
+31 0 2
+D0
+
+~
+~
+0 -1 3126
+D2
+
+~
+~
+0 -1 3190
+S
+#3130
+NON USATO~
+
+~
+31 0 9
+S
+#3131
+NON USATO~
+
+~
+31 0 9
+S
+#3132
+Viale Duncan~
+Sei su Viale Duncan che prosegue a nord, dove incontri la
+passeggiata degli innamorati, e sud.  
+A destra c'e' Largo Obelix.
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3103
+D1
+Largo Obelix e molti negozi.
+~
+~
+0 -1 3139
+D2
+
+~
+~
+0 -1 3117
+S
+#3133
+Viale Duncan~
+Sei ad un angolo di Viale Duncan che prosegue 
+ad est, e continua a sud attraversando l'incrocio Caos. 
+~
+31 0 0
+D1
+
+~
+~
+0 -1 3119
+D2
+
+~
+~
+0 -1 3120
+S
+#3134
+Piazzetta LSD~
+Viale Duncan muore in questa piazzetta, dove non si puo'
+accedere in macchina ma solo a piedi. Sul Viale ci sono
+trans e mignotte.
+In questa piazzetta, si smercia al dettaglio grande 
+quantitativo di droga, fornita dalla bande che bazzicano
+Piazza RiffRaff, e che vivono nelle aree depresse. 
+E' sempre presente uno spacciatore.
+Tutta questa zona sud e' pericolosissima anche di giorno. 
+~
+31 0 1
+D0
+
+~
+~
+0 -1 3120
+S
+#3135
+Corso Fraticelli~
+Sei ad un angolo di Corso Fraticelli che prosegue a nord e est.
+A Nord ovest trovi il Municipio, a Nordest trovi l'entrata del
+Piolo Park. La strada prosegue a est, dove attraversa l'incrocio
+Caos.
+
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3111
+D1
+
+~
+~
+0 -1 3120
+S
+#3136
+Corso Fraticelli~
+Sei ad un angolo di Corso Fraticelli che prosegue a sud e a ovest, 
+dove attraversa l'incrocio Caos. Un corpulento vigile napoletano 
+e' situato al centro dell'incrocio su una pedana: si mormora che 
+sia a causa del suo dialetto -che nessuno comprende - l'alto tasso
+di mortalita' dovuta ad incidenti stradali.
+A nord vedi la stagliarsi la stazione ferroviaria di Mclandia.
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3144
+D2
+
+~
+~
+0 -1 3122
+D3
+
+~
+~
+0 -1 3120
+S
+#3137
+Centro Benessere Fatman~
+Sei nell'ingresso del famoso Centro Benessere Fatman. 
+Tre segretarie sono dietro ad una scrivania per prendere 
+le prenotazioni.
+La clientela aspetta comodamente ed  ordinatamente il
+proprio turno:
+si sa, ci vogliono ore di fila per riuscire ad ottenere
+una visita personalizzata, fatta dal Professore Fatman
+in persona, prima di poter fissare la serie di trattamenti
+estetici prescritti.
+~
+31 0 0
+D1
+Vialetto interno che porta alla piscina.
+~
+~
+0 -1 3138
+D3
+
+~
+~
+0 -1 3117
+D0
+
+~
+cassaforte~
+2 3105 3156
+E
+cassaforte~
+E' una cassaforte molto grande, munita di una pesante porta
+completamente incassata a muro. Ha una solidissima serratura.
+~
+S
+#3138
+Arco piscina~
+C'e' un grande rumore e molta agitazione di operai che 
+stanno lavorando all'esterno e all'interno della piscina.
+Sulla vetrata principale c'e' un grosso cartello.
+
+~
+31 0 0
+D3
+Vialetto di collegamento tra piscina e centro benessere.
+~
+~
+0 -1 3137
+E
+cartello~
+Ci scusiamo per i disguidi ma la piscina e' in allestimento!!! 
+Tornate a trovarci presto.
+~
+S
+#3139
+Largo Obelix~
+Sei su Largo Obelix. A sinistra c'e' Corso Duncan 
+mentre a destra ci sono una serie di negozi. 
+Un grande albero olmo troneggia al centro della
+piazza.
+~
+31 0 1
+D1
+Vai verso i negozi
+~
+~
+0 -1 3140
+D3
+Torni su Viale Duncan
+~
+~
+0 -1 3132
+S
+#3140
+Mr Handler BikeStore~
+Ti trovi nella motofficina di Mr. hundler. 
+Qui puoi trovare le moto piu' potenti e  conosciute 
+e personalizzarle con ogni gingillo esistente.
+Al centro vedi un ammasso di metallo con due enormi 
+pneumatici e sugli scaffali un'infinita' di pezzi di ricambio!
+Intravedi 4 moto nuove di zecca appena scaricate. 
+Ti viene l'istinto di andare a guardarle.
+Il bancone e la cassa sono chiusi e su di essi troneggia
+un cartello. 
+Proseguendo a nord raggiungi la Camiceria di Drum.
+~
+31 d 0
+D0
+
+~
+~
+0 -1 3141
+D3
+
+~
+~
+0 -1 3139
+E
+cartello~
+Il negozio e' in corso di ristrutturazione.
+Tuttavia e' gia' aperta la zona di esposizione dove si possono
+ammirare le meravigliose moto di piu' recente produzione.
+~
+S
+#3141
+Camiceria di Drum~
+E' il negozio dell'artista della stoffa. Qui potrai 
+personalizzare  il tuo look all'ultima moda di Mclnandia.
+Drum in persona ti accoglie.
+Intorno stoffe pregiate e colorate.
+~
+31 0 0
+D0
+
+~
+~
+0 -1 3142
+D2
+
+~
+~
+0 -1 3140
+S
+#3142
+Biblioteca di Gatto~
+Questa e' la biblioteca della splendida Gatto.
+Si narra che nessuno sia riuscito mai ad entrare nella 
+biblioteca perche' il perfido Meo ha nascosto la chiave 
+chissadove.
+~
+31 0 0
+D2
+
+~
+door~
+2 3105 3141
+E
+cartello~
+Il cartello sulla porta dice:
+
+                 Biblioteca di McLandia
+
+             PROPRIETA' PRIVATA DI MEO!
+
+~
+S
+#3143
+Biblioteca di Gatto~
+Interno della biblioteca INACCESSIBILE
+~
+31 0 4
+S
+#3144
+Stazione~
+Sei alla stazione di Mclandia.
+C'e' un gran via vai di gente e di treni.
+Alcuni viaggiatori sono in attesa sui binari.
+~
+31 d 0
+D2
+
+~
+~
+0 -1 3136
+S
+#3145
+Treno~
+Sei sul treno.
+Le poltrone sono molto comode e tutto intorno a te
+appare confortevole.
+Non c'e' che dire, le Ferrovie di Meo svolgono proprio
+un buon servizio!
+~
+31 d 0
+S
+#3146
+non usato~
+
+~
+31 0 9
+S
+#3147
+non usato~
+
+~
+31 0 9
+S
+#3148
+non usato~
+
+~
+31 0 9
+S
+#3149
+non usato~
+
+~
+31 0 9
+S
+#3150
+non usato~
+
+~
+31 0 9
+S
+#3151
+non usato~
+
+~
+31 0 9
+S
+#3152
+non usato~
+
+~
+31 0 9
+S
+#3153
+non usato~
+
+~
+31 0 9
+S
+#3154
+non usato~
+
+~
+31 0 9
+D2
+
+~
+door~
+1 -1 3155
+S
+#3155
+~
+
+~
+31 0 9
+D0
+
+~
+door~
+1 -1 3154
+S
+#3156
+Dentro la cassaforte~
+   Ti trovi dentro la cassaforte.
+Non capisci che senso abbia una cassaforte cosi' grossa visto
+che e' del tutto inutilizzata. Ti sembra piu' un corridoio
+che una cassaforte vera e propria.
+~
+31 d 0
+D2
+
+~
+~
+0 -1 3137
+D5
+Non puoi andare da quella parte
+~
+buco~
+1 0 3157
+S
+#3157
+La Tipografia clandestina di Gerry~
+   Finalmente avete scoperto il luogo piu' nascosto e
+inaccessibile della citta'. Questa e' la base di Gerry,
+la penna piu' famosa di McLandia per il suo atteggiamento
+eversivo e ribelle. Al momento la stanza sembra deserta,
+ma le stampatrici sono in funzione e dal pc proviene una
+piacevole musica di sottofondo.
+~
+31 d 0
+D4
+
+~
+~
+0 -1 3156
+S
+#3190
+Una strada~
+La strada ti porta fuori da Mclandia.
+Ma in realta' ti sembra anche che porti fuori dal 
+mondo conosciuto.
+~
+31 c 2
+D0
+
+~
+~
+0 -1 3129
+D2
+
+~
+~
+0 -1 3191
+S
+#3191
+Una strada~
+La strada continua, e' piena di buche e pianeggiante.
+Hai una strana sensazione. Senti rumori lontani che
+non riconosci.
+~
+31 c 2
+D0
+
+~
+~
+0 -1 3190
+D2
+
+~
+~
+0 -1 3192
+S
+#3192
+La strada~
+Anche se il paesaggio e' desolato la strada sembra
+frequentata.
+Tra l'altro alzando gli occhi vedi che sul bordo
+ci sono numerosi cartelloni pubblicitari che reclamano
+strani prodotti di alta tecnologia.
+~
+31 c 2
+D0
+
+~
+~
+0 -1 3191
+D2
+
+~
+~
+0 -1 3193
+S
+#3193
+La curva~
+La strada in questo tratto svolta.
+In lontanza verso Ovest ti sembra di vedere una citta'.
+~
+31 c 2
+D0
+
+~
+~
+0 -1 3192
+D3
+
+~
+~
+0 -1 3194
+S
+#3194
+In vista di Marrakesh~
+i rumori provenienti da ovest ti fanno capire che sei
+prossino alla citta'.
+~
+31 c 2
+D1
+
+~
+~
+0 -1 3193
+D3
+
+~
+~
+0 -1 3199
+S
+#3199
+L'entrata a Marrakesh~
+Sei all'entrata della citta'.
+Proseguendo verso ovest ti inoltri nel suo caos infinito.
+Verso est una strada porta fuori dal centro abitato.
+~
+31 c 2
+D1
+
+~
+~
+0 -1 3194
+D3
+
+~
+~
+0 -1 3622
+S
+$

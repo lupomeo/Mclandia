@@ -1,0 +1,194 @@
+*********************************************************************************
+*** Zone : Massachusetts Institute of Technology
+*** Author : CertainDeath
+*** Zone formatted by Leus's Circle Zone Editor - 
+*********************************************************************************
+#7900
+Rich Williams guardia guar priv privato~
+Rich Williams guardia privata del MIT.~
+Rich Williams la guardia privata controlla l'accesso.
+~
+La guardia privata Rich Williams è in perfette condizioni. Valuta
+le persone e fa' entrare solo chi e' autorizzato.
+~
+abclno dhk 1000 S
+26 0 -2 10d8+550 2d6+16
+31570 170000
+8 8 1
+#7901
+cus custode~
+un custode ~
+Un custode del campus gironzola qua attorno.
+~
+Un custode pattuglia la zona in cerca di personale non autorizzato!
+
+~
+fgmnp k -1000 E
+14 5 -20 10d100+10 4d7+1
+0 10000
+8 8 0
+BareHandAttack: 8
+E
+#7902
+inge ingegnere MIT~
+un ingegnere del MIT~
+Un ingegnere del MIT e' intento a scrivere su un palmare!
+~
+Un ingegnere del MIT impreca,inveisce contro di te e si avvicina
+con aria minacciosa!
+~
+blmno k -1000 E
+30 -20 -10 20d100+250 4d10+10
+0 90000
+8 8 1
+Dex: 22
+Con: 20
+Str: 22
+BareHandAttack: 9
+E
+#7903
+Professoressa Patti Richards~
+la Professoressa Patti Richards~
+La professoressa Patti Richards del New Office del MIT.
+~
+La professoressa Patti Richards e' qua in attesa dell'arrivo dei
+suoi studenti.
+~
+bclmnopq fk -1000 E
+50 -30 -50 10d100+2500 10d10+20
+0 200000
+6 6 2
+Dex: 20
+Con: 24
+Str: 24
+BareHandAttack: 9
+E
+#7904
+cord coordinatore Alex Prengel~
+il coordinatore Alex Prengel~
+Il coordinatore capo Alex Prengel ti osserva.
+~
+Il coordinatore capo Alex Prengel, si occupa del progetto "Athena"
+presso la Biomedical Engineering Society del MIT.
+~
+chlmnopq dfk 0 E
+50 -30 -50 20d100+1500 8d12+15
+0 150000
+8 8 1
+Cha: 3
+Int: 22
+Dex: 24
+Con: 24
+Str: 24
+BareHandAttack: 8
+E
+#7905
+Yajun Fang ~
+Yajun Fang ~
+Yajun Fang  e' intento a scrivere del codice su un pezzo di carta.
+~
+Yajun Fang fa parte dell' Artificial Intelligence Lab del MIT.
+E' un grande studioso di fama mondiale e come tutti i geni e'
+un po' stravagente e facilmenta irritabile.
+~
+bchl dfk 0 E
+50 -9 -50 100d99+99 8d10+9
+0 180000
+8 8 1
+StrAdd: 100
+Cha: 18
+Wis: 18
+Int: 19
+Dex: 20
+Con: 20
+Str: 20
+BareHandAttack: 13
+E
+#7906
+droide poss possente dro~
+un droide possente~
+Un possente Droide cerca del cibo qua attorno!
+~
+Frutto dei peggiori esperimenti questo droide e' formato dal torace
+di un uomo mentre per le gambe sembra abbiano usato i cingoli
+di un blindato!
+~
+beflnopqr dfhk 1000 S
+33 0 -10 3d60+1480 4d8+16
+35000 1000000
+6 8 1
+#7907
+Marsette Marty Vona~
+Marsette (Marty) Vona~
+Marsette (Marty) Vona sta finendo di allacciarsi la sua tuta.
+~
+Questa si che e' una bellissima donna. I suoi tratti orientali
+rendono il suo volto molto solare. E' vestita con una bellissima
+tuta molto aderente che mette in mostra le sue forme.
+~
+bchl dfhk 500 E
+45 -50 -20 3d250+1000 6d8+20
+500 175000
+8 8 2
+StrAdd: 100
+Dex: 19
+Con: 19
+Str: 18
+E
+#7908
+Ronald Wiken~
+Ronald Wiken addetto stampa~
+Ronald Wiken l'addetto stampa e' qua in piedi!
+~
+Ronald Wiken e' sempre stato abituato a "discutere" le situazioni
+di emergenza dovute alle fughe di notizie dal MIT. E' la persona
+che si occupa di mettere sempre tutto a tacere..
+~
+bcghlm dfk -1000 E
+50 -50 -90 10d250+4500 12d10+10
+100000 400000
+8 8 1
+Dex: 23
+Con: 23
+Str: 23
+E
+#7909
+gua guardia A squadra~
+guardia squadra A~
+Una guardia si affretta a controllare che tutto sia in ordine!
+~
+  Assunte in forza nel campus del MIT le guardie sono state addestrate
+a reagire in situazioni molto pericolose.
+~
+cglmn kst 367 S
+30 -20 -40 5d100+900 6d8+15
+5000 50000
+8 8 1
+#7910
+gua guardia B squadra~
+guardia squadra B~
+Una guardia si affretta a controllare che tutto sia in ordine!
+~
+  La squadra B e' la squadra destinata al controllo delle aree
+interne del MIT, ricevono un addestramento molto difficile ed
+estenuante.
+~
+cglmn kst -130 S
+30 0 -40 5d100+900 6d8+15
+5000 50000
+8 8 1
+#7911
+studente~
+uno studente~
+Uno studente del Mit e' intento a studiare.
+~
+Lo studente e' con lo sguardo fisso sui suoi appunti. 
+Questi studenti sembrano esausti ed hanno i nervi a 
+fior di pelle.
+~
+bcl k 0 S
+10 2 0 97d9+4 10d6+1
+1020 1100
+8 8 1
+$
+

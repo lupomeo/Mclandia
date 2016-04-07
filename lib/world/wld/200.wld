@@ -1,0 +1,2566 @@
+#20000
+Alle soglie di una zona desertica~
+   Ti trovi su una strada di terra battuta che si addentra
+nel deserto.
+D'ora in avanti ti rendi conto che farai molta fatica ad
+avanzare e a trovare rifornimenti di qualunque tipo.
+~
+200 0 4
+D1
+
+~
+~
+0 -1 3066
+D3
+
+~
+~
+0 -1 20001
+S
+#20001
+Il deserto~
+   Ti addentri nel deserto.
+La temperatura si fa insopportabile e la sabbia ti entra
+nelle narici e negli occhi.
+Attorno a te non c'e' nulla.
+Null'altro che sabbia e roccia.
+~
+200 0 5
+D1
+
+~
+~
+0 -1 20000
+D3
+
+~
+~
+0 -1 20002
+S
+#20002
+Il deserto~
+   Ancora sabbia, roccia, sabbia e ancora sabbia.
+La fatica si fa sentire e le forze ti iniziano a
+mancare.
+~
+200 0 5
+D1
+
+~
+~
+0 -1 20001
+D3
+
+~
+~
+0 -1 20003
+S
+#20003
+Il deserto~
+   Ancora sabbia, roccia, sabbia e ancora sabbia.
+La fatica si fa sentire e le forze ti iniziano a
+mancare.
+~
+200 0 5
+D1
+
+~
+~
+0 -1 20002
+D2
+
+~
+~
+0 -1 20004
+S
+#20004
+Il deserto~
+   Ancora sabbia, roccia, sabbia e ancora sabbia.
+La fatica si fa sentire e le forze ti iniziano a
+mancare.
+~
+200 0 5
+D0
+
+~
+~
+0 -1 20003
+D3
+
+~
+~
+0 -1 20005
+S
+#20005
+Il deserto~
+   Ti addentri nel deserto.
+La temperatura si fa insopportabile e la sabbia ti entra
+nelle narici e negli occhi.
+Attorno a te non c'e' nulla.
+Null'altro che sabbia e roccia.
+~
+200 0 5
+D0
+
+~
+~
+0 -1 20003
+D1
+
+~
+~
+0 -1 20004
+D2
+
+~
+~
+0 -1 20006
+S
+#20006
+Il deserto~
+   Ti addentri nel deserto.
+La temperatura si fa insopportabile e la sabbia ti entra
+nelle narici e negli occhi.
+Attorno a te non c'e' nulla.
+Null'altro che sabbia e roccia.
+~
+200 0 5
+D0
+
+~
+~
+0 -1 20005
+D3
+
+~
+~
+0 -1 20007
+S
+#20007
+Il deserto~
+   Ti addentri nel deserto.
+La temperatura si fa insopportabile e la sabbia ti entra
+nelle narici e negli occhi.
+Attorno a te non c'e' nulla.
+Null'altro che sabbia e roccia.
+~
+200 0 5
+D0
+
+~
+~
+0 -1 20005
+D1
+
+~
+~
+0 -1 20006
+D3
+
+~
+~
+0 -1 20008
+S
+#20008
+Il deserto~
+   Ti addentri nel deserto.
+La temperatura si fa insopportabile e la sabbia ti entra
+nelle narici e negli occhi.
+Attorno a te non c'e' nulla.
+Null'altro che sabbia e roccia.
+~
+200 0 5
+D0
+
+~
+~
+0 -1 20005
+D1
+
+~
+~
+0 -1 20007
+D3
+
+~
+~
+0 -1 20009
+S
+#20009
+In vista di qualcosa~
+   Ti sembra di scorgere qualcosa in lontananza.
+Non sai ancora se e' reale o e' la tua immaginazione.
+Qualunque cosa sia sembra molto vasta e sinistra.
+~
+200 c 5
+D1
+
+~
+~
+0 -1 20008
+D2
+
+~
+~
+0 -1 20010
+S
+#20010
+Strada~
+   Sei all'angolo nord-ovest di una strada bianca che corre 
+intorno ad un recinto. 
+Le ottime condizioni fanno pensare  che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 c 2
+D0
+Vedi un sentiero.
+~
+~
+0 -1 20009
+D1
+Vedi la strada.
+~
+~
+0 -1 20011
+D2
+Vedi la strada.
+~
+~
+0 -1 20039
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20011
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20012
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20010
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20012
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20013
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20011
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20013
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20014
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20012
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20014
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20015
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20013
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20015
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20016
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20014
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi, con una vegetazione molto rada.
+Ti sembra di vedere la mano umana, in tutto questo.
+Che sia un campo minato ?
+~
+S
+#20016
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20017
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20015
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto i soliti campi dall'aria sospetta.
+~
+S
+#20017
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+Cicche e pacchetti di sigarette vuoti costellano il bordo.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20018
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20016
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+invitano ad allontanarsi, pena una serie di cose bruttissime che potrebbero capitarti.
+La situazione è allarmante, ed hai un po' di sudori freddi.
+~
+S
+#20018
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare 
+che sia percorsa con una certa frequenza.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20019
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20017
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+La cosa non ti piace affatto. Sei allarmato.
+~
+S
+#20019
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20020
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20018
+E
+recinto~
+Filo spinato, cartelli, l'aria decisamente poco rassicurante, non capisci bene che cosa c'e' dall'altra
+parte, ma l'aria e' sospetta. 
+~
+S
+#20020
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+E' in ottime condizioni, anche se piuttosto sporca. 
+Nelle cunette fanno mostra di se' mozziconi di sigaretta,
+cicche di tabacco da masticare e altri residui 
+che non sei in grado di identificare.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20021
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20019
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20021
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20022
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20020
+E
+recinto~
+Ancora il recinto. Veramente, non ti piace affatto, ne' il recinto in se e per se che cio' che riesci a vedere dall'altra parte.
+Sei sempre piu' preoccupato, ma ti rndi conto che non puoi fare altro che continuare.
+~
+S
+#20022
+Strada~
+La solita strada, sempre sporca, con il recinto accanto.  Che noia...
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20023
+D2
+Vedi un'alta torre di guardia.
+~
+torre guardia~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20021
+E
+torre guardia~
+Una torretta di guardia.
+Se osservi attentamente, vedi che dispone di
+sofisticati sistemi di rilevazione e puntamento elettronici. 
+Inoltre, nella garitta ci sono delle persone.
+Speriamo che non ti vedano, perche' altrimenti sono guai.
+~
+S
+#20023
+Davanti al cancello~
+   Ti trovi davanti un imponente cancello rinforzato e affiancato
+da due alte torri di guardia.
+Capisci di essere allo scoperto ed in una posizione molto 
+vulnerabile.  Faresti bene a toglierti di li', MOLTO rapidamente.
+Non sai chi siano, ma hanno l'aria pochissimo raccomandabile.
+~
+200 c 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20024
+D2
+Vedi l'entrata al campo.
+~
+cancello~
+0 -1 20041
+D3
+Vedi la strada.
+~
+~
+2 -1 20022
+E
+torre guardia~
+Una torretta di guardia.
+Se osservi attentamente, vedi che dispone di
+sofisticati sistemi di rilevazione e puntamento elettronici. 
+Inoltre, nella garitta ci sono delle persone.
+Speriamo che non ti vedano, perche' altrimenti sono guai.
+~
+S
+#20024
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Alzando gli occhi ti accorgi che verso sud un'alta torretta di guardia
+incombe su di te.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20025
+D2
+Vedi un'alta torre di guardia.
+~
+torre guardia~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20023
+E
+torre guardia~
+Una torretta di guardia.
+Se osservi attentamente, vedi che dispone di
+sofisticati sistemi di rilevazione e puntamento elettronici. 
+Inoltre, nella garitta ci sono delle persone.
+Speriamo che non ti vedano, perche' altrimenti sono guai.
+~
+S
+#20025
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20026
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20024
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20026
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20027
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20025
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto, quello che ha tutta 
+l'apparenza di essere un campo minato, 
+a protezione del perimetro del campo.
+~
+S
+#20027
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20028
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20026
+E
+recinto~
+Che palle 'sto recinto.  Cominci a non poterne piu' e tutto sommato ti rendi conto che sarebbe
+forse una cosa astuta cercare di passare dall'altra parte.  Ma occorre trovare un ingresso, lontano da quello
+che ormai sei piu' o meno certo essere un campo minato.
+~
+S
+#20028
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20029
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20027
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso".
+~
+S
+#20029
+Strada~
+   Una strada bianca in ottime condizioni.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20030
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20028
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20030
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20031
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20029
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che invitano, in maniera neanche troppo velata, a togliersi velocemente di torno.
+~
+S
+#20031
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20032
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20030
+E
+recinto~
+"Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+Questo il tono dei cartelli appesi ad un recinto dall'aria minacciosa.
+~
+S
+#20032
+Strada~
+Una normale strada bianca in ottime condizioni.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20033
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20031
+E
+recinto~
+Questo recinto non sembra finire mai, auff... cominci ad essere veramente stanco di vederlo.
+~
+S
+#20033
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20034
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20032
+E
+recinto~
+Il solito recinto, ormai non ne puoi piu'. Dietro al filo spinato
+continui a vedere quello che ti sembra sempre piu' un campo minato
+~
+S
+#20034
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20035
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20033
+E
+recinto~
+Questo recinto è una vera seccatura,non c'e' un passaggio, se non
+quello con le torrette.  Capisci che stai seguendo un perimetro ben definito
+ma ancora non hai idea di cosa ci sia "dentro"
+~
+S
+#20035
+Strada~
+   Auff, sempre la solita strada. Comincia  a darti sui nervi.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20036
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20034
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20036
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20037
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20035
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20037
+Strada~
+   Una strada bianca che corre intorno a un recinto.
+E' in  ottime condizioni.
+~
+200 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20038
+D2
+Vedi il recinto.
+~
+recinto~
+0 -1 -1
+D3
+Vedi la strada.
+~
+~
+0 -1 20036
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Ti vien da pensare al deposito di Zio Paperone,
+ma ti rendi conto che la situazione e' un po' diversa. Non e' il deposito, e tu non sei uno dei Bassotti.
+~
+S
+#20038
+Strada~
+   The Long and Winding Road... Sempre la solita strada. Ma piu' che winding,
+   a te sembra polverosa. E monotona.
+~
+200 0 2
+D2
+Vedi la strada.
+~
+~
+0 -1 20043
+D3
+Vedi la strada.
+~
+~
+0 -1 20037
+E
+recinto~
+Questo recinto e' sempre piu' inquietante, soprattutto in funzione del fatto che
+dentro continui a vedere quello che potrebbe essere un campo minato e null'altro.  Il territorio
+recintato quindi deve essere parecchio esteso.
+~
+S
+#20039
+Strada~
+   On The Road Again... ma mano che continui a camminare, vista la monotonia, ti vengono in
+   mente tutte quelle canzoni che parlano di strade.  Comincia a sembrarti una strana ossessione.
+~
+200 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20010
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20044
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20040
+Torretta di guardia~
+   Sei nella torretta di guardia.
+La torretta e' aperta dai tre lati per pemettere una visuale
+a tutto campo della zona circostante.
+Qui dentro non c'e' nulla, se non i sofisticatissimi sistemi di controllo delle armi automatiche.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20041
+S
+#20041
+L'entrata al campo~
+   Sei tra le due torri di guardia.
+Impossibile non essere visto dalle eventuali sentinelle.
+A sud la strada si addentra nel campo che ti sembra di una
+grandezza sconfinata e pieno di pericoli. Il primo pensiero che ti viene
+alla mente e' "Oddio... e mo' so cazzi miei!"
+~
+200 0 2
+D0
+Vedi il cancello.
+~
+~
+0 -1 20023
+D1
+la torretta est.
+~
+~
+0 -1 20042
+D2
+una strada interna.
+~
+~
+0 -1 20056
+D3
+la torretta ovest.
+~
+~
+0 -1 20040
+S
+#20042
+Torretta di guardia~
+   Sei nella torretta di guardia.
+La torretta e' aperta dai tre lati per pemettere una visuale
+a tutto campo della zona circostante.
+Qui dentro non c'e' nulla.
+~
+200 0 2
+D3
+
+~
+~
+0 -1 20041
+S
+#20043
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20038
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20070
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20044
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+~
+200 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20039
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20071
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20045
+Torretta di guardia~
+   Sei nella torretta di guardia nord-ovest.
+La torretta e' aperta dai tre lati per pemettere una visuale
+a tutto campo della zona circostante.
+Qui dentro non c'e' nulla.
+~
+200 0 2
+D5
+
+~
+~
+0 -1 20046
+S
+#20046
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A Nord vedi il recinto che delimita il campo.
+~
+200 c 2
+D1
+
+~
+~
+0 -1 20047
+D2
+
+~
+~
+0 -1 20073
+D4
+
+~
+~
+0 -1 20045
+S
+#20047
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20048
+D3
+
+~
+~
+0 -1 20046
+S
+#20048
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20049
+D3
+
+~
+~
+0 -1 20047
+S
+#20049
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20050
+D3
+
+~
+~
+0 -1 20048
+S
+#20050
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20051
+D3
+
+~
+~
+0 -1 20049
+S
+#20051
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20052
+D3
+
+~
+~
+0 -1 20050
+S
+#20052
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20053
+D3
+
+~
+~
+0 -1 20051
+S
+#20053
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20054
+D3
+
+~
+~
+0 -1 20052
+S
+#20054
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20055
+D3
+
+~
+~
+0 -1 20053
+S
+#20055
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Est c'e' una strada.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20056
+D3
+
+~
+~
+0 -1 20054
+S
+#20056
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada prosegue a sud.
+~
+200 c 2
+D0
+
+~
+~
+0 -1 20041
+D1
+
+~
+~
+0 -1 20057
+D2
+
+~
+~
+0 -1 20083
+D3
+
+~
+~
+0 -1 20055
+S
+#20057
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20058
+D3
+
+~
+~
+0 -1 20056
+S
+#20058
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20059
+D3
+
+~
+~
+0 -1 20057
+S
+#20059
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20060
+D3
+
+~
+~
+0 -1 20058
+S
+#20060
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20061
+D3
+
+~
+~
+0 -1 20059
+S
+#20061
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20062
+D3
+
+~
+~
+0 -1 20060
+S
+#20062
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20063
+D3
+
+~
+~
+0 -1 20061
+S
+#20063
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20064
+D3
+
+~
+~
+0 -1 20062
+S
+#20064
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20065
+D3
+
+~
+~
+0 -1 20063
+S
+#20065
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20066
+D3
+
+~
+~
+0 -1 20064
+S
+#20066
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20067
+D3
+
+~
+~
+0 -1 20065
+S
+#20067
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A Nord vedi il recinto che delimita il campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20068
+D3
+
+~
+~
+0 -1 20066
+S
+#20068
+Area esercitazioni~
+   Sei all'estremo nord dell'area esercitazioni.
+A ovest vedi che il terreno sembra brullo e spoglio.
+Una scala porta a una torretta di guardia.
+~
+200 c 2
+D2
+
+~
+~
+0 -1 20095
+D3
+
+~
+~
+0 -1 20067
+D4
+
+~
+~
+0 -1 20069
+S
+#20069
+Torretta di guardia~
+   Sei nella torretta di guardia nord-est.
+La torretta e' aperta dai tre lati per pemettere una visuale
+a tutto campo della zona circostante.
+Qui dentro non c'e' nulla.
+~
+200 0 2
+D5
+
+~
+~
+0 -1 20068
+S
+#20070
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20043
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20097
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli minacciosissimi.
+~
+S
+#20071
+Strada~
+   E' una normale strada bianca. Sempre la solita, maledetta, noiosissima, strada bianca.
+~
+200 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20044
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20098
+E
+recinto~
+Il solito recinto di filo spinato dall'aria inquietante, coperto mucchi di cartelli che ti spiegano,
+senza troppi particolari ma comunque in maniera assai esplicita, tutte le cose bruttissime 
+che possono capitarti se lo sorpassi.  Decisamente, gli abitanti della zona sono tutto
+fuorche' ospitali.
+~
+S
+#20072
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A ovest vedi il recinto che delimita il campo.
+~
+200 c 2
+D1
+
+~
+~
+0 -1 20073
+D2
+
+~
+~
+0 -1 20099
+S
+#20073
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura. Qualcosa brilla nel prato... Osservando con attenzione,
+ti accorgi che ci sono anche dei bossoli, sparsi a terra.
+Il prato continua a nord, est e sud.
+~
+200 0 2
+D0
+
+~
+~
+0 -1 20046
+D1
+
+~
+~
+0 -1 20074
+D2
+
+~
+~
+0 -1 20100
+D3
+
+~
+~
+0 -1 20072
+S
+#20074
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Anche qui, bossoli dappertutto.
+Il prato si estende verso ovest, est e sud.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20075
+D2
+
+~
+~
+0 -1 20101
+D3
+
+~
+~
+0 -1 20073
+S
+#20075
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Il prato si estende verso ovest, est e sud.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20076
+D2
+
+~
+~
+0 -1 20102
+D3
+
+~
+~
+0 -1 20074
+S
+#20076
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Il prato si estende verso ovest, est e sud.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20077
+D2
+
+~
+~
+0 -1 20103
+D3
+
+~
+~
+0 -1 20075
+S
+#20077
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Qui, non sai bene il perche', c'e' appoggiato per terra uno strano tubo.
+Lo guardi con attenzione e noti che si tratta del lanciatore usato di un RPG-7.
+Ora sei VERAMENTE preoccupato.  Che razza di gente e' quella che usa
+lanciarazzi sovietici ?
+Il prato si estende verso ovest, est e sud.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20078
+D2
+
+~
+~
+0 -1 20104
+D3
+
+~
+~
+0 -1 20076
+S
+#20078
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Il prato si estende verso ovest, est e sud.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20079
+D2
+
+~
+~
+0 -1 20105
+D3
+
+~
+~
+0 -1 20077
+S
+#20079
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Il prato si estende verso ovest, est e sud.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20080
+D2
+
+~
+~
+0 -1 20106
+D3
+
+~
+~
+0 -1 20078
+S
+#20080
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato. Sempre piuttosto sporco, pero'.
+Il prato si estende verso ovest, est e sud.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20081
+D2
+
+~
+~
+0 -1 20107
+D3
+
+~
+~
+0 -1 20079
+S
+#20081
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Il prato si continua a ovest e est.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20082
+D3
+
+~
+~
+0 -1 20080
+S
+#20082
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+A est c'e' una strada.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20083
+D2
+
+~
+~
+0 -1 20109
+D3
+
+~
+~
+0 -1 20081
+S
+#20083
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada e' circondata da un prato e continua a nord e a sud.
+~
+200 c 2
+D0
+
+~
+~
+0 -1 20056
+D1
+
+~
+~
+0 -1 20084
+D2
+
+~
+~
+0 -1 20110
+D3
+
+~
+~
+0 -1 20082
+S
+#20084
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A ovest c'e' una strada.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20085
+D3
+
+~
+~
+0 -1 20083
+S
+#20085
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A est un recinto invalicabile delimita un'area di esercitazioni.
+~
+200 0 2
+D2
+
+~
+~
+0 -1 20112
+D3
+
+~
+~
+0 -1 20084
+S
+#20086
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A ovest un recinto invalicabile separa l'area dal resto del campo.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20087
+D2
+
+~
+~
+0 -1 20113
+S
+#20087
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico. Nemico che, peraltro, sembra intento
+in attivita' che ben poco hanno a che fare con il mondo civile.  
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A nord l'area e' delimitata da un recinto.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20088
+D2
+
+~
+~
+0 -1 20114
+D3
+
+~
+~
+0 -1 20086
+S
+#20088
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico. Capisci che si tratta di un campo di addestramento
+terroristi.  Ti sorprendi dell'eccellente organizzazione che sono riusciti a mettere in piedi.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.  Sei nervosetto.
+A nord l'area e' delimitata da un recinto.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20089
+D2
+
+~
+~
+0 -1 20115
+D3
+
+~
+~
+0 -1 20087
+S
+#20089
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A nord l'area e' delimitata da un recinto.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20090
+D2
+
+~
+~
+0 -1 20116
+D3
+
+~
+~
+0 -1 20088
+S
+#20090
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Vista la situazione, puoi immaginare che gli abitanti del campo non sarebbero affatto
+felici di trovarti qui.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A nord l'area e' delimitata da un recinto.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20091
+D2
+
+~
+~
+0 -1 20117
+D3
+
+~
+~
+0 -1 20089
+S
+#20091
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A nord l'area e' delimitata da un recinto.
+~
+200 0 2
+D1
+
+~
+~
+0 -1 20092
+D2
+
+~
+~
+0 -1 201118
+D3
+
+~
+~
+0 -1 20090
+S
+#20092
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Da queste parti tira veramente un bruttissima aria.
+A est gli argini di un fiume ti bloccano il cammino.
+~
+200 0 4
+D1
+
+~
+~
+0 -1 20093
+D2
+
+~
+~
+0 -1 20119
+D3
+
+~
+~
+0 -1 20091
+S
+#20093
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+200 0 7
+D1
+
+~
+~
+0 -1 20094
+D2
+
+~
+~
+0 -1 20120
+D3
+
+~
+~
+0 -1 20092
+S
+#20094
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+L'ambiente innaturale ti rende sempre piu' guardingo, non capisci esattamente dove sei.
+Ma hai giustamente timore di cio' che potresti incontrare
+A ovest c'e' un fiume dagli alti argini.
+~
+200 0 4
+D1
+
+~
+~
+0 -1 20095
+D2
+
+~
+~
+0 -1 20121
+D3
+
+~
+~
+0 -1 20093
+S
+#20095
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+~
+200 c 4
+D0
+
+~
+~
+0 -1 20068
+D1
+
+~
+~
+0 -1 20096
+D2
+
+~
+~
+0 -1 20122
+D3
+
+~
+~
+0 -1 20094
+S
+#20096
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+200 c 2
+D2
+
+~
+~
+0 -1 20123
+D3
+
+~
+~
+0 -1 20095
+S
+#20097
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20070
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20124
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20098
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fanno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+200 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20071
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20125
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20099
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+200 0 2
+D0
+
+~
+~
+0 -1 20072
+D2
+
+~
+~
+0 -1 20126
+S
+$
+
+

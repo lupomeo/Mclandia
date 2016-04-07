@@ -1,0 +1,68 @@
+CircleMUD v3.0 Shop File~
+#30000~
+30090
+30091
+30092
+30093
+-1
+1.1
+1.0
+-1
+17
+-1
+%s Che cosa hai detto che vuoi comprare?~
+%s Non compro!~
+%s Non compro!~
+%s Non compro!~
+%s Mi dispiace non posso fare credito!~
+%s Sono %d monete.~
+%s Sono %d monete.~
+1
+1
+30096
+0
+30045
+-1
+0
+28
+0
+0
+#30001~
+3050
+3052
+5470
+5471
+5472
+5473
+5474
+5479
+5480
+5481
+5482
+30094
+-1
+1.15
+0.15
+2
+3
+4
+10
+-1
+%s Mi spiace, non ce l'ho.~
+%s Non sembra che tu abbia quell'oggetto.~
+%s Non compro nulla.~
+%s E' troppo caro per me!~
+%s Non te lo puoi permettere!~
+%s Ok, sono %d monete, e.. speriamo che funzioni!!~
+%s Hai avuto %d monete!~
+0
+2
+30095
+0
+30036
+-1
+0
+28
+0
+0
+$~

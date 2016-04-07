@@ -1,0 +1,220 @@
+#7000
+mostro bbs~
+il mostro della bbs~
+Un orrendo e antico mostro della bbs e' qui a rimestare il fango dei
+vecchi tempi....
+~
+E' uno strano mostro molto lento. Ti ricorda le vecchie connessioni
+a 1200 baud.
+~
+gqr sk -250 S
+12 9 2 4d6+340 2d5+3
+100 13000
+6 8 0
+#7001
+botta lag~
+la botta di lag~
+Una botta di lag cerca di bloccarti la connessione.
+~
+Nessuno e' mai riuscito a capire la natura di questa entita' ne'
+il motivo della sua esistenza. All'improvviso compare e ti colpisce
+in modo del tutto inspiegabile.
+~
+fgr sk -500 S
+1 20 5 5d2+50 1d5+0
+0 150
+4 8 0
+#7002
+chat ghost~
+un ghost della chat~
+Un odioso ghost della chat cerca di assumere la tua identita'.
+~
+Il ghost della chat non ha forma, ma sta gia' cercando di 
+impadronirsi del tuo alias per far credere agli altri che
+tu sei on line nelle ore piu' irobabili.
+~
+f k -1000 S
+5 16 5 1d12+100 2d4+3
+30 1000
+8 8 0
+#7003
+subdolo plop~
+il subdolo plop~
+Il subdolo plop e' qui e cerca di farti cadere la linea.
+~
+Il plop e' nero e pieno di tentacolini che si muovono alla
+ricerca di una linea da interrompere.
+~
+f sk -700 S
+1 20 3 1d12+80 1d4+1
+1 100
+8 8 0
+#7004
+scatto~
+lo scatto telecom~
+Lo scatto telecom e' inesorabile e ti angoscia facendoti sentire
+in colpa. Quanto sei stato collegato?
+~
+Lo scatto telecom ha un aspetto orribile. Prende la forma del tuo 
+portafoglio e inizia a succhiare lentamente il contenuto.
+~
+0 k -300 S
+8 13 3 2d10+98 2d4+2
+1000 3750
+4 8 0
+#7005
+upload interrotto~
+un upload interrotto~
+Un upload interrotto si fa beffe di te!!
+~
+E' un file interrotto e completamente inservibile che ti
+ha fatto gettare via 2 ore di connessione.
+~
+qr k 300 S
+3 17 9 2d5+50 1d7+0
+2 350
+8 8 0
+#7006
+bug xpress~
+il bug xpress~
+Il bug xpress ti attende nell'ombra.
+~
+Questa entita' e' molto pericolosa. Sta qui pronta a deviare i tuoi
+messaggi nelle areee sbagliate.
+~
+af k -500 S
+4 16 7 2d5+80 1d9+0
+1 1000
+8 8 0
+#7007
+spamming odioso~
+l'odioso spamming~
+L'odioso spamming e' qui pronto ad intasarti la mailbox.
+~
+Non lo guardare e non rispondere che e' meglio !!
+~
+ch f -1000 S
+10 11 2 4d10+300 2d6+1
+300 9500
+8 8 1
+#7008
+off topic~
+l'off topic~
+L'insidioso off topic e' qui pronto a deviare i tuoi msg.
+~
+Appena lo guardi ti rendi conto che vive per far arrabbiare 
+gli altri con te !!
+~
+nop df -780 S
+11 10 1 6d3+250 2d6+2
+500 11500
+8 8 0
+#7009
+mail infetta~
+la mail infetta~
+Una mail infetta e' qui cercando qualcuno da attaccare!
+~
+Non la leggere che e' meglio!!
+~
+afh f -900 S
+10 12 3 1d20+220 2d6+0
+1 9000
+8 8 0
+#7010
+file corrotto~
+un file corrotto~
+Un file corrotto e' qui pronto a far piantare il tuo sistema.
+~
+E' inutile che lo guardi, non ci capisci nulla !!.
+~
+ch dks -830 S
+12 9 2 2d26+248 2d7+1
+1500 13000
+8 8 0
+#7040
+modem inceppato~
+il modem inceppato~
+Il modem inceppato e' qui pronto a farti perdere gli scatti.
+~
+L'esistenza di questo mostro e' inspiegata.
+Ti aspetta in agguato ti aggancia, ti fa sprecare lo scatto
+e poi non ti da la connessione. I piu' maligni pensano che
+sia un servo di Mamma Telecom.
+~
+befnoq dhkp -1000 S
+19 2 0 5d4+330 3d6+3
+16842 40000
+8 8 0
+#7041
+attach smarrito~
+l'attach smarrito~
+Un attach smarrito nuota qui.
+~
+Non si sa' se ti conviene aprirlo.
+~
+f k -800 S
+14 7 1 1d8+250 2d8+1
+0 18000
+8 8 2
+#7042
+naga guardiana~
+la guardina naga~
+La guardiana naga ti osserva.
+~
+Appena si accorge di te la guardiana ti dice:
+Attento, ti stai addentrando in una zona molto
+pericolosa!
+~
+b k 700 S
+12 9 2 1d18+248 2d7+1
+100 13500
+8 8 2
+#7043
+interferenza~
+l'interferenza~
+Un interferenza nuota qui creando una perturbazione sulla tua linea.
+~
+L'interferenza e' molto fastidiosa e attacca il tuo modem.
+~
+c dfk -250 S
+13 11 0 1d12+210 2d7+2
+350 16000
+8 8 0
+#7044
+avviso chiamata~
+l'avviso di chiamata~
+Un maledetto avviso di chiamata cerca di farti cascare la linea!
+~
+Ha un suono orribile e appena lo percepisci inizi a maledire tutti
+quelli che ti vengono in mente.
+~
+fnq k -500 S
+5 16 6 3d5+120 2d4+0
+0 1000
+8 8 0
+#7045
+bolletta telecom~
+La bolletta telecom~
+Una bolletta telecom e' qui pronta a rovinarti la giornata.
+~
+Ha un brutto aspetto. Non sai se distruggerla o 
+ignorarla.
+~
+c k -480 S
+10 11 2 1d5+280 2d6+2
+60 11000
+5 5 1
+#7046
+moderatore~
+il moderatore~
+il moderatore dell'area REGIONALI-95 e' qui, perso e confuso.
+~
+Quando lo guardi scompare. e ti viene da chiederti se hai avuto
+un'allucinazione.
+Ma e' mai esistito?.
+~
+c k +200 S
+6 14 4 3d5+150 1d8+0
+40 1500
+5 5 1
+$

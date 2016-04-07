@@ -1,0 +1,322 @@
+#18600
+frigobar~
+un frigobar~
+Un lussuoso frigobar e' qui davanti a te.~
+~
+15 cdehq 0
+255 5 0 0 
+0 0 0
+E
+frigo~
+E' un frigobar della Rex.
+~
+#18601
+forno microonde~
+un forno a microonde~
+Un forno a microonde e' qui davanti a te.~
+~
+15 cdehq 0
+255 5 0 0 
+0 0 0
+E
+forno~
+E' un forno a microonde della Moulinex.
+~
+#18602
+pizza~
+una Pizza McLink~
+La pizza McLink e' qui davanti a te~
+~
+19 cdeq a
+10 0 0 0 
+0 0 0
+E
+pizza~
+L'incredibile pizza di Mc Link, c'e' sopra di tutto e nutre in relazione
+~
+#18603
+drink aperitivo~
+un Drink McLink~
+Il Drink di Mc-Link giace qui~
+~
+17 cdeq a
+10 10 22 0 
+0 0 0
+E
+drink~
+Il Drink di Mc-Link vi sembra molto dissetante ed analcolico
+~
+#18604
+catena~
+una grossa catena~
+Una grossa catena con un lucchetto per legare le moto~
+~
+5 deimy aln
+0 2 4 6 0
+10 1200 0
+E
+catena~
+Questa catena ha qualcosa di speciale: il lucchetto~
+E
+lucchetto~
+Attaccato alla catena vi sembra possa fare molti danni~
+#18605
+portapacchi GiVi~
+un portapacchi posteriore~
+Un portapacchi Givi e' fissato alla moto~
+~
+15 q 0
+10 5 -1 0 0
+0 0 0
+#18606
+casco~
+un casco integrale da motociclista~
+Un casco integrale nero da motociclista sta qui.~
+~
+9 mnwy ae
+10 0 0 0
+10 2000 0
+E
+casco~
+E' un casco integrale da motocilcista. Sebra piu' resistente dei caschi jet.
+~
+#18607
+gamba~
+una gamba di tavolino~
+Una gamba rotta di un tavolino giace qui.~
+~
+5 m an
+0 2 4 7
+2 1 0
+E
+gamba~
+E' una gamba di tavolino fatta di un buon legno duro, 
+ti sembra una buona idea usarla come arma.
+~
+#18608
+ampolla trasparente~
+un'ampolla trasparente~
+Un'ampolla trasparente giace qui.~
+~
+10 0 16385
+15 14 28 36
+1 3000 300
+E
+ampolla~
+L'ampolla sembra racchiudere materiale radiattivo, o meglio, dell'energia.
+Una piccola etichetta e' incollata sull'ampolla'
+~
+E
+etichetta~
+               __
+              |  |
+           ___|  |___
+          |___    ___|
+              |  |
+              |__|
+~
+#18609
+chiave magnetica~
+una chiave magnetica~
+Una chiave magnetica~
+~
+18 cdq ao
+0 0 0 0 0
+0 0 0
+E
+chiave magnetica~
+Osservandola vedi dei sensori nella parte inferiore
+~
+#18610
+badge magnetico~
+un badge magnetico~
+Un badge magnetico e' qui'~
+~
+18 cdq ao
+0 0 0 0 0
+0 0 0
+E
+badge magnetico~
+Osservandolo vedi una foto di un microprocessore
+~
+#18611
+bracciali fasce~
+dei bracciali a fasce~
+dei bracciali a fasce borchiate~
+~
+9 abcdegimnoxy amo
+-5 0 0 0 0
+2 10000 100
+E
+fasce~
+ti sembra che siano adatte a stringere i polsi per migliorare
+le tue capacita' di dirigere le armi
+~
+A
+18 2
+A
+19 1
+#18612
+flusso byte~
+un flusso di byte~
+un flusso di byte~
+~
+5 acdgmopwxy ano
+0 1 10 12 0
+1 1500 0
+E
+flusso~
+ti sembra che possa essere un'arma
+~
+A
+4 3
+A
+12 20
+#18613
+backdoor~
+una backdoor~
+una backdoor segreta~
+~
+5 cdpwxy ano
+0 1 13 14 0
+5 15000 0
+E
+backdoor~
+E' un ingresso segreto in un sistema, forse puo' essere molto
+utile per distruggere i nemici, vedi se la puoi impugnare.
+~
+A
+13 2
+A
+2 1
+A
+19 2
+#18650
+club wooden sfollagente~
+uno sfollagente~
+Uno sfollagente e' qui.~
+~
+5 0 8193
+0 1 3 7
+3 1 0
+#18651
+tubo~
+un tubo di ferro~
+Un pesante tubo di ferro insanguinato giace qui.~
+~
+5 0 an
+0 2 5 7
+5 2 0
+E
+tubo~
+E' un tubo di ferro, ricavato da una vecchia tubazione di un palazzo 
+ottocentesco. Noti le tracce di sangue sporco su una estremita'
+~
+#18652
+catena~
+una catena~
+una pesante catena giace qui.~
+~
+5 0 an
+0 2 6 2
+4 1 0
+E
+catena~
+E' una comune catena di ferro, normalmente utilizzata per legare le moto
+~
+#18653
+mazza chiodata~
+una mazza chiodata~
+Una tagliente mazza chiodata e' stata lasciata qui.~
+~
+5 0 an
+0 1 7 3
+2 1 0
+#18654
+coltello serramanico~
+un coltello a serramanico~
+Un pericoloso un coltello a serramanico e' stato lasciato qui.~
+~
+5 0 an
+0 1 6 11
+2 1 0
+E
+coltello~
+E' un coltello a scatto, dalla lama veramente affilata.
+~
+#18655
+guanti pelle~
+un paio di guanti neri~
+Un paio di guanti di pelle nera sta qui per terra.~
+~
+9 0 ah
+1 0 0 0
+2 50 0
+E
+guanti~
+I guanti sono fatti di pelle nera he sembrano usurati.
+~
+#18656
+tuta pelle~
+una tuta nera~
+Una tuta nera da motociclista sta qui per terra.~
+~
+9 0 ak
+5 0 0 0
+8 50 0
+E
+tuta~
+E' una tuta da motociclista di pelle nera. 
+~
+#18657
+casco~
+un casco da motociclista~
+Un casco nero da motociclista giace qui per terra.~
+~
+9 mny ae
+9 0 0 0
+10 50 0
+E
+casco~
+E' un casco jet da motocilcista. Tutto nero con la visiera nera.
+~
+#18658
+stivali~
+degli stivali da motociclista~
+Dei puzzolentissimi stivali da motociclista sono qui a prendere aria~
+~
+9 0 ag
+2 0 0 0
+3 50 0
+E
+stivali~
+Sono dei pesanti stivali con inserti in kevlar.
+~
+#18698
+documento word~
+un documento word~
+Un documento word .~
+~
+16 deq ao
+0 0 0 0 0
+1 0 0
+E
+documento~
+La password e':
+"Scemo chi legge"
+~
+#18699
+bug pulce~
+una pulce~
+Una pulce di bit giace qui.~
+~
+1 abcdeq ao
+0 0 5000 0
+10 50 0
+E
+pulce bug~
+C'e' qualcosa di scritto sopra:
+Se trovate questo e' un BUG!!!! 
+Avvisate gli dei che c'e qualcosa che non va!
+~
+$

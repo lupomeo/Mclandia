@@ -1,0 +1,224 @@
+#!/bin/sh
+# the next line restarts using wish \
+exec /usr/bin/wish "$0" "$@"
+
+
+#- Controlla se esiste la dir Database Altrimenti la crea
+if {[file isdirectory ./Database] == 0} {catch {exec mkdir database}}
+
+#--------------------------------------------------------
+#-CREA LA FINESTRA PRINCIPALE
+#--------------------------------------------------------
+wm title . "Database Mclandia"
+wm iconname . "Database Mclandia"
+. configure -bd 6 -background LightSlateGray
+
+frame .file -background LightSlateGray   
+pack .file -fill x
+   button .file.carica -text "Build Database" -background LightSlateGray -foreground green -activebackground #c06077 \
+   -highlightbackground LightSlateGray   -command "Builddm "
+    button .file.esci -text "Esci" -background LightSlateGray -foreground green -activebackground #c06077 \
+   -highlightbackground LightSlateGray   -command "destroy . "
+  
+   pack .file.carica -side left -fill x -expand yes
+   pack .file.esci -side right -fill x -expand yes
+frame .te
+pack .te -side left -expand yes -fill both
+text .te.t  -wrap word -background gainsboro -yscrollcommand ".te.s set"
+scrollbar .te.s -width 12  -relief  sunken  -command ".te.t yview"        
+pack .te.s -side right -fill y
+pack .te.t  -fill both -expand yes
+
+
+
+wm geometry . 600x400
+wm geometry . +30+30
+
+#--------------------------------------------------------
+#- Costruisce il Database
+#--------------------------------------------------------
+proc Builddm {} {
+
+set numfile 1
+set allfiles ""
+.te.t delete 0.0 end
+.te.t insert end "PROCESSING FILE... WAIT WAIT WAIT !!\n"
+update
+
+#--------------------------------------------------------
+#- Gli Oggetti
+#--------------------------------------------------------
+catch {set allfiles [lsort [glob ./lib/world/obj/*]]}
+if {[string length $allfiles] < 2} {
+		.te.t insert end "ERRORE: Non trovo i file .obj\n"
+		return
+	}
+
+set f [open "./database/Mclobjdata.txt" w+]
+foreach i $allfiles {
+	if {![string match *.obj $i]} {continue}
+	set fr [open $i r]
+	while  {![eof $fr]} {
+		gets $fr line
+		if [string match #* $line] {
+			puts $f "\n------------------------"
+			set line1 "VNUM: "
+			puts $f $line1$line
+			gets $fr line
+			gets $fr line
+			set line1 "Nome: "
+			set line [string trimright $line ~]
+			puts $f $line1$line
+			while  {![string match ~ $line]} {gets $fr line}
+			if {[string length $line] < 3} {gets $fr line}
+			set line1 "Tipo: "
+			set line [string range $line 0 1]
+			set line2 "GENERICO"
+			switch $line  {
+				"1 " {set line2 "LUCE"}
+				"2 " {set line2 "PERGAMENA"}
+				"3 " {set line2 "WAND"}
+				"4 " {set line2 "STAFF"}
+				"5 " {set line2 "ARMA"}
+				"6 " {set line2 "ARMA DA FUOCO"}
+				"7 " {set line2 "MISSILE"}
+				"8 " {set line2 "TESORO"}
+				"9 " {set line2 "ARMATURA"}
+				"10" {set line2 "POZIONE"}
+				"13" {set line2 "SPAZZATURA"}
+				"15" {set line2 "CONTENITORE"}
+				"16" {set line2 "NOTA"}
+				"17" {set line2 "CONTENITORE DI LIQUIDI"}
+				"18" {set line2 "CHIAVE"}
+				"19" {set line2 "CIBO"}
+				"20" {set line2 "SOLDI"}
+				"21" {set line2 "PENNA"}
+				"22" {set line2 "BARCA"}
+				"23" {set line2 "FONTANA"}
+			}
+			puts $f $line1$line2
+			gets $fr line
+			if [string equal $line2 "ARMA"]  {
+				set line [string range $line 2 end]
+				set line [string range $line 0 [string last " " $line]]
+				regsub " " $line "D" line
+				set line1 "Danno: "
+				puts $f $line1$line
+			
+			}
+			if [string equal $line2 "ARMATURA"]  {
+				set line [string range $line 0 [string first " " $line]]
+				set line1 "AC Apply: "
+				puts $f $line1$line
+			
+			}
+			gets $fr line
+			set line [string range $line [string last " " $line] end]
+			set line1 "COSTO DI RENT: "
+			puts $f $line1$line
+		}
+		if [string equal $line "A"]  {
+				gets $fr line
+				set line1 "PROPRIETA': "
+				set line2 "NESSUNA"
+				set line3 [string range $line 0 [string first " " $line]]
+				set line4 [string range $line [string last " " $line] end]
+			switch $line3  {
+				"1 " {set line2 "STR"}
+				"2 " {set line2 "DEX"}
+				"3 " {set line2 "INT"}
+				"4 " {set line2 "WIS"}
+				"5 " {set line2 "CON"}
+				"6 " {set line2 "CHA"}
+				"9 " {set line2 "AGE"}
+				"10 " {set line2 "CHAR_WEIGHT"}
+				"11 " {set line2 "CHAR_HEIGHT"}
+				"12 " {set line2 "MANA"}
+				"13 " {set line2 "HIT"}
+				"14 " {set line2 "MOVE"}
+				"17 " {set line2 "AC"}
+				"18 " {set line2 "HITROLL"}
+				"19 " {set line2 "DAMROLL"}
+				"24 " {set line2 "SAVING_SPELLS"}
+			}
+			puts $f $line1$line2$line4
+		}
+		
+	}
+	close $fr
+	set numfile [expr 1 + $numfile]
+}
+puts $f "\n------------------------"
+close $f
+
+#--------------------------------------------------------
+#- I MOB
+#--------------------------------------------------------
+set allfiles ""
+set numfile2 1
+catch {set allfiles [lsort [glob ./lib/world/mob/*]]}
+if {[string length $allfiles] < 2} {
+		.te.t insert end "ERRORE: Non trovo i file .mob\n"
+		return
+	}
+set f [open "./database/Mclmobdata.txt" w+]
+foreach i $allfiles {
+	if {![string match *.mob $i]} {continue}
+	set fr [open $i r]
+	while  {![eof $fr]} {
+		gets $fr line
+		if [string match #* $line] {
+			puts $f "\n------------------------"
+			set line1 "VNUM: "
+			puts $f $line1$line
+			gets $fr line
+			gets $fr line
+			set line1 "Nome: "
+			set line [string trimright $line ~]
+			puts $f $line1$line
+			while  {![eof $fr]} {
+				gets $fr line
+				set line [string range $line [string last " " $line] end]
+				if {[string equal $line " S"] || [string equal $line " E"]}  {break}
+			}
+			gets $fr line
+			set line2 [string range $line 0 [string first " " $line]]	
+			set line1 "Livello: "
+			puts $f $line1$line2
+			set line [string range $line [string length $line2] end]
+			set line2 [string range $line 0 [string first " " $line]]
+			set line1 "Tach0: "
+			puts $f $line1$line2
+			set line [string range $line [string length $line2] end]
+			set line2 [string range $line 0 [string first " " $line]]
+			set line1 "Armor Class: "
+			puts $f $line1$line2
+			set line [string range $line [string length $line2] end]
+			set line2 [string range $line 0 [string first " " $line]]
+			set line1 "Hit Points: "
+			puts $f $line1$line2
+			set line [string range $line [string length $line2] end]
+			set line1 "Danno a mani nude: "
+			puts $f $line1$line
+			gets $fr line
+			set line2 [string range $line 0 [string first " " $line]]
+			set line1 "Soldi: "
+			puts $f $line1$line2
+			set line2 [string range $line [string first " " $line] end]
+			set line1 "Punti Esperienza: "
+			puts $f $line1$line2
+		}
+		
+	}
+	close $fr
+	set numfile2 [expr 1 + $numfile2]
+}
+puts $f "\n------------------------"
+close $f
+
+.te.t insert end "Database creato.\n"
+.te.t insert end "File oggetti processati: "
+.te.t insert end $numfile\n
+.te.t insert end "File mob processati: "
+.te.t insert end $numfile2\n
+}

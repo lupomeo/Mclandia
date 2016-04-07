@@ -1,0 +1,1561 @@
+#20900
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20901
+D3
+
+~
+~
+0 -1 20899
+S
+#20901
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20902
+D3
+
+~
+~
+0 -1 20900
+S
+#20902
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 c 2
+D0
+
+~
+~
+0 -1 20875
+D1
+
+~
+~
+0 -1 20903
+D3
+
+~
+~
+0 -1 20901
+S
+#20903
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20904
+D3
+
+~
+~
+0 -1 20902
+S
+#20904
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20905
+D3
+
+~
+~
+0 -1 20903
+S
+#20905
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20906
+D3
+
+~
+~
+0 -1 20904
+S
+#20906
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20907
+D3
+
+~
+~
+0 -1 20905
+S
+#20907
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20908
+D3
+
+~
+~
+0 -1 20906
+S
+#20908
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+209 c 2
+D3
+
+~
+~
+0 -1 20907
+S
+#20909
+Torretta di guardia~
+   Sei nella torretta di guardia.
+La torretta e' aperta dai tre lati per pemettere una visuale
+a tutto campo della zona circostante.
+Qui dentro non c'e' nulla.
+~
+209 0 2
+D5
+
+~
+~
+0 -1 20882
+S
+#20910
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20883
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20913
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20911
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20884
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20914
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20912
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+209 0 7
+D0
+
+~
+~
+0 -1 20890
+D2
+
+~
+~
+0 -1 20921
+S
+#20913
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20910
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20942
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20914
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20911
+D1
+Vedi la strada.
+~
+~
+0 -1 20915
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20915
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20916
+D3
+Vedi la strada.
+~
+~
+0 -1 20914
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20916
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20917
+D3
+Vedi la strada.
+~
+~
+0 -1 20915
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20917
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20918
+D3
+Vedi la strada.
+~
+~
+0 -1 20916
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20918
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20919
+D3
+Vedi la strada.
+~
+~
+0 -1 20917
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20919
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20920
+D3
+Vedi la strada.
+~
+~
+0 -1 20918
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20920
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20921
+D3
+Vedi la strada.
+~
+~
+0 -1 20919
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20921
+Il Ponte~
+   Sei su un semplice ponte di legno rinforzato.
+Questo ponte permette l'attraversamento del fiume che scorre
+internamente al campo ad uomini e mezzi meccanici.
+Ha un'aria molto spartana e primitiva.
+Ma ti sembra solido e ben adatto al carico che deve
+sopportare.
+~
+209 0 2
+D1
+
+~
+~
+0 -1 20922
+D3
+
+~
+~
+0 -1 20920
+S
+#20922
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20923
+D3
+Vedi la strada.
+~
+~
+0 -1 20921
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20923
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20924
+D3
+Vedi la strada.
+~
+~
+0 -1 20922
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20924
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20925
+D3
+Vedi la strada.
+~
+~
+0 -1 20923
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20925
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20926
+D3
+Vedi la strada.
+~
+~
+0 -1 20924
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20926
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20927
+D3
+Vedi la strada.
+~
+~
+0 -1 20925
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20927
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20928
+D3
+Vedi la strada.
+~
+~
+0 -1 20926
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20928
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20929
+D3
+Vedi la strada.
+~
+~
+0 -1 20927
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20929
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20930
+D3
+Vedi la strada.
+~
+~
+0 -1 20928
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20930
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20931
+D3
+Vedi la strada.
+~
+~
+0 -1 20929
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20931
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20932
+D3
+Vedi la strada.
+~
+~
+0 -1 20930
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20932
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20933
+D3
+Vedi la strada.
+~
+~
+0 -1 20931
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20933
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20934
+D3
+Vedi la strada.
+~
+~
+0 -1 20932
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20934
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20935
+D3
+Vedi la strada.
+~
+~
+0 -1 20933
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20935
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20936
+D3
+Vedi la strada.
+~
+~
+0 -1 20934
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20936
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20937
+D3
+Vedi la strada.
+~
+~
+0 -1 20935
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20937
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20938
+D3
+Vedi la strada.
+~
+~
+0 -1 20936
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20938
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20939
+D3
+Vedi la strada.
+~
+~
+0 -1 20937
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20939
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20940
+D3
+Vedi la strada.
+~
+~
+0 -1 20938
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20940
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20941
+D3
+Vedi la strada.
+~
+~
+0 -1 20939
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20941
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D1
+Vedi la strada.
+~
+~
+0 -1 20942
+D3
+Vedi la strada.
+~
+~
+0 -1 20940
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20942
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+209 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20913
+D3
+Vedi la strada.
+~
+~
+0 -1 20941
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20943
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+209 0 7
+D0
+
+~
+~
+0 -1 20921
+S
+#20944
+Not used~
+   Not used
+~
+209 0 2
+S
+#20945
+Not used~
+   Not used
+~
+209 0 2
+S
+#20946
+Not used~
+   Not used
+~
+209 0 2
+S
+#20947
+Not used~
+   Not used
+~
+209 0 2
+S
+#20948
+Not used~
+   Not used
+~
+209 0 2
+S
+#20949
+Not used~
+   Not used
+~
+209 0 2
+S
+#20950
+Not used~
+   Not used
+~
+209 0 2
+S
+#20951
+Not used~
+   Not used
+~
+209 0 2
+S
+#20952
+Not used~
+   Not used
+~
+209 0 2
+S
+#20953
+Not used~
+   Not used
+~
+209 0 2
+S
+#20954
+Not used~
+   Not used
+~
+209 0 2
+S
+#20955
+Not used~
+   Not used
+~
+209 0 2
+S
+#20956
+Not used~
+   Not used
+~
+209 0 2
+S
+#20957
+Not used~
+   Not used
+~
+209 0 2
+S
+#20958
+Not used~
+   Not used
+~
+209 0 2
+S
+#20959
+Not used~
+   Not used
+~
+209 0 2
+S
+#20960
+Not used~
+   Not used
+~
+209 0 2
+S
+#20961
+Not used~
+   Not used
+~
+209 0 2
+S
+#20962
+Not used~
+   Not used
+~
+209 0 2
+S
+#20963
+Not used~
+   Not used
+~
+209 0 2
+S
+#20964
+Not used~
+   Not used
+~
+209 0 2
+S
+#20965
+Not used~
+   Not used
+~
+209 0 2
+S
+#20966
+Not used~
+   Not used
+~
+209 0 2
+S
+#20967
+Not used~
+   Not used
+~
+209 0 2
+S
+#20968
+Not used~
+   Not used
+~
+209 0 2
+S
+#20969
+Not used~
+   Not used
+~
+209 0 2
+S
+#20970
+Not used~
+   Not used
+~
+209 0 2
+S
+#20971
+Not used~
+   Not used
+~
+209 0 2
+S
+#20972
+Not used~
+   Not used
+~
+209 0 2
+S
+#20973
+Not used~
+   Not used
+~
+209 0 2
+S
+#20974
+Not used~
+   Not used
+~
+209 0 2
+S
+#20975
+Not used~
+   Not used
+~
+209 0 2
+S
+#20976
+Not used~
+   Not used
+~
+209 0 2
+S
+#20977
+Not used~
+   Not used
+~
+209 0 2
+S
+#20978
+Not used~
+   Not used
+~
+209 0 2
+S
+#20979
+Not used~
+   Not used
+~
+209 0 2
+S
+#20980
+Not used~
+   Not used
+~
+209 0 2
+S
+#20981
+Not used~
+   Not used
+~
+209 0 2
+S
+#20982
+Not used~
+   Not used
+~
+209 0 2
+S
+#20983
+Not used~
+   Not used
+~
+209 0 2
+S
+#20984
+Not used~
+   Not used
+~
+209 0 2
+S
+#20985
+Not used~
+   Not used
+~
+209 0 2
+S
+#20986
+Not used~
+   Not used
+~
+209 0 2
+S
+#20987
+Not used~
+   Not used
+~
+209 0 2
+S
+#20988
+Not used~
+   Not used
+~
+209 0 2
+S
+#20989
+Not used~
+   Not used
+~
+209 0 2
+S
+#20990
+Not used~
+   Not used
+~
+209 0 2
+S
+#20991
+Not used~
+   Not used
+~
+209 0 2
+S
+#20992
+Not used~
+   Not used
+~
+209 0 2
+S
+#20993
+Not used~
+   Not used
+~
+209 0 2
+S
+#20994
+Not used~
+   Not used
+~
+209 0 2
+S
+#20995
+Not used~
+   Not used
+~
+209 0 2
+S
+#20996
+Not used~
+   Not used
+~
+209 0 2
+S
+#20997
+Not used~
+   Not used
+~
+209 0 2
+S
+#20998
+Not used~
+   Not used
+~
+209 0 2
+S
+#20999
+Not used~
+   Not used
+~
+209 0 2
+S
+$
+
+

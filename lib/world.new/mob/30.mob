@@ -1,0 +1,661 @@
+#3000
+wizard ottobino ~
+Ottobino il commesso~
+Ottobino, l'addetto alle vendite vaga per il negozio.
+~
+Ottobino e' alto e allampanato.
+Sembra un po' distratto ma indubbiamente e' una delle
+persone piu' simpatiche che hai mai incontrato.
+~
+ablno d 900 S
+33 2 2 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3001
+baker garzone~
+Il garzone di Zio Lone~
+Il garzone di Zione Lone e' dietro il bancone pronto a servirti.
+~
+Il garzone e' cioccionissimo ed ha un grosso e mite faccione a forma
+di luna.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+100 160000
+8 8 1
+#3002
+grocer proprietario~
+Il proprietario dell'emporio~
+Il proprietario dell'emporio sta dietro la cassa e si frega le mani quando
+ti vede entrare.
+~
+Il proprietario dell'emporio e' alto e allampanato ed i suoi occhi sembrano
+continuamente muoversi seguendo ogni tuo piccolo movimento.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3003
+weaponsmith~
+the weaponsmith~
+A weaponsmith is standing here.
+~
+He is a young weaponsmith, who still has lots to learn but he is still
+eager to sell you his latest implements of carnage and destruction.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3004
+armourer commessa~
+La commessa di Julilla~
+La commessa di Julilla ti accoglie nel negozio pronta a mostrarti tutte
+le ultime novita' piu' di moda.
+~
+Una giovane e carina commessa con una vistosa scollatura e un'aria un po'
+furba e allo stesso tempo un po' svanita.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+28500 160000
+8 8 1
+#3005
+receptionist cecilia~
+Cecilia la receptionist~
+Cecilia la receptionist e' qui dietro il bancone e ti sorride.
+~
+E' alta e sinuosa ed ha un aspetto decisamente sexy.
+Noti che ha un aspetto stanco.
+~
+abelnop dfp 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+#3006
+captain fricchettone~
+Un fricchettone~
+Un fricchettone idealista e' qui a farsi un cannone.
+~
+E' vestito tutto di nero. Sulla maglietta ha uno strano
+simbolo con la scritta "NO LOGO". Dovrebbe essere innocuo
+eppure ti sembra che ha un'aria un po' troppo furba.
+Anche la canna che sta fumando in realta' ti accorgi che
+non emana alcun odore, men che mai quello caratteristico
+del fumo o dell'erba.
+~
+ablno d 900 S
+33 2 2 1d1+30000 2d8+12
+2000 160000
+8 8 1
+#3007
+marinaio~
+il marinaio~
+Un marinaio e' qui pronto ad aiutarti.
+~
+Ha l'aria di un marinaio molto forzuto e abituato ai lavori pesanti.
+~
+ablno d 900 S
+33 2 2 1d1+30000 2d8+12
+2000 160000
+8 8 1
+#3008
+uncle juan~
+Uncle Juan~
+Uncle Juan is here ready to take your order.
+~
+He looks like he may or may not have a green card.
+~
+ablno 0 900 S
+33 0 -10 1d1+30000 2d8+18
+2000 160000
+8 8 1
+#3009
+wally watermaster~
+Wally the Watermaster~
+Wally the Watermaster is standing behind the counter.
+~
+Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard
+Natural Spring Water in his hand.  When he notices you, he proudly
+displays his fine collection of contemporary waters.
+~
+ablno d 800 S
+33 0 -10 1d1+30000 1d8+18
+1000 160000
+8 8 1
+#3010
+postmaster post master postino~
+Il postino~
+Il postino capo e' qui pronto ad aiutarti con la tua posta.
+~
+Il capo postino e' un uomo vecchio dall'aspetto felice.
+Ha la reputazione di essere un po' lento, ma nel complesso
+e' comunque efficente.
+~
+ablnopr dp 1000 S
+33 0 -10 1d1+30000 1d8+18
+2000 0
+8 8 1
+#3011
+statua~
+La statua di Harpo~
+La statua di Harpo e' qui al centro della piazza e sembra osservarti con
+aria ironica.
+~
+E' la statua di un linker storico. Il famoso Harpo.
+Harpo e' raffigurato con dei lunghi boccoli biondi, uno sguardo dolce ed un 
+vezzoso gonnellino. Praticamente un puttino.
+I maligni dicono che lo scultore, abbia deciso di operare una rappresentazione 
+alquanto ironica del personaggio per il suo noto carattere brusco ed i suoi
+modi notoriamente burberi.
+~
+belnopqr defm 900 E
+60 5 -10 0d0+30000 10d12+100
+10 150000
+8 8 1
+BareHandAttack: 13
+Str: 18
+StrAdd: 18
+Int: 17
+Wis: 17
+E
+#3020
+guildmaster master hacker guru~
+Il guru hacker~
+L'hacker piu' famoso di tutto il mondo e' qui a violare sistemi.
+~
+Ha un'aria buffa di chi ha sempre la testa tra le nuvole.
+Si dice che sia un genio capace di violare qualunque rete.
+~
+abelnop d 1000 S
+44 0 -10 6d10+9000 1d8+24
+18794 100000
+8 8 2
+#3021
+guildmaster master priest professore~
+Il professore di informatica~
+Il tuo professore di informatica e' qui ad amministrare la rete di Mclandia.
+~
+Non ci sono dubbi che e' il piu' grande problem solver di McLandia.
+Pare possa aggiustare qualunque problema.
+~
+abelnop d 1000 S
+44 0 -10 6d10+9000 1d8+24
+18794 100000
+8 8 1
+#3022
+guildmaster writer virus professore guru~
+Il Guru Virus writer~
+Il piu' grande virus writer di tutti i tempi e' qui a progammare in assembler.
+~
+E' sporco e trasandato ma il suo sguardo e' sicuro e ti scruta in
+modo penetrante facendoti sentire un pivellino.
+~
+abelnop d 1000 S
+44 0 -10 6d10+9000 1d8+34
+18794 100000
+8 8 2
+#3023
+guildmaster master allenatore~
+L'allenatore~
+Il tuo allenatore e' qui pronto a migliorare il tuo addestramento.
+~
+Il tuo allenatore e' grosso e forte. I suoi muscoli spuntano prepotentemente
+dalla maglietta. Ha un'aria sicura aperta e leale, ma allo stesso tempo dura
+e decisa.
+~
+abelnop 0 1000 S
+44 0 -10 6d10+9000 1d8+34
+18794 100000
+8 8 1
+#3024
+sorcerer usciere~
+L'usciere~
+Un usciere e' qui a proteggere l'entrata.
+~
+E' alto grosso e sta qui per impedire l'acesso ai non iscritti alla
+facolta'.
+~
+ablnop d 900 S
+33 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
+#3025
+knight templar usciere~
+L'usciere~
+Un usciere e' qui a proteggere l'entrata.
+~
+E' alto, grosso e sta qui per impedire l'accesso ai non iscritti alla
+facolta'
+~
+ablnop d 1000 S
+33 0 -5 6d10+990 1d8+22
+2000 160000
+8 8 1
+#3026
+assassin usciere~
+L'usciere~
+Un usciere e' qui a proteggere l'entrata.
+~
+E' alto grosso e sta qui per impedire l'acesso ai non iscritti alla
+facolta'.
+~
+ablnop dfst 400 S
+33 0 -10 6d10+990 1d8+25
+2000 160000
+8 8 1
+#3027
+knight usciere~
+L'usciere~
+Un usciere e' qui a proteggere l'entrata.
+~
+E' alto grosso e sta qui per impedire l'acesso ai non iscritti alla
+facolta'.
+~
+ablnop d 800 S
+33 0 -8 6d10+990 1d8+40
+2000 160000
+8 8 1
+#3028
+guildmaster master professore~
+Il professore~
+Il tuo professore e' qui pronto ad insegnarti a divetare un linker leggendario.
+~
+Il tuo professore e' sveglio e veloce.
+~
+abelnop 0 1000 S
+44 0 -10 6d10+9000 1d8+34
+18794 100000
+8 8 1
+#3029
+sorcerer usciere~
+L'usciere~
+Un usciere e' qui a proteggere l'entrata.
+~
+E' alto grosso e sta qui per impedire l'acesso ai non iscritti alla
+scuola'.
+~
+ablnop d 900 S
+33 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
+#3030
+guildmaster maestro arti marziali~
+Il Maestro~
+Il tuo Maestro e' qui pronto ad insegnarti le arti marziali.
+~
+Il tuo maestro ha un'aria serena ed imperturbabile.
+Sprigiona una forza ed un equilibrio inmpensabili.
+~
+abelnop 0 1000 S
+44 0 -10 6d10+9000 1d8+34
+18794 100000
+8 8 1
+#3031
+sorcerer usciere~
+L'usciere~
+Un usciere e' qui a proteggere l'entrata.
+~
+E' alto grosso e sta qui per impedire l'acesso ai non iniziati.
+~
+ablnop d 900 S
+33 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
+#3032
+guildmaster maestro mentore~
+Il mentore~
+Il tuo Maestro e' qui pronto ad insegnarti tutte le tecniche
+per aumentare e sviluppare le tue facolta' mentali.
+~
+Il tuo maestro ha un'aria serena ed imperturbabile.
+Sprigiona una forza ed un equilibrio inmpensabili.
+~
+abelnop 0 1000 S
+44 0 -10 6d10+9000 1d8+34
+18794 100000
+8 8 1
+#3033
+sorcerer usciere~
+L'usciere~
+Un usciere e' qui a proteggere l'entrata.
+~
+E' alto grosso e sta qui per impedire l'acesso ai non iniziati.
+~
+ablnop d 900 S
+33 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
+#3040
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+bno 0 900 S
+24 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3041
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+bno 0 900 S
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3042
+waiter~
+the waiter~
+A man now leads a quiet, peaceful life as a waiter is standing here.
+~
+This man was obviously a famous sorcerer in his younger days as you
+instantly recognize his face.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3043
+waiter~
+the waiter~
+A waiter who seems to have reached contact with his God is standing here.
+~
+This waiter almost makes you feel like you should drop to your knees
+and begin to worship your God.  Naaah.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3044
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money is standing here.
+~
+Hmmm... wonder where he got that coin he is playing with.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3045
+waiter~
+the waiter~
+A waiter is here.
+~
+This guy looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+bno 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3046
+filthy piumetta~
+Piumetta~
+Piumetta e' dietro il bancone pronta a servirti.
+~
+Piumetta e' molto dolce e carina. E' l'efficienza personificata.
+Bisogna stare attenti a trattarla molto bene perche' e'
+protetta dagli Dei ed una piccola offesa o sgarbo puo' costarti
+la vita.
+~
+belno d 600 S
+33 1 -10 1d1+30000 1d8+22
+2000 80000
+8 8 1
+#3059
+keeper peacekeeper sorvegliante~
+Il Sorvegliante~
+Un sorvegliante e' qui pronto ad intervenire in caso di disordini.
+~
+Appare molto forte e saggio.  Si capisce che non deve rispondere a nessuno.
+~
+aeglm d 1000 E
+17 3 0 5d6+225 3d3+13
+2500 30000
+8 8 1
+BareHandAttack: 10
+E
+#3060
+cityguard guard guardia poliziotto~
+il poliziotto~
+Un poliziotto e' qui.
+~
+Una guardia grossa, molto forte e pronta a prestare aiuto.
+~
+aglm d 1000 S
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1
+#3061
+janitor portiere~
+il portiere~
+Un portiere si aggira qui intorno.
+~
+Che duro lavoro che fa!
+~
+agl 0 800 S
+1 20 9 2d6+10 1d5+0
+34 100
+8 8 1
+#3062
+dog cane randagio~
+un cane randagio~
+Un cane randagio si aggira qui intorno alla ricerca di cibo e coccole.
+~
+E' un cane piccolo e molto pacifico, ma ha un aria furba e sveglia.
+~
+afghq p -200 E
+0 20 10 1d6+4 1d4+0
+0 25
+8 8 1
+BareHandAttack: 4
+E
+#3063
+mercenary mimo~
+Un mimo~
+Un mimo e' qui a dare spettacolo.
+~
+Ha un aspetto molto buffo, triste e allegro nello stesso tempo.
+~
+bl 0 -330 S
+5 15 5 2d6+60 1d6+1
+87 900
+8 8 1
+#3064
+ubriaco~
+l'ubriaco~
+Un ubriaco che canta felice.
+~
+Un ubriaco che sembra essere molto felice ed in possesso di molto danaro.
+~
+b 0 400 S
+2 19 8 2d6+22 1d6+0
+103 200
+8 8 1
+#3065
+beggar barbone~
+il barbone~
+un barbone e' qui avvolto negli stracci.
+~
+Sembra proprio essersi estraniato dal mondo.
+~
+b 0 400 S
+1 20 9 2d6+10 1d5+0
+0 100
+8 8 2
+#3066
+odif yltsaeb giocoliere~
+il Giocoliere~
+Un giocoliere e' qui camminando sui trampoli.
+~
+Il giocoliere e' alto e magro, non capisci dove finiscono le gambe ed iniziano i trampoli.
+~
+afghq p -200 E
+0 20 10 1d6+4 1d4+0
+0 25
+8 8 1
+BareHandAttack: 4
+E
+#3067
+cityguard guard guardia~
+La guardia~
+Una guardia sta qui sorvegliando la porta.
+~
+Un uomo gigantesco, pronto a prestare il suo aiuto.
+~
+abglm 0 1000 S
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1
+#3068
+green gelatinous spazzino~
+Uno spazzino~
+Uno spazzino e' qui pulendo le strade dai rifiuti.
+~
+Lo spazzino e' grosso e robusto, ma ha un'aria alquanto pigra e indolente.
+~
+aeghlnopqr d 0 E
+20 0 0 1d11+325 3d6+5
+1000 40000
+8 8 0
+BareHandAttack: 6
+E
+#3089
+pet shop boy commesso~
+the Pet Shop Boy~
+Un commesso molto giovane sta dietro il bancone con qualcosa tra le mani.
+~
+Come lo guardi apre le mani rivelando un ratto!
+~
+blno 0 1000 S
+10 10 1 1d1+30000 20d4+10
+500 9000
+8 8 1
+#3090
+kitten gattino~
+il gattino~
+Un piccolo adorabile gattino e' qui.
+~
+Il gattino ha l'aria di un fiero e piccolo guerriero.
+~
+bco 0 0 E
+1 20 9 1d6+11 1d4+0
+0 100
+8 8 0
+BareHandAttack: 8
+E
+#3091
+puppy barboncino~
+il barboncino~
+Un piccolo adorabile barboncino e' qui.
+~
+il barboncino ha l'aria di un fiero e piccolo guerriero.
+~
+bco 0 0 E
+1 20 9 1d6+13 1d4+0
+0 125
+8 8 0
+BareHandAttack: 8
+E
+#3092
+beagle bassotto~
+il bassotto~
+Un piccolo e adorabile bassotto e' qui.
+~
+Il bassotto ha l'aria di un guerriero.
+~
+bco 0 0 E
+2 19 8 1d12+22 1d6+0
+0 200
+8 8 0
+BareHandAttack: 4
+E
+#3093
+rottweiler~
+Il rottweiler~
+Un grosso rottweiler e' qui.
+~
+Il rottweiler ha l'aria di un forte guerriero.
+~
+bco 0 0 E
+3 18 7 1d12+35 1d7+0
+0 800
+8 8 0
+BareHandAttack: 4
+E
+#3094
+wolf lupo~
+Il Lupo~
+Un grosso lupo e' qui.
+~
+Il lupo ha l'aria di un guerriero minaccioso, forte e senza paura.
+~
+bco 0 0 E
+4 17 6 1d12+47 1d8+0
+0 1600
+8 8 0
+BareHandAttack: 4
+E
+#3095
+cryogenicist cryo~
+the cryogenicist~
+The cryogenicist is here, playing with a canister of liquid nitrogen.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+ablno dfp 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+#3096
+Linus~
+Linus il barista~
+Linus il barista si mostra contento di accoglierti nel suo bar.
+~
+Un allegro barista.
+~
+bno 0 900 S
+24 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3097
+hackie mnemonic~
+Hackie Mnemonic la guida dei newbie~
+Hackie Mnemonic la guida dei newbie e' qui.
+~
+Hackie ti sorride e ti dice "seguimi se hai bisogno di aiuto".
+~
+abenopqr 0 900 S
+58 2 2 1d2+29000 1d8+500
+2000 80000
+8 8 1
+#3098
+piccolo~
+Piccolo~
+Piccolo e' qui davanti assolto in meditazione.
+~
+E' piccolo ed agile. Indossa un semplice kimono.
+Ma il suo sguardo e' strano. 
+Lontano e distaccato.
+~
+aeglmnor cdefkp 0 E 
+60 5 -10 0d0+20000 6d8+20
+0 600000
+8 8 0
+BareHandAttack: 13
+Str: 25
+Dex: 25
+Int: 19
+Class: 4
+E
+$
+

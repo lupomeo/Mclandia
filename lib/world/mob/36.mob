@@ -1,0 +1,505 @@
+#3601
+Hacker maledetto Michael W. Doane~
+Michael W. Doane~
+L'Hacker maledetto sta' cercando di collegarsi ad un MainFrame di una Banca dati.
+~
+Michael W. Doane e' probabilmente l'uomo piu' in gamba sulla faccia della terra. La rete e' il suo mondo.
+Non ha mai seguito i "link".. li ha sempre mappati!
+Le sue dita sono coperte di calli causa le innumerevoli ore passate a scrivere codice.
+Fu uno dei fondatori di un gruppo chiamato "The Sound of Knowledge", gruppo di amatori radio
+che diffondeva la propria conoscenza tramite frequenze radio pirata.
+Voci mai smentite ritengono anche Meo "The Origin" appartenente a tale gruppo.
+~
+bcefloqr dhkwef -1000 E
+60 4 -50 5d8+1500 2d6+40
+1 250000
+4 4 1
+BareHandAttack:13
+cha:18
+dex:3
+E
+#3602
+Giocatore squadra rossa~
+Un giocatore della squadra rossa~
+Un giocatore della squadra rossa cerca i suoi avversari.
+~
+Questi giocatori sembrano dei veri combattenti.
+A nessuno, guardandoli, verrebbe in mente che fuori da questo luogo
+possano condurre una vita completamente diversa.
+~
+cfemh   fkstc   -355   S
+15 10 5 1d5+180 1d4+10
+1800 7000
+8 8 1
+#3603
+Giocatore squadra blu~
+Un giocatore della squadra blu~
+Un giocatore della squadra blu cerca di nascondersi.
+~
+I giocatori della squadra blu sono molto preparati a questo
+tipo di gioco, conoscono bene ogni tattica di guerriglia urbana.
+~
+ilwc   fkstc   355   S
+16 10 6 1d4+180   1d5+11
+1900 8000
+8 8 1
+#3604
+Caporale Terminus~
+Il Caporale Terminus~
+Il Caporale Terminus controlla il suo equipaggiamento.
+~
+Un uomo sicuramente carismatico.Ha passato la sua vita
+in giro per il mondo addestrando bande di mercenari.
+Ti domandi se la sua presenza qua sia puramente a scopo ludico.
+~
+bcek   cdfk   -800   E
+30 7 0 4d6+450   2d6+12
+3000   25000
+8 8 1
+BareHandAttack: 9
+StrAdd: 5
+E
+#3605
+clone~
+Lussia la Splendente~
+Lussia la Splendente scruta l'infinito meditando.
+~
+Piccola e tenera come un gattino.
+Scruta nei suoi occhi e saprai quanto puo' essere LETALE!
+~
+beoq   cdfhwk   1000   E
+55 2 -100 10d10+800   7d10+50
+50000   150000
+8 8 2
+BareHandAttack: 8
+wis: 18
+E
+#3606
+clone~
+Sunny "La Belle"~
+Sunny "La Belle" si sta' preparando per una cerimonia.
+~
+Sunny e' alta e slanciata, ha lineamenti morbidi e aggrazziati.
+Il suo viso ovale e' incorniciato da lunghi capelli castani
+che gli scendono sulle spalle dritte e tornite.
+Sunny ha gli occhi grigi.
+~
+belor   edfwhk   1000   E
+55 2 -100 1d10+800   7d10+50
+50000   150000
+8 8 2
+BareHandAttack: 8
+Con: 18
+E
+#3607
+clone~
+Superman il paladino della giustizia~
+Superman il supereroe venuto da Kripton affila le sue armi.
+~
+Guardi Superman ed una sensazione di sicurezza invade il tuo corpo.
+Sempre pronto ad aiutare chi ha bisogno, quanto implacabile con gli
+avversari,rappresenta l'incarnazione del vero Supereroe!
+~
+bconqr   edfwhk   1000   E
+55 2 -100   1d10+800 7d10+50
+50000   150000
+8 8 1
+BareHandAttack: 6
+int: 18
+E
+#3608
+clone~
+Luponero~
+Cupo come la notte Luponero ti guarda con aria sprezzante.
+~
+Sarebbe piu' facile capire da che parte gira il mondo.
+Luponero non ha mai lasciato a nessuno il tempo di poter
+farsi una idea su di lui. Detto questo pensa a combattere,
+Luponero gia' ti sta' attaccando!!!
+~
+bcefl   cdefwhk   1000   E
+55 2 -100 1d10+800   7d10+50
+50000   150000
+8 8 1
+BareHandAttack: 4
+Str: 18
+StrAdd: 8
+E
+#3609
+clone~
+Windover il figlio del Vento~
+Windover il figlio del Vento e' seduto sul suo trono.
+~
+Uomo alto e agile WindOver e' il figlio del Vento ..... attenti a non farvi
+ingannare dal suo sorriso e dallo sguardo allegro .. in battaglia diventa un tornado!
+~
+bkn  cdefpw 1000   E
+55 2 -100  1d10+800  7d10+50
+50000   150000
+6 6 1
+BareHandAttack: 2
+cha: 18
+E
+#3610
+discepolo MaxMax~
+Uno dei discepoli di MaxMax~
+Uno dei discepoli d MaxMax e' qui a contemplare il megaschermo.
+~
+E' assolutamente, indubbiamente, indiscutibilmente .... perennemente fatto di brutto.
+~
+cgl j  340 S
+12 13 10 1d2+100  1d3+4
+0 3000
+8 8 1
+#3611
+lampione~
+Un lampione ambulante rotto~
+Il lampione rotto non fa luce ... pero' si muove e rompe pure le scatole!
+~
+Deve essere rotto da parecchio, pero' inciampa nella gente e scassa davvero le scatole.
+~
+gh aj -200 E
+15 2 -10 4d10+50 2d4+4
+0 1500
+8 8 0
+Class: 8
+BareHandAttack: 5
+E
+#3612
+robot cane~
+Un cane robot~
+E' un cane robot per far giocare i cuccioli di umani.
+~
+E' metallico ed ha un sorriso stampato sul muso ....
+~
+gc f 50 E
+4 2 0 2d5+5 1d9+3
+100 400
+8 8 0
+Class: 9
+E
+#3613
+incantatore~
+Un incantatore di serpenti~
+Un folcloristico incantatore di serpenti sta intrattenendo una folla.
+~
+Noti degli impianti cybernetici sulle sue dita e sulle labbra.
+~
+gmp hp 22 E
+13 2 -8 4d8+50 2d4+4
+100 1000
+8 6 1
+Class: 4
+E
+#3614
+ottico~
+l'ottico di Marrakesh~
+L'ottico e' qui indaffarato con i suoi arnesi
+~
+E' piu' un macellaio che un ottico, pero' e' l'unico che sappia impiantare
+innesti olovisivi nei bulbi oculari.
+~
+glm ke -100 E
+20 2 -9 5d7+60  2d8+6
+500 5000
+8 8 1
+Class: 7
+Str: 17
+Dex: 17
+E
+#3615
+cavadenti~
+Un cavadenti ~
+Il cavadenti e' in cerca di esercitare la sua professione
+~
+E' quello che si definirebbe Dentista ..... ma tutto pare fuorche' quello!!
+E' mezzo ricoperto di sangue ..... altrui.
+~
+glm ke -500 E
+23 1 -9 6d7+60  2d8+10
+5000 8000
+8 8 1
+Class: 7
+Str: 18
+Dex: 17
+Con: 17
+E
+#3616
+robot~
+Un robot pulitore~
+Il robot pulitore vola a mezz'aria e pulisce le strade.
+~
+E' un robot che vola a mezz'aria e pulisce le strade ... ma deve essere rotto,
+infatti pare che invece di pulire, lo sporco lo sposti solamente!!
+Porta su un fianco una sigla di riconoscimento della "Okosama Starr".
+~
+cghl hkm 0 E
+10 2 -10 7d7+100 3d4+6
+3000 1800
+8 8 0
+Str: 18
+E
+#3617
+passante cyborg~
+Una passante cyborg~
+Una passante con innesti cybernetici passeggia da queste parti.
+~
+Possiede numerosi innesti cybernetici ... un'ottima vittima per la Morte Grigia.
+~
+gh h 0 E
+5 1 0 4d8+30 1d5+5
+500 360
+8 8 2
+Class: 8
+E
+#3618
+passante~
+Un semplice passante~
+Un passante passeggia qua' e la'.
+~
+Un passante non ti ispira nulla di particolare.
+~
+gh h 0 E
+4 2 0 3d8+30 1d5+5
+400 300
+8 8 1
+Class: 8
+E
+#3619
+turista~
+Uno sprovveduto turista~
+Il turista si sta' godendo le meritate ferie.
+~
+Il turista e' abbigliato decisamente da ..... turista!!
+Anche la macchina fotografica digitale fa parte del suo abbigliamento.
+~
+gh h 0 E
+3 2 0 3d8+20 1d5+5
+200 100
+8 8 1
+Class: 8
+E
+#3620
+cacciatore organi~
+Un cacciatore d'organi~
+Un cacciatore d'organi ti squadra con interesse.
+~
+Fa letteralmente schifo, ti guarda con la bavina alla bocca e nei suoi sudici occhi
+puoi vedere lo scintillare dell'oro che conta di fare con i tuoi organi.
+~
+gmp hp 22 E
+16 1 -8 4d8+60 3d4+4
+100 1000
+8 6 1
+Class: 4
+E
+#3621
+Abathar~
+Abathar l'affittacamere~
+L'affittacamere Abathar e' seduto dietro il bancone.
+~
+L'oste Abathar e' impegnato a scrivere qualcosa sul registro,
+ma pare che tenga sotto controllo tutta la reception.
+~
+bonpqr pkh 500 E
+60 0 -10 7d7+25000 3d5+6
+0 12000
+6 6 1
+Class: 1
+E
+#3622
+Guardia~
+Una guardia di Marrakesh~
+Una Guardia di Marrakesh Sta' pattugliando la zona.
+~
+La guardia di Marrakesh ti guarda dritto negli occhi.
+~
+gelmp cdefhk 400 E
+25 0 -10 10d5+150 4d5+7
+5000 5000
+8 8 1
+Class: 3
+E
+#3623
+MaxMax~
+MaxMax~
+MaxMax sta' cercando delle monete nelle tasche.
+~
+Non molto alto di statura e con degli occhi spiritati, sembra un
+piccolo satanasso. Di lui dicono che dopo essersi perso per due settimane
+in una piccola "fazenda" di Marrakesh non abbia piu tenuto in considerazione
+lo scorrere del tempo e che si sia dedicato alla sperimentazione di "sostanze".
+~
+hfgl efk -438 E
+27 0 -10 11d6+140 4d4+4
+2002 4000
+8 8 1
+Str: 18
+Class: 0
+E
+#3624
+morte~
+La Morte Grigia~
+La Morte Grigia vaga per la citta' in cerca di corpi da divorare.
+~
+Una fitta nebbia grigia,ora assume la forma di un uomo , ora quella di una parete.
+Mentre la guardi sta' gia' cambiando forma.
+Senti un brivido che ti raggela il sangue, fossi in te non mi avvicinerei sanguinante
+a questa creatura.
+~
+cefghlmq jbe -1000 E
+40 0 -10 10d7+500 6d8+9
+25000 200000
+8 8 0
+Class: 7
+StrAdd: 4
+E
+#3625
+hooverboard~
+Un HooverBoard~
+Un HooverBoard vola senza controllo rischiando di travolgere chi incontra!
+~
+Sembra una tavola da surf alla quale hanno applicato un impianto a reazione.
+~
+fgrp awp 0 E
+5 2 -10 3d5+100 3d4+2
+0 480
+8 8 0
+StrAdd: 10
+E
+#3626
+casa~
+Casa~
+Casa effettua un controllo sulla vostra aura per valutare le vostre intenzioni.
+~
+Appare sotto forma di ologramma, ora e' una ragazza giovane e carina.
+~
+bciloq bchk 500 E
+30 0 -10 10d5+600 5d7+8
+13000 90000
+8 8 0
+Class:6
+E
+#3627
+Condoleeza ragazza~
+Una giovane ragazza~
+Una giovane ragazza passeggia qua' attorno.
+~
+E' una ragazza bellissima, molto giovane.
+Ti guarda in un modo strano , non ti mette a tuo agio.
+Indossa la divisa di una scuola e sulla camicia leggi il
+nome "Condoleeza".
+~
+gh kdefghms 1000 E
+9 2 -1 4d8+100 3d20+5
+10000 10000
+8 8 2
+Class: 4
+Str:18
+BareHandAttack: 8
+E
+#3628
+Dheli~
+Dheli il negoziante~
+Dietro il bancone, seduto a gambe incrociate, Dheli aspetta di venderti qualche cosa.
+~
+Una barba molto lunga, nera, con dietro un volto molto invecchiato ed un corpo molto 
+magro e ossuto. A guardarlo bene sembra uno Yogi indiano.
+~
+bc h 33 E
+29 0 -5 5d8+350 7d5+4
+3000 32000
+6 6 1
+Class: 4 
+BareHandAttack: 13
+E
+#3629
+prostituta~
+Una prostituta~
+Una prostituta ti ammicca con intenzione.
+~
+Giovane e formosa, avrebbe tutti i requisiti richiesti per soddisfare i tuoi sogni.
+Se non fosse per quelle mani un po' grandi e quelle gambe forse troppo tornite.
+~
+gcl k -400 E
+11 2 -3 5d8+240 4d5+3
+1999 7000
+8 8 2
+Class: 1
+E
+#3630
+Lord Shinva~
+Lord Shinva~
+Lord Shinva evidentemente stizzito dalla tua intrusione smette di fare quello 
+che gli permettere di vivere e aspetta che tu gli dica che vuoi".
+~
+Un uomo sulla quarantina d'anni, capelli lunghi raccolti da una coda di cavallo.
+Fu il fondatore della "Digital Alliance", di lui si persero le tracce da oramai diversi
+anni. Non ti saresti aspettato di trovarlo qua', ovviamente Marrakesh e' un ottimo posto
+dove nascondersi.
+~
+blmn defh 500 E
+27 0 -6 6d7+350 4d6+5
+5000 20000
+8 8 1
+Class: 2
+Dex: 18
+Str: 18
+E
+#3631
+copriletto~
+Il copriletto~
+Il copriletto e' spiegazzato come se qualcuno si fosse appena svegliato.
+~
+Di colore blu e verde, con dei pallini bianchi disegnati sopra.
+~
+kgb dk 0 E
+10 8 0 3d10+300 2d4+1
+1450 9000
+8 8 0
+Class: 3
+E
+#3632
+cassiere~
+Il cassiere~
+Il cassiere e' qua' a vendere i biglietti per il Laser Game.
+~
+Un anziano signore, abbassando lo sguardo vedi che ha una gamba in metallo.
+Anche sul collo noti che vi sono degli innesti bionici.
+~
+bcl hkmn 300 E
+35 0 -1 5d6+450 4d7+6 
+15000 21000
+8 8 1 
+Class: 3
+E
+#3633
+videogiocatore~
+Un videogiocatore~
+Un videogiocatore sta' cercando di guadagnarsi la giornata.
+~
+Questi uomini se ne vanno in giro per le strade a cercare polli da spennare.
+I videogiocatori sono dei veri fuorilegge del gioco d'azzardo.
+~
+gh h 0 E
+5 2 0 4d8+30 1d5+5
+500 360
+8 8 1
+Class: 8
+E
+#3634
+venditore~
+Un venditore di paranoie~
+Un venditore di paranoie si avvicina con fare circospetto.
+~
+Un uomo veramente ridotto male, in preda a mille tic gira la citta'
+cercando qualcuno a cui vendere paranoie.
+In questo momento sarebbe disposto a scambiare la sua paranoia con la tua !
+~
+cghl hkm 0 E
+11 2 -10 7d7+150 3d4+6
+3000 2999
+8 8 1
+Str: 18
+E
+$

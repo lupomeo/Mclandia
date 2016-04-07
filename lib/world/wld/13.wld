@@ -1,0 +1,543 @@
+#1300
+Verso il mare~
+Siete ormai fuori della citta', respirate  aria pulita, i vostri polmoni 
+funzionano meglio senza lo smog. 
+Se guardate con attenzione vedete un cartello
+~
+13 c 2
+D0
+Vedi la strada
+~
+~
+0 -1 1301
+D2
+Vedi il parco di Mclandia
+~
+~
+0 -1 3060
+E
+cartello~
+Sul cartello c'e' scritto:
+              
++---------------------------+
+|                           |
+|     Strada panoramica     |
+|                           |
+|                           |
+|                           |
++---------------------------+
+              ||
+~             
+S
+#1301
+Strada panoramica~
+Vi accorgete che siete saliti un po' e che il percorso che state seguendo 
+continua a salire.
+~
+13 c 3
+D0
+
+~
+~
+0 -1 1302
+D2
+
+~
+~
+0 -1 1300
+S
+#1302
+Verso il mare~
+La salita si fa piu' ripida.  Certo cominciate a rendervi conto della fatica 
+maggiore che fate a camminare.
+~
+13 c 3
+D1
+
+~
+~
+0 -1 1303
+D2
+
+~
+~
+0 -1 1301
+S
+#1303
+Verso il mare~
+La fatica aumenta ancora, ma alla fine arrivate al termine della salita.  
+Ecco il mare!!
+~
+13 c 5
+D1
+
+~
+~
+0 -1 1304
+D3
+
+~
+~
+0 -1 1302
+S
+#1304
+La scogliera~
+Siete su un promontorio a picco sul mare.
+Il panorama e' bellissimo.
+Sotto di voi le onde verde smeraldo si rincorrono verso una
+baia che non potete vedere.
+L'aria di mare vi penetra le narici dandovi una leggera sensazione
+di euforia.
+Sotto di voi intravedete tra gli alberi le tracce di una costruzione.
+Un vialetto va verso il basso.
+~
+13 0 5
+D5
+
+~
+~
+0 -1 1305
+D3
+
+~
+~
+0 -1 1303
+S
+#1305
+Il cancello~
++---------------------------+
+|                           |
+|       ATTENZIONE          |
+|      VILLA DI MEO         |
+|    PROPRIETA' PRIVATA     |
+|                           |
++---------------------------+
+
+~
+13 0 2
+D4
+
+~
+~
+0 -1 1304
+D5
+
+~
+~
+0 -1 1306
+S
+#1306
+Il vialetto di accesso~
+  Siete in bellissimo vialetto costeggiato di cipressi.
+L'aria e' pulita e molto ossigenata.
+Una leggera brezza accareza le cime degli alberi.
+Davanti a voi si staglia l'entrata alla villa di Meo.
+~
+13 cde 0
+D0
+
+~
+~
+0 -1 1307
+D4
+
+~
+~
+0 -1 1305
+S
+#1307
+Ingresso~
+   Una bianca volta ad arco ti permette l'accesso all'interno
+della villa.
+Non e' come ti aspettavi.
+Evidentemente a Meo piace l'aria aperta.
+L'ingresso si apre a sua volta su un vialetto che porta
+direttamente verso una bassa costruzione prospiciente la spiaggia.
+~
+13 dejn 0
+D0
+vedi lo spogliatoio.
+~
+~
+0 -1 1308
+D2
+vedi l'Entrata.
+~
+~
+0 -1 1306
+S
+#1308
+Lo spogliatoio degli ospiti.~
+   Sei in un'ampia sala fresca e profumata.
+Capisci che Meo desidera mettere i suoi ospiti a proprio agio.
+Gli ospiti di Meo qui possono liberarsi di tutti i loro
+vestiti ed oggetti ed indossare un costume da bagno.
+Una scala porta ad alcune stanze private situate al piano di sopra.
+Davanti a te c'e' l'ingresso alla spiaggia su cui noti una grossa
+incisione decorativa.
+~
+13 dejlm 0
+D2
+
+~
+~
+0 -1 1307
+D4
+Vedi una scala
+~
+~
+0 -1 1319
+D5
+Vedi la spiaggia
+~
+~
+0 -1 1311
+E
+incisione decorativa~
+
+E' PROIBITO entrare in spiaggia vestiti.
+Tutti i vestiti e gli oggetti vanno lasciati
+qui. Saranno al sicuro.
+Se non avete un costume potete prenderne uno
+dall'armadio a muro.
+~         
+S
+#1309
+La stanza di Meo~
+   Questo e' lo spogliatoio privato di Meo.
+La stanza e' molto grande e ci sono molti scaffali a giorno che
+contengono tutti i suoi vestiti ed oggetti.
+~
+13 dejlm 0
+D3
+vedi il corridoio.
+~
+pannello vetro~
+1 1301 1319
+S
+#1310
+La stanza privata di Lussia~
+   E' una stanza deliziosa. Decorata con gusto ed in modo molto sobrio.
+Un impianto di climatizzazione garantisce la temperatura ideale in tutte
+le stagioni in modo da potersi cambiare in liberta' senza dover mai patire
+freddo o caldo eccessivi.
+Questa stanza e' inaccessibile e qui i tuoi oggetti sono al sicuro.
+Se non vuoi sprecare i soldi per il rent di oggetti preziosi
+puoi lasciarli qui e li ritroverai sempre al tuo ritorno.
+A ovest c'e' il tuo boudoir privato.
+~
+13 dejlm 0
+D1
+vedi il corridoio.
+~
+porta~
+1 1300 1319
+D3
+vedi un piccolo boudoir.
+~
+~
+0 -1 1321
+S
+#1311
+La Spiaggia~
+   Sei in una piccola e riparata baia circondata da un'alta scogliera.
+La sabbia e' bianchissima e talmente fina che sembra accarezzarti.
+Il sole alto in cielo ti scalda il corpo dandoti una splendida sensazione
+di benessere e abbandono.
+Dal mare verde smeraldo arriva una leggera brezza che ti sfiora la pelle
+scompigliandoti leggermente i capelli. Piccole onde lambiscono la riva.
+~
+13 dej 0
+D0
+vedi il Mare.
+~
+~
+0 -1 1312
+D1
+vedi il Gazebo.
+~
+~
+0 -1 1317
+D2
+vedi un Bungalow.
+~
+~
+0 -1 1318
+D3
+vedi una passerella.
+~
+~
+0 -1 1314
+D4
+vedi lo spogliatoio.
+~
+~
+0 -1 1308
+S
+#1312
+Il Mare~
+   L'acqua e' piacevolmente calda e trasparente.
+Piccoli pesci multicolori si agitano vicino al fondo.
+Provi una sensazione di piacere avvolgente mentre nuoti
+e ti immergi nel verde brillante di questo piccolo paradiso 
+della natura.
+~
+13 dej 0
+D0
+vedi il Mare Aperto.
+~
+~
+0 -1 1313
+D2
+vedi la Spiaggia.
+~
+~
+0 -1 1311
+S
+#1313
+Il Mare Aperto~
+   Ti sei allontanato dalla riva.
+Qui e' ancora piu' bello. L'acqua e' profonda e ti senti completamente
+immerso in un mondo sconfinato ed incontamitato.
+Sei al limite della baia e sai pero' che se andassi oltre la linea della
+scogliera diventeresti preda delle violente correnti esterne.
+~
+13 dej 0
+D0
+vedi il Mare Aperto.
+~
+~
+0 -1 1313
+D2
+vedi il Mare.
+~
+~
+0 -1 1312
+S
+#1314
+La Passerella~
+   Sei su una passerella di legno bianco circondata ai lati da due
+corrimano decorati. Cammini sulle assi di legno tiepido con lo sguardo
+perso nell'orizzonte del mare che ti sembra infinito.
+~
+13 dej 0
+D0
+vedi la Passerella.
+~
+~
+0 -1 1315
+D1
+vedi la Spiaggia.
+~
+~
+0 -1 1311
+S
+#1315
+La Passerella~
+   La passerella si addentra sul mare.
+Vedi una piccola costruzione davanti a te sospesa sull'acqua.
+La palafitta e' costruita su travi che si immergono nelle 
+onde sottostanti.
+Il tetto e' di canne intrecciate ed i lati sono aperti lungo
+tutto il perimetro che è formato da una specie di balconata.
+Ti chiedi che sensazione bella deve essere quella di svegliarsi
+la mattina in un posto simile e tuffarsi direttamente nell'acqua
+sottostante.
+~
+13 dej 0
+D0
+vedi la Palafitta.
+~
+~
+0 -1 1316
+D2
+vedi la Passerella.
+~
+~
+0 -1 1314
+S
+#1316
+La Palafitta~
+   Sei in un'ampia sala circolare praticamente sospesa sul mare.
+Al centro della stanza il pavimento e' formato da un vetro
+trasparente che ti permette di vedere il fondale sottostante.
+Piccoli pesci e altre curiose creature sembrano passeggiare
+pigramente sotto i tuoi piedi e ogni tanto venire a galla a
+curiosare attraverso l'oblo'.
+All'esterno un'ampia balaustra forma una specie di verandina
+con un basso parapetto da cui ci si puo' tuffare nell'acqua
+sottostante. L'ambiente e' piacevomente fresco e leggermente
+ventilato.
+~
+13 dej 0
+D2
+vedi la Passerella.
+~
+~
+0 -1 1315
+D5
+vedi il mare sotto di te e ti vien voglia di tuffarti.
+~
+~
+0 -1 1320
+S
+#1317
+Il Gazebo~
+   Sei in una piccola costruzione ottagonale aperta che
+affaccia da un lato direttamente sul mare.
+Il pavimento e' ricoperto da stuoie e cuscini per permetteri di
+sederti per terra.
+Al centro del gazebo vi e' un largo e basso tavolo 
+apparecchiato.
+
+~
+13 dej 0
+D3
+vedi la Spiaggia.
+~
+~
+0 -1 1311
+S
+#1318
+Il Bungalow~
+   Sei in un ampia sala circolare.
+Le pareti a nord sono composte da larghe vetrate che si
+affacciano direttamente sulla spiaggia e sul mare donandoti
+un panorama meraviglioso.
+Le altre pareti sono interamente foderate da librerie in legno
+che corrono lungo tutto il perimetro.
+Il pavimento e' ricoperto di parquet grezzo.
+La temperatura nella stanza, regolata da un avanzato impianto
+di climatizzazione, e' fresca e asciutta.
+Un basso tavolo di vetro e' al centro della stanza.
+~
+13 dej 0
+D0
+vedi la Spiaggia.
+~
+~
+0 -1 1311
+S
+#1319
+Il Corridoio.~
+   Sei in un corridoio su cui si affacciano due stanze private.
+A est c'e' lo spogliatoio personale di meo protetto da un pannello
+di cetro smerigliato.
+A ovest C'e' la stanza privata di un ospite speciale.
+A nord c'è la stanza privata di Kimera
+~
+13 dejn 0
+D1
+Una pannello di vetro
+~
+pannello vetro~
+1 1301 1309
+D3
+Una porta
+~
+porta~
+1 1300 1310
+D0
+Una porta
+~
+porta~
+1 1300 1322
+D5
+Vedi il piano di sotto.
+~
+~
+0 -1 1308     
+S
+#1320
+Il Mare~
+   Ti tuffi in acqua gettandoti dalla balaustra.
+Appena di immergi vieni accolto e ammantato da una piacevolissima
+sensazione di freschezza.
+La mente ti si schiarisce ed il mondo assume contorni piu' netti
+e definiti.
+Ti senti bene ed in perfetta armonia con tutto quello che ti circonda.
+~
+13 dej 0
+D1
+vedi il Mare.
+~
+~
+0 -1 1312
+S
+#1321
+Il boudoir di Lussia~
+   Sei in un piccolo locale tutto foderato in legno. 
+Qui puoi trovare tutto quello che ti serve.
+Ci sono armadi lungo le pareti contenenti vestiti,
+armi, equipaggiamento e soldi.
+Ma non lasciare nulla qui che non vorresti ritrovare.
+~
+13 dej 0
+D1
+vedi la tua stanza.
+~
+~
+0 -1 1310
+S
+#1322
+La stanza privata di Kimera~
+   E' una stanza ampia. Al centro un letto rotondo molto grande. 
+Sulle pareti ci sono delle mensole di cristallo.
+Vicino al letto un comodino anch'esso di cristallo con un vaso. 
+Un divano e appoggiato alla parete.
+Guardando in alto puoi notare un soppalco.
+~ 
+13 dejlm 0
+D2
+vedi il corridoio.
+~
+porta~
+1 1300 1319
+D4
+vedi la scala del soppalco.
+~
+~
+0 -1 1323
+E
+letto tondo~
+E' un letto rotondo, con delle bellissime lenzuola di 
+seta azzurre pieno di cuscini.
+~
+E
+mensole~
+Delle mensole di cristallo, sono piene di libri.
+~
+E
+vaso~
+E' un vaso di vetro, contiene una rosa rossa dono di qualcuno 
+che emana un piacevole profumo per tutta la stanza.
+~
+E
+divano~
+E' un divano azzurro, ampio e soffice.
+~
+S
+#1323
+Soppalco~
+   E' un soppalco di legno. In alto un enorme finestra permette di guardare il cielo. 
+Per terra, proprio sotto la finestra c'è un piumone con dei cuscini, da sdraiati si 
+può ammirare lo splendore del cielo. 
+Contro la parete c'è un camino.
+In un angolo c'è un vecchio baule.
+~ 
+13 dej 0
+D5
+vedi la scala che porta alla stanza.
+~
+~
+0 -1 1322
+E
+camino~
+Il camino è acceso e la sua fiamma è viva e scoppiettante
+~
+E
+baule~
+E' un vecchio baule e custodisce tutte le proprietà di Kimera.
+~
+S
+$

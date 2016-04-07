@@ -1,0 +1,201 @@
+#6500
+Affiliato Asukaga anabolizzato~
+Un Affiliato della Asukaga~
+Un affiliato anabolizzato sta facendo la guardia.
+~
+Un Affiliato sembra molto robusto e minaccioso.
+~
+blm dhk 1000 S
+21 0 -1 4d20+436 2d8+19
+7000 40000
+8 8 1
+#6501
+Impiegato Asukaga~
+Un impiegato della Asukaga~
+Un impiegato del laboratorio sta lavorando qui.
+~
+E' molto stressato e sembra carico di lavoro.
+~
+glm 0 1000 S
+13 7 2 25d5+270 2d4+12
+2000 20000
+8 8 1
+#6502
+Direttore~
+Il Direttore del Laboratorio~
+Il direttore e' molto infastidito della tua presenza.
+~
+Ha un sigaro in bocca, e' alto e molto arrabbiato.
+~
+bfnopr dfhk -800 S
+35 3 -8 9d7+5000 10d5+70
+36789 150000
+8 8 1
+#6503
+addetto~
+L'addetto alle vendite~
+L'addetto alle vendite al dettaglio aspetta clienti.
+~
+Il Venditore e' molto stressato, ma comunque ti sorride gentilmente.
+~
+blm dh 1000 S
+25 8 -5 1d1+12000 2d4+55
+30000 120000
+8 8 1
+#6504
+addetto gotropex~
+Gotropex~
+Gotropex, l'addetto alle vendite sta compilando l'inventario.
+~
+Gotropex e' indaffarato a compilare l'inventario del magazzino.
+~
+ablm dh 900 E
+40 2 -9 1d1+20000 2d5+100
+54321 300000
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 25
+Int: 19
+Class: 4
+E
+#6505
+cane guardia cyborg~
+Un cane da guardia cybernetico~
+Un cane da guardia cybernetico ti sta puntando e ringhia.
+~
+Questa creatura, nata nei laboratori segreti della Asukaga, 
+e' molto forte e agile.
+~
+g dk 300 E
+21 0 -3 4d20+540 3d7+14
+500 30000
+8 8 1
+Dex: 18
+E
+#6506
+automa~
+Un Enorme Automa~
+Un enorme automa sorveglia i lavoranti.
+~
+Un enorme automa ti squadra da capo a piedi analizzandoti con i
+suoi sensori... non provocarlo.
+~
+bfgl k 600 E
+30 2 -10 4d20+1000 3d3+25
+2000 50000
+8 8 1
+Con: 18
+Str: 18
+StrAdd: 80
+E
+#6507
+inserviente vecchio~
+Un vecchio inserviente~
+Un vecchio inserviente della Asukaga sta facendo le pulizie.
+~
+Il vecchio inserviente e' molto stanco, sporco e vuole andare in pensione.
+~
+bl k 600 S
+10 10 4 3d13+240 20d3+5
+100 1000
+8 8 1
+#6508
+comandante~
+Il Comandante della sicurezza~
+Il Comandante della sicurezza controlla che sia tutto in ordine.
+~
+Il Comandante e' un veterano di guerra, ha grosse cicatrici su tutto il corpo.
+~
+bl k 700 S
+25 1 -5 50d2+2500 10d4+60
+15000 80000
+8 8 1
+#6509
+dottore~
+Il dottore della Asukaga~
+Il dottore della Asukaga sta facendo degli esperimenti genetici.
+~
+Il dottore sembra essere molto sicuro di se, sul suo volto si legge tutta
+la sua esperienza nel campo medico.
+~
+bl dhk 999 S
+25 0 -5 90d4+575 3d10+15
+10000 40000
+8 8 1
+#6510
+infermiere~
+Un infermiere anabolizzato~
+Un infermiere anabolizzato sta cercando materiale da clonare.
+~
+~
+bm k 500 S
+10 10 2 10d3+235 20d3+8
+100 1000
+8 8 1
+#6511
+Corporativo~
+Un Corporativo~
+Un Corporativo e' qui.
+~
+~
+b k 700 S
+15 5 -4 10d15+570 30d3+25
+1000 15000
+8 8 1
+#6514
+guardia dormitorio~
+Una guardia del dormitorio~
+Una guardia del dormitorio e' qui di pattuglia.
+~
+~
+bm k 400 S
+30 4 -4 5d10+870 5d5+25
+2000 30000
+8 8 1
+#6516
+custode~
+Il Custode~
+Il Custode della sala degli esperimenti e' qui.
+~
+E' molto seccato da un lavoro cosi' noioso.
+~
+bfl dhk -800 S
+38 0 -8 250d4+2500 4d3+40
+1000 200000
+8 8 1
+#6517
+Blanka~
+Blanka il distruttore~
+Blanka il distruttore cerca qualcosa...te... da mangiare.
+~
+Blanka e' 1\3 uomo, 1\3 macchina, 1\3 serpente, ha il corpo
+squamato, con chip innestati ovunque e forma umanoide.
+~
+bf k -1000 S
+33 0 -10 300d6+1200 10d8+80
+1000 250000
+8 8 1
+#6518
+Awaru Okeguri Asukaga~
+Il Dott. Asukaga~
+Il Dott. Awaru Okeguri Asukaga e' qui dietro la scrivania.
+~
+E' il presidente della corporazione, nonche' l'antico fondatore.
+Si narra che abbia piu' di 100 anni e per rimanere sempre attivo
+ha fatto innestare il proprio cervello nel corpo di un cyborg.
+~
+abcefnopqr bdfhkmnps -1000 E
+55 0 -10 0d1+29000 2d2+100
+30000 1000000
+8 8 1
+BareHandAttack: 12
+Str: 18
+StrAdd: 85
+Int: 18
+Wis: 18
+Dex: 18
+Con: 18
+Cha: 18
+E
+$

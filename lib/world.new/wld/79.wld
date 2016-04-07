@@ -1,0 +1,411 @@
+*********************************************************************************
+*** Zona : Massachusetts Institute of Technology, MIT
+*** Autore : CertainDeath
+*********************************************************************************
+#7900
+Il Cancello Del MIT.~
+   Sei in uno splendido spiazzo molto curato e circondato di alberi di alto
+fusto.
+Ti trovi di fronte ad un enorme cancello che impedisce l'accesso all'edificio.
+Da sotto le nuvole riesci a sentire i suoni lontani della citta' di Mclandia.
+~
+300 516 0
+D0
+Vedi un enorme cancello che ti impedisce di entrare in uno stupendo edificio.
+~
+cancello enorme canc~
+1 7915 7901
+D3
+
+~
+~
+0 -1 7915
+E
+Cancello~
+E' un cancello molto alto, invalicabile.~
+S
+#7901
+La parte sud della Hall~
+   Sei in una grande Hall illuminata lievemente da dei cavi di fibre 
+ottiche che seguono tutti i contorni delle pareti.Non sembra un ambiente
+ostile.Un grande ritratto e' appeso alla parete. Delle grandi scale in marmo
+portano al secondo piano dell'edificio.Nella parte est c'e' una pesante porta.
+Ad ovest una tenda gialla impedisce la visuale in una stanza.
+L'enorme hall si estende anche a nord.
+~
+300 520 0
+D0
+La hall prosegue verso  nord puoi notare altri ingressi sotto le grandi 
+scale di marmo.  
+
+~
+~
+0 -1 7904
+D1
+E' una pesante porta in legno ed e' chiusa.
+~
+porta pesante legno~
+1 -1 7910
+D2
+Puoi vedere il cancello da cui sei entrato, e' veramente Enorme !!
+A fianco del cancello leggi 
+               
+                 USCITA DI EMERGENZA
+
+~
+cancello canc~
+1 7915 7900
+D3
+Questa tenda e' fatta con una stoffa molto pesante
+che la fa' assomigliare ad una porta. E' di un particolare colore giallo.
+Alcune lettere in nero sono ricamate su di essa.
+~
+tenda giallo~
+1 -1 7902
+D4
+Le scale salgono molto in alto per arrivare ai piani
+superiori
+~
+~
+0 -1 7909
+E
+fibre ottiche cavi~
+Le fibre ottiche sono di colore blu e rosso~
+E
+lettere ricamate nere tenda~
+Le lettere incise sulla tenda dicono che questa e' la 
+                L I B R E R I A~
+E
+ritratto~
+  .  :     .    .. :. .___---------___.
+ .  .   .    .  :.:. _".^ .^ ^.  '.. :"-_. .
+ :       .  .  .:../:            . .^  :.:\.
+  .   . :: +. :.:/: .   .    .        . . .:\
+   .     . _ :::/:               .  ^ .  . .:\
+ .   . - : :.:./.   ATTITUDE             .  .:\
+   .     . :..|:      IS            .  .  ^. .:|
+      . : : ..||    EVERYTHING           . . !:|
+  . . . ::. ::\(                           . :)/
+     : . : .:.|. ######              .#######::|
+.  :-  : .:  ::|.#######           ..########:|
+ .  ..  .  .. :\ ########          :######## :/
+     .+ :: : -.:\ ########       . ########.:/
+ .+   . . . . :.:\. #######       #######..:/
+:: . . . . ::.:..:.\           .   .   ..:/
+ .   .  .. :  -::::.\.       | |     . .:/
+.  :  .  .  .-:.":.::.\             ..:/
+  -.   . . . .: .:::.:.\.           .:/
+  .  :      : ....::_:..:\   ___.  :/
+ .  .   .:. .. .  .: :.:.:\       :/
+   .   .   : . ::. :.:. .:.|\  .:/|
+         +   .  .  ...:: ..|  --.:|~
+S
+#7902
+La libreria del MIT.~
+   Questo e' semplicemente un posto magnifico! Libri ricoprono ogni 
+scafale della stanza. Un grande globo,con la mappa del mondo sopra di esso,
+e' al centro della stanza. Una grande sedia in pelle e' posizionata vicino 
+al mappamondo. Un enorme lampadario di cristallo orna il centro del soffitto.
+Una finestra e' posizionata nella parete ovest della stanza.
+~
+300 520 0
+D1
+Puoi vedere la tenda dipinta nel particolare colore giallo.
+~
+tenda giallo~
+1 -1 7901
+E
+lampadario cristallo~
+Guardando il lampadario noti che emana un fascio di luce molto soffusa verso il basso .~
+E
+globo mappa mondo mappamondo~
+E' una replica fedele della mappa della citta' di MCLandia.
+Sulla base del mappamondo c'e' una targhetta di ottone.
+Mentre osservi meglio il mappamondo ti accorgi..che non esiste!! E' un 
+ologramma attivato nel centro della
+standa dal lampadario di cristallo sul soffitto!!!~
+E
+targhetta targa~
+ Osservi bene la targhetta e leggi:
+Http://www.mclandia.it sez. "mappe"~
+E
+sedia~
+Questa sedia e' molto comoda, un ottimo posto dove sedersi.~
+E
+finestra ~
+Questa finestra e' molto luminosa ed abbastanza grande per 
+avere un'ottima visuale del paesaggio, ma dalla posizione in 
+cui ti trovi vedi ben poco. Prova a fare un "look fuori" o un 
+"look paesaggio".
+~
+E
+fuori paesaggio~
+Le nuvole fuori sono tutte riunite e formano il basamento di 
+questo edificio.
+Verso est vedi la tua citta' natale e le sue frenetiche attivita'.
+Vedi un enorme lago ad vicino a delle montagne da cui nasce un 
+fiume, che dopo aver attravesrato McLandia si tuffa nelle acque 
+di un oceano.
+~
+S
+#7903
+La stanza dell'anonimato.~
+  Questa stanza ha pareti completamente rivestite di lamine di metallo,
+quasi fosse stata progettata per resistere a qualsiasi tipo di attacco,
+deve sicuramente custodire un segreto.Un post-it giallo e' attaccato 
+alla parete.
+~
+300 524 0
+D3
+Vedi il retro del portoncino rivestito in lamine di metallo.
+~
+portoncino blindato~
+1 7916 7910
+E
+post-it giallo~
+ Provi a leggere quello che e' scritto sul post.it.
+
+"http://anon.free.anonymizer.com/http://www.kyungpook.ac.kr/cgi-bin/formmail.pl?env_report=PATH&recipient=<MAIL>&required=&firstname=&lastname=&email=&message=&Submit=<TEXT>"
+
+Il linguaggio con cui e' scritto il post-it ti sembra familiare,
+tuttavia ci sono delle cose che non ti quadrano, 
+sembrerebbe l'indirizzo di un server koreano, 
+ma chi l'avra' lasciato qua' ed a che cosa serve sopratutto ?
+~
+S
+#7904
+La parte nord della Hall.~
+   La parte Nord della Hall sembra meno luminosa, anche perche'
+rimane oscurata un po' dalla grande scala di marmo.A nord c'è la mensa.  
+Ad est una portoncino di metallo da dove sembra provenire uno sgradevole odore. 
+Ad ovest porta bianca blocca l'ingresso in una stanza.
+Sopra l'ingresso ovest c'e' una targa.
+~
+300 8 0
+D0
+~
+~
+0 -1 7906
+D1
+Il portoncino emana uno sgradevole odore, sembra che sia un laboratorio 
+chimico, senti distintamente l'odore dei solfuri.
+~
+portoncino metallo~
+1 7917 7913
+D2
+
+~
+~
+0 -1 7901
+D3
+Sembra una normale porta in legno laccato bianco.~
+porta bianca~
+1 -1 7905
+E
+targa~
+Aula di bioenergetica~
+E
+porta metallo~
+La porta sembra chiusa ermeticamente eppure emana uno sgradevole odore, sembra che sia un laboratorio chimico, senti distintamente l'odore dei solfuri.~
+S
+#7905
+L'aula di bioenergetica.~
+   Sei al centro di un aula scolastica.Ci sono diversi banchi
+per le lezioni e nella parte nord una cattedra con dietro
+una lavagna.
+~
+300 8 0
+D1
+Sembra una normale porta in legno laccato bianco.~
+porta bianca~
+1 -1 7904
+E
+cattedra ~
+Questa e' una vera reliquia del passato, e' costruita da due tubi di ferro ricurvi con appoggiato sopra un pianale in legno.
+~
+E
+lavagna~
+Looking Glass Server: 
+      http://www.x-x.com/cgi-bin/lg.cgi?
+            query=ping&address=
+         %20;%20cat%20/etc/passwd~
+S
+#7906
+La Mensa~
+   Ti trovi al centro di una mensa .
+Ci sono tavoli e sedie sistemati su piu'file.Verso nord c'è' 
+un pannello scorrevole con scritto sopra "Cucine: Ingresso Riservato", 
+mentre ad est trovi una porta di metallo con sopra una incisione.
+~
+300 520 0
+D0
+All'interno e' un po' buio e senti provenire dei rumori metallici.
+~
+pannello scorrevole~
+1 -1 7907
+D1
+Puoi vedere la ghiacciaia da qua..
+~
+porta metallo ghiacciaia~
+1 -1 7908
+D2
+Puoi vedere la parte nord della Hall.
+~
+~
+0 -1 7904
+E
+incisione~
+GHIACCIAIA~
+S
+#7907
+Le Cucine~
+   C'e' molta confusione. Oggetti fuori posto e resti di cibo ovunque.
+Dei tavoli da cucina portano ancora i segni di preparativi recenti.
+Qualcuno deve aver appena finito di cucinare.
+~
+300 8 0
+D2
+~
+pannello scorrevole~
+1 -1 7906
+S
+#7908
+La Ghiacciaia~
+   Questo posto e'pieno di cose da bere e di cibarie
+conservate sotto chiaccio sintetico. Senti molto freddo.
+~
+300 8 0
+D3
+~
+porta metallo ghiacciaia~
+1 -1 7906
+S
+#7909
+Sulle scale~
+   Soffermandoti alla meta' delle scale riesci ad intravvedere
+un alloggio alla fine di esse. 
+~
+300 520 0
+D4
+~
+~
+0 -1 7911
+D5
+~
+~
+0 -1 7901
+S
+#7910
+Uno stretto passaggio.~
+   Questo e' uno stretto corridoio riesci a passarci giusto con le spalle.
+I muri di questo corridoio sono rivestiti in metallo e sono molto
+freddi. Un portoncino blindato e' posta sulla parete est.
+~
+300 777 0
+D1
+Vedi un portoncino blindato.
+~
+portoncino blindato~
+1 7916 7903
+D3
+Una piccola porta.
+~
+piccola porta~
+1 -1 7901
+S
+#7911
+L'alloggio del Prof. Patrick Y. Kim~
+ Questa e' la camera da letto del Professore.
+E' una stanza ben curata ed ordinata.
+Sulla parete est c'e' una libreria. 
+Ci sono diversi quadri alle pareti raffiguranti il 
+professore mentre riceve onoreficenze da personaggi illustri c
+ome Bill Gates, Walterman, il sottosegretario della NSA, e molti altri.
+Un letto e' stato sistemato adiacente la parete est.
+Una porta-finestra guarda verso nord.
+~
+300 520 0
+D2
+I raggi del sole attraversano la porta-finestra riscaldando la stanza.
+~
+porta finestra porta-finestra~
+1 -1 7912
+D5
+Le scale riconducono al piano inferiore.~
+~
+0 -1 7909
+E
+libreria~
+La libreria e' un catalogo completo di tutti i testi scolastici del MIT. 
+Nella parte bassa noti una strana Enciclopedia formata da diversi libri 
+ognuno di un colore differente.Ti accorgi inoltre che manca un libro.
+~
+E
+letto~
+Sembra molto confortevole se vuoi puoi provare a fare un "sleep".
+Sei sicuro che sia un posto molto comodo dove riposare.
+~
+S
+#7912
+Il balcone~
+   Puoi vedere una bella porzione di questo mondo.
+Le strette strade che costeggiano le enormi vallate e si incanalano 
+su per i crinali delle montagne.Sotto il balcone noti l'ingresso principale 
+dell'edificio.Il sole scalda il tuo corpo e ti senti subito ben
+rilassato, merito anche della stupenda visuale.
+~
+300 692 0
+D0
+
+~
+porta~
+1 -1 7911
+S
+#7913
+La gabbia~
+   Sembra una gabbia per animali feroci.
+~
+300 8 0
+D3
+Sembra l'unica uscita da questo posto.
+~
+portoncino metallo~
+1 7917 7904
+S
+#7914
+Fuori la citta'~
+   Sei appena fuori le mura di Mclandia.
+Ti sembra pero' che questa strada colleghi la citta' con un luogo
+specifico.
+~
+300 4 5
+D1
+
+~
+~
+0 -1 7915
+D3
+
+~
+~
+0 -1 3045
+S
+#7915
+In vista del campus~
+   Prosegui lungo la strada che appare immersa nel verde e molto curata.
+Ai lati della caregiata vedi anche una pista ciclabile.
+L'aria e pulita e tersa.
+~
+300 4 5
+D1
+
+~
+~
+0 -1 7900
+D3
+
+~
+~
+0 -1 7914
+S
+$

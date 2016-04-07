@@ -1,0 +1,67 @@
+#7200
+server smtp ribelle~
+il server smtp ribelle~
+Il server smtp ribelle e' qui e ti sta negando il diritto di spedire e-mail.
+~
+Non serve a nulla fare 'check mail' col POP di mclink per avere il diritto
+di spedire e-mail con questo server. Si e' ribellato ai suoi padroni e ora
+vuole vendicarsi degli utenti che hanno abusato di lui. Tu compreso.
+~
+aceflm dfk -800 S
+14 7 0 1d10+170 3d4+4
+0 20000
+8 8 0
+#7201
+principale server smtp~
+il server smtp principale~
+Il server smtp principale si e' ribellato e sta preparando la sua vendetta.
+~
+Era il principale server SMTP. Dopo aver costretto Fraticelli a dimagrire,
+ha deciso di vendicarsi una volta per tutte dei linkers che hanno abusato
+di lui. E' contento se i linkers vengono a trovarlo: ha sempre fame!
+~
+acejklm dfk -600 S
+8 13 2 1d10+100 2d4+3
+400 4500
+8 8 0
+#7202
+secondario server smtp~
+il server smtp secondario~
+Il server secondario smtp e' qui e ti sta guardando con attenzione.
+~
+E' stato l'ultimo server a scappare da Via Perrier. Si era stufato di fare da
+parachiappe a Fraticelli dopo la ribellione dei suoi fratelli maggiori. Ora si
+aggira in queste caverne sanguinolente, progettando la vendetta definitiva.
+~
+acehlm dfk -350 S
+6 15 4 1d10+75 1d4+2
+200 1500
+8 8 0
+#7203
+newsserver zombie~
+il newsserver zombie~
+Il newsserver zombie ti ha tradito un'altra volta!! Se ne sta qui invece di
+essere al suo posto a inoltrare le tue news.
+~
+E' lento e cigoloso... Ti domandi come faccia a funzionare....
+E infatti... non funziona!!
+~
+cgjlk k -700 S
+6 15 3 4d6+109 2d4+2
+50 1500
+8 8 0
+#7204
+mouse~
+un mouse impazzito~
+C'e' un mouse impazzito qui. Non si sa perche', ma non scorre mai bene
+nei momenti critici. Come se qualcuno gli avesse incollato i feltrini.
+~
+Il mouse e' molto sporco e ha l'aria di uno che s'impunta facilmente.
+Ti domanderai come fai ad incontrare un mouse in questo posto...
+...Ma dove ti aspetti che stia un maledetto topo, se non nelle fogne??
+~
+bf k -800 S
+12 9 2 1d10+200 2d6+2
+2513 13000
+8 8 1
+$

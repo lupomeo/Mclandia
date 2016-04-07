@@ -1,0 +1,30 @@
+Sep  9 12:49:26 :: Resetting Moria, Levels 1-2 (rooms 3700-4199).
+Sep  9 12:49:26 :: Resetting Moria, Level 3 (rooms 4200-4199).
+Sep  9 12:49:26 :: Resetting The Great Eastern Desert (rooms 4200-5099).
+Sep  9 12:49:26 :: Resetting Drow City (rooms 5100-5199).
+Sep  9 12:49:26 :: Resetting The City Of Thalos (rooms 5200-5299).
+Sep  9 12:49:26 :: Resetting The Great Pyramid (rooms 5300-5399).
+Sep  9 12:49:26 :: Resetting New Thalos (rooms 5400-5699).
+Sep  9 12:49:26 :: Resetting New Thalos, Continued (rooms 5700-5699).
+Sep  9 12:49:26 :: Resetting New Thalos Wilderness (rooms 5700-5699).
+Sep  9 12:49:26 :: Resetting Haon-Dor, Light Forest (rooms 5700-6099).
+Sep  9 12:49:26 :: Resetting Haon-Dor, Dark Forest (rooms 6100-6199).
+Sep  9 12:49:26 :: Resetting The Orc Enclave (rooms 6200-6299).
+Sep  9 12:49:26 :: Resetting Arachnos (rooms 6300-6399).
+Sep  9 12:49:26 :: Resetting Rand's Tower (rooms 6400-6499).
+Sep  9 12:49:26 :: Resetting The Dwarven Kingdom (rooms 6500-6599).
+Sep  9 12:49:26 :: Resetting The Sewer, First Level (rooms 6600-7099).
+Sep  9 12:49:26 :: Resetting The Second Sewer (rooms 7100-7199).
+Sep  9 12:49:26 :: Resetting The Sewer Maze (rooms 7200-7399).
+Sep  9 12:49:26 :: Resetting The Tunnels In The Sewer (rooms 7400-7399).
+Sep  9 12:49:26 :: Resetting Redferne's Residence (rooms 7400-7999).
+Sep  9 12:49:26 :: Resetting Rome (rooms 8000-12099).
+Sep  9 12:49:26 :: Resetting King Welmar's Castle (rooms 12100-15099).
+Sep  9 12:49:26 :: Resetting Montagne Area (rooms 15100-18699).
+Sep  9 12:49:26 :: Boot db -- DONE.
+Sep  9 12:49:26 :: Signal trapping.
+Sep  9 12:49:26 :: Entering game loop.
+Sep  9 12:49:26 :: No connections.  Going to sleep.
+Sep  9 12:49:48 :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+Quick boot mode -- rent check supressed.
+Using file descriptor for logging.

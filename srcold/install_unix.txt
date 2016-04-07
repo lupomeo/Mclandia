@@ -1,0 +1,31 @@
+Installing Ascii Pfiles 2.1 On Systems Other Than Windows
+
+Before installing ascii pfiles , you should already have circle installed,
+compiled, and tested.  See the circle documentation if you aren't able to
+do this.
+
+ 1)  Copy the included file cr_dirs.sh to your circle30bpl17
+     directory (or whatever you've renamed it to)
+ 2)  Cd to the circle30bpl17 directory and type "sh cr_dirs.sh"
+ 3)  Copy apf2.1_unix.patch to circle30bpl17/.. (the directory above the
+     circle30bpl17 directory)
+ 4)  Look for existing files with the extension .rej or .orig in the
+     circle30bpl17/src directory.  If you already have some of these
+     files, move them to another directory so they don't confuse you later
+ 5)  Change to the circle30bpl17/.. directory
+ 6)  Type "patch < apf2.1_unix.patch"
+ 7)  Check again for .rej files.  If you have any now, part of the patch
+     failed because your files were not stock circle.  Check the circle wtfaq
+     guide at http://developer.circlemud.org for information on how to
+     attempt to hand-patch these files.  If you don't get the entire patch
+     installed, ascii pfiles will not work.
+ 8)  Cd to your circle30bpl17 directory and type ./configure
+ 9)  Compile and run circle.  If all went well, you won't notice any change
+     in the way circle runs.
+
+Note: If you have a completely stock bpl17 mud and don't want to use patch,
+you can copy the contents of full_src to your src directory.
+
+Note: If you have existing binary player files you want to convert to ascii,
+make sure plrtoascii exists in the circle30bpl17/bin directory, then cd to
+circle30bpl17/lib and type "../bin/plrtoascii".

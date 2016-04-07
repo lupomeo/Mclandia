@@ -1,0 +1,384 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+report it immediately using the BUG command.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#1
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 17
+6 0 0 0
+0 0 200
+#10
+waybread bread~
+a waybread~
+Some waybread has been put here.~
+~
+19 g 1
+24 0 0 0
+1 50 50
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#20
+telnet portal gateway gate~
+una brillante porta telnet~
+Una brillante porta telnet fluttua nello spazio e forma un gateway verso un altra locazione.~
+~
+26 0 0
+0 0 0 0
+0 0 0
+#50
+revolver~
+un revolver~
+Un revolver giace qui.~
+~
+6 0 ao
+1 0 6 0
+4 2000 0
+E
+revolver pistola~
+E' un revolver Colt .22 da sei colpi. Noti il manico decorato
+con inserti in avorio intagliato.
+~
+#51 
+bullet pallottola cal22~ 
+una pallottola calibro .22~ 
+Una palottola calibro .22giace qui.~ 
+~ 
+7 0 a 
+1 0 0 1 
+1 5 0
+#52
+Mk 23 automatica pistola~
+una pistola automatica Mk 23~
+Una pistola automatica Mk. 23 giace qui.~
+~
+6 0 ao
+11 0 13 0
+4 1500 10
+E
+pistola~
+E' una pistola automatica Heckler & Koch Mark 23, calibro 9 mm.
+~
+#53 
+bullets pack pacco pallottole cal22~ 
+un pacco di pallottole cal.22~ 
+Una pacco di pallottole cal.22 giace qui.~ 
+~ 
+7 0 a 
+1 0 0 50 
+1 250 0
+#54
+carabina garand~
+una carabina~
+Una carabina giace qui.~
+~
+6 0 ao
+7 0 10 0
+5 3000 15
+E
+carabina~
+E' una carabina semi-automatica Garand M1.
+~
+#55
+winchester fucile~
+un fucile winchester~
+Un fucile winchester giace qui.~
+~
+6 0 ao
+7 0 6 0
+4 3000 15
+E
+fucile~
+E' un fucile a ripetizione modello Winchester 66, Noti la caratteristica leva di 
+caricamento sotto il griletto e il calcio di legno intagliato.
+~
+#57
+shotgun pompa fucile~
+un fucile a pompa~
+Un fucile a pompa giace qui.~
+~
+6 0 ao
+4 0 7 0
+5 2500 20
+E
+shotgun pompa fucile~
+E' un fucile a pompa da assalto modello Benelli calibro 12 gauge.
+~
+#58 
+shell cartuccia~ 
+una cartuccia~ 
+Una cartuccia di pallini 00 giace qui.~ 
+~ 
+7 0 a 
+4 0 0 1 
+1 20 2
+#59 
+shells pack pacco cartucce~ 
+un pacco di cartucce~ 
+Un pacco di cartucce da caccia giace qui.~ 
+~ 
+7 0 a 
+4 0 0 25 
+1 500 10
+#60
+shuriken~
+un shuriken~
+Un shuriken giace qui.~
+~
+24 0 an
+0 0 1 4
+1 1000 10
+#61
+bomba~
+una bomba a mano~
+Una bomba a mano giace qui.~
+~
+25 0 an
+2 3 8 0
+5 20000 50
+#62
+carica~
+una carica da demolizione~
+Una carica da demolizione giace qui.~
+~
+25 0 an
+5 5 12 0
+15 75000 100
+#63
+coltello~
+un coltello da lancio~
+Un coltello da lancio giace qui.~
+~
+24 0 an
+0 0 2 4
+1 2000 10
+#64
+doppietta fucile~
+una doppietta a canne mozze~
+Una doppietta a canne mozze giace qui.~
+~
+6 0 ao
+4 0 20000 0
+5 300 0
+E
+doppietta fucile~
+E' una doppietta da caccia Beretta. Le canne di questo fucile sono state segate.
+~
+#65
+balestra crossbow~
+una balestra~
+Una balestra giace qui.~
+~
+6 0 ao
+3 0 1 0
+5 20000 50
+E
+balestra crossbow~
+E' una balestra fatta in fibra al carbonio.
+~
+#66
+arco bow~
+un arco~
+Un arco giace qui.~
+~
+6 0 ao
+2 0 1 0
+5 20000 50
+E
+arco bow~
+E' un pregiato arco inglese.
+~
+#67 
+arrow freccia~ 
+una freccia~ 
+Una freccia giace qui.~ 
+~ 
+7 0 a 
+2 0 0 1 
+1 1000 0
+#68 
+dardo~ 
+un dardo~ 
+Un dardo giace qui.~ 
+~ 
+7 0 a 
+3 0 0 1 
+1 2000 0
+#69 
+razzo~ 
+un razzo~ 
+Un razzo giace qui.~ 
+~ 
+7 0 a 
+5 0 0 1 
+5 800 10
+#70 
+granata~ 
+una granata~ 
+Una granata giace qui.~ 
+~ 
+7 0 a 
+6 0 0 1 
+1 600 10
+#71
+bazooka~
+un bazooka~
+Un bazooka giace qui.~
+~
+6 0 ao
+5 0 1 0
+25 50000 250
+E
+bazooka~
+E' fatto da un semplice tubo in lamiera con un manico. 
+Vicino al manico c'e un reticolo di mira.
+~
+#72
+lanciagranate~
+un lanciagranate~
+Un lanciagranate qui.~
+~
+6 0 ao
+6 0 6 0
+20 75000 300
+E
+lanciagranate~
+E' un lanciagranate 40mm con caricatore a tamburo.
+~
+#73
+sunglasses occhiali~
+un paio di Ray-ban~
+Un paio di occhiali da sole giace qui.~
+~
+12 0 as
+0 0 0 0
+1 100 0
+E
+sunglasses occhiali~
+Sono firmati 'Ray-ban'.
+~
+#74
+orecchino cerchietto~
+un cerchietto di platino~
+Un orecchino di platino giace qui.~
+~
+12 a ar
+0 0 0 0
+1 100 0
+E
+orecchino cerchietto platino~
+E' un cerchietto di platino simile a quelli portati dai pirati.
+~
+#75
+orecchino diamante~
+un diamante~
+Un orecchino di diamante giace qui.~
+~
+12 a ar
+0 0 0 0
+1 100 0
+E
+orecchino diamante~
+E' un preziosissimo diamante incastonato in un orecchino.
+~
+#76
+borsa intarsiata cuoio~
+Una borsa intarsiata di cuoio pregiato~
+Una borsa di cuoio pregiato e' stata lasciata qui.~
+~
+15 0 aq
+100 0 0 0
+2 20 0
+#77
+zainetto pelle~
+Uno zainetto di pelle~
+Uno zainetto di pelle e' stato lasciato qui.~
+~
+15 0 ap
+100 0 0 0
+2 20 0
+#78
+sovraspalla chiodato~
+Un sovraspalla chiodato~
+Una sovraspalla chiodato e' stato lasciato qui.~
+~
+12 0 aq
+100 0 0 0
+2 20 0
+#79
+tuta techno~
+una tuta techno da combattimento~
+Una tuta tecno da combattimento e' qui in terra.~
+~
+9 b ak
+50 0 0 0
+1 50 0
+E
+tuta ~
+E' una tuta techno dotata di tutti i sistemi da combattimento conosciuti. 
+~
+#80
+mitra m4 assalto fucile~
+un fucile da assalto M4~
+Un fucile da assalto M4 giace qui.~
+~
+6 z ao
+7 1 12 0
+4 2000 25
+E
+mitra assalto m4 fucile~
+E' un fucile da assalto modello M4. Nero e lucido, sembra nuovo.
+~
+#81 
+caricatori ammo pack 7.42mm NATO~ 
+un pacco di caricatori 7.42 mm~ 
+Un pacco di caricatori 7.42 mm.~ 
+~ 
+7 0 a 
+7 0 0 100 
+1 1000 1
+#83
+CAW assalto fucile~
+un fucile da assalto CAW~
+Un fucile da assalto CAW giace qui.~
+~
+6 z ao
+4 1 12 0
+6 20000 100
+E
+CAW assalto fucile~
+E' un fucile da assalto modello H&K CAW. Tenerlo in mano ti da' una 
+sensazione di onnipotenza 
+~
+#90
+stimolatore~
+uno stimolatore~
+Uno stimolatore portatile giace abbandonato qui.~
+~
+12 a am
+0 0 0 0
+1 100 1000
+C
+u
+#91
+recharger~
+un RAM recharger~
+Un RAM recharger giace abbandonato qui.~
+~
+12 a am
+0 0 0 0
+1 100 1000
+C
+x
+$~
+

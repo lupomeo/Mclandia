@@ -1,0 +1,214 @@
+#20000
+terrorista vagante~
+un terrorista vagante per il campo~
+Un terrorista e' qui e ti punta una pistola.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer.
+~
+aglfm kd -400 E
+18 8 2 4d8+350 2d8+1
+3000 45000
+8 8 1
+BareHandAttack: 0
+E
+#20001
+terrorista~
+un terrorista vagante~
+Un terrorista e' qui e ti punta il fucile.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer.
+~
+aglfm kd -400 E
+25 11 1 2d6+500 3d8+5
+5000 90000
+8 8 1
+BareHandAttack: 0
+E
+#20002
+terrorista guerra~
+un terrorista in assetto di guerra~
+Un terrorista in assetto di guerra e' qui pronto ad assalirti.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer mentre sta per fare fuoco.
+~
+aglfm kd -400 E
+30 11 -1 5d10+700 4d6+13
+5000 160000
+8 8 1
+BareHandAttack: 0
+E
+#20003
+terrorista pattuglia esterna~
+un terrorista di pattuglia esterna~
+Un terrorista di pattuglia ti sorprende e ti punta la sua arma.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer mentre sta per fare fuoco.
+~
+alfm kd -400 E
+25 11 1 2d6+500 3d8+5
+5000 90000
+8 8 1
+BareHandAttack: 0
+E
+#20004
+terrorista pattuglia interna~
+un terrorista di pattuglia interna~
+Un terrorista di pattuglia ti sorprende puntandoti la sua arma.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer mentre sta per fare fuoco.
+~
+alfm kd -400 E
+30 11 -1 5d10+700 4d6+13
+5000 160000
+8 8 1
+BareHandAttack: 0
+E
+#20005
+terrorista~
+un terrorista di guardia~
+Un terrorista di guardia e' qui pronto a far fuoco.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer mentre sta per fare fuoco.
+~
+ablfm kd -400 E
+25 11 1 2d6+500 3d8+5
+5000 90000
+8 8 1
+BareHandAttack: 0
+E
+#20006
+terrorista sentinella~
+un terrorista di sentinella interna~
+Un terrorista di sentinella e' qui pronto ad assalirti.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer mentre sta per fare fuoco.
+~
+ablfm kd -400 E
+30 11 -1 5d10+700 4d6+13
+5000 160000
+8 8 1
+BareHandAttack: 0
+E
+#20007
+tecnico terrorista~
+un tecnico terrorista~
+Un tecnico terrorista e' qui ai sistemi di comunicazione.
+~
+Il terrorista e' vestito con una semplice camice bianco
+e ti fissa con aria sorpresa stupito della tua presenza.
+~
+ablfm kd -400 E
+15 5 10 5d10+200 2d6+13
+2000 80000
+8 8 1
+BareHandAttack: 0
+E
+#20008
+tiratore terrorista~
+un tiratore terrorista~
+Un tiratore terrorista e' qui ad allenarsi.
+~
+Il terrorista e' vestito con una tuta mimetica
+e ti fissa con aria sorpresa stupito della tua presenza.
+~
+ablfm kd -400 E
+35 11 5 5d10+400 2d6+13
+2000 80000
+8 8 1
+BareHandAttack: 0
+E
+#20009
+terrorista dormiente~
+un terrorista~
+Un terrorista sta riposando qui su una brandina.
+~
+Il terrorista e' nudo e disarmato.
+~
+blfm kd -400 E
+15 0 10 5d10+200 2d6+13
+2000 80000
+8 8 1
+BareHandAttack: 0
+E
+#20010
+terrorista cuoco~
+un cuoco terrorista~
+Un cuoco terrorista e' qui e strabuzza gli occhi sorpreso
+di vederti.
+~
+Il terrorista indossa un camice sporco e liso.
+~
+blfm kd -400 E
+15 0 10 5d10+200 2d6+13
+2000 80000
+8 8 1
+BareHandAttack: 0
+E
+#20011
+terrorista esperto~
+un terrorista esperto di arti marziali~
+Un terrorista e' qui vestito di un semplice kimono e
+ti si avventa contro forte di tutte le sue capacita'.
+~
+Il terrorista indossa un camice sporco e liso.
+~
+blfm kd -400 E
+35 11 -4 5d10+1000 4d6+25
+5000 200000
+8 8 1
+BareHandAttack: 0
+E
+#20012
+pilota terrorista~
+un pilota terrorista~
+Un pilota terrorista e' qui ad armeggiare intorno agli aerei.
+~
+Il terrorista e' vestito con una bella tuta da aviatore
+e ti fissa con aria sorpresa stupito della tua presenza.
+~
+ablfm kd -400 E
+15 5 10 5d10+200 2d6+13
+2000 80000
+8 8 1
+BareHandAttack: 0
+E
+#20013
+terrorista luogotenente~
+Il luogotenente di Bin~
+Il luogotenente di Bin e' qui intento a progettare attentati.
+~
+E' vestito con una avanzatissima tuta da combattimento
+piena di moderni strumenti elettronici.
+~
+abcefglmnopqr bcdekps -400 E
+35 15 -2 5d10+800 4d6+15
+5000 160000
+8 8 1
+BareHandAttack: 0
+E
+#20014
+bin capo~
+Bin il terribile~
+Bin il terribile. Il capo assoluto e supremo di tutti i terroristi
+e qui e ti guarda con aria ironica.
+~
+E' vestito con una avanzatissima tuta da combattimento
+piena di moderni strumenti elettronici. Il suo sguardo ti
+affascina quasi ti dimentichi di dove sei, completamente
+in balia per un attimo della sua personalita' magnetica.
+~
+abcefglmnopqr bcdekps -500 E
+35 15 -2 5d10+2000 4d6+20
+5000 400000
+8 8 1
+BareHandAttack: 0
+E
+$~
+

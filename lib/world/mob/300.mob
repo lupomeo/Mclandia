@@ -1,0 +1,138 @@
+#30000
+jerkiens~
+uno jerkiens~
+Uno jerkiens e' qui a rovistare tra i detriti.
+~
+E' un essere puzzolente ricoperto di stracci che
+dopo essere stato cacciato dalla citta' vive qui
+nella sporcizia completmanete dimentico della sua
+natura umana.
+~
+cfglmnop 0 -500 S
+33 0 -5 6d10+990 1d8+22
+2000 80000
+8 8 1
+#30001
+jerkiens~
+uno jerkiens~
+Uno jerkiens e' qui a rovistare tra i detriti.
+~
+E' un essere puzzolente ricoperto di stracci che
+dopo essere stato cacciato dalla citta' vive qui
+nella sporcizia completmanete dimentico della sua
+natura umana.
+~
+acfglmnop 0 -500 E
+33 0 -5 6d10+990 1d8+22
+2000 80000
+8 8 1
+BareHandAttack: 0
+Dex: 17
+E
+#30002
+jerkiel~
+Jerkiel~
+Jerkiel il capo dei jerkiens e' qui.
+~
+E' un essere oramai diventato piu' una bestia che
+un uomo. I suoi occhi ti fissano pieni di odio.
+~
+abcfglmnop 0 -500 E
+40 0 -5 6d10+990 1d8+22
+2000 160000
+8 8 1
+BareHandAttack: 0
+Dex: 17
+E
+#30003
+guardia pattuglia~
+una guardia di pattuglia~
+Una guardia e' qui a pattugliare la citta' in cerca di intrusi.
+~
+Ha una aspetto forte e fiero e sembra molto addestrato
+~
+gflnp kd 0 S
+33 0 10 20d3+650 2d10+2
+10000 90000
+8 8 0
+#30004
+guardia armata~
+una guardia armata~
+Una guardia armata e' qui in cerca di intrusi.
+~
+Ha una aspetto forte e fiero e sembra molto addestrato
+~
+agflnp kd 0 E
+25 11 1 2d6+800 3d8+5
+5000 90000
+8 8 1
+BareHandAttack: 0
+Dex: 17
+E
+#30005
+capo guardia~
+Il capo delle guardie della citta'~
+Il capo delle guardie della citta' e' qui di guardia.
+~
+Ha gli occhi freddi e decisi di chi non ha paura di morire.
+~
+abgflnp kd 0 E
+35 15 -2 5d10+1200 4d6+15
+5000 160000
+8 8 1
+BareHandAttack: 0
+Dex: 17
+E
+#30006
+implementor implementatore~
+l'implementor~
+L'Implementor e' qui, davanti a te.
+~
+E' una figura imponente, ma ha un aspetto triste.~
+abeglnopq dfhkp 0 S
+59 0 -6 1d12+20000 3d5+35
+75000 350000
+8 8 1
+#30007
+programmatore coder~
+un programmatore~
+Uno dei programmatori e' qui, ma con la mente altrove.
+~
+Molto distratto, si vede che sta pensando ad altro~
+abeglnopq dfhkp 0 S
+40 0 -6 1d12+4000 2d5+20
+7500 125000
+8 8 1
+#30008
+costruttore builder~
+un costruttore di aree~
+Uno dei costruttori e' qui.
+~
+Ha gli occhi di chi e' perso in altri mondi~
+abeglnopq dfhkp 0 S
+40 0 -6 1d12+3000 2d5+20
+7500 125000
+8 8 1
+#30095
+Dakket~
+Dakket il mago dell'Hi-Tech~
+Dakket il mago dell'Hi-Tech ti accoglie nel suo negozio.
+~
+Dakket e' molto magro e ha gli occhi vispi e intelligenti.
+~
+abno 0 900 S
+22 2 2 6d10+20000 1d8+10
+2000 80000
+8 8 1
+#30096
+Snaffu~
+Snaffu il barista~
+Snaffu il barista e' piuttosto annoiato.
+~
+Snaffu si sente molto solo e infelice.
+~
+abno 0 900 S
+22 2 2 6d10+20000 1d8+10
+2000 80000
+8 8 1
+$

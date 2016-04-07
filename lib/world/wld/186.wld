@@ -1,0 +1,1804 @@
+#18600
+Verso le colline~
+Siete ormai fuori della citta', respirate  aria pulita, i vostri polmoni 
+funzionano meglio senza lo smog. A Nord vedete un area di colline ed in 
+distanza superbe montagne, Se guardate con attenzione vedete un cartello
+~
+186 cg 2
+D0
+Vedi le colline
+~
+~
+0 -1 18601
+D3
+Vedi il parco di Mclandia
+~
+~
+0 -1 3060
+E
+cartello~
+Sul cartello c'e' scritto:
+              u
++---------------------------+
+|                           |
+|     Strada panoramica     |
+|   del castello dei chat.  |
+|           Km 20           |
+|                           |
++---------------------------+
+              ||
+~             
+S
+#18601
+Colline~
+Vi accorgete che siete saliti un po' e che il percorso che state seguendo 
+continua a salire.  Su una pianta vedete delle incisioni.
+~
+186 0 4
+D1
+
+~
+~
+0 -1 18602
+D2
+
+~
+~
+0 -1 18600
+E
+incisioni~
+Guardando le incisioni scoprite la scritta:
+ATTENZIONE!
+Qui comincia una strada di collina, il consumo dei punti movimento sara' un po' 
+maggiore del solito!
+~
+S
+#18602
+Verso le montagne~
+La salita si fa piu' ripida.  Certo cominciate a rendervi conto della fatica 
+maggiore che fate a camminare. Ogni tanto vedete un gruppetto di motociclisti.
+Guardando ad Est, prima della prosecuzione della strada,  vedete un cartello!
+~
+186 0 4
+D1
+
+~
+~
+0 -1 18603
+D3
+
+~
+~
+0 -1 18601
+E
+cartello~
+Sul cartello leggete:
+ATTENZIONE!
+Da qui comincia una strada di montagna
+Percorrerla vi costa molti piu' punti movimento del normale camminare in pianura.
+~
+S
+#18603
+Strada di Montagna~
+La fatica aumenta ancora, ma il panorama migliora.  
+Davanti a voi, ad Est,  vedete una curva
+~
+186 0 5
+D1
+
+~
+~
+0 -1 18604
+D3
+
+~
+~
+0 -1 18602
+S
+#18604
+Verso il Tornante~
+La strada prosegue, il fondo e' pulito, l'asfalto sembra di ottima qualita' 
+e vedete tracce di frenate fatte da qualche motociclista.
+~
+186 0 5
+D0
+
+~
+~
+0 -1 18605
+D2
+
+~
+~
+0 -1 3082
+D3
+
+~
+~
+0 -1 18603
+S
+#18605
+Il Tornante~
+Ecco il perche' delle frenate: un tornante!
+Siete quasi sicuri che Vulcan sia passato da queste parti, c'e' troppo 
+copertone lasciato sull'asfalto per pensare ad altri.
+~
+186 0 5
+D1
+
+~
+~
+0 -1 18606
+D2
+
+~
+~
+0 -1 18604
+S
+#18606
+Il Tornante~
+Vi sembra che curve cosi' possano piacere a Mr. Handler .... 
+chissa' se e' mai passato da queste parti ...
+~
+186 0 5
+D0
+
+~
+~
+0 -1 18607
+D3
+
+~
+~
+0 -1 18605
+S
+#18607
+Il Tornante~
+A destra, fuori del raggio della curva, tra i cespugli, 
+vi sembra di vedere una moto che e' finita fuoristrada, giusto prima del 
+rettilineo che si apre a voi.
+~
+186 0 5
+D1
+
+~
+cespugli~
+1 -1 18617
+D2
+
+~
+~
+0 -1 18606
+D3
+
+~
+~
+0 -1 18608
+E
+cespugli~
+Esaminando i cespugli vedete che si possono aprire
+~
+S
+#18608
+Finalmente un rettilineo~
+Finalmente il tornante e' finito!
+La strada punta dritta ad Ovest, e se state a cavallo di una due ruote
+potete dare tutto gas..
+~
+186 0 5
+D1
+
+~
+~
+0 -1 18607
+D3
+
+~
+~
+0 -1 18609
+S
+#18609
+Rettilineo~
+Vedete una devizione verso Nord, ma vi sono delle transenne, 
+la strada e' chiusa!  Vi chiedete se e' in disuso perche' rotta 
+o se debba ancora essere aperta
+~
+186 0 5
+D1
+
+~
+~
+0 -1 18608
+D3
+
+~
+~
+0 -1 18610
+S
+#18610
+Rettilineo~
+Che contrasto!
+Intorno a voi il paesaggio e' stupendo, l'aria pulita, ma sentite ancora 
+nell'aria l'odore caratteristico di olio bruciato.
+
+~
+186 0 5
+D1
+
+~
+~
+0 -1 18609
+D3
+
+~
+~
+0 -1 18611
+S
+#18611
+Ancora tornanti~
+Un altro tornante, tracce di frenata ed ormai avete capito che questa 
+strada e' usata spesso da quelli dell'area Motociclismo.
+Sicuramente vengono qui a fare le loro gite,
+eppure manca ancora qualcosa per un luogo in stile I.R.I. ...
+~
+186 0 5
+D0
+
+~
+~
+0 -1 18612
+D1
+
+~
+~
+0 -1 18610
+D3
+
+~
+~
+0 -1 18618
+S
+#18612
+Ancora tornanti~
+Sulla sinistra fuori della strada vedete una locanda.  Gia da qui vedete che 
+la porta e' tapezzata delle patch che i motociclisti son soliti apporre nei 
+luoghi che amano.
+~
+186 0 5
+D1
+
+~
+~
+0 -1 18613
+D2
+
+~
+~
+0 -1 18611
+E
+patch~
+C'e' scritto sopra:
+Internet Riders of Italy
+E' il motoclub di Harpo, Zio Lone, Handler e tanti altri che si aggirano su Mc Link
+~
+S
+#18613
+La svolta~
+Sei alla svolta conclusiva della strada.  A Nord vedi il viale d'accesso ad un 
+castello.  Il ponte levatoio e' aperto, sembra un luogo ospitale.
+~
+186 c 5
+D0
+
+~
+~
+0 -1 18614
+D3
+
+~
+~
+0 -1 18612
+S
+#18614
+In vista del castello~
+La strada orisegue verso il castello, non si vedono piu' segni di 
+motociclisti... non sara' che ormai raggiunta la locanda, fare altra 
+strada non gli interessi poi cosi' tanto ? :-)
+~
+186 g 5
+D0
+
+~
+~
+0 -1 18615
+D2
+
+~
+~
+0 -1 18613
+S
+#18615
+Davanti al castello~
+Sei di fronte al castello.  Puoi vedere un'iscrizione sulle sue mura.  
+A Nord c'e' l'ingresso.
+~
+186 g 5
+D0
+
+~
+~
+0 -1 18616
+D2
+
+~
+~
+0 -1 18614
+E
+Iscrizione~
+Questo e' il castello delle chat.
+
+~
+E
+mura~
+Ora che le vedi meglio comprendi che quest'infernale luogo di delizie e' 
+stato costruito con l'intento piu' di tenere chiusi al suo interno i linker 
+che per evitar loro di entrare.
+~
+S
+#18616
+Ingresso al castello~
+Di fronte a te a Nord si apre il cortile del castello, dalle urla che senti 
+ti sembra che ci possono essere esseri aggressivi all'interno
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18624 
+D2
+
+~
+~
+0 -1 18615
+S
+#18617
+Fuoristrada~
+Vedete i resti di un incidente, la moto e' ancora qui, vi sembra quella di 
+Otello, che si sia distratto ed abbia chiuso male la curva?
+~
+186 0 5
+D3
+
+~
+~
+0 -1 18607
+S
+#18618
+Il prato~
+Siete sun un bel prato alpino.  Sembra fatto apposta per sdraiarsi dopo aver 
+pranzato alla locanda che vedete a Nord,
+Ecco ora siete sicuri che sia un posto per motociclisti|
+~
+186 0 2
+D0
+
+~
+~
+0 -1 18619
+D1
+
+~
+~
+0 -1 18611
+S
+#18619
+Locanda~
+Siete nella locanda del passo,
+tanti i tavoli occupati dai Motociclisti, Sicuramente qui si mangia bene!
+
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18618
+S
+#18620
+Lato sud del cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze 
+interne del castello.
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18623
+D1
+
+~
+~
+0 -1 18621
+D3
+
+~
+~
+0 -1 18624
+S
+#18621
+Lato sud del cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne 
+del castello.
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18622
+D3
+
+~
+~
+0 -1 18620
+S
+#18622
+Cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne 
+del castello.
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18628
+D1
+
+~
+~
+1 -1 18629
+D2
+
+~
+~
+0 -1 18621
+D3
+
+~
+~
+0 -1 18623
+S
+#18623
+Cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne 
+del castello.
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18627
+D1
+
+~
+~
+0 -1 18622
+D2
+
+~
+~
+0 -1 18620
+D3
+
+~
+~
+0 -1 18625
+S
+#18624
+Lato sud del cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne 
+del castello.
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18625
+D1
+
+~
+~
+0 -1 18620
+D2
+
+~
+~
+0 -1 18616
+S
+#18625
+Cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne 
+del castello.
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18626
+D1
+
+~
+~
+0 -1 18623
+D2
+
+~
+~
+0 -1 18624
+S
+#18626
+Lato nord del cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne 
+del castello
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18627
+D2
+
+~
+~
+0 -1 18625
+S
+#18627
+Lato nord del cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne del castello
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18628
+D2
+
+~
+~
+0 -1 18623
+D3
+
+~
+~
+0 -1 18626
+S
+#18628
+Lato nord del cortile~
+Sei nel cortile del castello delle chat.
+Diversi mostri sembrano volerti negare il passaggio verso  le stanze interne del castello
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18622
+D3
+
+~
+~
+0 -1 18627
+S
+#18629
+Ingresso al corridoio~
+Ora che sei riuscito a superare tutti gli ostacoli: la configurazione del modem, 
+le linee occupate, l'abbonamento, lo user-id e la password sei finalmente 
+in grado di entrare all'interno del castello delle chat
+~
+186 cd 0
+D1
+
+~
+~
+0 -1 18630
+D3
+
+~
+~
+1 -1 18622
+S
+#18630
+Biforcazione~
+La stanza e' ben illuminata, non ti da l'idea che qui si corrano rischi.
+A Ovest, ad Est ed a Sud il corridoio prosegue.
+~
+186 d 0
+D1
+
+~
+~
+0 -1 18636
+D2
+
+~
+~
+0 -1 18631
+D3
+
+~
+~
+0 -1 18629
+S
+#18631
+Corridoio chat private~
+Quest'ala del corridoio prosegue verso sud.
+Sull'arco d'ingresso c'e' in'iscrizione.
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18630
+D2
+
+~
+~
+0 -1 18632
+E
+iscrizione~
+Questa zona e' destinata a chi vuole chiaccherare in privato con qualcuno,
+non e' possibile entrare nelle stanze che si affacciano sul corridoio in piu' di due
+linker. 
+ Se la stanza e' occupata da un mostro solo tu potrai entrare nella stanza.
+~
+S
+#18632
+Corridoio chat private~
+Bene ci sei, ora vorresti capire che cosa sia una chat privata?  Se hai letto l'iscrizione presente all'ingresso del corridio lo sai gia'.
+A sud il corridoio prosegue.
+Ad Est ed ad Ovest vedi due diverse stanze per le chat private ... chissa' se c'e' qualcuno?
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18631
+D1
+
+~
+~
+0 -1 18640
+D2
+
+~
+~
+0 -1 18633
+D3
+
+~
+~
+0 -1 18639
+S
+#18633
+Corridoio chat private~
+A sud il corridoio prosegue.
+Ad Est ed ad Ovest vedi due diverse stanze per le chat private ... chissa' se c'e' qualcuno?
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18632
+D1
+
+~
+~
+0 -1 18641
+D2
+
+~
+~
+0 -1 18634
+D3
+
+~
+~
+0 -1 18638
+S
+#18634
+Corridoio chat private~
+Ad Est ed ad Ovest vedi due diverse stanze per le chat private ... chissa'
+se c'e' qualcuno?
+A Sud vedi una stanza per chat diversa dalle altre, ti accorgi di non 
+poterci entrare, eppure npn vedi barriere fisiche che ti impediscono 
+il passaggio, strano.
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18633
+D1
+
+~
+~
+0 -1 18642
+D3
+
+~
+~
+0 -1 18637
+E
+passaggio~
+Sembra che il passaggio sia libero, pero' vedi l'aria tremolare come se fosse un miraggio ... sicuramente non e' possibile andare a sud, pero' qualcosa ti dice che comunque e' possibile arrivare qui da quel luogo!
+~
+S
+#18635
+Chat degli Dei~
+Se sei qui sai come ci sei arrivato.
+Solo un Dio ti puo' aver condotto qui, inchinati a lui, sempre che tu creda veramente che gli dei esistano :-)
+~
+186 cdjk 0
+D0
+
+~
+~
+0 -1 18634
+S
+#18636
+Corridoio delle chat~
+Quest'ala del corridoio prosegue verso est.
+Sull'arco d'ingresso c'e' un'iscrizione.
+~
+186 d 0
+D1
+
+~
+~
+0 -1 18643
+D3
+
+~
+~
+0 -1 18630
+E
+iscrizione~
+Leggi:
+Le stanze che seguono sono dedicate a fare nuove conoscenze ed incontrarsi sul mondo virtuale.
+~
+S
+#18637
+Chat privata~
+La stanza e' confortevolmente arredata:
+due comode poltrone, un frigobar, un forno
+a microonde, insomma tutto cio' che puo' servire per tenerti qui il piu' a lungo possibile :-)
+~
+186 dj 0
+D1
+
+~
+~
+0 -1 18634
+S
+#18638
+Chat privata~
+La stanza e' confortevolmente arredata:
+due comode poltrone, un frigobar, un forno
+a microonde, insomma tutto cio' che puo' servire per tenerti qui il piu' a lungo possibile :-)
+~
+186 dj 0
+D1
+
+~
+~
+0 -1 18633
+S
+#18639
+Chat privata~
+La stanza e' confortevolmente arredata:
+due comode poltrone, un frigobar, un forno
+a microonde, insomma tutto cio' che puo' servire per tenerti qui il piu' a lungo possibile :-)
+~
+186 dj 0
+D1
+
+~
+~
+0 -1 18632
+S
+#18640
+Chat privata~
+La stanza e' confortevolmente arredata:
+due comode poltrone, un frigobar, un forno
+a microonde, insomma tutto cio' che puo' servire per tenerti qui il piu' a lungo possibile :-)
+~
+186 dj 0
+D3
+
+~
+~
+0 -1 18632
+S
+#18641
+Chat privata~
+La stanza e' confortevolmente arredata:
+due comode poltrone, un frigobar, un forno
+a microonde, insomma tutto cio' che puo' servire per tenerti qui il piu' a lungo possibile :-)
+~
+186 dj 0
+D3
+
+~
+~
+0 -1 18633
+S
+#18642
+Chat privata~
+La stanza e' confortevolmente arredata:
+due comode poltrone, un frigobar, un forno
+a microonde, insomma tutto cio' che puo' servire per tenerti qui il piu' a lungo possibile :-)
+~
+186 dj 0
+D3
+
+~
+~
+0 -1 18634
+S
+#18643
+Corridoio delle chat~
+Il corridoio prosegue verso est, ma ti sembra che la stanza successiva ti
+consenta di deviare a sud.
+~
+186 dj 0
+D0
+
+~
+~
+0 -1 18694
+D1
+
+~
+~
+0 -1 18644
+D3
+
+~
+~
+0 -1 18636
+S
+#18644
+Deviazione del corridoio delle chat~
+Qui il corridoio si bifirca di nuovo, verso sud vedi una porta che blocca
+l'ucita, mentre verso est il corridoio prosegue ininterrotto.
+~
+186 d 0
+D1
+
+~
+~
+0 -1 18651
+D2
+
+~
+porta~
+2 18609 18645
+D3
+
+~
+~
+0 -1 18643
+E
+porta~
+La porta presenta una serratura magnetica.
+Yi sembra impossibile forzare, dovrai trovarne la chiave per entrare.
+Ricordati di prendere le chiavi dai cadaveri dei nemici uccisi ....
+~
+S
+#18645
+Corridoio delle guerre di religione~
+Il nome del corridoio, che prosegue a sud, ti mette i brividi: 
+ti sembra evidente che la zona a sud sia pericolosa!  Me e' quasi sempre
+vero che nelle zone pericolose si trovano le ricompense piu' ambite!
+~
+186 d 0
+D0
+
+~
+porta~
+2 18609 18644
+D2
+
+~
+~
+0 -1 18646
+S
+#18646
+Corridoio delle guerre di religione~
+Non c'e' nulla di speciale nel corridoio.
+Senti una voce dirti:
+Sei coraggioso per essere qui...  Bene ti servira'
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18645
+D1
+
+~
+~
+0 -1 18684
+D2
+
+~
+~
+0 -1 18647
+S
+#18647
+Corridoio delle guerre di religione~
+Non c'e' nulla di speciale nel corridoio.
+Senti una voce dirti:
+Sei coraggioso per essere qui...  Bene ti servira'
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18646
+D2
+
+~
+~
+0 -1 18648
+S
+#18648
+Corridoio delle guerre di religione~
+Non c'e' nulla di speciale nel corridoio.
+Senti una voce dirti:
+Sei coraggioso per essere qui...  Bene ti servira'
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18647
+D2
+
+~
+~
+0 -1 18649
+S
+#18649
+Corridoio delle guerre di religione~
+Non c'e' nulla di speciale nel corridoio.
+Senti una voce dirti:
+Sei coraggioso per essere qui...  Bene ti servira'
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18648
+D2
+
+~
+~
+0 -1 18650
+S
+#18650
+Corridoio delle guerre di religione~
+Non c'e' nulla di speciale nel corridoio.
+Senti una voce dirti:
+Sei coraggioso per essere qui...  Bene ti servira'
+~
+186 d 0
+D0
+
+~
+porta~
+0 18609 18649
+D1
+
+~
+~
+0 -1 18653
+S
+#18651
+Corridoio delle chat~
+Il corridoio, ottimamente illuminato da torce appese alle pareti, prosegue ad ovest ed est.
+~
+186 d 0
+D0
+
+~
+~
+0 -1 18695
+D1
+
+~
+~
+0 -1 18652
+D3
+
+~
+~
+0 -1 18644
+S
+#18652
+Corridoio delle chat~
+Il corridoio, ottimamente illuminato da torce appese alle pareti, si interrome ad est ... forse e' clollato qualcosa ... chissa'?
+~
+186 d 0
+D3
+
+~
+~
+0 -1 18651
+S
+#18653
+Ingresso nelle guerre sul sistema operativo~
+Da quanto hai sentito dire da altri linker sai che questa e' la chat piu' cruenta.  I sostenitori dei diversi sistemi operativi si affrontano qui senza esclusioni di colpi!
+Ti accorgi che la luce comincia a scarseggiare ad est.
+~
+186 cdg 0
+D1
+
+~
+~
+0 -1 18654
+D3
+
+~
+~
+0 -1 18650
+S
+#18654
+Guerre sul sistema operativo~
+La stanza ha il pavimento in discesa verso Nord, sembra quasi che ti voglia far scivolare verso le dispute che seguiranno.
+~
+186 a 0
+D0
+
+~
+~
+0 -1 18655
+D3
+
+~
+~
+0 -1 18653
+S
+#18655
+Disputa tra Windows ed Os/2~
+Stuoli di trheads e di semafori muovono all'assalto delle legioni di utenti windows.
+Rischi di essere coinvolto ...
+~
+186 a 0
+D1
+
+~
+~
+0 -1 18656
+D2
+
+~
+~
+0 -1 18654
+S
+#18656
+Disputa tra Windows ed Os/2~
+Stuoli di trheads e di semafori muovono all'assalto delle legioni di utenti windows.
+Rischi di essere coinvolto ...
+~
+186 a 0
+D1
+
+~
+~
+0 -1 18657
+D3
+
+~
+~
+0 -1 18655
+S
+#18657
+Disputa tra Windows ed Os/2~
+Stuoli di trheads e di semafori muovono all'assalto delle legioni di utenti windows.
+Rischi di essere coinvolto ...
+~
+186 a 0
+D2
+
+~
+~
+0 -1 18658
+D3
+
+~
+~
+0 -1 18656
+S
+#18658
+Passaggio verso altre dispute~
+Questo e' un passaggio chiave!
+in che senso che e' importante?
+Si ma soprattutto ti serve la chiave per aprire la porta a Sud
+~
+186 a 0
+D0
+
+~
+~
+0 -1 18657
+D2
+
+~
+~
+1 18611 18659
+S
+#18659
+Disputa tra licenze~
+Le licenze GNU combattono contro le licenze a pagamento ed in particolar modo quelle della Microsoft ... chi vincera'
+~
+186 0 0
+D0
+
+~
+~
+1 18611 18658
+D3
+
+~
+~
+0 -1 18660
+S
+#18660
+Disputa tra licenze~
+Le licenze GNU combattono contro le licenze a pagamento ed in particolar modo quelle della Microsoft ... chi vincera'
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18659
+D3
+
+~
+~
+0 -1 18661
+S
+#18661
+Disputa tra licenze~
+Le licenze GNU combattono contro le licenze a pagamento ed in particolar modo
+quelle della Microsoft ... chi vincera'.
+Ti accorgi che sul pavimento c'e' una botola ...
+~
+186 c 0
+D1
+
+~
+~
+0 -1 18660
+D5
+
+~
+botola~
+2 18610 18662
+E
+botola~
+Anche questa volta vedi che per aprire ti serve una chiave ....
+~
+S
+#18662
+Labirinto del Kernel~
+In questi meandri si aggirano i Kernel, le mitiche armi finali impiegate in queste lotte di religione. Pericolosi sia per la forza che per la velocita', vedono ogni cosa e nessuno puo' nascondersi loro.
+Vedi due uscite a Sud ed ad Est, ma ti sembra che sina strade a senso unico ... Attento!
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18663
+D2
+
+~
+~
+0 -1 18667
+D4
+
+~
+botola~
+2 18610 18661
+S
+#18663
+Labirinto del Kernel~
+Se sei entrato in questa stanza provenendo da Ovest Vai ad Est,
+in caso contrario ... ti sei perso!
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18664
+S
+#18664
+Labirinto del Kernel~
+Se sei entrato in questa stanza provenendo da Ovest Vai a Sud, in caso contrario ... ti sei perso!
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18677
+D3
+
+~
+~
+0 -1 18663
+S
+#18665
+Labirinto del Kernel~
+
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18666
+D3
+
+~
+~
+0 -1 18677
+S
+#18666
+Labirinto del Kernel~
+Si, si, sto di nuovo ragionando ...
+Lo spazio sembra nuovamente Euclideo ...
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18681
+D3
+
+~
+~
+0 -1 18665
+S
+#18667
+Labirinto del Kernel~
+Allora ... tu vieni da Nord Vero?
+Vai a Sud e' semplice!
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18668
+S
+#18668
+Labirinto del Kernel~
+La strada verso Sud sembra senza ritorno ....
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18667
+D1
+
+~
+~
+0 -1 18680
+D2
+
+~
+~
+0 -1 18669
+S
+#18669
+Labirinto del Kernel~
+Vieni da Ovest Vero?
+Vai a Sud no?
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18670
+S
+#18670
+Labirinto del Kernel~
+Oh non si puo' tornare a Nord!
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18671
+S
+#18671
+Labirinto del Kernel~
+non ti sembra di essere gia' passato di qui?
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18683
+D3
+
+~
+~
+0 -1 18670
+S
+#18672
+Labirinto del Kernel~
+Ma perche' non hai studiato i classici?
+Ti sembra di ricordare fel filo di una certa Arianna, ma a che serviva?
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18678
+D3
+
+~
+~
+0 -1 18675
+S
+#18673
+Labirinto del Kernel~
+Incrocio? No, e' tutto falso!!
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18679
+D1
+
+~
+~
+0 -1 18674
+S
+#18674
+Labirinto del Kernel~
+Una altro posto nuovo?
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18682
+D3
+
+~
+~
+0 -1 18673
+S
+#18675
+Labirinto del Kernel~
+Ti sei perso vero?
+Se vuoi prova a chiedere ad un Dio ... sempre che esistano :-)
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18662
+D1
+
+~
+~
+0 -1 18672
+S
+#18676
+Labirinto del Kernel~
+Oddio ...
+Ma dove sei?  Da dove vieni e sporattutto dove vuoi andare? A Est o a Sud?
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18679
+D2
+
+~
+~
+0 -1 18678
+S
+#18677
+Labirinto del Kernel~
+Se sei entrato in questa stanza provenendo da Nord vai a Sud ... oppure ad 
+Est?  Se sei arrivato qui per altre vie ...  No non e' possibile qui si 
+arriva solo da nord! Stai Impazzendo forse?
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18673
+D2
+
+~
+~
+0 -1 18676
+S
+#18678
+Labirinto del Kernel~
+Umh sei gia' stato qui?
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18676
+D1
+
+~
+~
+0 -1 18672
+D2
+
+~
+~
+0 -1 18678
+S
+#18679
+Labirinto del Kernel~
+Forse e' meglio proseguire ad Est ...
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18680
+D3
+
+~
+~
+0 -1 18676
+S
+#18680
+Labirinto del Kernel~
+Bah!  Mi sembra che tua sia gia' passato di qui ...
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18681
+S
+#18681
+Labirinto del Kernel~
+Finalmente ti sembra di capire come ti stai muovendo ...
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18666
+D2
+
+~
+~
+0 -1 18680
+S
+#18682
+Labirinto del Kernel~
+Ecco questo e' un posto nuovo ...
+Sara' il caso che mi scriva una mappa?
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18674
+D3
+
+~
+~
+0 -1 18675
+S
+#18683
+Labirinto del Kernel~
+
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18682
+D2
+
+~
+~
+0 -1 18671
+D3
+
+~
+~
+0 -1 18662
+S
+#18684
+Introduzione ai quesiti sulla programmasione~
+Questa e' la stanza che ti portera' agli scontri tra i sostenitori dei linguaggi procedurali e quelli del mondo ad oggetti ....
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18685
+D3
+
+~
+~
+0 -1 18646
+S
+#18685
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18686
+D1
+
+~
+~
+0 -1 18688
+D2
+
+~
+~
+0 -1 18689
+D3
+
+~
+~
+0 -1 18684
+S
+#18686
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18687
+D2
+
+~
+~
+0 -1 18685
+S
+#18687
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D1
+
+~
+~
+0 -1 18691
+D2
+
+~
+~
+0 -1 18688
+D3
+
+~
+~
+0 -1 18686
+S
+#18688
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18687
+D1
+
+~
+~
+0 -1 18692
+D2
+
+~
+~
+0 -1 18690
+D3
+
+~
+~
+0 -1 18685
+S
+#18689
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18685
+D1
+
+~
+~
+0 -1 18690
+S
+#18690
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18688
+D1
+
+~
+~
+0 -1 18693
+D3
+
+~
+~
+0 -1 18689
+S
+#18691
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18692
+D3
+
+~
+~
+0 -1 18687
+S
+#18692
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18691
+D2
+
+~
+~
+0 -1 18693
+D3
+
+~
+~
+0 -1 18688
+S
+#18693
+Procedure vs. Oggetti~
+E' uno dei temi piu' dibattuti sulle chat ...
+Guardati intorno e vedi con chi ti conviene stare :-)
+~
+186 0 0
+D0
+
+~
+~
+0 -1 18692
+D3
+
+~
+~
+0 -1 18690
+S
+#18694
+In cerca d'amore~
+Si questa stanza di chat e' una stanza pacifica, si entra qui solo per conoscere altre persone e ... Ma c'e' bisogno di dirlo?
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18643
+S
+#18695
+Sexy Chat~
+Il titolo e' tutto un programma  no ?
+In passato questa stanza accoglieva molti visitatori, quasi tutti maschi, ora, per fortuna, non sembra essere piu' cosi' :-)
+~
+186 0 0
+D2
+
+~
+~
+0 -1 18651
+S
+$

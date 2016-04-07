@@ -1,0 +1,504 @@
+Aggiunte fatte per Mclandia rispetto alle categorie
+standard comprese nel manule:
+
+______________________________________________________________________
+Wear_slot:
+
+Sono state aggiunte altre posizioni in cui poter usare eq.
+Ecco l'elenco completo dopo le aggiunte:
+
+1     a   WEAR_TAKE      Puo' essere raccolto
+2     b   WEAR_FINGER    Si indossa al dito
+4     c   WEAR_NECK      Si indossa al collo
+8     d   WEAR_BODY      Si mette sul corpo
+16    e   WEAR_HEAD      Si mette in testa
+32    f   WEAR_LEGS      Si mette sulle gambe
+64    g   WEAR_FEET      Si mette ai piedi
+128   h   WEAR_HANDS     Si mette sulle mani
+256   i   WEAR_ARMS      Si mette sulle braccia
+512   j   WEAR_SHIELD    Si usa come scudo
+1024  k   WEAR_ABOUT     Si mette intorno al corpo (mantello).
+2048  l   WEAR_WAIST     Si mette alla vita (cintura).
+4096  m   WEAR_WRIST     Si mette al polso
+8192  n   WEAR_WIELD     Si puo' impugnare (armi)
+16384 o   WEAR_HOLD      Si puo' tenere in mano (con il comando 'hold')
+      p 			 Si mette sulla schiena
+      q				 Si mette sulla spalla
+      r 			 Si mette all'orecchio
+      s 			 Si mette sugli occhi
+
+______________________________________________________________________
+
+Bitvectors degli oggetti:
+Sono stati aggiunti vari bitvectors. Ecco la lista aggiornata
+
+1     a   GLOW           Luminoso,brillante  (cosmetic).
+2     b   HUM            Ronzante (cosmetic).
+4     c   NORENT         Non si puo' rentare.
+8     d   NODONATE       Non si puo' donare.
+16    e   NOINVIS        Non si puo' rendere invisibile.
+32    f   INVISIBLE      E' invisibile.
+64    g   MAGIC          E' magico e non si puo' incantare.
+128   h   NODROP         E' maledetto e non si puo' gettare.
+256   i   BLESS          E' benedetto (cosmetic).
+512   j   ANTI_GOOD      Non puo' essere usato da personaggi buoni
+1024  k   ANTI_EVIL      Non puo' essere usato da personaggi cattivi
+2048  l   ANTI_NEUTRAL   Non puo' essere usato da personaggi neutrali.
+4096  m   ANTI_MAGIC_USER Non puo' essere usato da maghi
+8192  n   ANTI_CLERIC    Non puo' essere usato da chierici
+16384 o   ANTI_THIEF     Non puo' essere usato da ladri
+32768 p   ANTI_WARRIOR   Non puo' essere usato da guerrieri
+65536 q   NOSELL         I negozianti non lo venderanno ne
+      r	  GRENADE		 E' un esplosivo innescato
+      s	  ANTI_HUMAN	 Non puo' essere usato dagli Umani
+      t	  ANTI_CYBORG	 Non puo' essere usato dai Cyborg
+      u   ANTI_MOTOCICL  Non puo' essere usato dai motociclisti
+      v   ANTI_ALIENO 	 Non puo' essere usato dagli Alieni
+      w   ANTI_MARTIAL   Non puo' essere usato dai Marzial
+      x   ANTI_LINKER    Non puo' essere usato dai Linker
+      y   ANTI_PSIONICO  Non puo' essere usato dagli Psionici
+      z   AUTOMATIC_FIREWEAPON E' una arma automatica
+
+
+______________________________________________________________________
+
+Affects degli oggetti:
+Sono stati resi applicabili agli oggetti le affections dei mob.
+E ne sono state aggiunte di nuove.
+Ne deriva che ora abbiamo applicabili agli oggetti due tabelle.
+La prima con il flag A e la seconda con il flag C
+
+Con il flag A
+
+
+0    NONE           No effect (typically not used).
+1    STR            Apply to strength.
+2    DEX            Apply to dexterity.
+3    INT            Apply to intelligence.
+4    WIS            Apply to wisdom.
+5    CON            Apply to constitution.
+6    CHA            Apply to charisma.
+7    CLASS          Unimplemented.  Do not use.
+8    LEVEL          Unimplemented.  Do not use.
+9    AGE            Apply to character's MUD age, in MUD-years.
+10   CHAR_WEIGHT    Apply to weight.
+11   CHAR_HEIGHT    Apply to height.
+12   MANA           Apply to MAX mana points.
+13   HIT            Apply to MAX hit points.
+14   MOVE           Apply to MAX movement points.
+15   GOLD           Unimplemented.  Do not use.
+16   EXP            Unimplemented.  Do not use.
+17   AC             Apply to armor class (AC).
+18   HITROLL        Apply to hitroll.
+19   DAMROLL        Apply to damage roll bonus.
+20   SAVING_PARA    Apply to save throw: paralyze
+21   SAVING_ROD     Apply to save throw: rods
+22   SAVING_PETRI   Apply to save throw: petrif
+23   SAVING_BREATH  Apply to save throw: breath
+24   SAVING_SPELL   Apply to save throw: spells
+      ______________________________________
+
+Con il Flag C
+
+
+1       a BLIND          Applica blind.
+2       b INVISIBLE      Applica invisible.
+4       c DETECT_ALIGN   Applica sensitive to the alignment of others.
+8       d DETECT_INVIS   Applica can see invisible characters and objects.
+16      e DETECT_MAGIC   Applica is sensitive to magical presence.
+32      f SENSE_LIFE     Applica can sense hidden life.
+64      g WATERWALK      Applica can traverse unswimmable water sectors.
+128     h SANCTUARY      Applica is protected by sanctuary (half damage).
+256     i GROUP          Reserved for internal use.  Do not set.
+512     j CURSE          Applica is cursed.
+1024    k INFRAVISION    Applica can see in dark.
+2048    l POISON         Reserved for internal use.  Do not set.
+4096    m PROTECT_EVIL   Applica is protected from evil characters.
+8192    n PROTECT_GOOD   Applica is protected from good characters.
+16384   o SLEEP          Reserved for internal use.  Do not set.
+32768   p NOTRACK        Applica cannot be tracked.
+65536   q UNUSED16       Unused (room for future expansion).
+131072  r UNUSED17       Unused (room for future expansion).
+262144  s SNEAK          Applica can move quietly (room not informed).
+524288  t HIDE           Applica is hidden (only visible with sense life).
+1048576 u HP_REGEN		 Applica un bonus su Hit Regain
+2097152 v CHARM          Reserved for internal use.  Do not set.
+        w  Fly			 Applica Fly
+	x  Mana_Regen	 Applica un bonus su Mana Regain
+
+______________________________________________________________________
+
+Nuovi oggetti:
+Nuove strutture per la definizione dei nuovi oggetti:
+
+Armi da fuoco, armi da lancio, munizioni e bombe
+
+
+Type flag:
+per i nuovi oggetti i type_flag sono:
+
+7   Arma da fuoco
+8   Ammo
+24  Arma da lancio
+25  Bomba a mano
+
+
+wear bitvector:
+Per le armi da fuoco che vanno usate se tenute (hold) si consiglia di usare questi
+wear bitvector: ao
+
+Per le armi da lancio e bombe che vanno impugnati epr usare, si raccomanda di 
+usare questi flag: an
+
+Le munizioni, basta solo il flag: a
+
+i 4 valori vanno usati nel seguente modo:
+
+Per le armi da fuoco i valori identificano:
+value 0 = Tipo AMMO (vedi sotto)
+value 1 = non usato
+Value 2 = MAx capacita' caricatore
+value 3 = Quantita munizioni corrente (0 = arma scarica)
+
+PEr le munizioni
+Value 0 = tipo AMMO (vedi sotto)
+Value 1 = non usato
+Value 2 = non usato
+Value 3 = Numero munizioni per item
+
+Per le armi da lancio:
+Value 0 = non usato
+Value 1 = non usato
+Value 2 = numero dadi
+Value 3 = Facce del dado
+
+
+Per la bomba: 
+Value 0 = Timer bomba in Ticks 
+Value 1 = non usato 
+Value 2 = numero dadi 
+Value 3 = Facce del dado
+
+Per la bomba: 
+Value 0 = Timer bomba in tick di 10 secondi (real time) 
+Value 1 = non usato 
+Value 2 = numero dadi 
+Value 3 = Facce del dado
+
+
+qui segue la tabella Tipo Ammo nell'ordine: tipo, nome proietto, danno:
+
+ 
+0 {1, 4}, /* unused */
+1 {1, 8}, /* Pallottole cal 22 */
+2 {1, 10},/* frecce */
+3 {2, 10},/* dardi */
+4 {2, 8}, /* shotgun shells*/
+5 {6, 12},/* razzi */
+6 {5, 12},/* granate 40 mm */
+7 {2, 6}, /* pallottola 7.62 mm NATO */ 
+8 {2, 5}, /* pallottole 5.56 mm NATO */
+9 {2, 7}, /* pallottole 7.62 mm AK */ 
+10 {2, 5}, /* pallottole 5.42 mm AKM */
+11 {3, 4}, /* pallottole 9 mm Parabellum */
+
+
+il danno e' considerato nei due numeri contenuti nella parentesi: il primo
+indica il numero di dadi, la seconda le facce. ad esempio per un 7.62 NATO, il
+danno del colpo vale 2d6
+
+
+NB per poter essere utilizzabili l'arma e la munizione devono avere lo stesso 
+tipo, altrimenti non si potra ricaricare.
+
+
+Arma:
+-------------------------
+#57
+shotgun fucile~
+un fucile a pompa~
+Un fucile a pompa giace qui.~
+~
+6 0 ao
+4 0 7 7
+5 0 200
+E
+shotgun fucile~
+E' un fucile a pompa da assalto modello Benelli calibro 12 gauge.
+~
+
+Munizioni: 
+Cartuccia semplice 
+------------------------- 
+#58 shell cartuccia~ 
+una cartuccia~ 
+Una cartuccia di pallini giace qui.~ 
+~ 
+7 0 a 
+4 0 0 1 
+1 0 200
+-----------------
+
+Scatola di cartucce: 
+-------------------
+#59 shell pack pacco cartucce~ 
+un pacco di cartucce~ 
+Un pacco di cartucce da caccia giace qui.~ 
+~ 
+7 0 a 
+4 0 0 25 
+1 0 200
+-------------------
+
+
+Arma da lancio:
+-------------------------
+#60
+shuriken~
+un shuriken~
+Un shuriken giace qui.~
+~
+24 0 ano
+0 0 1 4
+1 0 200
+
+
+Bomba :
+-------------------------
+#61
+bomba~
+una bomba a mano~
+Una bomba a mano giace qui.~
+~
+25 0 ano
+5 3 8 0
+3 0 200
+E
+bomba~
+E' una bomba a mano del tipo ananas. 
+~
+
+
+Per utilizzare:
+
+Per usare un arma da fuoco, fare hold <arma>
+per sparare: 
+FIRE <arma> <MOB> [direzione]
+
+La direzione va inserita se il mob non e' presente nella stanza
+Se il mob e' nella stessa stanza, e' sufficiente: 
+FIRE <weapon> <MOB>
+
+Per ricaricare l'arma, essa va tenuta con hold e dare il comando:
+RELOAD <arma> <ammo>
+
+Per vedere il numero di colpi rimasti basta dare:
+LOOK IN <arma|ammo>
+
+
+Per le armi da lancio e bombe, bisogna impugnare con:
+WIELD <arma>
+
+Con le armi da lancio, per tirare  il mob deve essere in un altra stanza :
+THROW <MOB> <direzione>
+
+
+Con le bombe a mano, Prima bisogna attivarle tirando la linguetta con:
+PULL PIN
+
+e tirare il piu presto possibile con:
+THROW <direzione>
+
+Il danno della bomba influisce su tutti quelli presenti nella stanza e 
+quindi Occhio alla presenza di amici presenti!!
+
+Se non si fa in tempo a tirare, cavoli amari :)
+
+
+______________________________________________________________________
+
+MOB
+
+SI CONSIGLIA DI FARE TUTTI I NUOVI MOB DI TUPO E
+
+A questo proposito si ricorda che se si assegnano
+Stat al Mob (tipo str, int etc.) queste devono
+rientrare nell'intervallo 3-18
+
+Abbiamo inoltre implementato le classi per i Mob in mclandia.
+
+Per assegnare una classe ad un Mob bisigna che il mob
+sia di tipo E e si deve aggiungere tra le sue 
+carattersitiche il seguente flag:
+
+Class: x
+
+dove x puo' assumere uno dei seguenti valori:
+
+0 - Virus Writer
+1 - Sysadmin
+2 - Hacker
+3 - Guerrafondaio
+4 - Martial Artist
+5 - Linker
+6 - Psi
+7 - Non Morto (Da cambiare in futuro, pero mi piace l'idea dei tecnovampiri)
+8 - umanoide
+9 - animale
+
+
+Se volete che il mob oltre ad essere assegnato ad una certa
+classe ne usi anche le abilita' o gli spell dovete
+settare il flag a e avvertire un implementor di
+assegnare la spe_proc nei sorgenti.
+
+Ecco l'elenco delle principali spec_proc per mob disponibili.
+(Settare il flag sul mob e poi ciedere ad un implementor
+di assegnare nei sorgenti la relativa spec_proc.
+
+SPECIAL (cityguard);
+SPECIAL (lvl_aggro);
+SPECIAL (snake);
+SPECIAL (magic_user);
+SPECIAL (warrior_class);
+SPECIAL (thief_class);
+SPECIAL (martial_artist);
+
+
+
+Ecco un esempio di Mob tipo E con classe:
+
+
+Ecco un esempio di Mob tipo E con classe:
+#3098
+piccolo~
+Piccolo~
+Piccolo e' qui davanti assolto in meditazione.
+~
+E' piccolo ed agile. Indossa un semplice kimono.
+Ma il suo sguardo e' strano. 
+Lontano e distaccato.
+~
+aeglmnor cdefkp 0 E 
+60 5 -10 0d0+15000 6d8+20
+0 300000
+8 8 0
+BareHandAttack: 13
+Str: 16
+Dex: 18
+Int: 16
+Class: 4
+E
+
+______________________________________________________________________
+
+Istruzioni per implementare gli ascensori in una zona:
+
+Le stanze dove c'e' l'entrata all'ascensore 
+devono avere il flag: dq
+
+L'uscita ad est deve sempre essere linkata all'ascensore.
+e poi ci deve essere una extradescription di questo tipo:
+E
+VNUM_e~
+(numerolocazione ascensore)~
+
+L'ascensore invece deve avere un'uscita ad ovest collegata
+alla stanza del piano terra.
+
+Deve avere i flag cdr
+e deve avere infine una extradescription per ogni stanza
+in cui deve arrivare.
+L'extrades deve essere di questo genere:
+E
+terra zero 0~
+(numerolacazione pianoterra)~
+E
+primo uno one 1~
+(numerolocazione primo piano)~
+S
+
+Ecco l'esempio come funziona nel palazzo dei
+replicanti:
+
+-----------cut here--------------------------------
+
+#16005
+Atrio~
+   Sei nell'atrio degli ascensori.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+~
+0 -1 16007
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16010
+Atrio del I piano~
+   Sei nell'atrio degli ascensori del I piano.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+porta~
+1 16005 16011
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16099
+Ascensore~
+   Sei nell'ascensore.
+L'ascensore pur essendo ultrmoderno e' molto lussoso.
+E' tutto foderato in legno pregiato e molto confortevole.
+Il pannello con la tastiera dei comandi e' in argento
+lucidato.
+I bottoni dei piani vanno da 0 a 4.
+Un piccolo cartello e' incastonato nel legno e recita la scritta:
+"Per usare l'ascensore: push button numeropiano"
+~
+160 cdr 0
+D3
+
+~
+~
+1 -1 16005
+E
+terra zero 0~
+16005~
+E
+primo uno one 1~
+16010~
+S
+

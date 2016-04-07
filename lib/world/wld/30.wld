@@ -1,0 +1,1807 @@
+#3000
+La Bacheca~
+   Sei in una piccola stanza che e' quasi vuota salvo per una grossa
+struttura inserita nella parete di fronte a te. Senti provenire da est
+il chiasso dei giardinetti che contrasta con la quiete di questa stanza.
+~
+30 cdeh 0
+D1
+vedi i Giardinetti di McLandia.
+~
+~
+0 -1 3001
+S
+#3001
+I giardinetti di McLandia~
+   Ti trovi nei giardinetti di McLandia.
+Uno splendido praticello verde ti circonda, cosparso di aiuole dai fiori 
+multicolori.
+L'erba e' morbida sotto i tuoi piedi e nell'aria si spande il meraviglioso
+profumo dei boccioli in fiore. 
+A sud vedi una scalinata che discende in una piazza.
+Alla tua sinistra (west), vedi una piccola costruzione silenziosa.  
+Alla tua destra (east) un'altra piccola struttura da cui provengono rumori
+che non distingui.
+~
+30 ceh 1
+D0
+All'estremo nord dei giardini vedi una statua su uno strano altare.
+~
+~
+0 -1 3054
+D1
+Vedi una piccola costruzione con un'insegna che recita "McLandia Donazioni per i poveri"
+~
+~
+0 -1 3063
+D2
+Vedi la Piazzetta di McLandia.
+~
+~
+0 -1 3005
+D3
+vedi La Bacheca.
+~
+~
+0 -1 3000
+D5
+Vedi la Piazzetta di McLandia.
+~
+~
+0 -1 3005
+S
+#3002
+L'Aula delle lezioni di informatica~
+   Sei nell'Aula Magna, finemente decorata. Noti al centro della stanza una
+botola che porta nell'oscurita'.
+~
+30 cd 0
+D2
+Vedi l'entrata.
+~
+~
+0 -1 3004
+D5
+Non puoi vedere cosa c'e' qui sotto. E' troppo buio. Tra l'altro ti sembra che
+una volta che ci si cala giu' sia impossibile risalire indietro.
+~
+~
+0 -1 7026
+S
+#3003
+The Bar Of Divination~
+   The bar is one of the finest in the land, lucky it is members only.  Fine
+furniture is set all around the room.  A small sign is hanging on the wall.
+~
+30 cdh 0
+D2
+You see the entrance.
+~
+~
+0 -1 3004
+D3
+You see the inner sanctum.
+~
+~
+0 -1 3002
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+S
+#3004
+L'entrata alla Facolta' di informatica~
+   L'atrio della facolta' e' molto sobrio ed essenziale.
+A nord vedi l'Aula Magna, mentre a est vedi l'entrata a
+un piccolo sottoscala.
+~
+30 d 0
+D0
+Vedi l'aula delle lezioni.
+~
+~
+0 -1 3002
+D1
+Vedi un sottoscala.
+~
+~
+0 -1 3078
+D2
+Vedi Viale Universita'.
+~
+~
+0 -1 3013
+S
+#3005
+La piazzetta di McLandia~
+   Sei nella piazzetta centrale di McLandia.
+Questo e' il luogo di ritrovo principale di tutta la citta'.
+La piazzetta e' molto accogliente e sembra invitarti a socializzare
+con gli altri. Lo spazio e' in gran parte occupato da tavolini e
+sedie su cui siedono gruppi di Linker che conversano chiassosamente.
+Il chiacchiericcio e' molto intenso e allegro.
+Alla tua destra vedi l'entrata del famoso Hotel Otello, mentre a 
+sinistra c'e' un famoso bar che si dice essere il punto di ritrovo
+di alcuni fanatici smanettoni.
+A sud invece c'e' Piazza Linker.
+~
+30 0 1
+D0
+vedi i Giardinetti.
+~
+~
+0 -1 3001
+D1
+vedi l'Hotel Otello.
+~
+~
+0 -1 3006
+D2
+vedi Piazza Linker.
+~
+~
+0 -1 3014
+D3
+vedi il Linux bar.
+~
+~
+0 -1 3007
+S
+#3006
+La Hall dell'Hotel Otello~
+   Sei nella Hall dell'albergo di Otello.  
+La hall e' arredata con gusto ed in maniera funzionale.
+A nord vedi l'entrata all'ufficio postale di McLandia.
+Una piccola scalinata porta alla Reception dove potrai
+affittare una stanza.
+~
+30 d 0
+D0
+l'Ufficio Postale di McLandia.
+~
+~
+0 -1 3062
+D3
+La Piazzetta di McLandia.
+~
+~
+0 -1 3005
+D4
+vedi la Reception.
+~
+~
+0 -1 3008
+S
+#3007
+Il Linux Bar~
+   Questo bar e' un ritrovo molto esclusivo, riservato ad un ristretto
+circolo di persone. L'arredamento e' molto sobrio e tecnologico.
+Un piccolo cartello a forma di pinguino fa bella mostra di se' sul muro.
+~
+30 cd 0
+D1
+Vedi la Piazzetta di McLandia.
+~
+~
+0 -1 3005
+E
+cartello~
+Il cartello recita:
+   List - Il barista vi elenchera' tutte le bevande e le specialita'
+          con il prezzo di ognuna.
+   Buy  - Per comprare.
+
+             .888888:.
+             88888.888.
+            .8888888888
+            8' `88' `888
+            8 8 88 8 888
+            8:.,::,.:888
+           .8`::::::'888
+           88  `::'  888
+          .88        `888.
+        .88'   .::.  .:8888.
+        888.'   :'    `'88:88.
+      .8888'    '        88:88.
+     .8888'     .        88:888
+     `88888     :        8:888'
+      `.:.88    .       .::888'
+     .:::::88   `      .:::::::.
+    .::::::.8         .:::::::::
+    :::::::::..     .:::::::::'
+     `:::::::::88888:::::::'
+        rs`:::'       `:'
+~
+S
+#3008
+La Reception~
+   Sei nella reception. Le scale portano giu' nella Hall.
+C'e' un piccolo cartello sul bancone.
+~
+30 de 0
+D5
+vedi la Hall.
+~
+~
+0 -1 3006
+E
+cartello~
+Il cartello recita:
+Le camere sono un po' care ma molto belle  Puoi
+
+   Offer - fare un offerta per una stanza - Il tempo e' in giorni reali.
+   Rent  - Affittare una stanza (salva i tuoi oggetti, ed esce dal gioco),
+
+~
+S
+#3009
+Le Delizie di Zio Lone~
+   Questo negozio e' frequentato dai viaggiatori di tutto il mondo.
+Le sue specialita' hanno raggiunto una fama planetaria.
+Oltre al reparto alimentari Zio fornisce anche piatti gia' pronti.
+C'e' un piccolo cartello sul bancone.
+~
+30 dh 0
+D2
+vedi Corso Xor.
+~
+~
+0 -1 3016
+E
+danish pastry~
+vedi that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc.  etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+~
+E
+cartello~
+
+   Buy  - Per comprare.
+   List - Per avere la lista delle cose disponibili ed i relativi prezzi.
+~
+S
+#3010
+L'Emporio~
+   Sei nell'emporio.  Ogni sorta di oggetti sono sistemati negli
+scaffali chiusi e protetti dai furti. Qui puoi anche vedere oltre
+che comprare. Un cartello e' appeso al muro..
+~
+30 dh 0
+D2
+vedi Corso Xor.
+~
+~
+0 -1 3015
+E
+cartello~
+Il cartello recita:
+
+  List  - Per avere la lista degli articoli disponibili.
+  Buy   - Per comprare un articolo.
+  Value - Per sapere quanto ti offre il negoziante per il tuo oggetto.
+  Sell  - Per vendere un oggetto.
+~
+S
+#3011
+The Weapon Shop~
+   You are inside the weapon shop.  There is a small note on the counter.
+~
+30 dh 0
+D2
+vedi the corso Xor.
+~
+~
+0 -1 3016
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3012
+Viale Universita'~
+   Sei sempre su Viale dell'Universita'. 
+A sud c'e' il Circolo dei Pensatori.
+Alla tua sinistra la strada prosegue, mentre a nord c'e' la caserma.
+~
+30 0 1
+D0
+vedi l'entrata alla caserma.
+~
+~
+0 -1 3021
+D1
+vedi Viale Universita'.
+~
+~
+0 -1 3013
+D2
+vedi l'entrata al circolo dei pensatori.
+~
+~
+0 -1 3017
+D3
+vedi V.le Universita'.
+~
+~
+0 -1 3073
+S
+#3013
+Viale Universita'~
+   Sei su Viale Universita' che attraversa la citta' di McLandia. 
+A nord c'e' la facolta' di informatica e a sud un piccolo e
+seminascosto laboratorio. Alla tua destra invece c'e' Piazza Linker.
+~
+30 0 1
+D0
+vedi la Facolta' di informatica.
+~
+~
+0 -1 3004
+D1
+vedi Piazza Linker.
+~
+~
+0 -1 3014
+D2
+vedi un piccolo laboratorio.
+~
+~
+0 -1 3027
+D3
+vedi Viale Universita'.
+~
+~
+0 -1 3012
+S
+#3014
+Piazza Linker~
+   Ti trovi a Piazza linker, la Piazza centrale di McLandia.
+Alla tua sinistra c'e' Viale Universita' dove si trovano 
+le varie facolta'.
+Alla tua destra c'e' Corso Xor, dove si trovano i principali 
+negozi della citta'.
+A sud c'e' un'altra piazza.
+~
+30 0 1
+D0
+vedi La Piazzetta.
+~
+~
+0 -1 3005
+D1
+vedi Corso Xor.
+~
+~
+0 -1 3015
+D2
+vedi una Piazza.
+~
+~
+0 -1 3025
+D3
+vedi Viale Universita'.
+~
+~
+0 -1 3013
+E
+statuetta~
+E' la statua di un linker storico. Il famoso Harpo.
+Harpo e' raffigurato con dei lunghi boccoli biondi, uno sguardo dolce ed un 
+vezzoso gonnellino. Praticamente un puttino.
+I maligni dicono che lo scultore, abbia deciso di operare una rappresentazione 
+alquanto ironica del personaggio per il suo noto carattere brusco ed i suoi
+modi notoriamente burberi.
+~
+S
+#3015
+Corso Xor~
+   Ti torvi sul corso di McLandia. A nord c'e' un piccolo spaccio.
+Il corso continua verso est, mentre alla tua sinistra c'e' Piazza Linker.
+A sud vedi un negozio di animali.
+~
+30 0 1
+D0
+vedi Lo Spaccio.
+~
+~
+0 -1 3010
+D1
+vedi Corso Xor.
+~
+~
+0 -1 3016
+D2
+vedi il Negozio di Animali.
+~
+~
+0 -1 3031
+D3
+vedi Piazza Linker.
+~
+~
+0 -1 3014
+S
+#3016
+Corso Xor~
+   Corso Xor, a nord c'e' la famosa Rosticceria di Zio. A est intravedi 
+la porta est della citta, mentre alla tua sinistra la strada va verso 
+Piazza Linker. A sud invece noti la famosa Boutique di Julilla.
+~
+30 0 1
+D0
+vedi La Rosticceria di Zio.
+~
+~
+0 -1 3009
+D1
+vedi la Porta est della citta'.
+~
+~
+0 -1 3041
+D2
+vedi la Boutique di Julilla.
+~
+~
+0 -1 3020
+D3
+vedi Corso Xor.
+~
+~
+0 -1 3015
+S
+#3017
+L'entrata al Circolo dei pensatori~
+   E' un'ampia stanza finemente decorata.
+~
+30 d 0
+D0
+vedi Viale Universita'.
+~
+~
+0 -1 3012
+D2
+vedi la sala di meditazione.
+~
+~
+0 -1 3019
+S
+#3018
+The Mages' Bar~
+   The bar is one of the weirdest in the land.  Mystical images float around
+the air.  Illusions of fine furniture appear all around the room.
+~
+30 cdh 0
+D0
+vedi the lobby.
+~
+~
+0 -1 3017
+D1
+vedi the laboratory.
+~
+~
+0 -1 3019
+S
+#3019
+La sala di Meditazione~
+   Qui si riuniscono a meditare gli eletti.
+In questo luogo gli alti esercizi mentali sono spinti ai limiti
+estremi. I poteri della mente vengono coltivati ed affinati.
+Una botola al centro della stanza porta giu'verso il buio.
+~
+30 cd 0
+D0
+vedi l'Entrata.
+~
+~
+0 -1 3017
+D5
+Non puoi vedere cosa c'e' qui sotto. E' troppo buio. Hai la sensazione
+che una volta sceso non potrai piu' risalire da questa parte.
+~
+~
+0 -1 7017
+S
+#3020
+La Boutique di Julilla~
+   In questo negozio trovi sia biancheria maschile che femminile.
+Il negozio e' famoso per avere i piu' bei capi di abbilgiamento della
+cita'. Tuttavia pare che bisogna stare molto attenti alle taglie. i maligni
+dicono che la proprietaria e' affetta da una strana malattia che la porta
+ad essere ossessionata dalla linea e per qauesto motivo cambia di nascosto 
+i cartellini dei vestiti pensando che le taglie sono sbagliate !!
+C'e' un cartello sul muro..
+~
+30 dh 0
+D0
+vedi the corso Xor.
+~
+~
+0 -1 3016
+E
+cartello~
+Le regole di questa boutique sono:
+
+  value <oggetto>     Per sapere il valore di un oggetto in vostro possesso.
+  sell <oggetto>      Per Vendere qualcosa.
+  buy <oggetto>       Per Comprare qualcosa.
+  list                Per la lista degli oggetti disponibili.
+
+        NON SI FA CREDITO E NON CI SI ASPETTA DI RICEVERLO!
+                             
+~
+S
+#3021
+L'entrata alla caserma~
+   Ti trovi in una grande stanza molto spartana dove si aggirano strani energumeni.
+Hai la sensazione che in questo posto non e' il caso di dire nulla di sbagliato.
+A sud c'e' Viale Universita'.
+~
+30 d 0
+D2
+vedi Viale Universita'.
+~
+~
+0 -1 3012
+D0
+vedi La Piazza d'armi.
+~
+~
+0 -1 3023
+S
+#3022
+The Bar Of Swordsmen~
+   The bar of swordsmen, once upon a time beautifully furnished.  But now the
+furniture is all around you in small pieces.  To the south is the yard, and
+to the tua sinistra (west) is the entrance hall.
+~
+30 cdh 0
+D2
+vedi the practice yard.
+~
+~
+0 -1 3023
+D3
+vedi the entrance hall to the warriors' guild.
+~
+~
+0 -1 3021
+S
+#3023
+La Piazza d'armi~
+   Questa e' la stanza dove puoi allenarti ed imparare nuove abilita'.
+Una botola porta nell'oscurita'.
+~
+30 cd 0
+D2
+vedi l'Entrata.
+~
+~
+0 -1 3021
+D5
+Non puoi vedere cosa c'e' qui sotto. E' troppo buio. Hai la sensazione
+che una volta sceso non potrai piu' risalire da questa parte.
+~
+~
+0 -1 7048
+S
+#3024
+Corso Meeting~
+   Sei su Corso Meeting. Alla tua destra c'e' Piazza Gaunt, mentre a sud
+c'e' l'entrata alla Bipperia, il famoso luogo di ritrovo.
+~
+30 0 1
+D1
+vedi Piazza Gaunt.
+~
+~
+0 -1 3025
+D2
+vedi la Bipperia.
+~
+~
+0 -1 3048
+D3
+vedi Corso Meeting.
+~
+~
+0 -1 3044
+S
+#3025
+Piazza Gaunt~
+   Questa piazza e' intitolata ad un personaggio ammantato di leggenda.
+La storia di Mclandia e' segnata dalla presenza questa enigmatica figura.
+La piazza e' tagliata da Corso Meeting che la incrocia proseguendo sia
+verso ovest che verso est.
+~
+30 0 1
+D0
+vedi Piazza Linker.
+~
+~
+0 -1 3014
+D1
+vedi Corso Meeting.
+~
+~
+0 -1 3026
+D2
+vedi Via Sidewinder.
+~
+~
+0 -1 3046
+D3
+vedi Corso Meeting.
+~
+~
+0 -1 3024
+S
+#3026
+Corso Meeting~
+Sei su Corso Meeting.
+   Alla tua sinistra c'e' Piazza Gaunt mentre a sud c'e' il famoso negozio di Dap.
+~
+30 0 1
+D1
+La strada continua alla tua destra.
+~
+~
+0 -1 3045
+D2
+vedi il famoso negozio Dap Technology.
+~
+~
+0 -1 3033
+D3
+vedi Piazza Gaunt.
+~
+~
+0 -1 3025
+E
+guild~
+It is the thieves' guild, don't enter if you care about your health or money.
+~
+S
+#3027
+L'entrata ad un piccolo laboratorio~
+   Si tratta di un sottoscala male illuminato.
+Qualcosa ti dice che qui possono entrare solo le persone
+ben accette e conosciute.
+~
+30 d 0
+D0
+vedi Viale Universita'.
+~
+~
+0 -1 3013
+D2
+vedi il laboratorio.
+~
+~
+0 -1 3079
+S
+#3028
+The Thieves' Bar~
+   The bar of the thieves.  Once upon a time this place was beautifully
+furnished, but now it seems almost empty.  To the south is the yard, and to
+the tua sinistra (west) is the entrance hall.
+   (Maybe the furniture has been stolen?!)
+~
+30 cd 0
+D2
+vedi l'Aula delle Lezioni.
+~
+~
+0 -1 3029
+D3
+vedi the entrance hall to the thieves' guild.
+~
+~
+0 -1 3027
+E
+furniture~
+As you look at the furniture, the chair you sit on disappears.
+~
+S
+#3029
+L'Aula delle lezioni di Economia e Commercio~
+   Questa e' l'aula delle lezioni dove i maligni dicono che si puo' imparare
+a rubare impunemente. C'e' Una botola al centro della stanza.
+~
+30 cd 0
+D0
+vedi l'Entrata alla facolta'.
+~
+~
+0 -1 3027
+D5
+Non puoi vedere cos a c'e' qui sotto. E' troppo buio. Hai la sensazione
+che una volta sceso non potrai piu' risalire da questa parte.
+~
+~
+0 -1 7043
+S
+#3030
+La discarica~
+   La discarica, dove confluisce la spazzatura di tutta la citta'.
+Verso il basso vedi una giunzione che conduce direttamente al
+sistema fognario di Mclandia.
+~
+30 c 2
+D1
+Via Sidewinder.
+~
+~
+0 -1 3047
+D5
+the sewers.
+~
+grate~
+2 3005 7030
+S
+#3031
+Il negozio di animali~
+   E' un piccolo negozio pieno di gabbie di animali di varie specie
+e grandezze. C'e' una certa puzza nell'aria.
+C'e' un cartello sul muro che ti invita ad essere guardato.
+~
+30 cdh 0
+D0
+vedi the corso Xor.
+~
+~
+0 -1 3015
+E
+cartello~
+Il cartello recita:
+
+  Usa 'List' per vedere la lista degli animali disponibili.
+  Usa 'Buy <animale>' per comprarti un animale.
+
+  Istruzioni per interagire con il tuo animale:
+
+  Puoi usare 'order <animale> <istruzioni>' per comandare il tuo animale.
+  Se abusi del tuo animale, esso non ti considerera' piu' il tuo padrone.
+  If you abuse your pet, it will no longer regard you as its master.
+
+  Puoi dare un nome all'animale che compri con il comando:
+  'buy <animale> <nome>'
+
+ E mi raccomando.. tratalo bene !!
+~
+S
+#3032
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+30 dk 0
+S
+#3033
+Dap Technology~
+   Dietro il bancone vedi vari articoli. Ti accorgi che Dap deve
+avere una strana concezione della tecnologia.
+Piu' che strumenti tecnologici ti sembra che il negozio venda
+pozioni pergamene e bacchette magiche.
+Eppure pare che stranamente i prodotti di Dap funzionano!!
+~
+30 dh 0
+D0
+vedi Corso Meeting.
+~
+~
+0 -1 3026
+S
+#3040
+La porta Ovest di Mclandia~
+   Questa porta segna il limite della zona sicura.
+Proseguendo ad ovest si e' infatti fuori dal mondo conosciuto.
+ATTENZIONE !!!
+A causa delle note vicende e degli attacchi subiti da McLandia,
+al momento attuale la porta e' chiusa da un campo di forza che
+impedisce l'uscita.
+~
+30 0 1
+D1
+vedi corso Xor.
+~
+~
+0 -1 3073
+D3
+??
+~
+~
+0 -1 30000
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3041
+La porta Est di McLandia~
+   Questa porta segna il limite della zona sicura.
+Proseguendo a est si e' infatti fuori dal mondo conosciuto.
+~
+30 0 1
+D1
+??
+~
+~
+0 -1 3053
+D3
+vedi corso Xor.
+~
+~
+0 -1 3016
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3042
+Wall Road~
+   You are walking next to the tua sinistra (west)ern city wall.  The road continues further
+south and the city gate is just north of here.
+~
+30 0 1
+D0
+vedi the city gate.
+~
+~
+0 -1 3040
+D2
+The road continues further south.
+~
+~
+0 -1 3043
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3043
+Wall Road~
+   You are walking next to the tua sinistra (west)ern city wall.  Wall Road continues further
+north and south.  A small, poor alley leads tua destra (east).
+Some letters have been written on the wall here.
+~
+30 0 1
+D0
+The road continues further north.
+~
+~
+0 -1 3042
+D1
+Poor Alley leads tua destra (east).
+~
+~
+0 -1 3044
+D2
+The road continues further south.
+~
+~
+0 -1 3047
+E
+wall writing letters~
+It says 'Who watches the watchmen?'
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3044
+Corso Meeting~
+   Sei alla fine di corso Meeting. Alla tua sinistra le mura della citta'
+si aprono verso una strada. A sud vedi il famoso albergo a ore riservato
+alle coppie di linker in cerca di intimita'.
+~
+30 0 1
+D1
+La strada prosegue alla tua destra.
+~
+~
+0 -1 3024
+D2
+L'albergo a ore.
+~
+~
+0 -1 3057
+D3
+
+~
+~
+0 -1 21000
+S
+#3045
+Corso Meeting~
+   Sei alla fine di Corso Meeting, a sud vedi il negozio di nautica,
+alla tua destra la strada prosegue uscendo dalla citta'.
+~
+30 0 1
+D1
+La strada prosegue fuori dalla citta'.
+~
+~
+0 -1 7914
+D2
+vedi il negozio di nautica.
+~
+~
+0 -1 3050
+D3
+Vedi Corso Meeting.
+~
+~
+0 -1 3026
+S
+#3046
+Via Sidewinder~
+   Questa strada congiunge la parte nord di McLandia
+a quella sud posta al di la' del fiume Perrier.
+Si vocifera che la zona sud non sia molto sicura.
+~
+30 0 1
+D0
+vedi Piazza Gaunt.
+~
+~
+0 -1 3025
+
+D2
+via Sidewinder.
+~
+~
+0 -1 3047
+S
+#3047
+Via Sidewinder~
+   Sotto questa strada scorre un fiume al di la' del quale
+intravedi la parte sud della citta'.
+Alla tua sinistra un torrentello limaccioso e puzzolente che
+porta gli scarichi di Mclandia confluisce nel sistema fognario.
+A Sud vedi un ponticello.
+~
+30 0 1
+D0
+Via Sidewinder.
+~
+~
+0 -1 3025
+D2
+Ponte Nuti.
+~
+~
+0 -1 3051
+D3
+La discarica.
+~
+~
+0 -1 3030
+D5
+Il Pontile.
+~
+~
+0 -1 3049
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3048
+La Bipperia~
+   Sei nel leggendario luogo di ritrovo dei tempi d'oro.
+La Bipperia e' stata teatro di numerose vicende.
+Amori, amicizie e litigi sono nati e morti in questo luogo.
+La stanza e' molto ampia e piena di tavolini e posti a sedere.
+Il luogo ideale per scambiare quattro chiacchiere in compagnia.
+~
+30 dh 0
+D0
+vedi Corso Meeting.
+~
+~
+0 -1 3024
+S
+#3049
+Il Pontile~
+   Sei al Pontile.  A sud vedi il fiume Perrier che scorre 
+placidamente.
+La banchina del fiume e' molto bassa e rende possibile
+l'accesso al fiume.
+Da qui parte inoltre un servizio di trasporto passeggeri
+a mezzo di battelli fluviali.
+~
+30 h 1
+D4
+vedi Via Sidewinder.
+~
+~
+0 -1 3047
+D2
+Il fiume Perrier.
+~
+~
+0 -1 3068
+S
+#3050
+Il negozio di nautica~
+   Sei nel negozio di nautica. Il negozio e' spoglio.
+Sui muri vedi le decorazioni raffiguranti vecchi modelli di navi.
+~
+30 dh 0
+D0
+vedi Corso Meeting.
+~
+~
+0 -1 3045
+S
+#3051
+Il Ponte Nuti~
+   Sei su un grazioso e spazioso ponte che attraversa il fiume
+permettendo l'accesso alla parte sud di Mclandia.
+A sud vedi Largo Gerry.
+~
+30 0 1
+D0
+vedi Viale Sidewinder.
+~
+~
+0 -1 3047
+D2
+vedi Largo Gerry.
+~
+~
+0 -1 3100
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3052
+Outside The west Gate Of McLandia~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the tua(west) you
+can see the edge of a big forest.
+~
+30 0 1
+D1
+The city gate is to the (east).
+~
+gate~
+1 3112 3040
+D3
+The forest edge is to the (west).
+~
+~
+0 -1 6092
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3053
+La porta dimensionale~
+   Sei all'uscita ovest di Mclandia.
+A nord la strada prosegue verso le colline.
+A est invece la strada si inoltra fuori dalla citta'.
+~
+30 0 1
+D0
+Una strada asfaltata.
+~
+~
+0 -1 3080
+D1
+la dimensione parallela.
+~
+~
+0 -1 3503
+D3
+vedi l'entrata alla citta'.
+~
+gate entrata~
+1 3112 3041
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3054
+L'Altare~
+   Sei all'estremo nord dei giardinetti e vedi uno strano altare
+con la statua dell' antico Dio Bo, il re degli Dei.
+Dietro l'altare ti sembra di vedere una strada che conduce fuori
+da Mclandia.
+~
+30 d 0
+D0
+vedi la porta Nord di McLandia.
+~
+~
+0 -1 3059
+D2
+vedi la parte sud dei giardinetti.
+~
+~
+0 -1 3001
+E
+altare~
+L'altare e' maestoso e imponenete, fatto com'e' di grossi blocchi di granito.
+Ma la tua attenzione e' inseorabilmente attirata dalla statua.
+~
+E
+statua Bo~
+La statua rappresenta un uomo dai lunghi capelli e barba d'argento
+seduto davanti ad un'antica tastiera.
+Dalla tastiera sembra sgorgare la vita e sembrano nascere nuovi mondi.
+Lode a Bo. Il Creatore !!
+~
+S
+#3055
+Odin's Store~
+   This is the small dark room in which Odin keeps the player items that he
+takes care of.  It is vital that this room's virtual number is exactly one
+larger than the room by the giardinetti altar.
+~
+30 dj 0
+S
+#3057
+l'Albergo a ore~
+   Sei in una piccola stanza dall'aria molto sobria ed intima.
+A sud vi e' una porta chiusa che introduce nella stanza riservata ai
+convegni amorosi. Per entrarci e' necessario essere in possesso
+dell'apposita chiave.
+~
+30 d 0
+D0
+Corso Meeting.
+~
+~
+0 -1 3044
+D2
+L'alcova.
+~
+door porta~
+2 3006 3067
+S
+
+#3058
+Ye Olde Water Shoppe~
+   You are standing in the center of a small wooden shop whose walls are
+covered with racks upon racks of water jugs.  Several large barrels with
+spigots are stacked in the corner.
+~
+30 dh 0
+D0
+vedi the tua destra (east) Gate.
+~
+~
+0 -1 3041
+S
+#3059
+La porta nord di McLandia~
+   Questa porta segna il limite della zona sicura.
+Proseguendo a nord si e' infatti fuori dalla citta' e si
+possono fare incontri poco raccomandabili. 
+Si consiglia di avventurarsi oltre la porta solo se
+si e' armati ed in gruppo.
+~
+30 0 1
+D0
+La pianura di McLandia.
+~
+~
+0 -1 3060
+D2
+vedi l'Altare.
+~
+~
+0 -1 3054
+S
+#3060
+Il grande Parco di Mclandia~
+   Sei in un bellissimo parco pianeggiante. L'erba e' verde e fresca
+gli alberi offrono piacevoli zone di fresco e ombra.
+A Sud senti i rumori della citta' ma qui e' tutto sereno e tranquillo.
+Gli uccellini cinguettano ed il profumo dei fiori ti inonda le narici.
+Ti viene voglia di stenderti nell'erba e riposare piacevolmente.
+L'unica cosa asfaltata che vedi e' una strada che si inoltra a est 
+verso le colline.
+~
+30 0 1
+D0
+vedi una strada.
+~
+~
+0 -1 1300
+D1
+vedi una strada.
+~
+~
+0 -1 18600
+D2
+vedi la porta della citta'.
+~
+~
+0 -1 3059
+D3
+??
+~
+~
+0 -1 3066
+S
+#3061
+The Great Field Of McLandia~
+   You are walking on a wide dirt path through the lush, green, fresh
+McLandia countryside.  You can see to the horizon to the north, tua destra (east),
+and tua sinistra (west); the busy city of McLandia lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   There is a strange structure on the tua destra (east)ern side of the path.  A small
+dirt path splits off of the main path and leads off to the tua sinistra (west).
+~
+30 c 1
+D0
+The path continues northwards bringing you ever closer to the Dragonhelm
+Mountains.
+~
+~
+0 -1 3065
+D1
+There is a strange structure to the tua destra (east) on the edge of the trail.
+~
+~
+0 -1 18600
+D2
+vedi more of the Field.
+~
+~
+0 -1 3060
+D3
+There is a strange path leading towards a rusty gate to the tua sinistra (west).
+~
+~
+0 -1 3066
+S
+#3062
+L'Ufficio Postale~
+   Sei nelle Poste Centrali di McLandia.  Pile di posta assortita
+giacciono disordinati agli angoli della stanza.
+C'e' un cartello sul muro.
+~
+30 deh 1
+D2
+vedi la Hall dell'Hotel Otello.
+~
+~
+0 -1 3006
+E
+cartello~
+**********************************************************
+*     							 *
+*    Istruzioni per la posta:                            *
+*							 *
+*      Per inviare una mail a qualcuno:                  *
+*         MAIL <nomedelgiocatore>			 *
+*     							 *
+*      Per controllare se hai posta:                     *
+*         CHECK						 *
+*							 *
+*      Per farti consegnare la tua posta dal postino:    *
+*         RECEIVE					 *
+*							 *
+*                                                        *
+*       'HELP MAIL' per maggiori informazioni            *
+**********************************************************
+~
+E
+letters envelopes assorted~
+Envelopes of all sizes are heaped into hugh piles around the room.  As you
+look closer, vedi a letter that you had posted a full week ago, laying
+unnoticed and slightly rat-chewed towards the bottom of the pile.
+~
+E
+cobwebs~
+They seem to cover everything here, even the Postmaster himself.
+~
+E
+crates opened large~
+As you know, it is illegal to send contraband items through the McLandia
+Mail.  The customs agents use this as a great excuse to seize liquor,
+rare spices, and just about anything they might find useful or profitable.
+~
+E
+WANTED posters poster wall~
+Faces of various known Killers and Thieves can barely be seen behind the
+crates on the tua sinistra (west) wall.  Some of them look quite familar, sorta like that
+guy who you saw in the Reception a minute ago... but then again, they are
+rather hard to see past the crates.
+~
+S
+#3063
+McLandia Donation Room~
+   Questa e' la stanza dei doni. Chiunque abbia equipggiamento o cibo
+in eccesso e lo deposita qui avra' il favore degli Dei.
+A ovest ci sono i giardinetti.
+~
+30 cde 1
+D3
+Vedi i giardinetti.
+~
+~
+0 -1 3001
+S
+#3064
+The Cryogenic Center~
+   You are standing in an impossible white sterile room with cylindrical
+body-length canisters lined up against the walls.  The Reception is to the
+south.
+~
+30 d 1
+D2
+The Reception is to the south.
+~
+~
+0 -1 3008
+S
+#3065
+The Great Field Of McLandia~
+   You are walking on a wide dirt path through the lush, green, fresh
+McLandia countryside.  You can see to the horizon to the north, tua destra (east),
+and tua sinistra (west); the busy city of McLandia lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   The way north appears to be blocked by a large plot device and you cannot
+see any way around it.
+~
+30 0 2
+D0
+Unfortunately the way north is blocked by a large plot device and there
+does not seem to be any way around it.
+~
+~
+0 -1 -1
+D2
+The path continues through the field to the south past an odd structure
+on the tua destra (east)ern side of the path.
+~
+~
+0 -1 3061
+E
+plot device~
+What more is a plot device than something to block a certain direction
+for reasons beyond your comprehension.
+~
+S
+#3066
+Una strada polverosa~
+   Ti inoltri in una strada polverosa, la vegetazione si fa subito
+piu' rada. Sei in una zona arida, l'aria ti sembra molto secca.
+Hai da poco abbandonato i verdi prati di Mclandia e gia' il
+panorama e il clima sembra completamente diverso.
+~
+30 0 2
+D1
+
+~
+~
+0 -1 3060
+D3
+
+~
+~
+0 -1 20000
+S
+#3067
+L'Alcova~
+   Sei nella stanza riservata ai convegni amorosi.
+C'e' un gigantesco letto al centro della stanza ed 
+un gran numero di specchi posizionati in modo strategico
+per restituirti la visione dei corpi dei presenti da
+tutte le angolazioni.
+I muri sono decorati con dipinti erotici e molto eccitanti.
+In un angolo vedi un cartello.
+~
+30 d 0
+D0
+l'entrata dell'albergo a ore.
+~
+door porta~
+1 3006 3057
+E
+cartello~
+Il cartello recita:
+
+   Per interagire con il proprio partner si consiglia di usare
+   i comandi emoticons che si hanno iniziando la stringa con i
+   due punti.
+   In pratica ": ti sfila lentamente il reggiseno".
+   Ps. Ricordati di chiudere a chiave la porta !!
+~
+S
+#3068
+Il fiume Perrier~
+   Stai navigando nella placida corrente del fiume Perrier.
+A ovest il fiume confluisce nei canali di scolo e risulta
+impraticabile alla navigazione. 
+A nord una banchina permette l'accesso al pontile.
+~
+30 0 7
+D0
+~
+~
+0 -1 3049
+D1
+~
+~
+0 -1 3069
+S
+#3069
+Il fiume Perrier~
+   Stai navigando lungo il fiume. La corrente e' aumentata
+e devi fare un po' di fatica per proseguire.
+Le alte sponde impediscono in questo punto ogni approdo.
+~
+30 0 7
+D1
+~
+~
+0 -1 3070
+D3
+~
+~
+0 -1 3068
+S
+#3070
+Il fiume Perrier~
+   Stai navigando lungo il fiume. Alzando lo sguardo intravedi
+da una parte il Belvedere Argo in lontananza.
+A est ti sembra di scorgere un isolotto.
+~
+30 0 7
+D1
+~
+~
+0 -1 3071
+D3
+~
+~
+0 -1 3069
+S
+#3071
+L'isolotto~
+   Sei approdato su un piccolo isolotto. Piu' che un isolotto
+si tratta di una piccola formazione di terra emersa posta al centro
+del fiume.
+Il posto sembra ideale per un campeggio e per un po' di vita all'aria
+aperta in mezzo alla natura. Infatti vedi una tenda con un orticello.
+In realta' l'orticello contiene solo delle strane piantine che non hai
+mai visto.
+~
+30 0 1
+D1
+~
+~
+0 -1 5001
+D3
+~
+~
+0 -1 3070
+S
+#3072
+Battello fluviale~
+Sei sul Battello fluviale.
+Il battello e' molto confortevole.
+Ci sono dei bei divanetti sistemati sotto delle tende parasole che
+ti permettono di goderti la navigazione all'aperto ed il bellissimo
+panorama.
+Il dolce ondeggiare dell'imbarcazione ti culla come un bambino
+inducendoti una dolce sensazione di rilassamento e di abbandono.
+~
+30 d 0
+S
+#3073
+Viale Universita'~
+   Sei alla fine di Viale dell'Universita'. A nord c'e' una scuola per linker.
+Alla tua sinistra c'e' la porta Ovest della citta', mentre a sud c'e' una
+Palestra di Arti marziali.
+~
+30 0 1
+D0
+vedi l'entrata alla scuola di linker.
+~
+~
+0 -1 3074
+D1
+vedi Viale Universita'.
+~
+~
+0 -1 3012
+D2
+vedi l'entrata al centro sociale.
+~
+~
+0 -1 3076
+D3
+vedi la porta ovest della citta'.
+~
+~
+0 -1 3040
+S
+#3074
+L'entrata alla scuola di linker~
+   E' una stanza piccola e scarsamente illuminata.
+~
+30 d 0
+D0
+vedi l'aula.
+~
+~
+0 -1 3075
+D2
+vedi Viale Universita'.
+~
+~
+0 -1 3073
+S
+#3075
+L'aula delle lezioni di telematica~
+   Qui puoi imparare a dventare un linker modello.
+Puoi affinare tutte le arti che ti pare per vincere i
+numerosi flame in cui ti troverai impegnato e per conquistare
+linker dell'altro sesso.
+Una botola e' al centro della stanza.
+~
+30 cd 0
+D2
+vedi l'Entrata.
+~
+~
+0 -1 3074
+D5
+Non puoi vedere cosa c'e' qui sotto. E' troppo buio. Hai la sensazione
+che una volta sceso non potrai piu' risalire da questa parte.
+~
+~
+0 -1 7017
+S
+#3076
+L'entrata alla Scuola di Arti Marziali~
+   Ti trovi in una stanza molto sobria ed essenziale.
+Hai la sensazione che in questo posto regni il rigore
+piu' assoluto.
+A nord c'e' Viale Universita'.
+~
+30 d 0
+D0
+vedi Viale Universita'.
+~
+~
+0 -1 3073
+D2
+vedi la Palestra di arti marziali.
+~
+~
+0 -1 3077
+S
+#3077
+La Palestra di Arti Marziali~
+   Questa e' la stanza dove si imparano tutte le discipline.
+Appena entri vieni investito da una sensazione di forza e
+disciplina che combinate insieme approdano ad una potente
+senso di consapevolezza del proprio essere e del proprio corpo.
+Una botola porta nell'oscurita'.
+~
+30 cd 0
+D0
+vedi l'Entrata.
+~
+~
+0 -1 3076
+D5
+Non puoi vedere cosa c'e' qui sotto. E' troppo buio. Hai la sensazione
+che una volta sceso non potrai piu' risalire da questa parte.
+~
+~
+0 -1 7048
+S
+#3078
+Il Laboratorio~
+   Questo e un laboratorio clandestino di Hacker.
+Qui puoi imparare le piu' moderne tecniche di violazione dei sistemi.
+Una botola al centro della stanza porta giu'verso il buio.
+~
+30 cd 0
+D3
+vedi l'Entrata alla facolta'.
+~
+~
+0 -1 3004
+D5
+Non puoi vedere cosa c'e' qui sotto. E' troppo buio. Hai la sensazione
+che una volta sceso non potrai piu' risalire da questa parte.
+~
+~
+0 -1 7017
+S
+#3079
+Il Laboratorio~
+   Questo e un laboratorio clandestino di Programmazione.
+Qui si mettono a punto temibili virus destinati ad infettare
+anche i sistemi piu' protetti.
+Una botola al centro della stanza porta giu'verso il buio.
+~
+30 cd 0
+D0
+vedi l'Entrata.
+~
+~
+0 -1 3027
+D5
+Non puoi vedere cosa c'e' qui sotto. E' troppo buio. Hai la sensazione
+che una volta sceso non potrai piu' risalire da questa parte.
+~
+~
+0 -1 7017
+S
+#3080
+Un strada asfaltata~
+   Sei su una bella strada ben tenuta e curata.
+Senti in lontananza il rombo dei motori.
+La strada e' talmente ben costruita da assomigliare ad una pista.
+~
+30 0 2
+D0
+
+~
+~
+0 -1 3081
+D2
+
+~
+~
+0 -1 3053
+S
+#3081
+Un strada in salita~
+   La strada inizia a salire.
+I rumeri che sentivi in lontananza ti sembrano ora rombi
+di motore. 
+Anzi a pensarci meglio quello che senti e' un rombare di 
+motori smarmittati.
+~
+30 0 2
+D0
+
+~
+~
+0 -1 3082
+D2
+
+~
+~
+0 -1 3080
+S
+#3082
+Verso le colline~
+   La strada continua a salire.
+Siete ormai fuori della citta', respirate  aria pulita, i vostri polmoni 
+funzionano meglio senza lo smog. A Nord vedete un area di colline ed in 
+distanza superbe montagne.
+~
+30 0 2
+D0
+
+~
+~
+0 -1 18604
+D2
+
+~
+~
+0 -1 3081
+S
+$

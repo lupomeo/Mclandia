@@ -1,0 +1,87 @@
+#160
+Fabbrica Replicanti~
+16099 50 2
+*
+* Created by Amedeo de Longis 1.1.2002
+*
+*
+* Mobiles
+M 0 16000 1 16007       Milena
+E 1 3042 100 5                  camicia
+E 1 3081 100 13                 gonna
+E 1 3080 100 7                  calze
+E 1 3087 100 8                  scarpe
+M 0 16001 1 16008           	guardia 1 
+E 1 16000 100 12       * fa indossare la divisa
+G 1 16005 1                     Key 1
+M 0 16002 4 16011       ingegnere replicante
+E 1 16001 20 12                  camice
+M 0 16002 4 16014       ingegnere replicante
+E 1 16001 20 12                  camice
+M 0 16002 4 16015       ingegnere replicante
+E 1 16001 20 12                  camice
+M 0 16002 4 16016       ingegnere replicante
+E 1 16001 20 12                  camice
+M 0 16003 4 16012       tecnico replicante
+E 1 16001 20 12                  camice
+M 0 16003 4 16013       tecnico replicante
+E 1 16001 20 12                  camice
+M 0 16003 4 16015       tecnico replicante
+E 1 16001 20 12                  camice
+M 0 16003 4 16016       tecnico replicante
+E 1 16001 20 12                  camice
+M 0 16004 1 16019       robot assemblatore
+G 1 16002 1                     chip
+G 1 16006 1                     Key 2
+M 0 16005 3 16018       guardia 2
+E 1 16000 100 12       * fa indossare la divisa
+E 1 100 100 17  		* fa tenere l'arma
+G 1 104 100    			* carica nell'inv la scatola di pallottole
+M 0 16006 5 16027       chimico
+E 1 16003 20 12                  camice
+M 0 16006 5 16028       chimico
+E 1 16003 20 12                  camice
+M 0 16006 5 16035       chimico
+E 1 16003 20 12                  camice
+M 0 16006 5 16034       chimico
+E 1 16003 20 12                  camice
+M 0 16006 5 16032       chimico
+E 1 16003 20 12                  camice
+M 0 16007 1 16033       capo chimico
+E 1 16003 20 12                  camice
+G 1 16004 1                     innesto
+G 1 16007 1                     Key 3
+M 0 16005 3 16031       guardia 2
+E 1 16000 100 12       * fa indossare la divisa
+E 1 100 100 17  		* fa tenere l'arma
+G 1 104 100    			* carica nell'inv la scatola di pallottole
+M 0 16008 3 16042       mostro replicante
+M 0 16008 3 16044       mostro replicante
+M 0 16008 3 16046       mostro replicante
+M 0 16009 1 16048       bonona replicante
+G 1 16008 1                     Key 4
+M 0 16005 3 16047       guardia 2
+E 1 16000 100 12       * fa indossare la divisa
+E 1 100 100 17  		* fa tenere l'arma
+G 1 104 100    			* carica nell'inv la scatola di pallottole
+M 0 16014 1 16057       statua
+M 0 16013 1 16057       statua
+M 0 16012 1 16057       statua
+M 0 16011 1 16057       statua
+M 0 16010 1 16057       creatore
+E 1 16009 10 3       * fa indossare il chip quantistico
+E 1 91 10 15         * fa indossare il mana recharger
+* Doors
+D 0 16004 0 1           entrata
+D 0 16007 2 1
+D 0 16010 2 2           primo piano
+D 0 16011 0 2
+D 0 16025 0 2           secondo piano
+D 0 16026 2 2
+D 0 16040 2 2           terzo piano
+D 0 16041 0 2
+D 0 16055 2 2           quarto piano
+D 0 16056 0 2
+*
+S
+$

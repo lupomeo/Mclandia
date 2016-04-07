@@ -1,0 +1,27 @@
+questi social:
+
+five:
+Dai il cinque a Sidew
+Meo da il cinque a Sidew
+MEo ti da il cinque
+
+hkiss:
+Baci la mano di Dap
+Meo bacia la mano di Dap
+Meo ti fa il baciamano
+
+bhug:
+Stritoli sidew in un abbraccio da orso
+Meo stritola Sidew in un abbraccio da orso
+MEo ti stritola in un caloroso abbraccio
+
+finger:
+Mostri il medio a Sidew
+Meo mostra il medio a Sidew
+Meo ti mostra il medio
+
+altri due che non me lo ricordo piu'....
+
+Inserire un social e' facile: bisogna ricordare di inserire nel interpreter.c i vari comandi nel command_info array e la chiamata a do_action
+
+e inoltre editare il file socials

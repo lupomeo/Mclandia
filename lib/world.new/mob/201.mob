@@ -1,0 +1,44 @@
+#20100
+terrorista vagante~
+un terrorista vagante per il campo~
+Un terrorista e' qui e ti punta una pistola.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer.
+~
+aglfm kd -400 E
+18 8 2 4d8+350 2d8+1
+3000 45000
+8 8 1
+BareHandAttack: 0
+E
+#20101
+terrorista~
+un terrorista vagante~
+Un terrorista e' qui e ti punta il fucile.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer.
+~
+aglfm kd -400 E
+25 11 1 2d6+500 3d8+5
+5000 90000
+8 8 1
+BareHandAttack: 0
+E
+#20102
+terrorista guerra~
+un terrorista in assetto di guerra~
+Un terrorista in assetto di guerra e' qui pronto ad assalirti.
+~
+Il terrorista e' vestito con una semplice tuta mimetica e ti
+fissa con i suoi occhi freddi da killer mentre sta per fare fuoco.
+~
+aglfm kd -400 E
+30 11 -1 5d10+700 4d6+13
+5000 160000
+8 8 1
+BareHandAttack: 0
+E
+$~
+

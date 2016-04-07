@@ -1,0 +1,422 @@
+CircleMUD v3.0 Shop File~
+#3000~
+3050
+3051
+3052
+3053
+3054
+-1
+1.15
+0.15
+2
+3
+4
+10
+-1
+%s Mi spiace, non ce l'ho.~
+%s Non sembra che tu abbia quell'oggetto.~
+%s Non compro nulla.~
+%s E' troppo caro per me!~
+%s You can't afford it!~
+%s Ok, sono %d monete, e.. speriamo che funzioni!!~
+%s Hai avuto %d monete!~
+0
+2
+3000
+0
+3033
+-1
+0
+28
+0
+0
+#3001~
+3009
+3010
+3011
+3012
+3013
+3014
+3015
+-1
+1.4
+1.0
+-1
+%s Non ce l'ho, prova con list!~
+%s Non compro!~
+%s Non compro!~
+%s Non compro!~
+%s Non hai i soldi. Smamma !!~
+%s Eccoti servito sono %d monete, e Buon Appetito~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3001
+0
+3009
+-1
+0
+28
+0
+0
+#3002~
+3030
+3031
+3032
+3033
+3036
+-1
+1.5
+0.4
+1
+8
+15
+-1
+%s Non ce l'ho, prova list!~
+%s Non sembri averlo.~
+%s Questo non lo compro, prova in un altro negozio.~
+%s Non ho abbastanza soldi.~
+%s Non me lo posso permettere!~
+%s Ok eccoti servito, sono %d monete.~
+%s Hai avuto %d monete!~
+0
+2
+3002
+0
+3010
+-1
+0
+28
+0
+0
+#3003~
+3020
+3021
+3022
+3023
+3024
+3025
+-1
+1.3
+0.4
+5
+-1
+%s I haven't got that kind of a weapon!~
+%s You don't carry that weapon!~
+%s I only buy weapons.~
+%s I can't afford such a great weapon!~
+%s sorry, but NO CREDIT!~
+%s That costs just %d coins.~
+%s Here, you can have %d coins for that.~
+0
+2
+3003
+0
+3011
+-1
+0
+28
+0
+0
+#3004~
+3040
+3041
+3042
+3043
+3044
+3045
+3046
+3070
+3071
+3075
+3076
+3080
+3081
+3085
+3086
+3087
+3088
+3089
+3090
+3091
+-1
+1.0
+0.5
+9
+-1
+%s Non ce l'ho, prova con list!~
+%s Non sembri averlo.~
+%s Compro solo vestiti!~
+%s E' troppo caro per me!~
+%s Non me lo posso permettere!~
+%s Ecco qui, sono %d monete, grazie.~
+%s Hai ricevuto %d monete!~
+0
+2
+3004
+0
+3020
+-1
+0
+28
+0
+0
+#3006~
+61
+62
+-1
+1.0
+0.2
+22
+-1
+%s Non ho quel tipo di arma.~
+%s Ok, ma lasciamela prima esaminare.~
+%s Non tratto l'articolo.~
+%s Non me la posso permettere.~
+%s Non hai nenache da offrirmi il prezzo simbolico. Vattene!!~
+%s Ecco la tua arma al prezzo politico di, %d coin. Mi raccomando.. acqua in bocca!~
+%s Ok hai guadagnato %d coins.~
+0
+2
+3006
+0
+3071
+-1
+0
+28
+0
+0
+#3007~
+3060
+3061
+22
+-1
+1.0
+1.0
+-1
+%s Non ho quel tipo di imbarcazione.~
+%s Ok, ma lasciamela prima esaminare.~
+%s Non tratto l'articolo.~
+%s Non me la posso permettere.~
+%s Non hai i soldi. Vattene!!~
+%s Ecco la tua barca, %d coin. E buona traversata!~
+%s Ok hai guadagnato %d coins.~
+0
+0
+3007
+0
+3050
+-1
+0
+28
+0
+0
+#3008~
+3012
+3013
+3014
+-1
+1.0
+1.0
+-1
+%s No tengo - try list!~
+%s No buying, compadre.~
+%s No buying, compadre.~
+%s No buying, compadre.~
+%s No dinero!  Hit the road!~
+%s That'll be %d coins, compadre.~
+%s Oops - %d a minor bug - please report.~
+0
+2
+3008
+0
+3056
+-1
+0
+28
+0
+0
+#3009~
+3002
+3003
+3004
+-1
+1.0
+1.0
+-1
+%s Sorry, I don't have that -- try list!~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, but here, no money means no water!~
+%s That will be %d coins, please.  Thank you.~
+%s Oops - %d a minor bug - please report.~
+0
+2
+3009
+0
+3058
+-1
+0
+28
+0
+0
+#3040~
+3003
+3004
+3007
+3008
+3062
+3063
+3064
+-1
+1.1
+1.0
+-1
+%s Che cosa hai detto che vuoi comprare?~
+%s Non compro!~
+%s Non compro!~
+%s Non compro!~
+%s Mi dispiace non posso fare credito!~
+%s Sono %d monete.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3096
+0
+3007
+-1
+0
+28
+0
+0
+#3042~
+3002
+3003
+-1
+1.0
+1.0
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3042
+112
+3018
+-1
+0
+28
+0
+0
+#3043~
+3002
+3004
+-1
+1.1
+1.0
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3043
+104
+3003
+-1
+0
+28
+0
+0
+#3044~
+3003
+3004
+-1
+1.7
+1.0
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3044
+88
+3028
+-1
+0
+28
+0
+0
+#3045~
+3002
+3003
+3004
+-1
+1.5
+1.0
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3045
+56
+3022
+-1
+0
+28
+0
+0
+#3046~
+3000
+3001
+3002
+3003
+3004
+3007
+3008
+3062
+3063
+3064
+-1
+1.0
+1.0
+-1
+%s Che noioso che sei... Cosa hai detto che vuoi comprare?~
+%s Non compro!~
+%s Non compro!~
+%s Non compro!~
+%s Mi spiace amore mio ma non faccio credito!~
+%s Ecco tesoro sono %d monete.~
+%s Oops - %d a minor bug - please report!~
+0
+2
+3046
+0
+3048
+-1
+0
+28
+0
+0
+$~

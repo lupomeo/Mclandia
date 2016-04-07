@@ -1,0 +1,135 @@
+#1200
+La sala di ritrovo degli Immortali~
+   La sala di ritrovo e' decorata con uno stile austero. Nel mezzo
+della stanza c'e' una sorgente di luce non definibile. Intorno a 
+questa ci sono le poltrone. A nord c'e la bacheca degli Immortali
+~
+12 d 0
+D0
+Vedi la Bacheca degli Immortali.
+
+~
+~
+0 -1 1204
+E
+luce globo~
+Il globo luminoso non ha una forma definita, pero noti i movimenti impercettibili e ti rendi condo che non e' un oggetto inanimato ma 
+un oggetto vivo.~
+S
+#1201
+L'albergo degli Immortali~
+   L'albergo degli immortali e' una piccola stanza, contenente solo uno
+scaffale con diverse pietre preziose. Quando un Immortale affida i suoi 
+effetti personali, la loro essenza e' salvata nelle pietre. 
+La bacheca degli Immortali e' a sud.
+
+~
+12 dj 0
+D2
+Vedi la Bacheca degli Immortali.
+
+~
+~
+0 -1 1204
+E
+stone pietre~
+Sono pietre prezione, ognuna di diversa materia e forma. 
+La forma e materia rispecchia la personalita' di ogni immortale.~
+S
+#1202
+The Ice Box Of The Gods~
+   The Ice Box is for little boys and girls that cannot play nice. Be good
+and maybe someone will come and get you.
+~
+12 defh 0
+S
+#1203
+La bacheca dei Mortali~
+   Qui gli Dei hanno creato una copia della bacheca dei Mortali. 
+Da qui e' possibile scrivere i messaggi destinati ai mortali senza 
+dover scendere nel mondo inferiore.
+La bacheca degli Immortali e' ad ovest.
+~
+12 d 0
+D3
+Vedi la Bacheca degli Immortali.
+~
+~
+0 -1 1204
+S
+#1204
+La bacheca degli Immortali~
+   L'uscita principale degli dei, l Bacheca degli Immortali e' il posto 
+dove gli dei possono scambiare msssaggi tutti gli giorni. La bacheca dei 
+mortali e' situata a est e la stanza di ritrovo e' a sud. Verso nord 
+troverete l' albergo degli Immortali e ad ovest l'ufficio postale. 
+Vedi una scalinata scendere verso i giardinetti di Mclandia, c'e' 
+anche un altra scalinata verso l'alto.
+~
+12 d 0
+D0
+L'albergo degli Immortali e' a nord.
+~
+~
+0 -1 1201
+D1
+La bacheca degli Mortali e' qui.
+~
+~
+0 -1 1203
+D2
+Vedi la Sala di Ritrovo degli Immortali.
+
+~
+~
+0 -1 1200
+D3
+L'ufficio postale e' a ovest.
+
+~
+~
+0 -1 1205
+D4
+Vedi una piccola scalinata salire verso la terrazza.
+
+~
+~
+0 -1 1206
+D5
+Vedi la scalinata scendere verso i giardini di Mclandia.
+
+~
+~
+0 -1 3001
+S
+#1205
+Ufficio postale degli Immortali~
+  L'ufficio postale degli Immortali e' identico a tutti gli altri
+uffici postali solo chenon e' cosi lento. Il Servizio Postale sa che 
+non e' salutare far arrabiare gli dei. 
+Pile di cartacce e mail inutili sono allineate sul muro.
+La bacheca degli Immortali e' ad est.
+
+~
+12 d 0
+D1
+Vedi la Bacheca degli Immortali.
+
+~
+~
+0 -1 1204
+S
+#1206
+La terrazza degli Immortali~
+   Questa elegante terrazza, decorata da piante e cespugli di rose,
+e' il posto di ritrovo degli Immortali che vogliono socializzare con chiunque.
+Vedi una scalinata che scende verso la Bacheca degli Immortali.
+~
+12 0 2
+D5
+Noti la Bacheca degli Immortali.
+~
+~
+0 -1 1204
+S
+$

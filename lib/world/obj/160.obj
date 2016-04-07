@@ -1,0 +1,132 @@
+#16000
+divisa blu~
+una divisa blu~
+Una divisa blu e' stata lasciata qui.~
+~
+9 mny ak
+3 0 0 0
+8 50 0
+E
+divisa~
+E' una bellissima divisa dal colore blu notte. 
+~
+#16001
+camice bianco~
+un camice bianco~
+Un camice bianco e' stato lasciato qui.~
+~
+9 aopw ak
+1 0 0 0
+2 5000 200
+E
+camice~
+E' uno strano camice che sembra avere un effetto positivo
+su chi lo indossa. 
+~
+A
+3 2
+#16002
+chip controllo arti~
+Un chip di controllo degli arti superiori~
+Un chip di controllo degli arti superiori e' qui per terra.~
+~
+12 bq am
+0 0 0 0
+1 50 0
+A
+2 2
+#16003
+camice verde~
+un camice verde~
+Un camice verde e' stato lasciato qui.~
+~
+9 amopwy ak
+1 0 0 0
+2 5000 250
+E
+camice~
+E' uno strano camice che sembra avere un effetto positivo
+su chi lo indossa. 
+~
+A
+4 2
+#16004
+innesto bionico~
+un innesto bionico~
+Un innesto bionico giace qui abbandonato.~
+~
+9 bq ag
+1 0 0 0
+2 5000 1000
+E
+innesto bionico~
+E' uno strano involucro che si innesta sui piedi e li ingloba
+fino a fondersi con ossa e muscoli. 
+~
+A
+14 30
+#16005
+chiave magnetica~
+una chiave magnetica~
+Una chiave magnetica~
+~
+18 cdq ao
+0 0 0 0 0
+0 0 0
+E
+chiave magnetica~
+Osservandola vedi la scritta I.
+~
+#16006
+tessera magnetica~
+una tessera magnetica~
+Una tessera magnetica~
+~
+18 cdq ao
+0 0 0 0 0
+0 0 0
+E
+tessera magnetica~
+Osservandola vedi la scritta II.
+~
+#16007
+badge magnetico~
+un badge magnetico~
+Un badge magnetico e' qui'~
+~
+18 cdq ao
+0 0 0 0 0
+0 0 0
+E
+badge magnetico~
+Osservandolo vedi la scritta III.
+~
+#16008
+smart key~
+una smart key~
+Una smart key~
+~
+18 cdq ao
+0 0 0 0 0
+0 0 0
+E
+smart key~
+Osservandola vedi la scritta IV.
+~
+#16009
+microchip quantistico~
+un microchip quantistico~
+Un microchip quantistico giace qui per terra.~
+~
+12 ap 5
+0 0 0 0
+1 10000 1000
+E
+microchip quantistico~
+Si tratta di una minuscola fialetta di vetro incastonata
+in un medaglione contenente poche gocce di un liquido
+lattigginoso.
+~
+A
+12 50
+$

@@ -1,0 +1,104 @@
+autoscript starting game Fri Sep 14 23:43:53 CEST 2001
+Sep 14 23:43:53 :: CircleMUD, version 3.00 beta patchlevel 18
+Sep 14 23:43:53 :: Using lib as data directory.
+Sep 14 23:43:53 :: Running game on port 4002.
+Sep 14 23:43:53 :: Finding player limit.
+Sep 14 23:43:53 ::    Setting player limit to 300 using rlimit.
+Sep 14 23:43:53 :: Opening mother connection.
+Sep 14 23:43:53 :: Binding to all IP interfaces on this host.
+Sep 14 23:43:53 :: Boot db -- BEGIN.
+Sep 14 23:43:53 :: Resetting the game time:
+Sep 14 23:43:53 ::    Current Gametime: 6H 7D 16M 326Y.
+Sep 14 23:43:53 :: Reading news, credits, help, bground, info & motds.
+Sep 14 23:43:53 :: Loading spell definitions.
+Sep 14 23:43:53 :: Loading zone table.
+Sep 14 23:43:53 ::    35 zones, 980 bytes.
+Sep 14 23:43:53 :: Loading rooms.
+Sep 14 23:43:53 ::    1944 rooms, 124416 bytes.
+Sep 14 23:43:53 :: Renumbering rooms.
+Sep 14 23:43:53 :: Checking start rooms.
+Sep 14 23:43:53 :: Loading mobs and generating index.
+Sep 14 23:43:53 ::    584 mobs, 7008 bytes in index, 186880 bytes in prototypes.
+Sep 14 23:43:53 :: Loading objs and generating index.
+Sep 14 23:43:53 ::    719 objs, 8628 bytes in index, 80528 bytes in prototypes.
+Sep 14 23:43:53 :: Renumbering zone table.
+Sep 14 23:43:53 :: Loading shops.
+Sep 14 23:43:53 :: Loading help entries.
+Sep 14 23:43:53 ::    299 entries, 3588 bytes.
+Sep 14 23:43:53 :: Generating player index.
+Sep 14 23:43:53 :: Loading fight messages.
+Sep 14 23:43:53 :: Loading social messages.
+Sep 14 23:43:53 :: Assigning function pointers:
+Sep 14 23:43:53 ::    Mobiles.
+Sep 14 23:43:53 ::    Shopkeepers.
+Sep 14 23:43:53 ::    Objects.
+Sep 14 23:43:53 ::    Rooms.
+Sep 14 23:43:53 :: Assigning spell and skill levels.
+Sep 14 23:43:53 :: Sorting command list and spells.
+Sep 14 23:43:53 :: Booting mail system.
+Sep 14 23:43:53 ::    200 bytes read.
+Sep 14 23:43:53 ::    Mail file read -- 0 messages.
+Sep 14 23:43:53 :: Reading banned site and invalid-name list.
+Sep 14 23:43:53 :: Booting houses.
+Sep 14 23:43:53 :: Resetting Limbo - Internal (rooms 0-99).
+Sep 14 23:43:53 :: Resetting River Island Of Minos (rooms 100-999).
+Sep 14 23:43:53 :: Resetting God Simplex (rooms 1000-1299).
+Sep 14 23:43:53 :: Resetting The Straight Path (rooms 1300-1599).
+Sep 14 23:43:53 :: Resetting The High Tower Of Magic (rooms 1600-2699).
+Sep 14 23:43:53 :: Resetting The High Tower Of Magic II (rooms 2700-2699).
+Sep 14 23:43:53 :: Resetting Northern Midgaard Main City (rooms 2700-3099).
+Sep 14 23:43:53 :: Resetting La zona sud di McLandia (rooms 3100-3199).
+Sep 14 23:43:53 :: Resetting The Three Of Swords (rooms 3200-3399).
+Sep 14 23:43:53 :: Resetting Miden'Nir (rooms 3400-3599).
+Sep 14 23:43:53 :: Resetting The Chessboard of Midgaard (rooms 3600-3699).
+Sep 14 23:43:53 :: Resetting Moria, Levels 1-2 (rooms 3700-4199).
+Sep 14 23:43:53 :: Resetting Moria, Level 3 (rooms 4200-4199).
+Sep 14 23:43:53 :: Resetting The Great Eastern Desert (rooms 4200-5099).
+Sep 14 23:43:53 :: Resetting Drow City (rooms 5100-5199).
+Sep 14 23:43:53 :: Resetting The City Of Thalos (rooms 5200-5299).
+Sep 14 23:43:53 :: Resetting The Great Pyramid (rooms 5300-5399).
+Sep 14 23:43:53 :: Resetting New Thalos (rooms 5400-5699).
+Sep 14 23:43:53 :: Resetting New Thalos, Continued (rooms 5700-5699).
+Sep 14 23:43:53 :: Resetting New Thalos Wilderness (rooms 5700-5699).
+Sep 14 23:43:53 :: Resetting Haon-Dor, Light Forest (rooms 5700-6099).
+Sep 14 23:43:53 :: Resetting Haon-Dor, Dark Forest (rooms 6100-6199).
+Sep 14 23:43:53 :: Resetting The Orc Enclave (rooms 6200-6299).
+Sep 14 23:43:53 :: Resetting Arachnos (rooms 6300-6399).
+Sep 14 23:43:53 :: Resetting Rand's Tower (rooms 6400-6499).
+Sep 14 23:43:53 :: Resetting The Dwarven Kingdom (rooms 6500-6599).
+Sep 14 23:43:53 :: Resetting The Sewer, First Level (rooms 6600-7099).
+Sep 14 23:43:53 :: Resetting The Second Sewer (rooms 7100-7199).
+Sep 14 23:43:53 :: Resetting The Sewer Maze (rooms 7200-7399).
+Sep 14 23:43:53 :: Resetting The Tunnels In The Sewer (rooms 7400-7399).
+Sep 14 23:43:53 :: Resetting Redferne's Residence (rooms 7400-7999).
+Sep 14 23:43:53 :: Resetting Rome (rooms 8000-12099).
+Sep 14 23:43:53 :: Resetting King Welmar's Castle (rooms 12100-15099).
+Sep 14 23:43:53 :: Resetting Montagne Area (rooms 15100-18699).
+Sep 14 23:43:53 :: Boot db -- DONE.
+Sep 14 23:43:53 :: Signal trapping.
+Sep 14 23:43:53 :: Entering game loop.
+Sep 14 23:43:53 :: No connections.  Going to sleep.
+Sep 14 23:44:01 :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Sep 14 23:44:06 :: Meo [213.45.106.197] has connected.
+Sep 14 23:44:09 :: Meo retrieving crash-saved items and entering game.
+Sep 14 23:44:09 :: Meo (level 34) has 9 objects (max 30).
+Sep 14 23:44:31 :: Meo e' uscito dal gioco.
+Sep 14 23:44:33 :: Losing player: Meo.
+Sep 14 23:44:33 :: No connections.  Going to sleep.
+Sep 15 01:36:21 :: New connection.  Waking up.
+Sep 15 01:36:27 :: Sidewinder [mi2-710.dialup.tiscalinet.it] has connected.
+Sep 15 01:36:28 :: Sidewinder un-renting and entering game.
+Sep 15 01:36:28 :: Sidewinder (level 34) has 2 objects (max 30).
+SYSERR: gethostbyaddr: Success
+Sep 15 01:36:33 :: Meo [213.45.106.197] has connected.
+Sep 15 01:36:34 :: Meo un-renting and entering game.
+Sep 15 01:36:34 :: Meo (level 34) has 9 objects (max 30).
+Sep 15 01:40:49 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 15 01:45:49 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 15 01:50:49 :: nusage: 2   sockets connected, 2   sockets playing
+Sep 15 01:52:29 :: Meo e' uscito dal gioco.
+Sep 15 01:52:31 :: Losing player: Meo.
+Sep 15 01:52:49 :: Sidewinder e' uscito dal gioco.
+Sep 15 01:52:51 :: Losing player: Sidewinder.
+Sep 15 01:52:51 :: No connections.  Going to sleep.

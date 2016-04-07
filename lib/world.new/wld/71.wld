@@ -1,0 +1,630 @@
+#7100
+Il bordo dell'acqua~
+   La pozza d'acqua assorbe tutta la tua luce.
+Non riesci a vedere assolutamente al suo intorno.
+L'oscurita' qui e' assolutamente oppressiva.
+L'aria e' umida e la roccia su cui ti trovi e' molto scivolosa.
+L'acqua e' troppo scura e cio' ti fa pensare che non sia per niente puilita.
+La pozza sembra estendersi ad est, mentre hai l'impressione che
+le rocce su cui ti trovi ti permettano di arrampicarti verso l'alto.
+~
+71 acd 5
+D1
+La pozza si estende a nord ma non rieci a muoverti in quella direzione.
+~
+~
+0 -1 -1
+D4
+~
+~
+0 -1 7000
+S
+#7101
+La pozza di melma~
+   Sei in una piccola locazione con un grande buco nel soffitto.
+Senti la puzza del fango e della melma che ti irrita le narici.
+Argh... Che schifo !!
+~
+71 acd 5
+D1
+Est.  Niente di interessante.
+~
+~
+0 -1 7103
+E
+melma~
+Non hai mai sentito un odore cosi' disgustoso nella tua vita.
+~
+S
+#7102
+SOtto la fossa oscura~
+   Hai trovato un piccolo rifugio.
+  Ti trovi al centro di un piccolo ambiente con due uscite verso
+l'alto e verso est. Una piccola corda e' stata lasciata qui per
+permetterti di arrampicarti sulle rocce senza l'aiuto di una scala.
+~
+71 ad 1
+D1
+~
+~
+0 -1 7104
+D4 
+Non riesci a vedere nulla verso l'alto. E' troppo buio.
+~
+~
+0 -1 7004
+D5
+~
+trapdoor~
+1 -1 7300
+E
+ladder~
+This is funny enough a wooden ladder and, after closer inspection, you
+discover it is magically held to the wall!  You can't, even with your
+greatest effort, move it at ALL!
+~
+S
+#7103
+Un'ansa del sistema fognario di McLandia~
+   Ti trovi in quella che sembra un'ansa della conduttura delle fogne.
+Il pavimento e' completamente coperto di melma puzzolente che ti arriva
+fino alle ginocchia. La conduttura continua a ovest e a sud.
+~
+71 ad 4
+D2
+A sud ti sembra ci sia meno melma di qua.
+Hai la senzazione che sarebbe molto piacevole poter di nuovo camminare
+in un luogo asciutto.
+~
+~
+0 -1 7104
+D3
+Ti sembra di vedere una locazione senza uscita.
+~
+~
+0 -1 7101
+E
+mud~
+You never saw such disgusting matter before, it nearly makes you puke.
+~
+S
+#7104
+Un incrocio nelle condutture~
+   Ti trovi in quello che sembra un triplo incrocio di condotte.
+Le condotte proseguono a nord est e ovest.
+~
+71 ad 1
+D0
+Vedi una zona piena di melma.
+~
+~
+0 -1 7103
+D1 
+Est.  Troppo buio per vedere qualcosa.
+~
+~
+0 -1 7112
+D3
+Ovest. Una locazione da cui filtra un po' di luce.
+~
+~
+0 -1 7102
+S
+#7105
+In fondo al Vecchio Pozzo~
+   Sei attaccato alla parete dell'antico pozzo.
+Gli unici appigli sicuri qui sono le barre metalliche cementate sui muri.
+Le barre corrono sia verso l'alto che verso il basso.
+Chi lo sa quanto sara' profondo??
+~
+71 ad 5
+D4
+Ti sembra di intravedere una luce, ma non capisci se e' solo frutto
+della tua immaginazione.
+~
+~
+0 -1 7015
+D5
+L'oscurita' ti rende impossibile vedere alcunche' vesro il basso.
+~
+~
+0 -1 -1
+E
+bars~
+These look like they're pretty slippery, and not very safe, but perhaps safe
+enough for you to climb down, WITH both hands on them.
+~
+S
+#7106
+L'angolo nordest del cornicione~
+   Stai camminando su una sporgenza di roccia che forma un piccolo cornicione.
+Il cornicione continua a est ma non ti permette di tornare indietro a sud.
+Puoi solo andare avanti.
+~
+71 acd 5
+D1
+La sporgenza continua a est.
+~
+~
+0 -1 7113
+D2
+La sporgenza continua a sud.
+~
+~
+0 -1 7107
+D5
+l'Abisso.
+~
+rock step edge~
+1 -1 7279
+E
+edge odd-looking~
+This is truly a weird piece of craftsmanship in your eyes.  The edge seems to
+form a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there 
+leading to seemingly total destruction.
+~
+E 
+step~
+A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and
+SPLAT!!!
+~
+E
+rock~
+It looks as if it can be opened in a door-like fashion.  Maybe this will lead
+the way down.
+~
+S
+#7107
+Una stretta sporgenza~
+   La sporgenza qui e' troppo stratta e ti impedisce di girarti.
+C'e' un'altro spuntone su cui continuare ma e' molto probabile
+una caduta.
+~
+71 acd 5
+D0
+North.  La sporgenza gira ad angolo e torna indietro.
+~
+~
+0 -1 7106
+D1
+Non vedi nulla.
+~
+~
+0 -1 7190
+D2
+La sporgenza prosegue nell'oscurita'.
+~
+~
+0 -1 7108
+S
+#7108
+Una stretta sporgenza~
+   La sporgenza qui e' troppo stratta e ti impedisce di girarti.
+C'e' un'altro spuntone su cui continuare ma e' molto probabile
+una caduta.
+~
+71 acd 5
+D0
+La sporgenza prosegue a nord.
+~
+~
+0 -1 7107
+D1
+Non vedi assolutamente nulla.
+~
+~
+0 -1 7190
+D2 
+La sporgenza continua a sud nell'oscurita'.
+~
+~
+0 -1 7109
+S
+#7109
+Una stretta sporgenza~
+   La sporgenza qui e' troppo stratta e ti impedisce di girarti.
+C'e' un'altro spuntone su cui continuare ma e' molto probabile
+una caduta.
+~
+71 acd 5
+D0
+La sporgenza continua a nord.
+~
+~
+0 -1 7108
+D1
+Non vedi nulla.
+~
+~
+0 -1 7190
+D2
+La sporgenza continua a sud nell'oscurita'.
+~
+~
+0 -1 7110
+S
+#7110
+Una stretta sporgenza~
+   La sporgenza qui e' troppo stratta e ti impedisce di girarti.
+C'e' un'altro spuntone su cui continuare ma e' molto probabile
+una caduta..
+~
+71 acd 5
+D0
+La sporgenza continua a nord.
+~
+~
+0 -1 7107
+D1
+Non vedi nulla.
+~
+~
+0 -1 7190
+D2
+A sud vedi un angolo.
+~
+~
+0 -1 7111
+S
+#7111
+L'angolo sud-ovest della sporgenza.~
+   Questo e' langolo nord-ovest di una sporgenza di roccia che corre
+intorno all'abisso. Soto di te vedi solo una profonda oscurita'.
+~
+71 acd 5
+D0
+La sporgenza prosegua a nord.
+~
+~
+0 -1 7110
+D1
+La sporgenza prosegue a est.
+~
+~
+0 -1 7115
+D2
+A sud intravedi la fine della sporgenza.
+~
+~
+0 -1 7112
+D5
+l'Abisso.
+~
+rock step edge~
+1 -1 7279
+E
+edge odd-looking~
+This is truly a weird piece of craftsmanship in your eyes.  The edge seems to
+form a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there 
+leading to seemingly total destruction.
+~
+E 
+step~
+A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and
+SPLAT!!!
+~
+E
+rock~
+It looks as if it can be opened in a door-like fashion.  Maybe this will lead
+the way down.
+~
+S
+#7112
+Uno strano incrocio~
+   Sei ad un incrocio tra le condotte.
+Le condotte sembrano trasformarsi in tunnel di pietra o meglio passaggi
+che si addentrano direttamente nella roccia.
+Le diramazioni si snnodano da qui verso nord, est e ovest.
+~
+71 ad 1
+D0
+Vedi una sporgenza nella roccia.
+~
+~
+0 -1 7111
+D1
+~
+~
+0 -1 7122
+D3 
+~
+~
+0 -1 7104
+S
+#7113
+La stretta sporgenza~
+   La stessa sporgenza nella roccia prosegue. Non c'e' alcun modo di girarsi
+pert tornare indietro in quanto il piano d'appoggio e' troppo stretto.
+~
+71 acd 5
+D1
+La sporgenza prosegue a est.
+~
+~
+0 -1 7116
+D2
+Non vedi nulla.
+~
+~
+0 -1 7190
+S
+#7114
+Sospeso nel vuoto~
+   Sei nella posizione piu' sfortunata della tua carriera di giocatore.
+Un getto di aria gelida ti accompagna nella caduta.
+Precipiti nell'abisso con un'accelerazione di circa 9.82 metri al secondo.
+Addio mondo crudele.
+~
+71 bd 0
+D0
+~
+~
+0 -1 7119
+D1
+~
+~
+0 -1 7118
+D2
+~
+~
+0 -1 7120
+D3
+~
+~
+0 -1 7117
+D4
+~
+~
+0 -1 7115
+S
+#7115
+Una larga sporgenza~
+   Sei su una sporgenza di roccia piu' larga.
+Il cornicione prosegue a est e a ovest.
+Vedi anche una possibile via di uscita nel buio a sud.
+~
+71 acd 4
+D0 
+~
+~
+0 -1 7114
+D1
+~
+~
+0 -1 7121
+D2
+~
+~
+0 -1 7129
+D3
+~
+~
+0 -1 7111
+S
+#7116
+L'angolo nord-est del cornicione~
+   Sei in un angolo con pochi centrimetri di solida roccia sotto i
+tuoi piedi. La sporgenza prosegue a ovest e a sud nell'oscurita'
+Vedi sotto i tuoi piedi che la roccia sembra un po' rialzata.
+~
+71 acd 5
+D2
+~
+~
+0 -1 7117
+D3
+La sporgenza continua a ovest.
+~
+~
+0 -1 7113
+D5
+Vedi i segni di una botola nella roccia.
+~
+botola segreto entrata~
+1 -1 7280
+E
+ground ledge rock~
+The ground here seems a little different from all the other ledges along the
+Abyss.  There is a kind of soft soil on this ledge, maybe you should look 
+carefully at this.  It seems to be of some interest.
+~
+E
+soil soft earth~
+You can just make out the outline of a trapdoor here in the soil.  The earth
+is probably there to conceal a secret entrance.  This looks as if it leads
+down into the seemingly solid rock face of the ledge.
+~
+S
+#7117
+Il Cornicione est~
+   Sei ancora su un pisccolo spuntone di roccia che corre intornno
+all'abisso. Non puoi cambiare direzione e devi stare molto attento
+a non cadere.
+~
+71 acd 5
+D2
+Il cornicione prosegue a sud.
+~
+~
+0 -1 7118
+D3
+Non vedi nulla.
+~
+~
+0 -1 7114
+S
+#7118
+Il cornicione est~
+   Sei ancora su un pisccolo spuntone di roccia che corre intornno
+all'abisso. Non puoi cambiare direzione e devi stare molto attento
+a non cadere..
+~
+71 acd 5
+D2
+Il cornicione prosegue a sud.
+~
+~
+0 -1 7119
+D3
+Non vedi nulla.
+~
+~
+0 -1 7114
+S
+#7119
+Il cornicione est~
+   Sei ancora su un pisccolo spuntone di roccia che corre intornno
+all'abisso. Non puoi cambiare direzione e devi stare molto attento
+a non cadere.
+~
+71 acd 5
+D2
+Il cornicione prosegue a sud.
+~
+~
+0 -1 7120
+D3
+Non vedi nulla
+~
+~
+0 -1 7114
+S
+#7120
+Il cornicione est~
+   Sei ancora su un pisccolo spuntone di roccia che corre intornno
+all'abisso. Non puoi cambiare direzione e devi stare molto attento
+a non cadere.
+~
+71 acd 5
+D1
+A est vedi le tenebre.
+~
+~
+0 -1 7123
+D2
+Il cornicione prosegue a sud.
+~
+~
+0 -1 7121
+D3
+Non vedi nulla.
+~
+~
+0 -1 7114
+S
+#7121
+L'angolo sud-est del cornicione~
+   Sei su una specie di cornicione formato da una sporgenza nella roccia.
+Il cornicione sembra correre tutti intorno ad un abisso.
+~
+71 acd 5
+D0
+Una sporgenza.
+~
+~
+0 -1 7120
+D3
+Il cornicione prosegue a ovest.
+~
+~
+0 -1 7115
+D5
+Non vedi nulla.
+~
+rock step edge~
+2 -1 7279
+E
+edge odd-looking~
+This is truly a weird piece of craftsmanship in your eyes.  The edge seems to
+form a step leading down, but WHAT a STEP DOWN.  The Abyss opens down there 
+leading to seemingly total destruction.
+~
+E 
+step~
+A small rock sticks out right under it, otherwise the way is DOWN, DOWN, and
+SPLAT!!!
+~
+E
+rock~
+It looks as if it can be opened in a door-like fashion.  Maybe this will lead
+the way down.
+~
+S
+#7122
+Sotto la buca~
+   Sei in una caverna completamente buia.
+Le pareti sono molto umide e bagnaticce.
+~
+71 ad 0
+D3
+~
+~
+0 -1 7112
+E
+wall~
+There is a crack here that looks like it has been made recently.
+~
+S
+#7123
+Sotto il pozzo~
+   Una scala porta sopra. A ovest c'e' una piccola apertura a ovest.
+~
+71 ad 5
+D3
+Vedi una sporgenza nella roccia che sembra un cornicione sospeso.
+~
+~
+0 -1 7120
+D4
+E' troppo buio per vedere qualcosa qui.
+~
+~
+0 -1 7041
+S
+#7129
+Il cunicolo~
+   Sei in uno stretto cunicolo.
+La condotta fognaria continua in basso a nord c'e una specie di cornicione.
+~
+72 9 3
+D0
+Una sporgenza nella roccia.
+~
+~
+0 -1 7115
+D5
+Non vedi nulla.
+~
+~
+0 -1 7221
+S
+#7190
+Sospeso nel vuoto~
+   Sei nella posizione piu' sfortunata della tua carriera di giocatore.
+Un getto di aria gelida ti accompagna nella caduta.
+Precipiti nell'abisso con un'accelerazione di circa 9.82 metri al secondo.
+Addio mondo crudele.
+~
+71 bd 0
+D0
+~
+~
+0 -1 7109
+D1
+~
+~
+0 -1 7108
+D2
+~
+~
+0 -1 7110
+D3
+~
+~
+0 -1 7107
+D4
+~
+~
+0 -1 7113
+S
+$

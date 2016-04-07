@@ -1,0 +1,84 @@
+*********************************************************************************
+*** Zona : Massachusetts Inst. of Techn.
+*** Autore : CertainDeath
+*********************************************************************************
+#79
+Massachusetts Inst. of Techn.~
+7999 50 2
+
+*mob
+M     0  7900     1  7900	* Load guardia Il Cancello Del MIT.
+E     1  7915     1    17	* Equip with una chiave tenuta
+E     1  7902     100  8	* Equip with stivali
+E     1  7905     100  9	* Equip with guanti
+E     1  16000 	  100 12    * fa indossare la divisa
+M     0  7901     1  7904	* Load Il custode
+E     1  7900     1    17	* Equip with bastone
+E     1  16000 	  100 12    * fa indossare la divisa
+G     1  7917     1		    * Give it chiave gabbia
+G     1  7908     100		* Give it lampada
+M     0  7902     1  7902	* Load l'ingegere
+E     1  7926     100    12	* Equip with camice
+G     1  7916     1		    * Give it chiave anonimato
+M     0  7903     1  7905	* Load professoressa
+E     1  7926     100    12	* Equip with camice
+M     0  7904     1  7905	* Load coordinatore
+E     1  7921     100    7	* Equip with pant
+E     1  7925     100    5	* Equip with amicia
+E     1  7923     100    8	* Equip with scarpe
+M     0  7905     1  7903	* Load programmatore
+E     1  7924     100    7	* Equip with pant
+E     1  7925     100    5	* Equip with camicia
+E     1  7923     100    8	* Equip with scarpe
+E     1  7913     20    16	* Equip stiletto
+M     0  7906     1  7913	* Load droide
+E     1  7910     20    16	* Equip strangolatore
+E     1  7901     20    7	* Equip moduli gambe
+E     1  7903     50  13	* Equip with cintura
+E     1  7907     50  12	* Equip with esoscheletro
+M     0  7907     1  7911	* Load donna
+E     1  7911     20    16	* Equip lame
+E     1  7920     20    3	* Equip collana
+M     0  7908     1  7909	* Load addetto stampa
+E     1  7921     100    7	* Equip with pant
+E     1  7922     100    5	* Equip with camicia
+E     1  7923     100    8	* Equip with scarpe
+M     0  7909     1  7901	* guardia A
+E     1  7909     20    16	* Equip laser
+E     1  7902     100  8	* Equip with stivali
+E     1  7905     100  9	* Equip with guanti
+E     1  7906     10  6		* Equip with basco
+E     1  16000 	  100 12    * fa indossare la divisa
+M     0  7910     1  7904	* guardia B
+E     1  7909     20    16	* Equip laser
+E     1  7902     100  8	* Equip with stivali
+E     1  7905     100  9	* Equip with guanti
+E     1  16000 	  100 12    * fa indossare la divisa
+M     0  7911     1  7906	* studente
+E     1  7924     100    7	* Equip with pant
+E     1  7925     100    5	* Equip with amicia
+E     1  7923     100    8	* Equip with scarpe
+*oggetti
+O     0  7918    1  7911	* Load object scrivania
+P     1  7919    1  7918	* Put la collezione di monete in una scrivania
+*porte
+D     0  7900     0     2	* Close and Lock door Norte of room Il Cancello Del MIT.
+D     0  7901     2     2	* Close and Lock door Sur of room La parte sud della Hall
+D     0  7901     1     1	* Close door Este      of room La parte sud della Hall
+D     0  7910     3     1	* Close door Oeste     of room Uno stretto passaggio.
+D     0  7901     3     1	* Close door Oeste     of room La parte sud della Hall
+D     0  7902     1     1	* Close door Este      of room La libreria del MIT.
+D     0  7910     1     2	* Close and Lock door Este of room Uno stretto passaggio.
+D     0  7903     3     2	* Close and Lock door Oeste of room La stanza dell'anonima.
+D     0  7904     1     2	* Close door Este      of room La parte nord della Hall.
+D     0  7913     3     2	* Close door Oeste     of room La gabbia
+D     0  7904     3     1	* Close door Oeste     of room La parte nord della Hall.
+D     0  7905     1     1	* Close door Este      of room L'aula di bioenergetica.
+D     0  7906     0     1	* Close door Norte     of room La Mensa
+D     0  7907     2     1	* Close door Sur       of room Le Cucine
+D     0  7906     1     1	* Close door Este      of room La Mensa
+D     0  7908     3     1	* Close door Oeste     of room La Ghiacciaia
+D     0  7911     2     1	* Close door Sur       of room L'alloggio del Prof. Patrick Y. Kim
+D     0  7912     0     1	* Close door Norte     of room Il balcone
+S
+$~

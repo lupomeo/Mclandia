@@ -1,0 +1,39 @@
+Installing Ascii Pfiles 2.1 In Windows
+
+Before installing ascii pfiles in a Windows system, you should already
+have circle installed, compiled, and tested.  See the circle documentation
+if you aren't able to do this.
+
+ 1)  Copy the included file cr_dirs.bat to your circle30bpl17
+     directory (or whatever you've renamed it to)
+ 2)  Double-click circle30bpl17\cr_dirs.bat in Windows Explorer or
+     start a dos window, go to the circle30bpl17 directory, and type
+     cr_dirs.bat
+ 3)  Copy apf2.1_win.patch and patch.bat to circle30bpl17\src
+ 4)  Make sure you have the GNU "patch" utility by selecting Start | Find |
+     Files or Folders..., type patch.exe in the Named box, and typing c:\ in
+     the Look In box.  Click Find Now.  If it doesn't find patch.exe, you
+     need to get it.  Get it at:      http://www.delorie.com/djgpp/dl/ofc/simtel/v2gnu/pat253b.zip/bin/patch.exe
+     You can put it in c:\windows\command to make it executable from anywhere.
+ 5)  Change to the circle30bpl17\src directory
+ 6)  Look for existing files with the extension .rej.  If you already have
+     some of these files, move them to another directory so they don't
+     confuse you later
+ 7)  Type or double-click patch.bat to patch the source files
+ 8)  Check again for .rej files.  If you have any now, part of the patch
+     failed because your files were not stock circle.  Check the circle wtfaq
+     guide at http://developer.circlemud.org for information on how to
+     attempt to hand-patch these files.  If you don't get the entire patch
+     installed, ascii pfiles will not work.
+ 9)  If you're using a Visual C++ project workspace, you'll have to add the
+     diskio.c, diskio.h, and pfdefaults.h files to the project
+10)  Compile and run circle.  If all went well, you won't notice any change
+     in the way circle runs.
+
+Note: If you have a completely stock bpl17 mud and don't want to use patch,
+you can copy the contents of full_src to your src directory.
+
+Note: If you have existing binary player files you want to convert to ascii,
+you can copy the included src\util\plrtoascii.c file to circle30bpl17\src\util
+and create a new Visual C++ project workspace for it.  It has not been tested
+in Windows, but should work fine.

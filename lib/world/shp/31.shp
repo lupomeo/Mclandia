@@ -1,0 +1,153 @@
+CircleMUD v3.0 Shop File~
+#3100~
+3100
+3101
+3102
+3103
+3104
+-1
+1.1
+1.0
+-1
+%s Non ce l'ho, prova con list!~
+%s Non ce l'ho, ma per chi mi hai preso ?!?!?~
+%s Io non compro nulla, tu vuoi un drink?~
+%s Mi spiace non posso aiutarti, prova alla bipperia.~
+%s Non posso fare sconti.~
+%s Ecco qui, sono %d monete, grazie.~
+%s Ecco qui, sono %d monete, grazie.~
+0
+0
+3107
+0
+3106
+-1
+0
+28
+0
+0
+#3101~
+3118
+3119
+-1
+1.0
+1.0
+-1
+%s Mi spiace provate ma vendo solo rose e margherite.~
+%s Non sembri averlo~
+%s Mi spiace ma non me lo posso permettere~
+%s Mi spiace ma non faccio sconti~
+%s Ma che pezzenti!!! ~
+%s Ecco qui, sono %d monete, grazie.~
+%s Tieni, sono %d monete, grazie.~
+2
+0
+3100
+0
+3101
+3102
+3103
+3104
+-1
+0
+28
+0
+0
+#3102~
+3124
+3129
+3130
+3131
+-1
+10
+1.0
+-1
+%s Non ce l'ho, prova con list!~
+%s Non sembri venderlo!~
+%s Noi abbiamo i nostri fornitori di fiducia, grazie!!~
+%s Non ti sembra di esagerare?!?!?~
+%s Non facciamo sconti!~
+%s Ecco qui, sono %d monete, grazie.~
+%s Fottiti!~
+0
+0
+3117
+0
+3124
+-1
+0
+28
+0
+0
+#3103~
+3122
+-1
+10
+1.0
+-1
+%s Mi spiace, non ce l'ho, prova a vedere i prodotti disponibili con list!~
+%s Mi dispiace, il prodotto non e' disponibile!~
+%s Mi spiace, ma non posso acquistare nulla!~
+%s Mi spiace ma questo prezzo e' troppo alto!~
+%s Va bene che non ci arriva, pero' io non posso fare sconti; aspetti i saldi!~
+%s Ecco qui, sono %d monete, grazie.~
+%s Tieni, sono %d monete, grazie.~
+2
+0
+3114
+0
+3141
+-1
+0
+28
+0
+0
+#3104~
+3116
+3127
+-1
+1.0
+1.0
+-1
+%s Non ce l'ho, prova con list!~
+%s Non ce l'hai!~
+%s Non compro nulla!~
+%s Il prodotto non e' disponibile, ripassi fra qualche giorno~
+%s Non sono nella posizione di fare sconti!~
+%s Ecco qui, sono %d monete, grazie.~
+%s Tieni, sono %d monete, grazie.~
+0
+0
+3106
+0
+3112
+-1
+0
+28
+0
+0
+#3105~
+3125
+3126
+-1
+1.0
+1.0
+-1
+%s Non ce l'ho, prova con list!~
+%s Non ce l'ho, ma posso cercare in giro!~
+%s Al momento non compro!~
+%s E' troppo caro!~
+%s Non faccio sconti~
+%s Ecco qui, sono %d monete. Per farti fai "hold" e poi "use".~
+%s Tieni, sono %d monete, grazie.~
+0
+0
+3102
+0
+3134
+-1
+0
+28
+0
+0
+$~

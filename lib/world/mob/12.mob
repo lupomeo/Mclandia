@@ -1,0 +1,35 @@
+#1200
+innkeeper locandiera naomi~
+Naomi l'immortale locandiera~
+Naomi la locandiera immortale sta qui riordinando lo scaffale.
+~
+Sembra che non abbia problemi.
+~
+ab p 0 S
+30 0 -10 1d49+901 4d8+5
+0 0
+8 8 2
+#1201
+postmaster master post~
+il Postino Immortale~
+Il Postino Immortale sta lavorando duro.
+~
+Incredibile.... un postino che lavora... non e' vero?
+~
+ab p 0 S
+30 0 -10 1d49+901 4d8+5
+0 0
+8 8 2
+#1202
+spirito~
+uno spirito vagante~
+Uno spirito amorfo e' qui e sta pulendo incessantemente.
+~
+Questo spirito ha vissuto lavorando la qua vita lavorando duramente come burocrate, 
+ora e' qui a lavorare per gli dei come fedele servitore.
+~
+acgq dkps 0 S
+30 0 -10 1d49+901 4d8+5
+0 0
+8 8 0
+$

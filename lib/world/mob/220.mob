@@ -1,0 +1,104 @@
+**************************
+*** Zone : The Cave
+*** Author : CertainDeath
+**************************
+#22000
+impr impresario imp~
+L'impresario della cava.~
+L'impresario della cava controlla i suoi appunti.
+~
+L'impresario e' intento a leggere i suoi appunti. Sembra essere un
+uomo molto rude sia nell'aspetto che nei movimenti.    
+~
+bclno dk 1000 S
+26 0 -2 10d8+99 2d6+16
+31570 2000
+8 8 1
+#22001
+cus custode~
+un custode ~
+Un custode della cava gironzola qua attorno.
+~
+Un custode pattuglia la zona in cerca di personale non autorizzato!
+    
+~
+fgmnp k -1000 E
+12 5 -20 9d100+10 4d7+1
+0 3000
+8 8 1
+BareHandAttack: 8
+E
+#22002
+cavatore cava~
+Un cavatore in pausa.~
+Un cavatore cammina godendosi la sua pausa
+~
+Il cavatore sta' camminando verso di te con aria spavalda.  
+~
+blmno k -1000 E
+15 0 -10 20d100+250 3d10+7
+0 3000
+8 8 1
+Dex: 22
+Con: 20
+Str: 22
+BareHandAttack: 9
+E
+#22003
+Yang Yin tecnico riparatore~
+Yang Yin ~
+Yang Yin il tecnico riparatore gironzola con i suoi attrezzi.
+~
+Yang Yin il tecnico riparatore gironzola con i suoi attrezzi in cerca di un guasto da riparare!! 
+~
+bclmnop fk -1000 E
+40 -30 -50 10d100+1000 10d10+10
+0 3500
+6 6 1
+Dex: 20
+Con: 24
+Str: 24
+BareHandAttack: 9
+E
+#22004
+Prof. Aldous Huxley ~
+Prof. Aldous Huxley ~
+Prof. Aldous Huxley sperimentatore del progetto GOFAI e' qua in piedi.
+~
+Prof. Aldous Huxley  , dopo aver scritto il trattato " The Doors of
+Perception" sull'uso sistematico di un noto cactus chiamato peyote,
+e' stato sperimentarore del progetto GOFAI. 
+~
+bcghlm dfk -1000 E
+50 -50 -90 10d250+4500 12d10+10
+100000 6000
+8 8 1
+Dex: 23
+Con: 23
+Str: 23
+E
+#22005
+polo neurale~
+polo neurale~
+Un polo neurale si agita in modo convulso.
+~
+  Il polo neurale e' un insieme di cellule morte tenute in vita da un campo magnetico, la sua forma varia in base all'ambiente in cui si trova.
+Il polo neurale avanza in modo convulso .
+~
+cglmn kst -130 S
+20 0 -40 5d100+99 6d8+15
+5000 3000
+8 8 0
+#22006
+manovale~
+un manovale~
+Un manovale e' intento nel suo lavoro.
+~
+Un manovale sta' cercando il punto buono dove iniziare a scavare. 
+   
+~
+bcl k 0 S
+11 2 0 97d9+4 10d6+1
+1020 15000
+8 8 1
+$

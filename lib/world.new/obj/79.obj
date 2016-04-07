@@ -1,0 +1,364 @@
+*********************************************************************************
+*** Zone : Massachusetts Institute of Technology
+*** Author : CertainDeath
+*** Zone formatted by Leus's Circle Zone Editor - 
+*********************************************************************************
+#7900
+bastone passeggio~
+bastone da passeggio~
+Un bastone da passeggio e' stato lasciato qua per terra!~
+~
+4 adegiklop ao
+45 500 250 30
+15 50000 200
+E
+bastone passeggio~
+Sembra un normalissimo bastone da passeggio se non fosse per il  materiale
+con cui e' costruito emette una lieve luce al suo interno.
+
+~
+E
+luce~
+Sembra che all'interno di questo bastone ci sia intrappolato in fulmine.Sul
+bastone noti una piccola scritta "Lemelson-MIT Prize: Invention Dimension".
+
+~
+A
+1 2
+A
+13 -56
+A
+18 10
+A
+19 10
+A
+17 30
+A
+5 2
+#7901
+moduli titanio gambe~
+moduli per le gambe in titanio.~
+Un paio di moduli per le gambe sono a terra.~
+~
+9 b af
+10 0 0 0
+10 50000 50
+E
+moduli titanio gambe~
+Sono dei parastinchi, sono molto leggeri e confortevoli. Sono fatti in 
+Titanio,
+uno di essi reca un'incisione.
+~
+E
+incisione~
+M.I.T. Research Lab.
+~
+A
+14 -56
+A
+20 -10
+#7902
+stivali ergonomici rinforzati~
+stivali ergonomici rinforzati~
+Un paio di stivali rinforzati sono per terra, in un angolo.~
+~
+9 b ag
+10 0 0 0
+5 50000 50
+E
+Stivali~
+Questi stivali riportano su un lato una strana scritta:"Gap tech"
+
+~
+A
+2 2
+#7903
+cintura led~
+cintura a led a dimensione autoregolante~
+Una piccola cintura giace al suolo.~
+~
+15 0 al
+40 1 -1 0
+1 20000 200
+E
+led~
+I led indicano la capacita' di carico di questa cintura.
+
+~
+A
+17 2
+#7904
+protezione gomiti poliuretano espanso~
+protezioni per gomiti in poliuretano espanso.~
+Un paio di protezioni per gomiti si trovano per terra abbandonati!~
+~
+9 b ai
+5 0 0 0
+5 50000 500
+E
+poliuretano~
+Altamente assorbente verso le cadute protegge rimanendo molto aderente alle
+braccia.
+~
+A
+1 2
+#7905
+guanti carbon kevlar~
+guanti in carbon-kevlar ~
+Un paio di guanti in kevlar sono per terra!~
+~
+9 b ah
+2 0 0 0
+2 20000 200
+E
+carbon kevlar~
+Queste due fibre tessute assieme danno al guanto il caratteristico colore
+giallo e nero.
+~
+A
+18 1
+A
+19 1
+#7906
+basco amaranto militare~
+un basco militare amaranto~
+Un basco militare giace al suolo, abbandonato! ~
+~
+9 a ae
+5 0 0 0
+8 500000 1000
+E
+basco~
+Un basco davvero comodo.Il colore del basco e' molto simile a quello del
+sangue. Sulla parte frontale ha un fregio.
+~
+E
+fregio~
+11° Guastatori Folgore
+~
+A
+3 2
+A
+18 2
+A
+24 -5
+#7907
+h2o esoscheletro metallico~
+un esoscheletro metallico mod. H2o~
+Un esoscheletro metallico giace al suolo!~
+~
+22 b ak
+0 0 0 0
+13 100000 100
+E
+(null)~
+(null)
+~
+E
+H2o esoscheletro metallico~
+Quest'oggetto e' molto particolare. Aderisce perfettamente al corpo  e 
+sembra
+essere leggerissimo. Ha una etichetta interna al colletto che forse puo'
+dirti di piu'.
+~
+E
+etichetta~
+Tuta - Esocheletro  Brevetto n°atp09776 MIT Engine Lab. Waterproof Moisture
+Movement Tech.
+~
+A
+14 44
+A
+2 3
+#7908
+lampada alogena contrasto~
+lampada alogena a contrasto.~
+Una lampada alogena e' per terra.~
+~
+1 a ao
+0 0 -1 0
+2 4000 40
+#7909
+laser ~
+un laser.~
+Un laser e' qui in terra.~
+~
+5 bm an
+0 3 8 12
+21 1000000 10000
+A
+18 2
+A
+19 3
+#7910
+strangolatore molecolare shawn~
+Strangolatore molecolare shawn~
+Uno strangolatore molecolare giace a terra.~
+~
+5 bmnp an
+0 2 15 11
+8 30000 1000
+E
+strangolatore molecolare shawn~
+Questo oggetto dalla forma rotonda si adatta perfettamente al palmo della
+tua mano.E' composto da un cavo sottilissimo molecolare tenuto assieme
+da un campo magnetico. Su un lato reca una incisione.
+
+~
+E
+incisione~
+Alpha Chi Sigma, Professional Chemistry Fraternity
+*                   ()  |                (------|                   ||
+                 _||_
+~
+A
+1 3
+A
+2 4
+#7911
+modulo lame adamantite~
+modulo lame in adamantite~
+Un modulo di lame giace al suolo.~
+~
+5 b an
+0 3 12 3
+16 500000 5000
+E
+modulo lame adamantite~
+Questo modulo e' indossabile sopra i guanti o a mani nude. Si automodifica
+per adattarsi al meglio alla mano di chi lo  indossa. E' costituito di un
+corpo in titanio e tre lame in adamantite incorporate sul dorso.
+
+~
+#7913
+stiletto cromo molibdeno~
+stiletto al cromo-molibdeno.~
+Uno stiletto color oro giace al suolo.~
+~
+5 abfn an
+0 3 8 11
+10 100000 1000
+E
+stiletto cromo molibdeno~
+Questo stiletto e' un'arma infallibile. Trattato con i migliori componenti
+per far si che la sua lama abbia coefficienti di penetrazione altissimi.Reca
+una incisione sul manico.
+~
+E
+incisione~
+United Trauma Relief  Institute of Electrical and Electronic Engineers 
+(IEEE)
+
+~
+#7915
+carta magnetica verde~
+una carta magnetica verde~
+Una carta magnetica verde giace per terra.~
+~
+18 cdq ao
+0 0 0 0
+0 0 0
+#7916
+carta magnetica gialla~
+una carta magnetica gialla~
+Una carta magnetica gialla giace per terra.~
+~
+18 cdq ao
+0 0 0 0
+0 0 0
+#7917
+carta magnetica nera~
+una carta magnetica nera~
+Una carta magnetica nera giace per terra.~
+~
+18 cdq ao
+0 0 0 0
+0 0 0
+#7918
+scrivania~
+una scrivania~
+Una scrivania e' sistemata di fronte ad una sedia antica.~
+~
+15 0 0
+500 4 -1 0
+0 0 0
+#7919
+monete antiche~
+delle monete antiche~
+Delle monete antiche sono state abbandonate qua.~
+~
+20 0 a
+11734 0 0 0
+5 5734 0
+E
+monete antiche~
+Sono dei dobloni spagnoli,ma sembrano avere una luce particolare.
+
+~
+#7920
+collana oro antica~
+un' antica collana in oro~
+Una bellissima collana in oro giace al suolo!~
+~
+9 gh ac
+7 0 0 0
+0 0 0
+E
+collana oro antica~
+Questa collana ha la forma di un piccolo aspide che si morde la coda.
+
+~
+A
+3 3
+A
+9 50
+#7921
+pantalone blu~
+un pantalone blu~
+Un pantalone blu giace per terra.~
+~
+12 0 af
+0 0 0 0
+5 5 5
+#7922
+camicia blu~
+una camicia blu~
+Una camicia blu giace al suolo.~
+~
+12 0 ad
+0 0 0 0
+0 0 0
+#7923
+scarpe nere~
+un paio di scarpe nere~
+Un paio di scarpe nere sono per terra.~
+~
+12 0 ag
+0 0 0 0
+0 0 0
+#7924
+pantalone nero~
+un pantalone nero~
+Un pantalone nero giace per terra!~
+~
+12 0 af
+0 0 0 0
+0 0 0
+#7925
+camicia nera~
+una camicia nera~
+Una camicia nera giace al suolo!~
+~
+12 0 ad
+0 0 0 0
+0 0 0
+#7926
+camice bianco~
+un camice bianco~
+Un camice bianco giace al suolo~
+~
+12 0 ad
+0 0 0 0
+0 0 0
+$
+

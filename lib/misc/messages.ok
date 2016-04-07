@@ -1,0 +1,1150 @@
+* Note: all lines between records which start with '*' are comments and
+* are ignored.  Comments can only be between records, not within them.
+*
+* This file is where the damage messages go for offensive spells, and
+* skills such as kick and backstab.  Also, starting with Circle 3.0, these
+* messages are used for failed spells, and weapon messages for misses and
+* death blows.
+*
+* All records must start with 'M' in the first column (for 'Message').
+* The next line must contain the damage number (defined in spells.h),
+* then the messages (one per line):
+*   Death Message (damager, damagee, onlookers)
+*   Miss Message (damager, damagee, onlookers)
+*   Hit message (damager, damagee, onlookers)
+*   God message (damager, damagee, onlookers)
+*
+* All messages must be contained in one line.  They will be sent through
+* act(), meaning that all standard act() codes apply, and each message will
+* automatically be wrapped to 79 columns when they are printed.  '#' can
+* be substituted for a message if none should be printed.  Note however
+* that, unlike the socials file, all twelve lines must be present for each
+* record, regardless of any '#' fields which may be contained in it.
+
+***************************************************************************
+*                           Offensive Spells                              *
+***************************************************************************
+
+* Warm Cpu (Burning Hands)
+M
+ 5
+Hai bruciato la CPU di $N uccidendolo!
+La tua Cpu e' stata bruciata da $n. Sei morto!
+$n ha bruciato la Cpu di $N uccidendolo!
+Fallisci il tuo tentativo di bruciare la Cpu di $N.
+$n cerca inutilmente di scaldare la tua Cpu!
+$n prova inutilmente di far salire la temperatura della Cpu di $N.
+Danneggi la Cpu di $N facendone salire la temperatura!
+La tua Cpu e' danneggiata dall'aumento di temperaturatura causato da $n!
+$n danneggia $N facendo salire la temperatura della sua Cpu a livelli critici!
+Provi a far salire la temperatura della Cpu di $N. Che idota!!!
+Un idiota prova a far salire la temperatura della tua Cpu.
+$n prova a far salire la temperatura della Cpu di $N. Stupido!!
+
+* Electromagnetic Pulse (Call Lightning)
+M
+ 6
+Il tuo impulso elettromagnetico uccide $N!
+Sei ridotto in cenere da un impulso elettromagnetico inviato da $n!
+Il tuo impulso elettromagnetico riempie di scintille il corpo di $N!
+Il tuo impulso elettromagnetico colpisce il terreno di fronte a $N, mancandolo!
+L'impulso elettromagnetico di $n ti manca, bruciando il terreno di fronte a te!
+$N balza indietro, evitando l'impulso elettromagnetico di $n!
+Colpisci $N con il tuo impulso elettromagnetico, centro perfetto!
+Sei colpito dall'impulso elettromagnetico di $n, AHIA!
+$N urla di terrore quando l'impulso elettromagnetico di $n lo penetra!
+$N ferma il tuo impulso elettromagnetico con un semplice gesto!
+Fermi l'impulso elettromagnetico di $n con una sola mano!
+L'impulso elettromagnetico di $n scompare con un semplice gesto di $N.
+
+* Mail Bombing (Chill Touch)
+M
+ 8
+Sovraccarichi completamente $N con il tuo Mail Bombing uccidendolo...
+Il mail bombing di $n ti sovraccarica fino ad ucciderti.
+$n lancia un mail bombing contro $N che lo sovraccarica fino ad ucciderlo.
+Il tuo mail bombing non riesce a penetrare i filtri di $N!
+I tuoi filtri deviano in /dev/null il mail bombin di $n!
+il mail bombing di $n viene deviato in /dev/null dai filtri di $N!
+Il tuo mail bombing danneggia $N sovraccaricandolo!
+Il mail bombing di $n ti colpisce sovraccaricandoti!
+$n colpisce $N con un massiccio mail bombing!
+Mail bombing contro $N? -- che idiozia!!
+$n prova a colpirti con un mail bombing.. che ridere...
+$N ride del mail bombing di $n!
+
+* Snow Crash (Color Spray)
+M
+ 10
+HAI UCCISO $N!!! Non sentirti in colpa!
+La tua testa si riempie di puntini bianchi!
+$n riduce $N in un corpo martoriato!
+Il tuo Snow Crash manca $N -- DANNAZIONE!
+Il tentativo di Snow Crash di $n fallisce!
+Lo Snow Crash di $n colpisce tutto e tutti, tranne $N.
+Il tuo Snow Crash colpisce $N in faccia - WOW!
+Un improvviso Snow Crash ti fa girare la testa!
+Lo Snow Crash di $n colpisce $N mentre tenta invano di scappare!
+Lo sguardo di $N impedisce il tuo tentativo di Snow Crash.
+Basta il tuo sguardo per fermare lo Snow Crash di $n.
+Lo sguardo di $N annulla lo Snow Crash di $n.
+
+* Dispel Evil
+M
+ 22
+$N viene dissolto dalla tua bonta'!
+$n ti dissolve, rimpiangi di essere stato malvagio, e muori..
+$n dissolve completamente $N!
+$N non e' toccato dalla tua bonta'!
+$n pensa di essere veramente buono, e prova a fermarti.
+$N ride del tentativo di $n di fermarlo!
+$N rabbrividisce e soffre per la sua malvagita'!
+$n rende la tua anima urlante e sofferente!
+$n rende il malvagio spirito di $N urlante e sofferente!
+Credevi veramente di farlo soffrire?
+$n prova vanamente a fermarti.
+$n e' stupido...
+
+* Earthquake
+M
+ 23
+La terra si apre sotto i piedi di $N facendolo precipitare!
+La terra si apre sotto i tuoi piedi facendoti precipitare!
+La terra si apre sotto i piedi di $N facendolo precipitare!
+$N cerca disperatamente di mantenere l'equilibrio mentre la terra trema!
+Cerchi disperatamente di mantenere l'equilibrio mentre la terra trema!
+$N cerca disperatamente di mantenere l'equilibrio mentre la terra trema!
+$N cade giu' e danneggia se' stesso!
+Cadi e danneggi te stesso!
+$N cade giu' e danneggia se' stesso!
+$N levita in aria mentre la terra si apre in due.
+Rimani sospeso in aria mentre la terra si apre sotto ai tuoi piedi.
+$N levita in aria mentre la terra si apre in due.
+
+* Energy Drain
+M
+ 25
+$N si raggrinzisce mentre lo uccidi consumandogli l'energia!
+Pensi alla pace della tomba mentre $n succhia via la tua ultima scintilla di energia!
+$n consuma l'energia di $N che raggrinzisce come un bozzolo senza vita!
+Hai bisogno di studiare di piu'!
+Per tua fortuna $n dormiva durante le lezioni di Energy Drain!
+$n fallisce il drain di $N - che spreco!
+Prosciughi un po' dell'energia di $N!
+Senti le forze mancarti a causa del drain di $n!
+$n consuma $N - che spreco d'energia!!
+Consumi energia nel tentativo di drain di $N!
+Divertente! -- $n prova a consumare la tua energia!
+Lo sguardo di $N e' divertito dal futile tentativo di $n.
+
+* Ping Flood (Fireball)
+M
+ 26
+Il tuo Ping Flood colpisce $N con piena potenza, causando la morte immediata!
+Mentre bruci nelle fiamme della morte, vedi il sogghigno malefico di $n...
+L'energia generata dal Ping Flood di $n trasforma $N in un corpo carbonizzato!
+Il tuo Ping Flood esplode metri prima di $N, che applaude all'esibizione.
+$n ti lancia un Ping Flood che svanisce all'orizzonte; applaudi allo show.
+Il Ping Flood di $n manca $N - bello spettacolo!!
+Lanci un Ping Flood a $N e guardi soddisfatto il suo corpo avvolto dall'energia!
+Il tuo corpo e' avvolto dall'energia del Ping Flood di $n - ARGH!
+$n sorride vedendo il suo Ping Flood colpire la faccia di $N!
+E' poco rispettoso lanciare un Ping Flood ad un DIO!!!
+Scegli di ignorare l'irriverente tentativo di Ping Flood di $n.
+Il Ping Flood di $n e' placidamente ignorato da $N.
+
+* Harm
+M
+  27
+As you finish the incantation of the spell, $N falls dead due to the amount of harm $E takes!
+You feel light headed as $n completes a spell which causes you so much harm that you just snuff it.
+As $n touches $M, $N takes the full brunt of a harm spell and collapses.  Dead.
+Swinging out at $N, you miss and your harm spell goes off harmlessly.
+You duck out of the way of $n and $s harm spell misses you.
+Showing remarkable dexterity, $N avoids $n's reach and subsequent harm spell.
+You watch the pained expression on $N's face as you hit $M with your harm spell.
+You grimace in pain as $n's harm spell strikes you.
+A large grin crosses $n's face as $s harm spell causes $N grievous pain.
+Harm a god?  Are you serious?  Of course $N avoids it casually.
+$n tries to harm you.  Poor sod.
+What a buffoon!  $n looks somewhat perturbed as $N ignores the recently cast harm spell.
+
+* Electromagnetic Impulse (Lightning Bolt)
+M
+ 30
+Il tuo EMP manda in cortocircuito il corpo di $N!
+Vedi arrivare l'EMP di $n, e poi il nulla! - R.I.P.
+$N viene colpito in pieno dall'EMP di $n... e rimane solo polvere.
+Sbagli mira, e il tuo EMP manca $N!
+$n sbaglia mira e il suo EMP ti manca!
+$n lancia un EMP a $N ma si perde nel cielo!
+Il tuo EMP colpisce un $N col massimo effetto!
+COLPITO! L'EMP di $n ha trovato il suo bersaglio!
+I circuiti di $N impazziscono a causa dell'EMP di $n!
+Il tuo EMP viene assorbito dalle orecchie di $N...pare piacergli!
+Assorbi l'EMP di $n con le orecchie!
+$N assorbe facilmente l'EMP di $n!
+
+* Flame (Magic Missile)
+M
+ 32
+Il tuo flame fa completamente impazzire $N che muore di convulsioni!
+Il flame di $n ti uccide!
+Il flame acceso da $n fa impazzire $N che muore di convulsioni!
+Il tuo flame lascia $N indifferente.
+Ignori il flame di $n.
+$n cerca invano di scagliare un flame contro $N.
+Vedi con compiacimento il tuo flame coinvolgere $N estenuandolo!
+Il flame di $n ti sta estenuando!
+il flame di $n investe in tutta la sua potenza $N estenuandolo!
+Il tuo flame fa ridere $N.
+$n ti lancia un flame. Povero idiota.
+$N si scompiscia dalle risate per il flame lanciato da $n.
+
+* Shortcut (Shocking Grasp)
+M
+ 37
+$N muore per il corto circuito che gli hai provocato!
+$n ti provoca un corto circuito. Ilt tuo cuore non regge lo shock e muori.
+$n provoca a $N un corto circuito che gli e' fatale. Il cuore non regge e muore!
+$N riesce ad evitare il corto circuito che cerchi di prvocargli!
+Il corto circuito innescato nei tuoi confronti da $n non ti raggiunge!
+$N non viene raggiunto dal corto circuito provocatogli da $n!
+provochi un violento corto circuito a $N!
+$n ti manda in corto circuito!
+$n provoca un violento corto circuito a $N!
+Ti rendi conto che non puoi provocare un corto circuito a $N...
+Questa stupida creatura cerca di mandarti in corto...
+$n prova stupidamente a mandare in corto circuito $N!
+
+* Dispel Good
+M
+ 46
+$N viene dissolto dalla tua malvagita'!
+$n ti dissolve, rimpiangi di essere stato buono, e muori..
+$n dissolve completamente $N!
+$N non e' toccato dalla tua malvagita'!
+$n pensa di essere veramente malvagio, e prova a fermarti.
+$N ride divertito del tentativo di $n di fermarlo!
+$N rabbrividisce e soffre per la tua bonta'!
+$n rende la tua anima urlante e sofferente!
+$n rende il pacifico spirito di $N urlante e sofferente!
+Credevi veramente di farlo soffrire?
+$n prova vanamente a fermarti.
+$n e' stupido...
+
+
+***************************************************************************
+*                           Offensive Skills                              *
+***************************************************************************
+
+* Backstab
+M
+ 531
+$N lancia un grido strozzato, ma smette appena conficchi $p nella sua schiena!
+All'improvviso $n ti pugnala alla schiena, Riposa In Pace...
+$n conficca $p nella schiena di $N, ottenendo come risultato un grido strozzato, sangue, ed un corpo.
+$N evita cosi' velocemente il tuo attacco alle spalle che quasi ti tagli una mano!
+$n cerca di prenderti alle spalle, ma lo eviti!
+$n prova un attacco alle spalle a $N ma quasi si taglia la mano!
+$N lancia un grido strozzato appena conficchi $p nella sua schiena !
+Improvvisamente $n ti pugnala alle spalle!
+$n conficca $p nelle spalle di $N, causando strani suoni ed un po' di sangue!
+Basta uno sguardo di $N per farti dimenticare tutto!
+$n prova ad assalirti alle spalle, ma cambia idea
+$n prova ad assalire alle spalle $N, ma cambia idea.
+
+* Bash
+M
+ 532
+$N non si riprende dal tuo scontro! -- E' morto.
+Appena $n ti colpisce, abbandoni questa terra e muori...
+$N muore dopo che $n lo ha colpito!
+$N evita il tuo scontro, facendoti perdere l'equilibrio; cadi per terra!
+Eviti lo scontro di $n che perde l'equilibrio e cade!
+$N evita l'attacco di $n che perde l'equilibrio e cade!
+Il tuo scontro manda $N a gambe all'aria!
+$n ti manda gambe all'aria!
+$n manda gambe all'aria $N!
+Lo sgambetto di $N manda TE a gambe all'aria!
+$n prova a farti cadere, ma il tuo sgambetto fa cadere LUI!
+$n prova a far cadere $N ma viene sgambettato e cade per terra!
+
+* Kick
+M
+ 534
+Uccidi $N con un calcio al fegato!
+$n ti uccide con un calcio al fegato!
+$N muore dopo il calcio al fegato di $n!
+Il tuo splendido calcio volante manca $N di un metro.
+Il calcio volante di $n passa un metro sopra la tua testa.
+Il calcio volante di $n passa un metro sopra la testa di $N.
+Perbacco, devi pulire ancora i tuoi stivali dal sangue!
+Il calcio di $n colpisce in pieno la tua faccia!
+Il calcio di $n colpisce in pieno la faccia di $N!
+Calci la pietra che $N ha fatto apparire dal niente - AHIA!
+Sorridi quando il calcio di $n colpisce la pietra che hai fatto apparire.
+$n calcia una pietra apparsa improvvisamente.
+M
+ 534
+Il tuo calcio spacca a meta' la testa di $N - bleah!
+Il calcio di $n ti apre la testa in due!
+Il calcio di $n spacca in due la testa di $N - BLEAH!
+Il tuo calcio manca di molto $N, che sospira di sollievo.
+Il calcio di $n ti manca di molto, puoi respirare adesso...
+Il calcio di $n manca di molto $N, per sua fortuna...
+Il tuo calcio mozza il respiro a $N!
+Il calcio ricevuto ti mozza il respiro - UFF!
+Il calcio di $n toglie il respiro a $N!
+Cerchi di calciare $N ma perdi l'equilibrio e cadi nel fango!
+Eviti il calcio di $n, sbilanciandolo e facendolo cadere nel fango!
+$n cade nel fango dopo che $N lo ha sbilanciato.
+
+* Quivering Palm
+M
+ 553
+Colpisci con il tuo palmo alla nuca di $N causandogli una morte immediata.
+$n ti uccide con un colpo ben assestato del suo palmo sulla nuca!
+$N muore per il colpo ben assestato del suo palmo sulla nuca di $n!
+Manchi la testa di $N!.
+$n fa un bella giravolta mancando la tua testa con il palmo della mano.
+$n fa un bella giravolta mancando la testa di $N con il palmo della mano.
+Colpisci violentemente il collo con il palmo della mano -- Senti un rumore sinistro...
+$n ti colpisce al collo con il palmo della mano facendo scricchiolare le tue vertebre!
+$n colpisce al collo di $N con il palmo della mano facendo scricchiolare le sue vertebre!
+Colpisci una grossa pietra apparsa dal nulla! Ouch!
+Fai apparire dal nulla una grossa pietra bloccando il colpo di $n -- *ridacchi*
+$n colpisce una grossa pietra apparsa dal nulla.
+M
+ 553
+Colpisci il plesso solare di $N causandogli una morte immediata!
+$n ti colpisce al plesso solare causando la tua morte immediata!
+$n colpisce al plesso solare causando la morte immediata di $N!
+Manchi il corpo di $N!.
+$n fa un bella giravolta mancando il tuo corpo con il palmo della mano.
+$n fa un bella giravolta mancando il corpo di $N con il palmo della mano.
+Colpisci il plesso solare di $N!
+$n ti colpisce al plesso solare togliendo il respiro!
+$n colpisce al plesso solare di $N bloccandogli il respiro!
+Colpisci una grossa pietra apparsa dal nulla! Ouch!
+Fai apparire dal nulla una grossa pietra bloccando il colpo di $n -- *ridacchi*
+$n colpisce una grossa pietra apparsa dal nulla.
+
+* Onda Kamehameha
+M
+ 554
+La tua sfera energetica esplode sul corpo di $N uccidendolo istantaneamente.
+La sfera energetica di $n esplode sul tuo corpo uccidendo sul colpo!
+$N esplode ucciso dalla sfera energetica lanciata da $n!
+La tua sfera energetica manca $N per un pelo.
+$n ti lancia la sua sfera energetica e ti manca per un pelo.
+$n lancia la sfera energetica sopra la testa di $N.
+La tua sfera energetica esplode sul corpo di $N...
+La sfera energetica di $n esplode sul tuo corpo!
+La sfera energetica di $n esplode sul corpo di $N!
+La tua sfera energetica si dissolve sul corpo di $N.
+La sfera energetica di $n si dissolve sul tuo corpo.
+La sfera energetica di $n si dissolve sul corpo di $N.
+M
+ 554
+La tua sfera energetica esplode sul corpo di $N uccidendolo istantaneamente.
+La sfera energetica di $n esplode sul tuo corpo uccidendo sul colpo!
+$N esplode ucciso dalla sfera energetica lanciata da $n!
+La tua sfera energetica manca $N per un pelo.
+$n ti lancia la sua sfera energetica e ti manca per un pelo.
+$n lancia la sfera energetica sopra la testa di $N.
+La tua sfera energetica impatta sul corpo di $N esplodendo...
+La sfera energetica di $n si impatta sul tuo corpo esplodendo!
+La sfera energetica di $n si impatta sul corpo di $N esplodendo!
+La tua sfera energetica rimbalza su $N inoccuamente.
+La sfera energetica di $n rimbalza inoccuamente sul tuo corpo.
+La sfera energetica di $n rimbalza inoccuamente sul corpo di $N.
+
+***************************************************************************
+*                           Weapon Attacks                                *
+***************************************************************************
+
+* Hit
+M
+ 800
+Il tuo pugno alla testa di $N gli frattura il cranio!
+Il pugno alla testa di $n ti frattura il cranio!
+Il pugno di $n colpisce cosi' forte la testa di $N che gli frattura il cranio!
+Sferri un pugno a $N, ma sbagli!
+Eviti facilmente il pugno di $n!
+$N evita facilmente il pugno di $n!
+#
+#
+#
+I tuoi pugni rifiutano di colpire il potente $N.
+$n sembra avere problemi a combatterti!
+Il corpo di $n si ribella quando prova a colpire $N.
+M
+ 800
+Colpisci $N cosi' forte da ucciderlo sul colpo!
+Vieni colpito cosi' forte da morire sul colpo - ADDIO!
+$n colpisce $N allo stomaco uccidendolo sul colpo!
+Il tuo pugno manca $N e colpisce l'aria.
+Il pugno di $n ti manca.
+$n colpisce le ombre mentre $N si prende una pausa.
+#
+#
+#
+$N ti convince a parlare invece di combattere!!
+Convinci $n a discutere della situazione invece di combattere!
+$N convince $n che non e' necessario combattere.
+M
+ 800
+Colpisci $N cosi' forte da spezzargli il collo!
+$n ti colpisce cosi' forte che il tuo collo si spezza!
+Il collo di $N viene spezzato dal potente colpo di $n!
+Provi a colpire $N, ma ti evita senza difficolta'.
+$n prova a colpirti, ma lo eviti facilmente.
+$n prova a colpire $N che evita il colpo.
+#
+#
+#
+Colpisci te stesso invece di $N!
+$n colpisce se stesso!
+$n prova a colpire $N ma sbaglia e si colpisce da solo!
+M
+ 800
+Il tuo colpo spezza la spina dorsale di $N!
+Il colpo di $n ti spezza la spina dorsale!
+$n spezza la spind adorsale di $N con un colpo solo!
+$N si abbassa mentre provi a colpirlo.
+Ti abbassi ed eviti il pugno di $n.
+$N si abbassa ed evita il pugno di $n.
+#
+#
+#
+Non e' educato colpire un DIO!
+$n prova a colpirti - POVERINO!
+$n cerca di colpire $N - eheheheh
+
+* Sting
+M
+ 801
+You drive a sting directly into the heart of $N, killing $M!
+With a powerful driving force, $n's sting tears right through your chest causing instant death!
+$n drives $s sting through $N's chest, killing $M!
+You miss $N with your stinging blow!
+$n drives $s stinging blow at you, barely missing!
+You watch in fright as $n stings at $N, missing by mere inches!
+#
+#
+#
+Sting -- God... What are you thinking?
+$n tries to sting you, somewhat comical to tell the truth.
+$n stings at $N, then looks horrified as $N grins at $m!
+M
+ 801
+You violently sting $N repeatedly, causing $S death!
+You die a horrid death as $n stings you repeatedly all over your body!
+As $n stings $N all over the place, $N falls lifeless to the ground.
+You sting towards $N, but miss $M!
+$n misses you with $s sting!
+You watch on as $n stings at $N, but misses!
+#
+#
+#
+You sting at $N, and all that happens is that $E slaps himself as if a mosquito bit $M.
+Was that a bee you just felt?  Oh.. wait, it was just $n.
+$N begins to slap at $Mself as $n tries to sting $M.
+
+* Whip
+M
+ 802
+La tua frustata stacca la testa di $N dal corpo!
+La frustata di $n ti stacca la testa dal corpo!
+La frustata di $n stacca la testa di N$ dal corpo!
+Schiocchi la frusta verso $N ma ti colpisci in faccia!
+$n schiocca la frusta verso di te ma si colpisce in faccia!
+$n schiocca la frusta verso $N ma si colpisce in faccia!
+#
+#
+#
+Faresti meglio a fermarti prima che $N ti frusti il sederino!
+Il piccolo e patetico $n sta provando a frustarti...che carino.
+$n prova a frustare $N - non e' carino?
+M
+ 802
+Il tuo abile colpo di frusta apre il corpo di $N in due!
+La frustata di $n ti apre in due!
+Ghignando, $n taglia a meta' $N con una frustata!
+Provi a frustare $N, ma colpisci il terreno!
+$n prova a frustarti, ma colpisce il terreno!
+$n prova a frustare $N ma colpisce il terreno!
+#
+#
+#
+Non provare a frustare $N
+$n sta provando a frustarti. Che sonno!
+$n prova a frustare $N - che noia.
+
+* Slash
+M
+ 803
+Tagli $N in due parti - entrambe morte!
+Il fendente di $n ti taglia in due - R.I.P.!
+$N viene tagliato a meta' dal fendente di $n!
+Il tuo fendente viene facilmente evitato da $N.
+Eviti facilmente il fendente di $n.
+$N evita agilmente il fendente di $n.
+#
+#
+#
+Il tuo affondo a $N e' inutile.
+Pari facilmente il fendente di $n.
+$N para l'affondo di $n.
+M
+ 803
+Il tuo fendente a $N lo uccide sul colpo!
+Vedi il sangue spruzzare da tutte le parti dopo il fendente di $n. Sei morto.
+$n sferra un fendente a $N che spruzza di sangue ogni cosa a causa della ferita mortale.
+Manchi $N per un centimetro, maledetto!
+Eviti il fendente di $n e te la ridi!
+Il fendente di $n manca $N che ride divertito!
+#
+#
+#
+Dai, come puoi pensare di tagliare un DIO?
+Noti casualmente la sfrontata creatura di fronte a te...
+Il grande $N sembra ignorare il fendente di $n.
+M
+ 803
+$N urla di dolore quando il tuo fendente gli apre la cassa toracica!
+Il fendente di $n ti apre in due! R.I.P.!
+$n disseziona la cassa toracica di $N con un sigolo fendente!
+Il tuo fendente manca $N di un chilometro.
+Il fendente di $n ti manca di un chilometro.
+Il fendente di $n manca $N di un chilometro.
+#
+#
+#
+Non e' bello provare a tagliare un DIO, sai.
+$n prova a tagliarti, che maleducato!
+$n prova a tagliare $N, che maleducato!
+M
+ 803
+Il tuo fendente mozza di netto la testa di $N, che rotola via con un ultimo sguardo d'orrore.
+Per un secondo provi l'emozione del volo quando $n ti mozza la testa dal corpo!
+$n mozza la testa di $N che rotola via con un ultimo sguardo d'orrore!
+Il tuo fendente trova solo l'aria davanti a $N.
+Il fendente di $n passa lontano dalla tua testa.
+Il fendente di $n manca di molto $N.
+#
+#
+#
+Si si, va bene. Poi?
+$n prova un fendente su di te...va beh.
+$n prova un fendente su $N... illuso.
+
+* Bite
+M
+ 804
+Affondi i tuoi denti nel collo di $N - sangue dappertutto!
+$n affonda i suoi dente nel tuo collo, tagliandoti la giugulare!
+$n affonda i denti nel collo di $N, tagliandogli la giugulare!
+Cerchi di mordere $N, ma lo manchi.
+$n cerca di morderti, ma ti manca.
+$n cerca di mordere $N, ma manca il bersaglio.
+#
+#
+#
+Provi a mordere $N. AHIA! Fa male!
+Divertente, $n prova a morderti.
+Divertente, $n prova a mordere $N.
+M
+ 804
+Mordi il petto di $N fino al cuore e cade a terra agonizzante
+$n ti morde al petto fino al cuore; cadi per terra agonizzante.
+Il potente morso di $n affonda fino al cuore di $N che cade a terra agonizzante.
+Ti mordi la lingua nel tentativo di mordere $N.
+$n si morde la lingua nel tentativo di morderti!
+$n prova a mordere $N ma si morde la lingua!
+#
+#
+#
+Mmmhh... forse e' troppo grosso per le tue mascelle.
+$n prova a morderti, ma capisce che e' troppo per lui...
+$n prova stupidamente a mordere $N.
+
+* Bludgeon
+M
+ 805
+You forcefully bludgeon $N whose head suddenly cracks open like a walnut!
+$n bludgeons your head which cracks open like a walnut!
+$n ruthlessly bludgeons $N whose head cracks open like a walnut!
+You fruitlessly try to bludgeon $N.
+You easily dodge $n's attempt to bludgeon you.
+$n tries to bludgeon $N who easily avoids the blow.
+#
+#
+#
+Your attempt to bludgeon $N fails, luckily for you $N has a good sense of humor!
+Your patience is tried when $n tries to clobber you.
+$N restrains $Mself from zapping $n when $e attempts to bludgeon the mighty one.
+M
+ 805
+Your relentless bludgeoning of $N finally results in $S broken neck!
+$n's relentless bludgeoning of you finally results in your broken neck!
+$n's relentless bludgeoning of $N finally results in $N's broken neck!
+You try to bludgeon $N who simply laughs at you.
+$n tries to bludgeon you, but you avoid $m and laugh.
+$N laughs at $n's attempt to bludgeon $M.
+#
+#
+#
+Your attempt to bludgeon $N fails, luckily for you $N has a good sense of humor!
+Your patience is tried when $n tries to clobber you.
+$N restrains $Mself from zapping $n when $e attempts to bludgeon the mighty one.
+
+* Crush
+M
+ 806
+You crush $N right out of existence!
+$n crushes you right out of existence!
+$n crushes $N right out of existence!
+You try to crush $N who jumps out of the way!
+$n tries to crush you but you jump out of the way!
+$n tries to crush $N who jumps out of the way!
+#
+#
+#
+A pox on thee and thy pitiful crush on $N!
+$n seems to have a crush on you...
+$n seems to have a crush on $N...
+M
+ 806
+You crush $N's entire body, making a terrible mess!
+$n crushes your entire body, making a terrible mess!
+$n crushes $N's entire body, making a terrible mess!
+You hopelessly try to crush $N.
+$n hopelessly tries to crush you.
+$n hopelessly tries to crush $N.
+#
+#
+#
+A pox on thee and thy pitiful crush on $N!
+$n seems to have a crush on you...
+$n seems to have a crush on $N...
+
+* Pound
+M
+ 807
+You pound $N right into the ground!
+$n pounds you six feet under.
+$n pounds $N mightily on the head, crushing $S entire body!
+You pound at the air as $N nimbly steps out of the way!
+You jump out of the way in a panic as $n pounds at you!
+$n looks perturbed as $s pound misses $N!
+#
+#
+#
+You pound $N!  And $E thanks you for it?  *boggle*
+$n gives you a pound.  Wonder what the exchange rate is...
+$n starts giving pounds to $N who begins to count the money.
+M
+ 807
+You pound on $N with reckless abandon when you realize that $E is dead.
+With $s reckless pounding attacks, you succomb to death.
+$N falls under $n's pounding blows, yet $n continues $s attack!
+You hear the air whistle as you split the air with your pound!
+$n pounds in your direction, causing a whistling sound!
+With a loud whistle through the air, $n misses $s pounding attack upon $N!
+#
+#
+#
+Who are you trying to kid?
+Hmmm... I think you missed the joke that $n was trying to tell you.
+$N looks somewhat perplexed as $n tries to pound him!
+
+* Claw
+M
+ 808
+You claw $N's face right off!
+$n claws your face right off!
+$n claws $N's face right off!
+You try to claw at $N but miss!
+$n tries to claw at you but misses by a hair!
+$n tries to claw at $N, missing by a hair!
+#
+#
+#
+You dummy!  Not the claw, the claw!
+$n must be crazy - trying to claw at you!
+$n must be crazy - trying to claw at $N!
+M
+ 808
+Your razor-sharp claws rip $N wide open!
+$n's razor-sharp claws rip you wide open!
+$n's razor-sharp claws rip $N wide open!
+You try to claw at $N but almost nick yourself instead!
+$n tries to claw at you but nearly nicks $mself instead!
+$n tries to claw at $N but nearly nicks $mself instead!
+#
+#
+#
+You dummy!  Not the claw, the claw!
+$n must be crazy - trying to claw at you!
+$n must be crazy - trying to claw at $N!
+
+* Maul
+M
+ 809
+You maul $N across the chest and $E screams in pain as $E falls lifeless to the ground.
+As $n mauls you in the chest, you feel a searing pain... then nothing.
+With a brutal maul to the chest, $n slaughters $N!
+You swing wildly with your maul, almost hitting yourself!
+Phew!  $n missed you with $s wild maul!
+$n mauls at $N, missing wildly!
+#
+#
+#
+Mauling a God?  What would your poor mother think?  Of course, you probably wouldn't hesitate to maul her too.
+$n tries to maul you, and as $e fails, looks quite horrified.  How pleasant.
+$N laughs as $n tries to maul $M.  How comical.
+
+* Thrash
+M
+ 810
+You bring $N within the thrashing of $S life, and then thrash $M one last time, killing $M.
+$n thrashes you violently, and you die.
+With a horrible thrashing, $N falls lifeless under $n's blows!
+You miss your thrash against $N!
+What a stroke of luck, $n seems to have missed you with $s thrash!
+$n thrashes madly at $N, missing $M!
+#
+#
+#
+Thrash a God?  More likely that $N would thrash you, don't you think?
+What a fool, $n tried to thrash you.  *sigh*
+Looking rather silly, $n tries to thrash at $N.
+
+* Pierce
+M
+ 811
+You succesfully pierce $N and $S dead body falls to the ground in a lifeless heap.
+$n pierces you.  You are no longer a living member of this world -- R.I.P.!
+$n pierces $N whose suddenly lifeless body falls to the ground!
+You try to pierce $N but pierce the air instead!
+$n pierces holes in the air.
+$n tries to pierce air instead of fighting $N.
+#
+#
+#
+The mighty $N begins to think you a nuisance!!!
+Your patience is almost gone when you stare back at $n.
+The air is loaded when $N angrily wards off a piercing attack from $n.
+M
+ 811
+You pierce $N's heart, you heartbreaker you...
+$n breaks your heart, goodbye cruel world...
+$n pierces the heart of $N who falls to the ground clutching at the wound!
+You lunge at $N without managing to pierce $M.
+$n tries to pierce you but fails miserably.
+$n lunges at $N but can't pierce $M.
+#
+#
+#
+The great $N sends you a piercing look, OOPS!
+You return $n's pierce with a piercing look, hmmm...
+$N returns $n's pierce with a piercing look, hmmm...
+
+* Blast
+M
+ 812
+You blast $N with all of your might, killing $M!
+With $s powerful blast, $n tears your life from your body!
+$N falls lifeless as $n's blast rips $M apart!
+You blast wildly, missing $N by a mere inch or two!
+You skillfully avoid $n's wild blast!
+$n misses $N with $s wild blast!  What luck $N seems to have!
+#
+#
+#
+Are you kidding?  What do you expect your feeble blast to do to $N?
+Heh.  $n tried to blast you.  Good thing you have blastproof armour.
+$n looks afraid of the consequences as $e tries fruitlessly to blast $N.
+
+* Punch
+M
+ 813
+You punch at $N causing $S face to collapse under the blow, blood everywhere.  Doesn't look like $N will recover.  Ever.
+$n's forceful punch causes you to see red, until you die shortly thereafter.
+$n punches $N right in the face!  There is blood everywhere, and $N seems to be dead!
+You miss $N with your haymaker!
+$n throws a haymaker at you which whistles by your ear!
+$n just misses $N with a strong punch!
+#
+#
+#
+Punch a God?  May be smarter to punch a wall for a bit.  You might do more damage to it.
+Is that a quiet whistling noise you hear as $n is swinging $s fist about?
+$n looks like $e would prefer to have punched a wall rather than trying to punch $N.
+
+* Stab
+M
+ 814
+You stab $N through the heart!  Instant death!
+$n drives a stab at you, it pierces your heart!  RIP!
+$n stabs brutally at $N, killing him as $N is impaled by $n!
+You stab at $N, missing!
+$n misses a particularily nasty stab in your direction!
+$n stabs at $N!  $e misses!
+#
+#
+#
+You stab at $N!  Too bad $E's a god, huh?
+$n stabs at you!  Lucky for you that you are immune to this kind of thing.
+You watch in pity as $n stabs towards $N missing in the most futile way possible!
+M
+ 814
+You stab forth towards $N, hitting $M in the abdomen causing a messy but mortal wound!
+$n stabs you in the stomach, and you watch your insides fall out as you die.
+Making a mess of $N, $n kills $M with a stab to the midsection.
+You stab at $N, barely missing $M!
+$n stabs at you, missing by a good mile or so!
+$N grins at $n as the stab sent by $n goes wide!
+#
+#
+#
+Gods can't be stabbed, did noone ever teach you that?  And $N just so happens to be one.
+It sure is nice being a god isn't it... especially since $n can't hit you with $s stabs.
+$n stabs at $N only to discover $N's immunity to stabbing weapons.
+
+* fire pistol
+M
+ 815
+Spari a $N sulla fronte!  Morte instantanea!
+$n ti spara sulla fronte!  RIP!
+$n spara a $N sulla fronte uccidendolo immediatamente!
+Spari a $N, e lo manchi!
+$n ti spara e manca di un pelo!
+$n spara a $N!  $e manca il colpo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara! Fortuna per te, sei immortale.
+Vedi $n sparare a  $N mancandolo nel modo piu futile!
+M
+ 815
+Spari a  $N, e lo colpisci al cuore causando una morte immediata!
+$n ti spara al cuore, e senti le tue membra crollare al suolo, morto!
+$n uccide $N con un colpo in pieno petto.
+Spari a $N, mancandolo!
+$n ti spara, ma manca grossolanamente il colpo!
+$N sogghigna verso $n vedendo il colpo di $n mancarlo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara! Fortuna per te, sei immortale.
+Vedi $n sparare a  $N mancandolo nel modo piu futile!
+
+* fire rifle
+M
+ 816
+Spari una fucilata in fronte a $N!  Morte istantanea!
+$n ti spara una fucilata in fronte!  RIP!
+$n spara una fucilata in fronte a $N uccidendolo immediatamente!
+Spari una fucilata a $N, e lo manchi!
+$n ti spara una fucilata e ti manca di un pelo!
+$n spara una fucilata a $N!  $e manca il colpo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara! Fortuna per te, sei immortale.
+Vedi $n sparare a  $N mancandolo nel modo piu futile!
+M
+ 816
+Spari una fucilata a  $N, e lo colpisci al cuore causando una morte immediata!
+$n ti spara una fucilata al cuore, e senti le tue membra crollare al suolo, morto!
+$n uccide $N con una fucilata in pieno petto.
+Spari a $N, mancandolo!
+$n ti spara una fucilata, ma manca grossolanamente il colpo!
+$N sogghigna verso $n vedendo la fucilata di $n mancarlo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara! Fortuna per te, sei immortale.
+Vedi $n sparare a  $N mancandolo nel modo piu futile!
+
+* fire shotgun
+M
+ 817
+Spari una fucilata in fronte a $N!  Morte istantanea!
+$n ti spara una fucilata in fronte!  RIP!
+$n spara una fucilata in fronte a $N uccidendolo immediatamente!
+Spari una fucilata a $N, e lo manchi!
+$n ti spara una fucilata e ti manca di un pelo!
+$n spara una fucilata a $N!  $e manca il colpo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara! Fortuna per te, sei immortale.
+Vedi $n sparare a  $N mancandolo nel modo piu futile!
+M
+ 817
+Spari una fucilata a  $N, e lo colpisci al cuore causando una morte immediata!
+$n ti spara una fucilata al cuore, e senti le tue membra crollare al suolo, morto!
+$n uccide $N con una fucilata in pieno petto.
+Spari a $N, mancandolo!
+$n ti spara una fucilata, ma manca grossolanamente il colpo!
+$N sogghigna verso $n vedendo la fucilata di $n mancarlo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara! Fortuna per te, sei immortale.
+Vedi $n sparare a  $N mancandolo nel modo piu futile!
+
+* fire bazooka
+M
+ 818
+Spari un missile in testa a $N!  Morte istantanea!
+$n ti spara un missile in testa!  RIP!
+$n spara un missile in testa a $N uccidendolo immediatamente!
+Spari un missile contro $N, e lo manchi!
+$n ti spara un missile contro e ti manca di un pelo!
+$n spara un missile contro $N!  $e manca il colpo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara un missile! Fortuna per te, sei immortale.
+Vedi $n sparare un missile contro $N mancandolo nel modo piu futile!
+M
+ 818
+Spari un missile contro $N, e lo colpisci al petto causando una morte immediata!
+$n ti spara un missile in pieno petto, e senti le tue membra crollare al suolo, morto!
+$n uccide $N con un missile sparato in pieno petto.
+Spari un missile contro $N, mancandolo!
+$n ti spara un missile contro, ma manca grossolanamente il colpo!
+$N sogghigna verso $n vedendo il missile sparatogli da $n mancarlo!
+#
+#
+#
+Spari a $N!  Male, $N e' immortale!
+$n ti spara! Fortuna per te, sei immortale.
+Vedi $n sparare a  $N mancandolo nel modo piu futile!
+
+* fire granata
+M
+ 819
+Spari una granata contro $N colpendolo alla testa!  Morte instantanea!
+$n ti spara una granata in fronte!  RIP!
+$n spara una granata che colpisce $N alla testa uccidendolo immediatamente!
+Spari una granata contro $N, e lo manchi!
+$n ti spara contro una granata e ti manca di un pelo!
+$n spara una granata contro  $N!  $e manca il colpo!
+#
+#
+#
+Spari una granta contro $N!  Male, $N e' immortale!
+$n ti spara contro una granata! Fortuna per te, sei immortale.
+Vedi $n sparare una granata contro  $N mancandolo nel modo piu futile!
+M
+ 819
+Spari una granata che colpisce in pieno petto $N causando una morte immediata!
+$n ti spara una granata in pieno petto, e senti le tue membra crollare al suolo, morto!
+$n uccide $N con una granata che lo colpisce colpo in pieno petto.
+Spari una granata contro $N, mancandolo!
+$n ti spara contro una granata, ma manca grossolanamente il colpo!
+$N sogghigna verso $n vedendo la granata sparata da $n mancarlo!
+#
+#
+#
+Spari una granata contro $N!  Male, $N e' immortale!
+$n ti spara una granata contro ! Fortuna per te, sei immortale.
+Vedi $n sparare una granata contro $N mancandolo nel modo piu futile!
+
+* Suffering
+M
+ 899
+#
+Ti senti ferito...troppo ferito...stai morendo!
+$N si contorce per terra in agonia.
+#
+suffer miss victim - should never see.
+suffer miss room - should never see.
+#
+Giaci al suolo soffrendo per le terribili ferite...
+$N giace al suolo agonizzante...
+#
+Suffer god victim - should never see.
+Suffer god room - should never see.
+M
+ 899
+#
+Puoi solo rimanere immobile in attesa dell'ultimo istante...
+$N e' pallido per la mancanza di sangue, sembra che il cuore non batta...
+#
+suffer miss victim - should never see.
+suffer miss room - should never see.
+#
+Ti contorci per terra per le terribili ferite...
+$N giace immobile al suolo, sta soffrendo...
+#
+Suffer god victim -- should never see.
+Suffer god room -- should never see.
+
+* Poison
+M
+ 33
+#
+Senti il veleno bruciare nelle vene...un brivido, e muori!
+$N ha un ultimo brivido e poi crolla a terra, morto.
+#
+suffer miss victim - should never see.
+suffer miss room - should never see.
+#
+Soffri per il veleno che ti scorre nelle vene.
+$N sta veramente male e trema incontrollabilmente.
+#
+In qualche modo sei stato avvelenato.
+$N e' stato avvelenato.
+
+
+***************************************************************************
+*                              NPC Attacks                                *
+***************************************************************************
+
+* Fire Breath
+M
+ 702
+$N is killed by fire breath.
+You are burned to ash, as $n breathes on you.
+$n makes $N to ash.
+$N is missed by fire breath.
+$n breathes fire at you, but you avoids it.
+$N avoids $n's firebreath.
+$N is hit by fire breath.
+$n burns you.
+$N is partly made ash, as $n breaths fire.
+$N, being immortal, is just warmed.
+$n warms you.
+$n warms $N.
+
+* Gas Breath
+M
+ 703
+$N is killed by gas breath.
+You die from the gas $n breathes on you.
+$n kills $N with a gas breath.
+$N is missed by gas breath.
+$n breathes gas at you, but it has no effect.
+$N avoids $n's gas.
+$N is hit by gas breath.
+$n gasses you.
+$N is gassed by $n.
+$N is immortal, so can't be gassed.
+$n wants to gas you, but can't.
+$n tries to gas $N, but can't.
+
+* Frost Breath
+M
+ 704
+$N is killed by frost breath.
+You are frozen to ice, as $n breathes on you.
+$n makes $N to ice.
+$N is missed by frost breath.
+$n breathes frost at you, but you avoid it.
+$N avoids $n's frost breath.
+$N is hit by frost breath.
+$n freezes you with $s breath.
+$N is partly made ice, as $n breathes frost.
+$N is immortal, and thus avoids your frost breath.
+$n supplies you with air conditioning.
+$n supplies $N with air conditioning.
+
+* Acid Breath
+M
+ 705
+$N is killed by your acid breath.
+You are corroded to nothing, as $n breathes on you.
+$n corrodes $N to nothing.
+$N is missed by acid.
+$n breathes acid at you, but you avoids it.
+$N avoids $n's acidbreath.
+$N is hit by acid.
+$n corrodes you.
+$N is corroded as $n breaths acid.
+$N is immortal, and thus is immune to acid.
+$n helps you clean your hands with a little acid.
+$n helps $N cleaning.
+
+* Lightning Breath
+M
+ 706
+$N is killed by your lightning breath.
+You are killed by $n's lightning breath.
+$n killes $N with a lightning breath.
+$N is missed by your lightning breath.
+$n breathes lightning at you, but you avoids it.
+$N avoids $n's lightning breath.
+$N is hit by your lightning breath.
+$n hits you with a lightning breath.
+$N is hit by $n's lightning breath.
+$N is immortal and immune to lightning breath.
+$n tries to breath lightning upon you.
+$n tries to breath lightning upon $N.
+
+***************************************************************************
+*                              Psi Attacks                                *
+***************************************************************************
+* mind blast
+M
+ 400
+Il tuo mind blast devasta $N che muore di convulsioni!
+Il mind blast di $n ti uccide!
+Il mind blast di $n devasta $N che muore di convulsioni!
+Il tuo mind blast lascia $N indifferente.
+Ignori il mind blast di $n.
+$n cerca invano di scagliare un mind blast contro $N.
+Vedi con compiacimento il tuo mind blast fulminare $N!
+Il mind blast di $n ti sta fulminando!
+il mind blast di $n investe in tutta la sua potenza $N fulminandolo!
+Il tuo mind blast fa ridere $N.
+$n ti lancia un mind blast che si dissolve subito. Povero idiota.
+$N si scompiscia dalle risate per il mind blast lanciato da $n.
+
+* mind burn
+M
+ 404
+La tua scarica mentale disintegra il cervello di $N che muore istantaneamente!
+La scarica mentale di $n ti uccide!
+La scarica mentale di $n devasta il cervello di $N che muore istantaneamente!
+La tua scarica mentale lascia $N indifferente.
+Ignori la scarica mentale di $n.
+$n cerca invano di scagliare una scarica di energia mentale contro $N.
+Vedi con compiacimento la tua scarica di energia mentale colpire il cervello di $N!
+La scarica mentale di $n ti colpisce il cervello danneggiandolo!
+La scarica mentale di $n investe in tutta la sua potenza $N danneggiandogli il cervello!
+La tua scarica mentale fa ridere $N.
+$n ti lancia una scarica mentale che non ti fa neanche il solletico. Povero idiota.
+$N si scompiscia dalle risate davanti alla inutile scarica mentale lanciata da $n.
+
+* Mind Flame
+M
+ 412
+La mente di $N esplode con una fiammata, causando la morte immediata!
+Mentre la tua mente sta esplodendo in una fiammata noti $n sogghinare malevolmente...
+La testa di $N esplode in una fiammata lanciata dal potere mentale di $n!
+La tua fiammata mentale non raggiunge $N.
+La fiammata mentale di $n ti sfiora e va a vuoto.
+La fiammata mentale di $n non riesce a raggiungere $N e si perde nel vuoto!!
+La tua fiammata mentale colpisce il cervello di $N facendolo barcollare!
+Vieni colpito dalla violenta fiammata mentale di $n -- OUCH!!
+La fiammata mentale di $n colpisce in pieno il cervello di $N facendolo barcollare!
+Che idiozia pensare di colpire un Dio con la tua stupida fimmata mentale!!!
+Ignori la fiammata mentale scagliata da $n.
+La fiammata mentale scagliata da $n e' assolutamente ignorata da $N.
+$
+
+

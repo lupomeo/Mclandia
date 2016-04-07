@@ -1,0 +1,866 @@
+accuse 0 5
+Chi vuoi accusare??
+#
+Guardi con aria accusatoria $N.
+$n guarda con aria accusatoria $N.
+$n ti guarda con aria accusatoria.
+vuoi accusare qualcuno che non e' qui??
+Ti auto accusi.
+$n sembra avere la coscienza sporca.
+
+applaud 0 0
+Clap, clap, clap.
+$n prende un giro di applausi.
+#
+
+beg 0 0
+Ti metti a chiedere l'elemosina! :-))
+$n si mette a chiedere l'elemosina.
+Chiedi l'elemosina a $N.
+$n ti chiede l'elemosina.
+$n chiede l'elemosina a $N.
+Non c'e' nessuno con quel nome qui.
+Non ti aiutera' chiedere l'elemosina a te stesso.
+#
+
+bhug 0 0
+Chi vuoi abbracciare??
+#
+Stritoli $N in un abbraccio da orso.
+$n stritola $N in un abbraccio da orso.
+$n ti stritola in un caloroso abbaraccio da orso.
+Quella persona non e' qui.
+Provi ad abbracciarti da solo Che idiota.
+$n prova ad abbracciarsi da solo. IDIOTA!!
+
+bleed 0 0
+Sanguini abbondantemente
+$n sanguina abbondantemente..
+#
+
+blush 0 0
+Le tue guance sono in fiamme.
+$n arrossisce violentemente.
+#
+
+bonk 0 0
+Chi vuoi colpire??
+#
+Dai una botta in testa a $N.
+$n da' una botta in testa a $N.
+$n ti da' una botta in testa.
+Quella persona non e' qui.
+Ti dai una botta in testa.
+$n si da' una botta in testa!
+
+bounce 0 0
+Rimbalzi qua e la'.  BOIINGGGGGG!
+$n rimbalza qua e la'.
+#
+
+bow 0 5
+Ti inchini profondamente.
+$n si inchina profondamente.
+Ti inchini profondamente davanti a $N.
+$n si inchina profondamente davanti a $N.
+$n si inchina profondamente di fronte a te.
+Chi e'?
+Baci i tuoi piedi.
+$n bacia i piedi di $s 
+
+brb 0 0
+A presto!
+$n sara' presto di nuovo qui!
+#
+
+burp 0 0
+BURP !
+$n BURP !.
+#
+
+cackle 0 0
+Ridacchi allegramente.
+$n se la ridacchia allegramente!
+#
+
+chuckle 0 0
+ridacchia di soppiatto.
+$n ridacchia di soppiatto.
+#
+
+clap 0 0
+Batti le mani.
+$n mostra la sua approvazione battendo le mani.
+#
+
+comb 0 0
+Ti aggiusti i capelli.
+$n si aggiusta i capelli.
+Cerchi di spicciare pazientemente i capelli di $N !
+$n cerca di aggiustare molto pazientemente i capelli di $N .
+$n ti tira i capelli nel tentativo di sistemarli.
+Quella persona non e' qui.
+Ti tiri i capelli ma non riesci a spicciarli.
+$n prova ad aggiustare i suoi capelli spettinati.
+
+comfort 0 5
+Ti senti inconsolabile?
+#
+Consoli $N.
+$n consola $N.
+$n ti consola.
+Chi vuoi consolare?
+Fai un vano tentativo di consolare te stesso.
+#
+
+cough 0 0
+Ehi, prova a coprirti la bocca la prossima volta!
+$n tossisce profondamente.
+#
+
+cringe 1 0
+Raggrinzisci dal terrore.
+$n raggrinzisce dal terrore!
+Sei terrorizzato da $N.
+$n e' terrorizzato da $N.
+$n e' terrorizzato da te.
+Non c'e' nessuno con quel nome qui.
+Pardon?
+#
+
+cry 0 5
+Uaaaaah..
+$n piange miseramente.
+Piangi sulla spalla di $S.
+$n piange sulla spalla di $N.
+$n piange sulla tua spalla.
+Non c'e' nessuno con quel nome qui.
+Piangi.
+$n Piange.
+
+cuddle 1 5
+Chi vuoi coccolare?
+#
+Coccoli afettuosamente $N.
+$n coccola amorevolmente $N.
+$n ti coccola amorevolmente.
+Non c'e' nessuno con quel nome qui.
+Mmhm ti devi sentire molto coccolato !!
+#
+
+curse 0 0
+Imprechi con vigore.
+$n impreca: #@*"*&^$$%@*&!!!!!!
+#
+
+curtsey 0 0
+Fai la riverenza.
+$n fa una graziosa riverenza.
+#
+
+dance 1 8
+Ti senti felice?
+$n si lancia in un ballo frenetico!
+Cingi la vita di $N e ti lanci i un giro di ballo.
+$n cinge la vita di $N e si mettono a ballare.
+$n ti cinge la vita e v mettete a ballare.
+Non c'e' nessuno con quel nome qui.
+Balli da solo.
+$n balla da solo.
+
+daydream 1 0
+Ti metti a pensare ai bei tempi.
+$n ha lo sguardo assente.
+#
+
+drool 1 0
+Ti inizi a sbavare.
+$n inizia a sbavare.
+Inizi a sbavare su $N.
+$n inizia a sbavare su $N.
+$n ti sbava addosso.
+Pardon??
+Bah...yuk!
+$n si sbava addosso.  Che schifo!!
+
+embrace 0 0 
+Non ci riesci.  :(
+$n cerca qualcuno da abbracciare ma non lo trova.
+Abbraci calorosamente $N.
+$n abbraccia calorosamente $N.
+$n ti abbraccia calorosamente.
+Non c'e' nessuno con quel nome qui.
+Ti abbracci da solo??  
+$n si abbraccia da solo.
+
+fart 0 0
+Scoreggi.
+$n lascia andare una fragorosa scoreggia!
+#
+
+finger 0 0
+A chi vuoi mostrare il dito medio??
+#
+Mostri il dito medio a $N.
+$n alza il ditto medio e lo mostra offensivamente a $N.
+$n ti mostra il dito medio.
+Quella persona non e' qui.
+Ti mostri il dito medio offensivamente.
+$n si mostra il dito medio.. Bah !!
+
+five 0 0
+A chi vuoi dare il cinque??
+#
+Dai il cinque a $N
+$n e $N alzano il braccio e si danno il cinque.
+$n ti da il cinque.
+Quella persona non e' qui.
+Provi a darti il cinque da solo.
+$n prova a darsi da solo il cinque. IDIOTA!!
+
+flex 1 0
+Gonfi i muscoli e pompi i bicipiti.
+$n gonfia i muscoli e pompa i bicipiti.
+#
+
+flip 0 0
+Fai una capriola.
+$n fa una capriola.
+#
+
+flirt 1 5
+Flirti sfacciatamente.
+$n flirta sfacciatamente.
+Flirti sfacciatamente con $N.
+$n flirta sfacciatamente con $N.
+$n flirta sfacciatamente con te.
+Non c'e' nessuno con quel nome qui.
+Flirti con te stesso.  Che idiota.
+$n pensa di essere la persona piu' bella del mondo.
+
+fondle 0 5
+Chi?
+#
+Carezza amorevolmente $N.
+$n carezza amorevolmente $N.
+$n ti carezza amorevolmente.
+Chi vuoi carezzare.
+Ti accarezzi amorevolmente, Che stupidaggine!
+$n si accarezza amorevolmente -- Che idiozia!!
+
+french 0 0
+Baciare chi??
+#
+Baci $N in bocca appassionatamente, a lungo. Ti sembra che non finisca mai...
+$n bacia appasionatamente in bocca $N .
+$n ti bacia in bocca, appassionatamente a lungo. Sembra non finire mai...
+Quella persona non e' qui.
+Provi a baciarti da solo Che idiota.
+$n prova a baciarsi da solo. IDIOTA!!
+
+frown 0 0
+Aggrotti le sopracciglia.
+$n Aggrotta le sopracciglia.
+#
+
+fume 1 5
+Schiumi di rabbia.
+$n e' furioso.
+Sei furioso con $N.
+$n e' furioso con $N.
+$n e' furioso con te!
+Non c'e' nessuno con quel nome qui.
+Sei furioso con te stesso!
+$n e' furioso con se stesso.
+
+gasp 0 0
+Rimani senza fiato dallo stupore.
+$n rimane senza fiato dallo stupore.
+#
+
+giggle 0 0
+Ridi scioccamente.
+$n ride scioccamente.
+#
+
+glare 0 5
+Ti guardi intorno sprezzante.
+$n guarda in maniera sprezzante $N.
+Guardi in maniera sprezzante $N.
+$n guarda in maniera sprezzante $N.
+$n ti guarda in maniera sprezzante.
+Quella persona non e' presente.
+Guardi in maniera sprezzante ai tuoi piedi.
+$n guarda in maniera sprezzante ai piedi di $s, cosa e' $N?
+
+greet 0 0
+Salutare chi?
+#
+Saluti $N con un bacio sulla guancia.
+$n saluta $N con un bacio sulla guancia.
+$n ti saluta con un bacio sulla guancia.
+Non c'e' nessuno con quel nome qui.
+Non ci riesci!
+$n prova a salutarsi da solo, che idiota!!
+
+grin 0 0
+Sogghigni maleficamente.
+$n sogghigna maleficamente.
+#
+
+groan 0 0
+gemi fortemente.
+$n geme fortemente.
+#
+
+grope 0 5
+Chi cerchi di tastare??
+#
+tasti $N.
+$n tasta $N.
+$n ti tasta.
+Non c'e' nessuno con quel nome qui.
+Ti tasti.
+$n si tasta.
+
+grovel 1 0
+Strisci per terra.
+$n striscia per terra.
+Strisci davanti a $N
+$n striscia davanti a $N.
+$n striscia per terra davanti a te.
+Chi?
+Bah!..
+#
+
+growl 0 0
+Grrrrrrrrrr...
+$n ringhia ferocemente.
+#
+
+hiccup 0 0
+*HIC*
+$n ha il singhiozzo HIC!
+#
+
+hkiss 0 0
+Baciare la mano di chi??
+#
+Baci la mano di $N.
+$n si china e bacia elegantemente la mano di $N .
+$n ti bacia la mano.
+Quella persona non e' qui.
+Provi a baciarti la mano da solo Che idiota.
+$n prova a baciarsi la mano da solo. IDIOTA!!
+
+hug 1 5
+Chi abbracci?
+#
+Abbracci $N.
+$n abbraccia $N.
+$n ti abbraccia.
+Quella persona non e' qui.
+Ti abbracci da solo.
+$n si abbraccia da solo
+
+kiss 0 0
+Chi vuoi baciare?
+#
+Baci dolcemente $N.
+$n bacia dolcemente $N.
+$n ti bacia dolcemente.
+Quella persona non e' qui.
+Tutte persone adorabili eh !
+#
+
+laugh 0 0
+Ti sbellichi dalle risate.
+$n si sbellica dal ridere.
+#
+
+lick 0 0
+Ti lecchi i baffi e sorridi.
+$n si lecca i baffi e sorride.
+Lecchi $N.
+$n lecca $N.
+$n ti lecca.
+Non c'e' nessuno con quel nome qui.
+Ti lecchi da solo.
+$n si lecca da solo -- YUCK.
+
+love 0 0
+Ami tutto il mondo.
+$n ama tutti.
+Dichiari il tuo amore a $N.
+$n susurra parole d'amore a $N.
+$n ti sussurra dolci parole d'amore.
+Non c'e' nessuno con quel nome qui.
+Si sa' si sa' che ami te stesso.
+$n ama se stesso. Bah !
+
+massage 0 0
+Chi vuoi massaggiare?
+#
+Massaggi dolcemnte le spalle di $N's.
+$n massaggia dolcemente le spalle a $N.
+$n ti massaggia dolcemente le spalle...ahhhhhhhhhh...
+Quella persona non e' qui.
+Provi a massaggiarti le spalle da solo.
+$n si esibisce in un esercizio yoga, provando a massaggiarsi.
+
+moan 0 0
+Ti metti a frignare.
+$n si mette a frignare.
+#
+
+moon 0 5
+Che cerchi di fare con le braghe calate?
+#
+Cali le braghe e mostri il culo a $N.
+$n cala le braghe e mostra il culo a $N.
+$n ti mostra il culo.
+Ti mostri il culo. Ti sembra una cosa logica?
+Cerchi di guardare il tuo fondoschiena.
+#
+
+nibble 0 0
+A chi?
+#
+Mordicchi il lobo dell'orecchio a $N.
+$n mordicchia il lobo dell'orecchio di $N.
+$n ti mordicchia il lobo dell'orecchio, mhhhhhh ...
+Non c'e' nessuno con quel nome qui.
+Impossibile farlo da soli.
+$n si mordicchia il lobo dell'orecchio (Non so come sia possibile!!).
+
+nod 1 0
+Annuisci solennemente.
+$n Annuisce solennemente.
+Annuisci a $N.
+$n annuisce a $N.
+$n ti annuisce.
+Non c'e' nessuno con quel nome qui.
+Annuisci da solo.
+$n annuisce a se' stesso.
+
+nudge 0 0
+Chi?
+#
+dai di gomito a $N.
+$n da una piccola botta di gomito a $N.
+$n ti da una piccola boota di gomito in segno di intesa.
+Non c'e' nessuno con quel nome qui
+Come pensi di riuscirci?
+$n apre il gomito e sembra un pollo.
+
+nuzzle 1 5
+A Chi?
+#
+Strofini dolcemente il naso sul collo di $N.
+$n strofina dolcemente il naso sul collo di $N.
+Mhhhh ... $n ti strofina dolcemente il naso sul collo.
+Non c'e' nessuno con quel nome qui.
+Impossibile farlo da soli.
+#
+
+pat 0 0
+A chi??
+#
+Dai una pacca sulla schiena di $N.
+$n da una pacca sulla schiena di $N.
+$n ti da una pacca sulla schiena.
+Non c'e' nessuno con quel nome qui
+Ti dai una pacca sulla sciena.
+$n si da una pacca sulla schiena. Che scemo!
+
+peer 1 0
+Ti guardi attentamente in giro.
+$n si guarda in giro attentamente.
+#
+
+point 1 0
+Chi vuoi indicare?
+$n indica in tutte le direzioni. Sembra molto confuso.
+Indichi $N.
+$n indica $N.
+$n ti indica.
+Non c'e' nessuno con quel nome qui
+Ti indichi.
+$n si indica.
+
+poke 0 0
+A chi??
+#
+Dai una gomitata nelle costole a $N.
+$n da una gomitata nelle costole a $N.
+$n ti da una gomitata nelle costole.
+Non c'e' nessuno con quel nome qui.
+Ti dai una gomitata, sentendoti vermente stupido !
+$n si da una gomitata da solo. Che idiota!
+
+ponder 1 0
+Rifletti sulla situazione.
+$n sta riflettendo sul da farsi.
+#
+
+pout 0 0
+Metti il broncio.
+$n mette il broncio.
+#
+
+pray 0 0
+Preghi.
+$n si mette a pregare.
+Ti metti a pregare $N.
+$n si mette a pregare $N.
+$n si inginocchia di fronte a te ed inizia a pregarti.
+Non c'e' nessuno con quel nome qui.
+Preghi te stesso...
+$n prega se stesso.
+
+puke 0 0
+Vomiti.
+$n vomita.
+Vomiti addosso a $N.
+$n vomita addosso a $N.
+$n vomita sui tuoi vestiti!
+Ancora?
+You ti vomiti addosso.
+$n si vomita addosso.
+
+punch 0 0
+prendi a pugni le mosche?
+$n mena pugni nel vuoto.
+Dai un pugno in faccia a $N.
+$n sferra un pugno in faccia a $N.
+$n ti da un pugno in faccia OUCH !
+Non c'e' nessuno con quel nome qui.
+Ti dai un pugno in faccia.
+$n si da un punto in faccia. Che stupido!!
+
+purr 0 0
+Fai le fusa.
+$n fa le fusa.
+#
+
+roll 1 0 
+Sei disgustato.
+$n e' disgustato.
+Sei disgustato da $N.
+$n e' disgustato da $N.
+$n e' disgustato da te.
+Um... chi?
+Sei disgustato da te stesso.
+$n e' disgustato da se stesso.
+
+ruffle 0 0
+A Chi?.
+#
+Arruffi affettuosamente i capelli di $N.
+$n arruffa affettuosamente i capelli di $N.
+$n ti arruffa affettuosamente i capelli.
+Non c'e' nessuno con quel nome qui..
+Ti arruffi da solo i capelli. Sembri matto !!
+$n si arruffa i capelli. Che idiota!
+
+scream 0 0
+ARRRRRRRRRRGH!!!!!
+$n strilla violentemente!
+#
+
+shake 0 5
+Scuoti la testa.
+$n scuote la testa.
+Stringi la mano di $N.
+$n stringe la mano di $N.
+$n ti stringe la mano.
+Non c'e' nessuno con quel nome qui.
+Ti scuoti da solo.
+$n si scuote come un pezzo di gelatina.
+
+shiver 0 0
+Rabbrividisci.
+$n Rabbrividisce violentemente.
+#
+
+shrug 0 0
+Srolli le spalle.
+$n scrolla le spalle.
+#
+
+sigh 0 0
+Gemi miseramente.
+$n geme miseramente.
+#
+
+sing 0 0
+Ti metti a cantare.
+FUGGITE TUTTI! $n ha iniziato a cantare.
+#
+
+slap 0 0
+Chi vuoi schiaffeggiare?
+#
+Schiaffeggi $N.
+$n schiaffeggia sonoramente $N.
+$n ti schiaffeggia !!
+Non c'e' nessuno con quel nome qui.
+Ti schiaffeggi da solo.
+$n si schiaffeggia da solo...
+
+smile 1 0
+Sorridi felice.
+$n sorride felice.
+Sorridi a $N.
+$n sorride a $N.
+$n ti sorride.
+Non c'e' nessuno con quel nome qui.
+Ti sorride da solo.
+$n sorride da solo. Poverino!!
+
+smirk 0 0
+Sorridi in maniera affettata.
+$n sorride in maniera affettata.
+#
+
+snap 0 0
+Schiocchi le dita.
+$n schiocca le dita.
+#
+
+snarl 0 0
+Ringhi irosamente.
+$n ringhia irosamente.
+Ringhi irosamente a $N.
+$n ringhia irosamente a $N.
+$n ti ringhia irosamente.
+Non c'e' nessuno con quel nome qui.
+Ringhi a te stesso probabilmente soffri di schizofrenia.
+$n Ringhia a se stesso.
+
+sneeze 0 0
+Etcciuuuu'!
+$n starnutisce.
+#
+
+snicker 0 0
+Ridacchi sommessamente.
+$n ridacchia sommessamente.
+#
+
+sniff 0 0
+Tiri su col naso.
+$n tira su col naso.
+#
+
+snore 0 0
+Zzzzzzzzzzzzzzzzz.
+$n russa profondamente.
+#
+
+snowball 0 0
+A chi vuoi tirare una palla di neve??
+#
+Tiri una palla di neve sulla faccia di $N.
+$n crea dal nulla una palla di neve e la tira in faccia a $N.
+$n crea dal nulla una palla di neve e te la tira in faccia.
+Non c'e' nessuno con quel nome qui..
+You conjure a snowball from thin air and throw it at yourself.
+$n crea una palla di neve e se la tira in faccia.
+
+snuggle 1 5
+Chi?
+#
+Coccoli dolcemente $N.
+$n coccola dolcemente $N.
+$n ti coccola dolcemente.
+Non c'e' nessuno con quel nome qui..
+Hmmm...
+#
+
+spank 0 8
+Chi vuoi sculacciare?
+$n sculaccia l'aria.
+Sculacci $N vigorosamente e a lungo.
+$n sculaccia vigorosamente $N.
+$n ti sculaccia vigorosamente e a lungo.
+Non c'e' nessuno con quel nome qui!
+Hmm, per niente piacevole.
+#
+
+spit 0 0
+Sputi dietro la tua spalla sinistra.
+$n sputa dietro la sua spalla sinistra.
+Sputi a $N.
+$n sput in faccia a $N.
+$n ti sputa in faccia.
+Non c'e' nessuno con quel nome qui.
+Ti sputi addosso.
+$n si sputa addosso.
+
+squeeze 0 0
+Chi???
+#
+Strizzi appassionatamente $N.
+$n strizza appassionatamente $N.
+$n ti strizza appassionatamente.
+Non c'e' nessuno con quel nome qui.
+Ti strizzi da solo
+$n si strizza da solo.
+
+stare 0 5
+Guardi con aria sognante il cielo.
+$n guarda il cielo con aria sognante.
+Guardi $N, con aria sognante, completamente perso nei suoi occhi..
+$n guarda negli occhi $N completamente perso nel suo sguardo.
+$n ti guarda con aria sognante negli occhi, completamente perso nel tuo sguardo.
+Non c'e' nessuno con quel nome qui.
+Ti guardi con aria sognante.
+$n si guarda con aria sognante. Che Narcisista!
+
+steam 0 0 
+Fumi di rabbia.
+$n fuma di rabbia.
+#
+
+stroke 0 0
+A chi lo vuoi fare?
+#
+Accarezzi dolcemente l'interno coscia di $N.
+$n accarezza dolcemente l'interno coscia di $N hmm...
+$n ti accarezza dolcemente l'interno coscia.
+Non c'e' nessuno con quel nome qui.
+Inizi a toccarti. Porco !
+$n si tocca l'interno delle coscie.
+
+strut 0 0
+Ti pavoneggi.
+$n si pavoneggia.
+#
+
+sulk 1 0
+Metti il broncio.
+$n mette il broncio.
+#
+
+tackle 0 5
+Tendi un agguato a vuoto.
+$n tende un agguato a vuoto.
+Tendi un agguato a $N. Arrivi da dietro le sue spalle e lo mand a gambe all'aria.
+$n tende un agguato a $N. Gli arriva da dietro di soppiatto e lo manda a gambe all'aria.
+$n ti tende un agguato. Ti prende alle spalle mandandoti a gambe all'aria!
+Non c'e' nessuno con quel nome qui.
+Tackle yourself?  Yeah, right....
+$n e' matto.
+
+tango 0 8
+Con chi?
+$n .........
+Balli un tango molto seducente con $N.
+$n balla un tango molto seducente con $N.
+$n balla con te un tango molto seducente.
+Non c'e' nessuno con quel nome qui.
+Stupido.
+$n balla un tango da solo.
+
+taunt 0 0
+Sgridi il nulla. 
+$n sgrida l'aria di fronte a se'.
+You sgridi sonoramente $N.
+$n sgrida sonoramente $N.
+$n ti sgrida sonoramente.
+Non c'e' nessuno con quel nome qui.
+Ti sgridi da solo.
+$n si sgrida da solo.
+
+thank 0 5
+Grazie a te.
+#
+Ringrazi $N di cuore.
+$n ringrazia di cuore $N.
+$n ti ringrazia di cuore.
+Non c'e' nessuno con quel nome qui.
+Ti ringrazi!
+$n si ringrazia! Che scemo.
+
+think 1 0
+Mediti.
+$n sta meditando sul significato della vita.
+Ti metti a pensare a $N.
+$n si mette a pensare a $N.
+Senti che $n sta pensando a te.
+Non c'e' nessuno con quel nome qui.
+Pensi a te stesso.
+$n pensa a se stesso.
+
+tickle 0 0
+A chi vuoi fare il solletico??
+#
+Fai il solletico a $N.
+$n fa il solletico a $N.
+$n ti fa il solletico - hee hee hee.
+Non c'e' nessuno con quel nome qui.
+Ti fai il solletico!
+$n si fa il solletico da solo...  Bah!!
+
+twiddle 0 0
+Ti giri i pollici.
+$n si gira i pollici.
+#
+
+wave 0 0
+Saluti allegramente agitando la mano.
+$n saluta allegramente agitando la mano.
+Saluti allegramente $N.
+$n saluta allegramente $N.
+$n ti saluta allegramente.
+Mi spiace non ha aspetato il tuo saluto.
+Ti saluti da solo?
+$n si saluta da solo.
+
+whine 0 0
+Piagnucoli miseramente.
+$n piagnucola miseramente.
+#
+
+whistle 0 0
+Lanci un fischio di apprezzamento.
+$n lancia un fischio di apprezzamento.
+#
+
+wiggle 0 0
+Sculetti seducentemente.
+$n sculetta in maniera sexy e seducente.
+#
+
+wink 0 5
+A chi?
+$n ammicca con intenzione.
+Ammicchi con intenzione a $N.
+$n ammicca con intenzione a $N.
+$n ti ammicca con intenzione.
+Non c'e' nessuno con quel nome qui.
+Ti ammicchi? Sei scemo o cosa??
+$n si ammicca con intenzione !! mmmh c'e' qualcosa che non va...
+
+worship 0 5
+Fai il tuo rituale di venerazione.
+$n inizia il suo rituale di venerazione.
+Ti inginocchi ed inizi a venerare $N.
+$n si inginocchia ed inizia a venerare $N.
+$n si inginocchia davanti a te ed inizia a venerarti.
+Non c'e' nessuno con quel nome qui.
+Ti veneri.....
+$n si inginocchia ed inizia venerare se stesso.
+
+yawn 0 0
+Sbadigli!
+$n sbadiglia ostentatamente.
+#
+
+yodel 0 0
+Inizi un sonoro YODEL.
+$n fa partire un rumorosissimo YODELLLLLLLLL!! Qualcuno potrebbe sopprimerlo??
+#
+
+$

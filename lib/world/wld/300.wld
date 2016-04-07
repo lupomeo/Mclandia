@@ -1,0 +1,1131 @@
+#30000
+La stazione della metropolitana.~
+Sei all'ingreso di una vecchia stazione della metropolitana oramai
+distrutta e pericolonte.
+Tutto e desolato e cadente.
+Delle scale portano verso il basso.
+Vedi un sentiero sterrato che si dipana verso nord.
+~
+300 c 3
+D0
+Una strada polverosa~
+~
+0 -1 22000
+D5
+il sottosuolo.
+~
+~
+0 0 30001
+D1
+Una strada ben pavimentata.
+~
+~
+0 0 3040
+S
+#30001
+Il sottosuolo.~
+Sei all'interno della vecchia linea della metropolitana.
+Fa freddo e c'e' una gran puzza.
+Il tunnel oscuro si dipana verso nord.
+~
+300 ad 0
+D0
+
+~
+~
+0 0 30002
+D4
+
+~
+~
+0 -1 30000
+S
+#30002
+Una deviazione sui binari.~
+Il cunicolo si addentra nel buio a nord e a sud.
+A est in un angolo, vedi un enorme mucchio di cartoni che
+potrebbero nascondere qualcosa.
+Un cadavere, una creatura del sottosuolo o un passaggio.
+~
+300 ad 0
+D0
+Una strada.
+~
+~
+0 0 30003
+D1
+Un mucchio di cartone.
+~
+passaggio carta cartoni mucchio~
+1 -1 30004
+D2
+
+~
+~
+0 0 30001
+E
+carta mucchio fogli~
+Ti sembra di vedere un passaggio sotto il mucchio di carta.
+~
+E
+passaggio~
+Sembra che un cunicolo continui verso est.
+~
+S
+#30003
+I binari.~
+Cammini lungo i binari, hai un forte senso di oppressione.
+La puzza di stantio si fa sempre piu' intensa.
+Il cunicolo continua sia a nord che a sud.
+~
+300 ad 0
+D0
+
+~
+~
+0 0 30019
+D2
+
+~
+~
+0 0 30002
+S
+#30004
+Un piccolo passaggio.~
+Uno stretto passaggio si insinua tra gli alberi, sempre piu' fitti.
+C'e' spazio per una sola persona.
+~
+300 acdi 0
+D1
+
+~
+~
+0 0 30005
+D3
+
+~
+~
+0 0 30001
+S
+#30005
+Un incrocio nella galleria.~
+Sbuchi in una galleria principale da cui si dipanano varie linee
+e binari.
+Davanti ai tuoi piedi vedi un masso di roccia nera che, da un lato, 
+presenta una sottile spaccatura: come un profondo taglio da cui sgorga 
+un rivolo d'acqua fresca che forma una polla. Senza comprenderne 
+il motivo, provi una intensa sensazione di rabbia e tristezza. 
+~
+300 ad 0
+D0
+La galleria principale.
+~
+~
+0 0 30006
+D2
+La galleria principale.
+~
+~
+0 0 30007
+D3
+
+~
+~
+0 0 30004
+E
+masso roccia basalto nero pietra~
+Sulla superficie liscia dell'enorme masso di basalto nero c'e' una 
+spaccatura da cui sgorga un rivolo di acqua purissima e cristallina. 
+Prima di arrivare a terra e raccogliersi in una polla fresca, limpida e 
+trasparente, il rivolo d'acqua scorre su dei segni strani, incisi nella 
+roccia.
+~
+E
+acqua rivolo polla~
+Dopo essere passato su degli strani segni incisi nella roccia, il 
+rivolo d'acqua che sgorga dalla spaccatura del masso nero si raccoglie 
+sul terreno in una polla chiara e cristallina. Ha un'aria cosi' fresca 
+e pura che sembra quasi invitarti a sorseggiarla.
+~
+E
+spaccatura taglio lato~
+Una stretta e lunga fessura spacca il masso di basalto nero fino 
+in profondita'. Sembra che la roccia sia stata colpita da un fucile laser.
+Dalla spaccatura cola un rivolo di acqua purissima e cristallina.
+~
+E
+segni incisione incisioni~
+Il rivolo d'acqua e' cosi' trasparente e puro che riesci a leggere i segni sopra i quali scorre, sembrano incisi con il laser, anche se alcune parole sono cancellate. Ti stupisce che qualcuno abbia usato un tale metodo per scrivere.
+Forse non aveva alternative e DOVEVA scrivere.
+
+"Son finito. Seto di esre viino alla so#uzi+ne del ande M*stero, ma s.. fiito."
+"Da qualche prte, qui, a Nord, c'e] il paxsag#io verso lo stravno Mondo degli implementors.
+
+"La mia  vita dedichta alxla ricerca e ora, a poxi oassi dalka meta"
+"E' la fine, non ho pi forxe n n poxso piu scriv"
+~
+S
+#30006
+La galleria principale.~
+L'aria e' soffocante e irrespirabile.
+Ti sembra di essere arrivato al capolinea, ma a guardare bene ti rendi conto
+che il muro davanti a te nasconde qualcosa o forse... no, sembra un gioco 
+di luci ... ma forse ...
+~
+300 ad 0
+D0
+
+~
+passaggio gioco luci~
+1 -1 30020
+D2
+
+~
+~
+0 0 30005
+E
+gioco luci passaggio~
+Un passaggio!
+~
+S
+#30007
+La galleria principale.~
+Ti aggiri ancora lungo i binari della galleria.
+Hai poca scelta o nord o sud.
+Strani rumori e ombre ti rendono sempre piu' inquieto.
+~
+300 ad 0
+D0
+
+~
+~
+0 0 30005
+D2
+
+~
+~
+0 0 30008
+S
+#30008
+L'angolo sud-ovest della galleria.~
+Ti trovi nell'angolo sud-ovest della galleria principale.
+Sia a nord che ad est c'e' il buio fitto.
+Ti sembra pero' di sentire rumori e scricchiolii sinistri
+provenire dalla tua destra.
+~
+300 ad 0
+D1
+Non riesci a vedere nulla.
+~
+~
+0 0 30009
+D3
+Buio.
+~
+~
+0 0 30007
+S
+#30009
+Una galleria laterale.~
+Sei in un'altra galleria che incrocia quella principale.
+Qui i binari sembrano ancora piu' vecchi. Anzo noti che in molti
+punti sono divelti.
+Inizi a percepire strani odori di sostanze organiche.
+Nella penombra ti sembra di vedere una forma non ben definita.
+Un corpo ... no, uno scheletro ... no, insomma.
+~
+300 ad 0
+D1
+Buio
+~
+~
+0 -1 30010
+D3
+Buio.
+~
+~
+0 0 30008
+E
+scheletro corpo resti~
+Sembrano i resti mortali di un essere che forse, una volta, e' stato un umano, un cyborg o ... MC sa cosa. Sospetti che sia l'autore delle incisioni.
+~
+S
+#30010
+Una galleria laterale.~
+Continui a seguire il percorso dei binari della vecchia metropolitana.
+A ovest c'e' il buoi fitto.
+Da est invece provengono numerosi rumori soffocati e piccoli riflessi
+di luci che ti fanno pensare ad una qualche attivita' umana
+o meccanica.  
+~
+300 acd 0
+D1
+
+~
+~
+0 -1 30011
+D3
+
+~
+~
+0 -1 30009
+S
+#30011
+La volta nella roccia.~
+Qui la galleria si allarga a dismisura.
+Mucchi di immondizia ti bloccano la strada.
+Un gran fetore di cibo avariato e sudore si spande nell'aria.
+Ti rendi conto che sei all'ingresso di una zona in cui
+deve vivere qualcuno. Per quanto non capisci come possa
+qualcuno vivere in queste condizioni.
+~
+300 ad 0
+D0
+
+~
+~
+0 -1 30017
+D1
+
+~
+~
+0 -1 30012
+D3
+
+~
+~
+0 -1 30010
+S
+#30012
+Una grande sala circolare.~
+Ti trovi in una grande stanza sporca e puzzolente.
+I muri sono pieni di graffiti che riportano in tutti i modi
+possibili e stilizzati la scritta "JERKIENS".
+Capisci di essere nella base di questo strano popolo del
+sottosuolo.
+Forse dei paria scacciati dalla citta' dei costruttori.
+In ogni caso persone ormai diventata quasi delle bestie.
+~
+300 0 0
+D0
+
+~
+~
+0 -1 30018
+D1
+
+~
+~
+0 -1 30013
+D3
+
+~
+~
+0 -1 30011
+S
+#30013
+Un cunicolo.~
+Sei in uno stretto cunicolo che corre all'interno della
+base dei Jerkiens.
+~
+300 0 0
+D2
+
+~
+~
+0 -1 30014
+D3
+
+~
+~
+0 -1 30012
+S
+#30014
+Una stanza piu' ordinata.~
+Questa stanza a differenza delle altre sembra piu' pulita e asciutta.
+Ti rendi conto che infatti questo e' il deposito delle armi della
+tribu'.
+~
+300 0 0
+D0
+Un cunicolo.
+~
+~
+0 -1 30013
+D3
+Una stanza.
+~
+~
+0 -1 30015
+S
+#30015
+Una stanza pulita.~
+Ti trovi inaspettatamente in una stanza pulita e ordinata.
+C'e' un letto ed una scrivania.
+Alcuni quadri adornano i muri.
+Forse questa e' la residenza privata del capo che evidentemente
+si tratta in maniera molto differente rispetto agli altri.
+~
+300 c 0
+D1
+
+~
+~
+0 -1 30014
+D3
+
+~
+~
+0 -1 30016
+S
+#30016
+Il rifugio di Jerkiel.~
+Sei in una stanza zeppa di computer e monitor.
+Capisci di essere nella tana del lupo.
+Da qui Jerkiel il capo della tribu' tiene sotto controllo tutti
+i cunicoli della linea sotterranea e gli accessi alla sua zona.
+~
+300 0 0
+D1
+
+~
+~
+0 -1 30015
+S
+#30017
+Il magazzino.~
+Ti trovi in un piccolo locale pieno di sporcizie e cianfrusaglie.
+Mucchi di roba vecchia e scassata sono sparsi ovunque.
+Evidentemente gli Jerkiens depositano qui tutto quello che
+trovano in giro.
+~
+300 0 0
+D1
+
+~
+~
+0 -1 30018
+D2
+
+~
+~
+0 -1 300011
+S
+#30018
+Un corridoio nella roccia~
+Sei in un corridoio che piega a gomito.
+C'e' odore di muffa e puzza di stantio. Le pareti trasudano
+umidita'.
+~
+300 0 0
+D2
+
+~
+~
+0 -1 30012
+D3
+
+~
+~
+0 -1 30017
+S
+#30019
+La fine della galleria.~
+Ti trovi la strada bloccata. Davanti a te vedi che le mura della
+galleria sono crollate. Anzi, ad un'occhiata piu' approfondita
+ti rendi conto che la galleria e' stata fatta saltare in aria.
+Evidentemente che vive dall'altra parte ha voluto isolarsi ed
+impedire l'accesso alla propria citta' da qui.
+~
+300 ad 0
+D2
+
+~
+~
+0 0 30003
+S
+#30020
+Le macerie.~
+Seguendo i binari ti rendi conto che sei arrivato in un punto morto.
+Sei tra le macerie di una vecchia fermata della Metro.
+La strada a nord e' interrotta.
+Le vecchie scale mobili che evidentemente portavano in superficie sono
+completamente divelte e inaccessibili.
+Un vecchio condotto dell'aria e' protetto da una grata arruginita.
+~
+300 ad 0
+D4
+un condotto dell'aria.
+~
+grata arruginita condotto aria~
+1 -1 30021
+D2
+
+~
+~
+0 -1 30019
+S
+#30021
+Una bassa costruzione.~
+Ti trovi nella saletta di manutenzione dell'impianto di circolazione
+forzata che pompava l'aria nella vecchia metropolitana.
+Tutto e' cadente e in rovina.
+Una scala si addentra in basso nel condotto dell'aria.
+~
+300 c 0
+D0
+Una strada ben tenuta.
+~
+~
+0 -1 30022
+D5
+
+~
+passaggio grata~
+1 -1 30020
+S
+#30022
+L'ingresso della citta'.~
+Sei giunto all'ingresso di una citta'. A sinistra e destra si 
+innalzano delle torri di guardia.
+Torri di Guardia? Tutta la zona sembra un paradosso storico.
+~
+300 0 1
+D0
+Sembra la via principale.
+~
+~
+0 -1 30028
+D1
+Ingresso della torre.
+~
+~
+0 -1 30025
+D2
+La strada.
+~
+~
+0 -1 30021
+D3
+Ingresso della torre.
+~
+~
+0 0 30023
+S
+#30023
+Posto di guardia.~
+Sei all'interno del posto di guardia della torre di sinistra. 
+Un tavolo, delle sedie. In fondo, un scala di pietra porta al 
+piano superiore.
+~
+300 0 0
+D1
+L'ingresso della citta'.
+~
+~
+0 -1 30022
+D4
+La scala porta di sopra, ma non si vede niente, da qui.
+~
+~
+0 -1 30024
+S
+#30024
+Stanza di avvistamento.~
+Sei salito al secondo piano della torre. C'e' un tavolo e un paio di sedie.
+Nulla di interessante. Dalle finestre si puo' controllare un bel tratto della 
+strada sottostante.
+~
+300 0 0
+D5
+Posto di guardia.
+~
+~
+0 -1 30023
+E
+finestra finestre~
+Vedi la strada.~
+S
+#30025
+Posto di guardia.~
+Sei all'interno del posto di guardia. Ci sono alcune sedie e un tavolo, 
+appoggiato alla parete. Una scala di pietra porta al piano superiore.
+
+~
+300 0 0
+D3
+L'ingresso della citta'.
+~
+~
+0 0 30022
+D4
+La scala porta di sopra.
+~
+~
+0 0 30026
+S
+#30026
+Stanza di avvistamento.~
+Sei salito al secondo piano della torre. C'e' un tavolo e un paio di sedie.
+Nulla di interessante. Dalle finestre si puo' controllare un bel tratto 
+della strada sottostante. La scala di pietra continua, c'e' un altro piano.
+~
+300 0 0
+D4
+La scala porta di sopra.
+~
+~
+0 0 30027
+D5
+Scende, e' evidente.
+~
+~
+0 0 30025
+E
+finestra finestre~
+Vedi la strada.~
+S
+#30027
+Posto di comando.~
+Sei entrato in quello che sembra essere il posto di comando della guardia.
+C'e' una scrivania, con sopra alcuni fogli di carta, tra i quali spicca 
+quella che sembra una lettera, un computer spento, penne, una calcolatrice 
+tascabile, un telefono senza fili.
+~
+300 d 0
+D5
+Scende, che altro?
+~
+~
+0 0 30026
+E
+computer~
+E' spento. E non vedi interruttori.
+~
+E
+lettera~
+Sembra una lettera tra amici. Ti vergogni un po', ma non sai resistere.
+C'e' scritto:
+
+Caro comandante,
+come ben sai,  e' essenziale impedire a chiunque di entrare in citta'. 
+Ultimamente ho notato un certo "rilassamento" nella guardia cittadina.
+Ti prego di ricordare ai tuoi uomini i loro doveri.
+Un saluto.
+
+Tuo Implementatore
+~
+S
+#30028
+La via principale.~
+Sei in quella che e', con molta evidenza, la via principale della citta'.
+~
+300 0 1
+D0
+
+~
+~
+0 -1 30029
+D2
+
+~
+~
+0 -1 30022
+S
+#30029
+La via principale.~
+La via continua. E' ben tenuta e molto pulita. Ma chi potrebbe sporcare? 
+I fantasmi sporcano?
+~
+300 0 1
+D0
+
+~
+~
+0 -1 30030
+D2
+
+~
+~
+0 -1 30028
+S
+#30030
+Un incrocio.~
+Infine, un crocevia. Strade nelle quattro direzioni.
+C'e' un semaforo, spento.
+~
+300 0 1
+D0
+
+~
+~
+0 -1 30031
+D1
+
+~
+~
+0 0 30044
+D2
+
+~
+~
+0 -1 30029
+D3
+
+~
+~
+0 0 30035
+E
+semaforo~
+E' un classico semaforo a tre luci, ma e' decisamente fuori uso.
+~
+S
+#30031
+La via principale.~
+Continua, senza esitazioni, da nord a sud.
+Ti guardi intorno, tutto e' pulito e in ordine.
+Non capisci proprio in che strano posto sei capitato.
+~
+300 0 1
+D0
+
+~
+~
+0 -1 30032
+D2
+
+~
+~
+0 -1 30030
+S
+#30032
+La via principale.~
+La strada continua. Non cambia nulla.
+~
+300 0 1
+D0
+
+~
+~
+0 -1 30033
+D2
+
+~
+~
+0 -1 30031
+S
+#30033
+Fine della via.~
+La strada finisce ... contro un muro! Un vicolo cieco, e' evidente. 
+Alla tua destra, una piccola costruzione in mattoni rossi. 
+C'e' una porta aperta.
+~
+300 0 1
+D1
+
+~
+~
+0 -1 30034
+D2
+
+~
+~
+0 -1 30032
+S
+#30034
+Stanza di controllo.~
+Sei entrato in un locale quadrato. Noti subito, lungo una parete, 
+un rack per computer, completamente vuoto.
+E' evidente che qualcuno ha rimosso il computer.
+~
+300 d 0
+D3
+L'uscita.
+~
+~
+0 -1 30033
+S
+#30035
+Una via secondaria.~
+La strada si e' ristretta. Ma il silenzio non cambia.
+~
+300 0 1
+D0
+Un negozio.
+~
+~
+0 -1 30036
+
+D1
+Il crocevia.
+~
+~
+0 -1 30030
+D2
+Una via secondaria.
+~
+~
+0 -1 30037
+D3
+Una via secondaria.
+~
+~
+0 -1 30038
+S
+#30036
+Il negozio Techno-Implanting.~
+Sei in uno splendido negozio di alta tecnologia.
+Qui puoi trovare le ultime novita' in fatto di
+chip e inpianti psychoneurali.
+~
+300 e 1
+D2
+
+~
+~
+0 -1 30035
+S
+#30037
+Una via secondaria.~
+La strada in questo punto corre parallela alla via
+principale in direzione nord e sud.
+~
+300 0 1
+D0
+Una via secondaria.
+~
+~
+0 -1 30035
+D2
+Una via secondaria.
+~
+~
+0 -1 30043
+S
+#30038
+Una via secondaria.~
+Questo tratto di strada e' assolutamente pulito e silenzioso.
+I tuoi passi risuonano sul selciato ricoperto di mosaici.
+~
+300 0 1
+D1
+Una via secondaria.
+~
+~
+0 -1 30035
+D3
+Una via secondaria.
+~
+~
+0 -1 30039
+S
+#30039
+Una via secondaria.~
+Se all'angolo nord-ovest di questa stradina che ti sembra
+procedere a semicerchio.
+~
+300 0 1
+D1
+Una via secondaria.
+~
+~
+0 -1 30038
+D2
+Una via secondaria.
+~
+~
+0 -1 30040
+S
+#30040
+Una via secondaria.~
+In questo tratto la strada e' circondata da alberi di alto fusto
+sempreverdi e molto curati.
+~
+300 0 1
+D0
+Una via secondaria.
+~
+~
+0 -1 30039
+D2
+Una via secondaria.
+~
+~
+0 -1 30041
+S
+#30041
+Una via secondaria.~
+Seo all'angolo sud-ovest di questa strana stradina.
+~
+300 0 1
+D0
+Una via secondaria.
+~
+~
+0 -1 30040
+D1
+Una via secondaria.
+~
+~
+0 -1 30042
+S
+#30042
+Una via secondaria.~
+Ti trovi in un tratto esclusivamente pedonale circondato di
+aiuole e fiori colorati.
+~
+300 0 1
+D1
+Una via secondaria.
+~
+~
+0 -1 30043
+D3
+Una via secondaria.
+~
+~
+0 -1 30041
+S
+#30043
+Una via secondaria.~
+Sei all'angolo sud-ovest di questa stradina che gira a 
+semicerchio.
+
+~
+300 0 1
+D0
+Una via secondaria.
+~
+~
+0 -1 30037
+D3
+Una via secondaria.
+~
+~
+0 -1 30042
+S
+#30044
+Una via laterale.~
+La strada continua verso ovest. E' decisamente piu' stretta 
+della via principale. 
+A sud si apre la vetrina di un piccolo locale.
+~
+300 0 1
+D1
+Una via.
+~
+~
+0 -1 30046
+D2
+Il locale "Da Snaffu".
+~
+~
+0 -1 30045
+D3
+Il crocevia.
+~
+~
+0 -1 30030
+S
+#30045
+Da Snaffu.~
+Sei entrato in un piccolo locale, il barista ti accoglie sorridente.
+Evidentemente non passano molti clienti da queste parti.
+~
+300 e 1
+D0
+Una via.
+~
+~
+0 -1 30044
+S
+#30046
+Una via laterale.~
+Non c'e' molto da vedere. Case e una via deserta.
+~
+300 0 1
+D1
+
+~
+~
+0 -1 30047
+D3
+
+~
+~
+0 -1 30044
+S
+#30047
+Davanti al palazzo.~
+Sei giunto alla fine della via. Davanti a te, un piccolo palazzo. 
+L'ingresso e' chiuso da un portone piuttosto robusto.
+C'e' una targa di metallo appesa al muro, accanto al portone.
+~
+300 0 0
+D1
+Un portone.
+~
+portone porta cancello~
+2 30009 30048
+D3
+Una via laterale.
+~
+~
+0 -1 30046
+E
+cartello targa~
+*-----------------------------*
+*                             *
+* We can build you, wholesale *
+*                             *
+*-----------------------------*
+~
+S
+#30048
+Androne del palazzo.~
+Sei entrato nell'androne del palazzo. E' abbastanza grande. 
+Sembra la reception di una multinazionale. C'e' il bancone 
+dell'accoglienza, quello per i passi. 
+Arredamento moderno e molto freddo. 
+In fondo, una grossa porta conduce all'interno.
+~
+300 d 0
+D1
+
+~
+~
+0 0 30049
+D3
+Un portone.
+~
+portone porta cancello~
+2 30009 30047
+S
+#30049
+Corridoio.~
+Ti trovi in un ampio corridoio riccamente decorato.
+I muri sono interamente ricoperti di legno pregiato.
+Una guida di velluto rosso corre sul pavimento.
+~
+300 d 0
+D0
+
+~
+~
+0 0 30050
+D2
+
+~
+~
+0 0 30055
+D3
+
+~
+~
+0 0 30048
+S
+#30050
+Corridoio.~
+Sei all'angolo nord-est del corridoio.
+A ovest c'e' una stanza da cui provengono
+vari rumorii e fruscii.
+Il corridoio continua a sud.
+~
+300 d 0
+D2
+
+~
+~
+0 0 30049
+D3
+
+~
+~
+0 0 30051
+S
+#30051
+Stanza dei Coders.~
+Sei nella stanza dei Coders.
+I Coders sono i programmatori di altissimo livello
+che lavorano sul codice del Mud.
+La stanza e' disordinata e piena di blocchi di appunti
+e fogli sparsi su cui sono appuntati algoritmi complicatissimi.
+~
+300 d 0
+D1
+
+~
+~
+0 0 30050
+D3
+
+~
+~
+0 0 30052
+S
+#30052
+Stanza dei Computers.~
+Questa e' la stanza in cui gira una copia del mud in locale.
+I Coders usano questa versione per testare le nuove implementazioni
+sperimentali del codice che vengono approvate dall'Implemntor.
+Attualmente pero' i computer sono disattivati e la rete e' down.
+~
+300 d 0
+D1
+
+~
+~
+0 0 30051
+S
+#30053
+Studio dell'Implementor.~
+Sei in un bellissimo studio dall'aredamento moderno ma caldo.
+La stanza e' molto ordinata e comoda.
+Sembra un luogo dedicato piu' alla riflessione e alla meditazione
+che al lavoro materiale.
+~
+300 d 0
+D5
+
+~
+~
+0 0 30054
+S
+#30054
+Stanza dei Builders.~
+Sei nella stanza dei Builders.
+I Builders sono coloro che progettano e costruiscono le locazioni,
+le zone ed in genere l'ambientazione del mud.
+La stanza e' disordinata e piena di libri che vanno dal genere
+Fantasy-Medievale a quello CyberPunk.
+~
+300 d 0
+D1
+
+~
+~
+0 0 30055
+D4
+
+~
+~
+0 0 30053
+S
+#30055
+Corridoio.~
+Sei nell'angolo sud-est del corridoio.
+Il corridoio prosegue a nord mentre a ovest vedi una stanza.
+~
+300 d 0
+D0
+
+~
+~
+0 0 30049
+D3
+
+~
+~
+0 0 30054
+S
+$

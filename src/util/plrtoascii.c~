@@ -1,0 +1,223 @@
+/* ************************************************************************
+*  file:  plrtoascii.c                                  Part of CircleMud *
+*  Copyright (C) 1990, 1991 - see 'license.doc' for complete information. *
+*  All Rights Reserved                                                    *
+************************************************************************* */
+
+#include "../conf.h"
+#include "../sysdep.h"
+
+#include "../structs.h"
+#include "../utils.h"
+#include "../db.h"
+#include "../diskio.h"
+#include "../pfdefaults.h"
+
+void sprintbits(long vektor,char *outstring);
+
+void convert(char *filename)
+{
+  FILE *fl;
+  struct char_file_u player;
+  FBFILE *outfile, *index_file;
+
+  char outname[40], bits[127];
+  int i;
+  struct char_special_data_saved *csds;
+  struct player_special_data_saved *psds;
+  struct char_ability_data *cad;
+  struct char_point_data *cpd;
+  struct affected_type *aff;
+
+  if (!(fl = fopen(filename, "r+"))) {
+    perror("error opening playerfile");
+    exit(1);
+  }
+  if (!(index_file = fbopen(PLR_INDEX_FILE, FB_WRITE))) {
+    printf("error opening index file");
+    exit(1);
+  }
+  for (;;) {
+    fread(&player, sizeof(struct char_file_u), 1, fl);
+    if (feof(fl)) {
+      fclose(fl);
+      fbclose(index_file);
+      exit(1);
+    }
+
+    for(i = 0;
+      (*(bits + i) = LOWER(*(player.name + i))); i++);
+    sprintf(outname, "pfiles%s%c%s%s", SLASH, *bits, SLASH, bits);
+    printf("writing: %s\n", outname);
+
+    fbprintf(index_file, "%d %s %d 0 %d\n", 
+	(int)player.char_specials_saved.idnum, bits, player.level,
+	player.last_logon);
+
+    if (!(outfile = fbopen(outname, FB_WRITE))) {
+      printf("error opening output file");
+      exit(1);
+    }
+
+/* char_file_u */
+    if(player.name)
+      fbprintf(outfile, "Name: %s\n", player.name);
+    if(player.pwd)
+      fbprintf(outfile, "Pass: %s\n", player.pwd);
+    if(player.title)
+      fbprintf(outfile, "Titl: %s\n", player.title);
+    if(player.description && *player.description)
+      fbprintf(outfile, "Desc:\n%s~\n", player.description);
+    if(player.sex != PFDEF_SEX)
+      fbprintf(outfile, "Sex : %d\n", (int)player.sex); 
+    if(player.chclass != PFDEF_CLASS)
+      fbprintf(outfile, "Clas: %d\n", (int)player.chclass); 
+    if(player.level != PFDEF_LEVEL)
+      fbprintf(outfile, "Levl: %d\n", (int)player.level); 
+    if(player.hometown != PFDEF_HOMETOWN)
+      fbprintf(outfile, "Home: %d\n", (int)player.hometown); 
+    fbprintf(outfile, "Brth: %d\n", (int)player.birth);
+    fbprintf(outfile, "Plyd: %d\n", (int)player.played);
+    fbprintf(outfile, "Last: %d\n", (int)player.last_logon);
+    fbprintf(outfile, "Host: %s\n", player.host);
+    if(player.height != PFDEF_HEIGHT)
+      fbprintf(outfile, "Hite: %d\n", (int)player.height);
+    if(player.weight != PFDEF_WEIGHT)
+      fbprintf(outfile, "Wate: %d\n", (int)player.weight);
+
+/* char_special_data_saved */
+    csds = &(player.char_specials_saved);
+    if(csds->alignment != PFDEF_ALIGNMENT)
+      fbprintf(outfile, "Alin: %d\n", csds->alignment);
+    fbprintf(outfile, "Id  : %d\n", (int)csds->idnum);
+    if(csds->act != PFDEF_PLRFLAGS)
+      fbprintf(outfile, "Act : %d\n", (int)csds->act);
+    if(csds->affected_by != PFDEF_AFFFLAGS) {
+      sprintbits(csds->affected_by, bits);
+      fbprintf(outfile, "Aff : %s\n", bits);
+    }
+    if(csds->apply_saving_throw[0] != PFDEF_SAVETHROW)
+      fbprintf(outfile, "Thr1: %d\n", csds->apply_saving_throw[0]);
+    if(csds->apply_saving_throw[1] != PFDEF_SAVETHROW)
+      fbprintf(outfile, "Thr2: %d\n", csds->apply_saving_throw[1]);
+    if(csds->apply_saving_throw[2] != PFDEF_SAVETHROW)
+      fbprintf(outfile, "Thr3: %d\n", csds->apply_saving_throw[2]);
+    if(csds->apply_saving_throw[3] != PFDEF_SAVETHROW)
+      fbprintf(outfile, "Thr4: %d\n", csds->apply_saving_throw[3]);
+    if(csds->apply_saving_throw[4] != PFDEF_SAVETHROW)
+      fbprintf(outfile, "Thr5: %d\n", csds->apply_saving_throw[4]);
+
+/* player_special_data_saved */
+    psds = &(player.player_specials_saved);
+    if(player.level < LVL_IMMORT) {
+      fbprintf(outfile, "Skil:\n");
+      for(i = 1; i <= MAX_SKILLS; i++) {
+	if(psds->skills[i])
+	  fbprintf(outfile, "%d %d\n", i, (int)psds->skills[i]);
+      }
+      fbprintf(outfile, "0 0\n");
+    }
+    if(psds->wimp_level != PFDEF_WIMPLEV)
+      fbprintf(outfile, "Wimp: %d\n", psds->wimp_level);
+    if(psds->freeze_level != PFDEF_FREEZELEV)
+      fbprintf(outfile, "Frez: %d\n", (int)psds->freeze_level);
+    if(psds->invis_level != PFDEF_INVISLEV)
+      fbprintf(outfile, "Invs: %d\n", (int)psds->invis_level);
+    if(psds->load_room != PFDEF_LOADROOM)
+      fbprintf(outfile, "Room: %d\n", (int)psds->load_room);
+    if(psds->pref != PFDEF_PREFFLAGS) {
+      sprintbits(psds->pref, bits);
+      fbprintf(outfile, "Pref: %s\n", bits);
+    }
+    if(psds->conditions[FULL] && player.level < LVL_IMMORT &&
+	psds->conditions[FULL] != PFDEF_HUNGER)
+      fbprintf(outfile, "Hung: %d\n", (int)psds->conditions[0]);
+    if(psds->conditions[THIRST] && player.level < LVL_IMMORT &&
+	psds->conditions[THIRST] != PFDEF_THIRST)
+      fbprintf(outfile, "Thir: %d\n", (int)psds->conditions[1]);
+    if(psds->conditions[2] && player.level < LVL_IMMORT &&
+	psds->conditions[DRUNK] != PFDEF_DRUNK)
+      fbprintf(outfile, "Drnk: %d\n", (int)psds->conditions[2]);
+    if(psds->spells_to_learn != PFDEF_PRACTICES)
+      fbprintf(outfile, "Lern: %d\n", (int)psds->spells_to_learn);
+
+/* char_ability_data */
+    cad = &(player.abilities);
+    if(cad->str != PFDEF_STR || cad->str_add != PFDEF_STRADD)
+      fbprintf(outfile, "Str : %d/%d\n", cad->str, cad->str_add);
+    if(cad->intel != PFDEF_INT)
+      fbprintf(outfile, "Int : %d\n", cad->intel);
+    if(cad->wis != PFDEF_WIS)
+      fbprintf(outfile, "Wis : %d\n", cad->wis);
+    if(cad->dex != PFDEF_DEX)
+      fbprintf(outfile, "Dex : %d\n", cad->dex);
+    if(cad->con != PFDEF_CON)
+      fbprintf(outfile, "Con : %d\n", cad->con);
+    if(cad->cha != PFDEF_CHA)
+      fbprintf(outfile, "Cha : %d\n", cad->cha);
+
+/* char_point_data */
+    cpd = &(player.points);
+    if(cpd->hit != PFDEF_HIT || cpd->max_hit != PFDEF_MAXHIT)
+      fbprintf(outfile, "Hit : %d/%d\n", cpd->hit, cpd->max_hit);
+    if(cpd->mana != PFDEF_MANA || cpd->max_mana != PFDEF_MAXMANA)
+      fbprintf(outfile, "Mana: %d/%d\n", cpd->mana, cpd->max_mana);
+    if(cpd->move != PFDEF_MOVE || cpd->max_move != PFDEF_MAXMOVE)
+      fbprintf(outfile, "Move: %d/%d\n", cpd->move, cpd->max_move);
+    if(cpd->armor != PFDEF_AC)
+      fbprintf(outfile, "Ac  : %d\n", cpd->armor);
+    if(cpd->gold != PFDEF_GOLD)
+      fbprintf(outfile, "Gold: %d\n", cpd->gold);
+    if(cpd->bank_gold != PFDEF_BANK)
+      fbprintf(outfile, "Bank: %d\n", cpd->bank_gold);
+    if(cpd->exp != PFDEF_EXP)
+      fbprintf(outfile, "Exp : %d\n", cpd->exp);
+    if(cpd->hitroll != PFDEF_HITROLL)
+      fbprintf(outfile, "Hrol: %d\n", cpd->hitroll);
+    if(cpd->damroll != PFDEF_DAMROLL)
+      fbprintf(outfile, "Drol: %d\n", cpd->damroll);
+
+/* affected_type */
+    fbprintf(outfile, "Affs:\n");
+    for(i = 0; i < MAX_AFFECT; i++) {
+      aff = &(player.affected[i]);
+      if(aff->type)
+	fbprintf(outfile, "%d %d %d %d %d\n", aff->type, aff->duration,
+	  aff->modifier, aff->location, (int)aff->bitvector);
+    }
+    fbprintf(outfile, "0 0 0 0 0\n");
+
+    fbclose(outfile);
+  }
+}
+
+
+int main(int argc, char **argv)
+{
+  if (argc != 2)
+    printf("Usage: %s playerfile-name\n", argv[0]);
+  else
+    convert(argv[1]);
+
+  return 0;
+}
+
+
+/*thanks to Luis Carvalho for sending this my way..it's probably a
+  lot shorter than the one I would have made :)  */
+void sprintbits(long vektor,char *outstring)
+{
+  int i;
+  char flags[53]="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+  strcpy(outstring,"");
+  for (i=0;i<32;i++)
+  {
+    if (vektor & 1) {
+      *outstring=flags[i];
+      outstring++;
+    };
+    vektor>>=1;
+  };
+  *outstring=0;
+};

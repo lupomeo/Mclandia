@@ -1,0 +1,25 @@
+                          WISHLIST
+
+-SISTEMARE I FLAG ANTI_CLERIC ANTI_MAGE ETC. CON LE CLASSI
+AGGIORNATE E AGGIUNGERE I FLAG PER LE NUOVE CLASSI
+- RISISTEMARE TUTTE LE ARMI LE ARMATURE ED I MOB PRESENTI IN GIOCO
+PER RIEQULIBRARE IL TUTTO. DIFFERENZIARE GLI OGGETTI CHE POSSONO
+ESSERE USATI DALLE singole CLASSI ESISTENTI
+
+
+-Implementare il crush degli oggetti e mettere una spec_proc al mob
+implementor per la riparazione
+-Cambiare mana in Ram sia nello score che nel prompt che nella tac.
+-Mettere la tac a pagamento
+-Oggetti mana regain
+-implementare il piano astrale (quando avremo abbastanza zone da collegare)
+- sistemare il remove curse  (non funziona bene ed e' per livelli troppo alti)
+
+
+			INCANTESIMI
+
+- second wind (refresh mov)
+- clarvoyance (sense dt) e qualcosa di simile per gli hacker
+- monsum e polymorph (da combinare insieme in modo da creare virus che 	si polimorfano)
+- portal per psionici
+- true sight per Vw e sysad da poter castare anche sugli altri

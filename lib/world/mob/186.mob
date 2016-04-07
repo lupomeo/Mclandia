@@ -1,0 +1,243 @@
+#18600
+configurazione incubo~
+l'Incubo della configurazione~
+L'Incubo della configurazione del modem ti sta di fronte
+~
+Cio che vedi ti sembra piu' un fantasma o forse meglio dire un incubo 
+e ti rendi conto che questo mostro e' quello che cerca di evitare che il 
+tuo modem comunichi correttament con il telefono!
+~
+abenopqr p -10 S
+2 5 10 2d16+20 1d8+1
+25 200
+8 8 0
+#18601
+abbonamento~
+l'abbonamento~
+L'Abbonamento e' davanti a te e ti intimorisce.
+~
+L'abbonamento e' uno dei nemici piu' grossi della tua vita di linker, 
+ma si sa, esiste ed e' sempre presente a ogni rinnovo annuale.
+~
+bfnopqr p -50 S
+10 5 10 10d8+300 2d6+0
+1500 1000
+8 8 0
+#18602
+linea incubo~
+l'incubo della linea occupata~
+L'Incubo della Linea Occupata e' davanti a te e ti intimorisce con uno 
+strano suono che fa Tuuu Tuuu.
+~
+L'Incubo della Linea Occupata e' uno dei nemici piu' grossi della tua 
+vita di linker, esiste ed e' sempre presente e capita quando hai bisogno 
+della linea.
+~
+bfnopqr p -50 S
+5 5 10 5d8+50 2d4+1
+50 500
+8 8 0
+#18603
+userid~
+l'User-ID~
+L'User-ID e' davanti a te e ti intima la parola di ingresso.
+~
+L'User-ID e' una delle seccature piu comuni della tua vita di linker, 
+compare sempre in ogni momento all'inizio della connessione..
+~
+bfnopqr p -50 S
+6 5 10 6d8+60 1d6+1
+50 600
+8 8 0
+#18604
+password~
+la Password~
+La Password e' davanti a te e ti intimorisce con la minaccia di perdersi.
+~
+La Password e' una delle seccature piu comuni della tua vita di linker, 
+compare sempre in ogni momento all'inizio della connessione. Hai sempre il 
+terrore che ti perda. 
+~
+bfnopqr p -50 S
+7 2 10 7d8+50 2d8+1
+50 1000
+8 8 0
+#18650
+vombato~
+il vombato della rete~
+Il vombato della rete e' qui davanti e sta rossichiando alcuni cavi UTP
+~
+Il vombato della rete e' un roditore dalla pelliccia marrone, ha la brutta 
+abitudine di rosicchiare tutto quello che capita e specialmente i cavi delle
+dorsali telefoniche
+~
+bcglm dp -50 E
+5 8 10 5d8+50 1d5+1
+100 350
+8 8 0
+BareHandAttack: 4
+E
+#18651
+motociclista~
+il motociclista~
+Il motociclista e' qui davanti con aria minacciosa.
+~
+Il motociclista e' vestito di una tuta di pelle nera e sta indossando 
+un casco nero. Non vedi niente altro dietro il casco.
+~
+glm d -50 E
+5 5 0 5d8+50 2d4+1
+75 500
+8 8 1
+BareHandAttack: 13
+E
+#18652
+motociclista~
+il motociclista~
+Il motociclista e' qui davanti e agita la catena con aria minacciosa.
+~
+Il motociclista e' vestito di una tuta di pelle nera e sta indossando 
+un casco nero. Non vedi niente altro dietro il casco. 
+In mano ha una catena di ferro e non sembra di buone intenzioni.
+~
+glm d -50 E
+5 5 0 5d8+50 2d4+1
+75 500
+8 8 1
+BareHandAttack: 13
+E
+#18680
+telecom mamma~
+Mamma Telecom~
+Mamma Telecom e' qui di fronte e rabbrividisci al suo sguardo.
+~
+Mamma Telecom e' il nemico piu' tembile di ogni linker, senti una strana 
+sensazione osservando la tetra figura incappucciata.
+~
+abcefglnopqr bcdekpst -500 E
+25 0 0 25d10+500 2d8+2
+2500 20000
+8 8 2
+BareHandAttack: 6
+E
+#18681
+gates bill~
+Bill Gates ~
+Bill Gates e' qui di fronte e rabbrividisci al suo sorisso.
+~
+Bill Gates ti guarda dietro i suoi occhialini, sorridendo beffardamente.
+E' la persona piu' odiata del mondo.
+~
+bcghjlnpq cdknps -500 E
+25 0 2 25d8+1000 2d4+2
+15000 25000
+8 8 1
+BareHandAttack: 13
+E
+#18682
+cox alan~
+Alan Cox~
+Alan Cox e' qui di fronte e rabbrividisci al suo aspetto.
+~
+Alan Cox e' il nemico piu' tembile di ogni utente windows. 
+E' il vero mago del kernel
+~
+abcgilno cdkmps 500 E
+25 0 0 25d8+1000 2d5+2
+1000 25000
+8 8 2
+BareHandAttack: 13
+E
+#18692
+utente microsoft~
+un utente Microsoft~
+un utente Microsoft
+~
+L'utente Microsoft sembra volersi difendere
+~
+cghjlm j -1000 S
+10 8 10 10d8+50 1d6+1
+100 1500
+8 8 0
+#18693
+thread~
+un thread Os/2~
+un thread Os/2
+~
+Il thread Os/2 ti sembra avercela con gli utenti Microsoft
+~
+i hp 1000 S
+10 7 5 10d8+50 1d8+1
+100 2000
+8 8 0
+#18694
+licenza microsoft~
+una licenza Microsoft~
+la licenza Microsoft
+~
+La licenza Microsoft ti sembra contemporaneamente forte e debole,
+quale sara' la sua forza e quale la sua debolezza?
+~
+bgnopqr h 1000 S
+15 5 2 15d8+100 2d4+1
+100 2500
+8 8 0
+#18695
+licenza GNU~
+una licenza GNU~
+la licenza GNU
+~
+La licenza ti sembra la piu' forte di tutte non dubiti che sarebbe
+in grado di distruggere quella Microsoft in un sol colpo
+~
+bgnopqr h 1000 S
+15 5 -2 15d10+100 2d6+0
+150 4000
+8 8 0
+#18696
+kernel~
+un kernel impazzito~
+un kernel linux impazzito
+~
+Il kernel sembra in grado di effettuare qualsiasi azione gli possa venire
+in mente.
+~
+cfhmnopqr p 0 S
+10 18 8 10d10+50 2d8+0
+5000 2500
+8 8 0
+#18697
+kernel~
+un kernel windows~
+in kernel windows
+~
+un kernel windows cerca di resistere
+~
+cfhnopqr 0 0 S
+10 19 10 10d10+10 2d4+0
+10 1000
+8 8 0
+#18698
+kernel~
+un kernel Os/2 impazzito~
+un kernel Os/2 vuole affermarsi
+~
+
+~
+cfhnopqr 0 0 S
+10 10 5 10d10+10 2d6+0
+100 1500
+8 8 0
+#18699
+backoffice~
+il BackOffice~
+il BackOffice di Microsoft
+~
+Il BackOffice sembra essere la soluzione di tutti i problemi, ma potete
+accorgervi che invece ne crea altri piu' gravi
+~
+abelnopqr dfkp 0 S
+30 3 0 30d8+1000 2d9+2
+10000 50000
+8 8 0
+$

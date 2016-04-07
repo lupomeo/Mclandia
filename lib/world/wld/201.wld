@@ -1,0 +1,2410 @@
+#20100
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A ovest vedi un recinto che delimita un campo minato, il
+prato continua a nord, est e sud.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20073
+D1
+
+~
+~
+0 -1 20101
+D2
+
+~
+~
+0 -1 20127
+S
+#20101
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A sud un recinto delimita un campo minato.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20074
+D1
+
+~
+~
+0 -1 20102
+D3
+
+~
+~
+0 -1 20100
+S
+#20102
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Il prato si estende verso nord, est ed ovest.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20075
+D1
+
+~
+~
+0 -1 20103
+D3
+
+~
+~
+0 -1 20101
+S
+#20103
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A sud un recinto delimita un campo minato.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20076
+D1
+
+~
+~
+0 -1 20104
+D3
+
+~
+~
+0 -1 20102
+S
+#20104
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A sud un recinto delimita un campo minato.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20077
+D1
+
+~
+~
+0 -1 20105
+D3
+
+~
+~
+0 -1 20103
+S
+#20105
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Il prato e' delimitato a sud da un recinto.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20078
+D1
+
+~
+~
+0 -1 20106
+D3
+
+~
+~
+0 -1 20104
+S
+#20106
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A sud un recinto delimita un campo minato.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20079
+D1
+
+~
+~
+0 -1 20107
+D3
+
+~
+~
+0 -1 20105
+S
+#20107
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A sud vedi un recinto che delimita il prato.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20080
+D1
+
+~
+~
+0 -1 20108
+D3
+
+~
+~
+0 -1 20106
+S
+#20108
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A ovest c'e' un prato e ad est una strada.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20109
+D2
+
+~
+~
+0 -1 20135
+D3
+
+~
+~
+0 -1 20107
+S
+#20109
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada continua a est e a sud.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20110
+D2
+
+~
+~
+0 -1 20136
+D3
+
+~
+~
+0 -1 20108
+S
+#20110
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada continua a nord e ad ovest.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20083
+D1
+
+~
+~
+0 -1 20111
+D2
+
+~
+~
+0 -1 20137
+D3
+
+~
+~
+0 -1 20109
+S
+#20111
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A est c'e' una rozza strada.
+~
+201 0 2
+D2
+
+~
+~
+0 -1 20138
+D3
+
+~
+~
+0 -1 20110
+S
+#20112
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+ti trovi in un corridoio tra due recinti che delimitano ad est una
+zona di addetramento e ad ovest un campo minato.
+Il prato si estende a nord e a sud.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20085
+D2
+
+~
+~
+0 -1 20139
+S
+#20113
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A ovest l'area e' delimitata da un recinto che la separa
+dal resto del campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20086
+D1
+
+~
+~
+0 -1 20114
+D2
+
+~
+~
+0 -1 20140
+S
+#20114
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+L'area si estende in tutte le direzioni.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20087
+D1
+
+~
+~
+0 -1 20115
+D3
+
+~
+~
+0 -1 20113
+S
+#20115
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Ti rendi conto che sei nella parte centronord della zona
+di esercitazioni.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20088
+D1
+
+~
+~
+0 -1 20116
+D3
+
+~
+~
+0 -1 20114
+S
+#20116
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+L'area e' vasta e si estende in tutte le direzioni.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20089
+D1
+
+~
+~
+0 -1 20117
+D3
+
+~
+~
+0 -1 20115
+S
+#20117
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Ti sembra di vedere in lontananza a est un recinto.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20090
+D1
+
+~
+~
+0 -1 20118
+D3
+
+~
+~
+0 -1 20116
+S
+#20118
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est un recinto separa quest'area da un'altra piu' impervia.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20091
+D3
+
+~
+~
+0 -1 20117
+S
+#20119
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est scorgi un fiume.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20092
+D1
+
+~
+~
+0 -1 20120
+D2
+
+~
+~
+0 -1 20146
+S
+#20120
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+201 0 7
+D0
+
+~
+~
+0 -1 20093
+D1
+
+~
+~
+0 -1 20121
+D2
+
+~
+~
+0 -1 20147
+D3
+
+~
+~
+0 -1 20119
+S
+#20121
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A ovest un fiume ti impedisce di proseguire.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20094
+D1
+
+~
+~
+0 -1 20122
+D2
+
+~
+~
+0 -1 20148
+D3
+
+~
+~
+0 -1 20120
+S
+#20122
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Un recinto ad est delimita un campo minato.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20095
+D2
+
+~
+~
+0 -1 20149
+D3
+
+~
+~
+0 -1 20121
+S
+#20123
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A est vedi il recinto esterno del campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20096
+D2
+
+~
+~
+0 -1 20150
+S
+#20124
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+201 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20097
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20151
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20125
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+201 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20098
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20152
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20126
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A ovest vedi il recinto esterno del campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20099
+D2
+
+~
+~
+0 -1 20153
+S
+#20127
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A est e ad ovest due recinti delimitano altrettanti campi minati.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20100
+D2
+
+~
+~
+0 -1 20154
+S
+#20128
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+Il campo si estende verso est e verso sud.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20129
+D2
+
+~
+~
+0 -1 20155
+S
+#20129
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20130
+D3
+
+~
+~
+0 -1 20128
+S
+#20130
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20131
+D3
+
+~
+~
+0 -1 20129
+S
+#20131
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20132
+D3
+
+~
+~
+0 -1 20130
+S
+#20132
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20133
+D3
+
+~
+~
+0 -1 20131
+S
+#20133
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20134
+D3
+
+~
+~
+0 -1 20132
+S
+#20134
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20135
+D3
+
+~
+~
+0 -1 20133
+S
+#20135
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A est vedi una strada.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20108
+D1
+
+~
+~
+0 -1 20136
+D3
+
+~
+~
+0 -1 20134
+S
+#20136
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada prosegue sia nord che a sud
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20109
+D1
+
+~
+~
+0 -1 20137
+D2
+
+~
+~
+0 -1 20163
+D3
+
+~
+~
+0 -1 20135
+S
+#20137
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A ovest vedi una strada interna.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20138
+D2
+
+~
+~
+0 -1 20164
+D3
+
+~
+~
+0 -1 20136
+S
+#20138
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20111
+D3
+
+~
+~
+0 -1 20137
+S
+#20139
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Ti trovi in una striscia di terreno delimiata da due recinti.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20112
+D2
+
+~
+~
+0 -1 20166
+S
+#20140
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A ovest una recinto separa la zona dal resto del campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20113
+D1
+
+~
+~
+0 -1 20141
+D2
+
+~
+~
+0 -1 20167
+S
+#20141
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+L'area prosegue sia ad est che a ovest.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20142
+D3
+
+~
+~
+0 -1 20140
+S
+#20142
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20143
+D3
+
+~
+~
+0 -1 20141
+S
+#20143
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+L'area prosegue a est e ovest.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20144
+D3
+
+~
+~
+0 -1 20142
+S
+#20144
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20145
+D3
+
+~
+~
+0 -1 20143
+S
+#20145
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est vedi un recinto che separa quest'area da un'altra.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20118
+D3
+
+~
+~
+0 -1 20144
+S
+#20146
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est un fiume ti impedisce di proseguire.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20119
+D1
+
+~
+~
+0 -1 20147
+D2
+
+~
+~
+0 -1 20173
+S
+#20147
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+201 0 7
+D0
+
+~
+~
+0 -1 20120
+D1
+
+~
+~
+0 -1 20148
+D2
+
+~
+~
+0 -1 20174
+D3
+
+~
+~
+0 -1 20146
+S
+#20148
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Alla tua sinistra scorre un fiume dagli alti argini.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20121
+D1
+
+~
+~
+0 -1 20149
+D2
+
+~
+~
+0 -1 20175
+D3
+
+~
+~
+0 -1 20147
+S
+#20149
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est un recinto ti separa da un campo minato.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20122
+D2
+
+~
+~
+0 -1 20176
+D3
+
+~
+~
+0 -1 20148
+S
+#20150
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A est intravedi il recinto esterno del campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20123
+D2
+
+~
+~
+0 -1 20177
+S
+#20151
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+201 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20124
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20178
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20152
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+201 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20125
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20179
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20153
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A ovest un recinto delimita il campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20126
+D2
+
+~
+~
+0 -1 20180
+S
+#20154
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Questa striscia di terreno corre tra due recinti che delimitano
+altrettanti campi minati.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20127
+D2
+
+~
+~
+0 -1 20181
+S
+#20155
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20128
+D2
+
+~
+~
+0 -1 20182
+S
+#20156
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada prosegue sia ad est che a sud.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20157
+D2
+
+~
+~
+0 -1 20183
+S
+#20157
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada continua a est e ovest.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20158
+D3
+
+~
+~
+0 -1 20156
+S
+#20158
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20159
+D3
+
+~
+~
+0 -1 20157
+S
+#20159
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+Puoi scegliere di andare a est o ovest.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20160
+D3
+
+~
+~
+0 -1 20158
+S
+#20160
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+Questo e' un breve tratto rettilineo che attraversa questo
+settore del campo in orizzontale.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20161
+D3
+
+~
+~
+0 -1 20159
+S
+#20161
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+Sei su un tratto rettilineo.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20162
+D3
+
+~
+~
+0 -1 20160
+S
+#20162
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada si snoda sia verso est che verso ovest.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20163
+D3
+
+~
+~
+0 -1 20161
+S
+#20163
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+A est vedi un che inizia un tratto di terreno brullo.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20164
+D3
+
+~
+~
+0 -1 20162
+S
+#20164
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20137
+D1
+
+~
+~
+0 -1 20165
+D2
+
+~
+~
+0 -1 20191
+D3
+
+~
+~
+0 -1 20163
+S
+#20165
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A ovest un recinto separa il prato da un campo minato.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20166
+D2
+
+~
+~
+0 -1 20192
+D3
+
+~
+~
+0 -1 20164
+S
+#20166
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A est un recinto delimita la zona di addestramento.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20139
+D2
+
+~
+~
+0 -1 20193
+D3
+
+~
+~
+0 -1 20165
+S
+#20167
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A ovest un recinto ti separa dal resto del campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20140
+D1
+
+~
+~
+0 -1 20168
+D2
+
+~
+~
+0 -1 20194
+S
+#20168
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+La zona si estende verso est e verso ovest.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20169
+D3
+
+~
+~
+0 -1 20167
+S
+#20169
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+ti rendi conto di essere piu' o meno al centro di questa zona.
+A sud vedi le pareti esterne di un edificio in muratura.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20170
+D3
+
+~
+~
+0 -1 20168
+S
+#20170
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Puoi procedere verso est o ovest.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20171
+D3
+
+~
+~
+0 -1 20169
+S
+#20171
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20172
+D3
+
+~
+~
+0 -1 20170
+S
+#20172
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est vedi un recinto invalicabile.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20145
+D2
+
+~
+~
+0 -1 20199
+D3
+
+~
+~
+0 -1 20171
+S
+#20173
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est vedi un fiume che non sembra guadabile.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20146
+D1
+
+~
+~
+0 -1 20174
+D2
+
+~
+~
+0 -1 20200
+S
+#20174
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+201 0 7
+D0
+
+~
+~
+0 -1 20147
+D1
+
+~
+~
+0 -1 20175
+D3
+
+~
+~
+0 -1 20173
+S
+#20175
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A ovest c'e' un fiume che in questo punto non ti sembra di poter
+guadare.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20148
+D1
+
+~
+~
+0 -1 20176
+D2
+
+~
+~
+0 -1 20202
+D3
+
+~
+~
+0 -1 20174
+S
+#20176
+Area esercitazioni~
+   Sei in un'area collinare costellata da nascondigli
+naturali e strani agglomerati di vegetazione che
+sembrano invece frutto di un intervento artificiale.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A est un recinto segna il limite di un campo minato.
+~
+201 0 4
+D0
+
+~
+~
+0 -1 20149
+D2
+
+~
+~
+0 -1 20203
+D3
+
+~
+~
+0 -1 20175
+S
+#20177
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20150
+D2
+
+~
+~
+0 -1 20204
+S
+#20178
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+201 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20151
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20205
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20179
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+201 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20152
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20206
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20180
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20153
+D2
+
+~
+~
+0 -1 20207
+S
+#20181
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Due recinti invalicabili a est e ovest ti obbligano a proseguire
+in altre direzioni.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20154
+D2
+
+~
+~
+0 -1 20208
+S
+#20182
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20155
+D2
+
+~
+~
+0 -1 20209
+S
+#20183
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+La strada prosegue a nord e a sud.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20156
+D2
+
+~
+~
+0 -1 20210
+S
+#20184
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20185
+S
+#20185
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20186
+D3
+
+~
+~
+0 -1 20184
+S
+#20186
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20187
+D3
+
+~
+~
+0 -1 20185
+S
+#20187
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20188
+D3
+
+~
+~
+0 -1 20186
+S
+#20188
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20189
+D3
+
+~
+~
+0 -1 20187
+S
+#20189
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20190
+D3
+
+~
+~
+0 -1 20188
+S
+#20190
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20191
+D3
+
+~
+~
+0 -1 20189
+S
+#20191
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+A est vedi un prato.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20192
+D3
+
+~
+~
+0 -1 20190
+S
+#20192
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+A ovest il terreno diventa brullo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20165
+D1
+
+~
+~
+0 -1 20193
+D2
+
+~
+~
+0 -1 20219
+D3
+
+~
+~
+0 -1 20191
+S
+#20193
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+Verso est un recinto invalicabile separa il prato dalla zona di
+addestramento.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20166
+D2
+
+~
+~
+0 -1 20220
+D3
+
+~
+~
+0 -1 20192
+S
+#20194
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Un recinto ad ovest separa quest'area dal resto del campo.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20167
+D1
+
+~
+~
+0 -1 20195
+D2
+
+~
+~
+0 -1 20221
+S
+#20195
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Ad est vedi l'entrata ad un edificio.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20196
+D3
+
+~
+~
+0 -1 20194
+S
+#20196
+Edificio di addestramento~
+   Sei in uno strano ambiente.
+Ti sembra quasi un set cinematrigrafico che riproduce
+un quartiere di New York.
+Ti rendi conto che qui ci si addestra alla preparazione
+di azioni terroristiche specifiche e operative.
+~
+201 d 0
+D1
+
+~
+~
+0 -1 20197
+D3
+
+~
+~
+0 -1 20195
+S
+#20197
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A ovest vedi le pareti esterne di un edificio in muratura.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20198
+D3
+
+~
+~
+0 -1 20196
+S
+#20198
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+A sud vedi le pareti perimetrali di un grosso edificio.
+~
+201 0 2
+D1
+
+~
+~
+0 -1 20199
+D3
+
+~
+~
+0 -1 20197
+S
+#20199
+Area esercitazioni~
+   Sei in un'area pianeggiante piena di cespugli e
+digressioni naturali.
+Ti rendi conto di essere in mezzo al nemico.
+Da un momento all'altro potresti incappare in un gruppo
+organizzato ed in pieno assetto da guerra.
+Ad est un recinto appare invalicabile e ti impedisce l'accesso
+alla zona adiacente.
+~
+201 0 2
+D0
+
+~
+~
+0 -1 20172
+D2
+
+~
+~
+0 -1 20226
+D3
+
+~
+~
+0 -1 20198
+S
+$
+
+

@@ -1,0 +1,274 @@
+#100
+CAW assalto fucile~
+un fucile da assalto CAW~
+Un fucile da assalto CAW giace qui.~
+~
+6 z ao
+4 1 12 0
+6 20000 100
+E
+CAW assalto fucile~
+E' un fucile da assalto modello Heckler & Koch CAW. Tenerlo in mano ti 
+da' una sensazione di onnipotenza.
+~
+#101
+bullet pallottola 22~ 
+una pallottola cal.22~ 
+Una palottola calibro 22 giace qui.~ 
+~ 
+7 0 a 
+1 0 0 1 
+1 7 1
+#102
+box scatola bullets pallottole 22~ 
+una scatola di pallottole cal.22~ 
+Una scatola di pallottole calibro 22 giace qui.~ 
+~ 
+7 0 a 
+1 0 0 50 
+1 350 0
+#103
+cartuccia shell~ 
+una cartuccia~ 
+Una cartuccia gauge 12 giace qui.~ 
+~ 
+7 0 a 
+4 0 0 1 
+1 25 0
+#104
+pack scatola cartucce shells~ 
+una scatola di cartucce~ 
+Una scatola di cartucce gauge 12 giace qui.~ 
+~ 
+7 0 a 
+4 0 0 25 
+1 625 0
+#105
+pallottola 7.62mm NATO~ 
+una pallottola 7.62 mm~ 
+Una pallottola 7.62 mm giace qui.~ 
+~ 
+7 0 a 
+7 0 0 1 
+1 10 0
+#106
+pack scatola pallottola 7.62mm NATO~ 
+una scatola di pallottole 7.62 mm~ 
+Una scatola di pallottole 7.62 mm giace qui.~ 
+~ 
+7 0 a 
+7 0 0 50 
+1 500 0
+#107
+pallottola 5.56mm~ 
+una pallottola 5.56 mm~ 
+Una pallottola 5.56 mm giace qui.~ 
+~ 
+7 0 a 
+8 0 0 1 
+1 10 0
+#108
+pack scatola pallottole 5.56mm~ 
+una scatola di pallottole 5.56 mm~ 
+Una scatola di pallottole 5.56 mm giace qui.~ 
+~ 
+7 0 a 
+8 0 0 50 
+1 500 0
+#109
+pallottola 7.62mm AK~ 
+una pallottola 7.62 mm AK~ 
+Una pallottola 7.62 mm AK giace qui.~ 
+~ 
+7 0 a 
+9 0 0 1 
+1 8 0
+#110
+pack scatola pallottole 7.62mm AK~ 
+una scatola di pallottole 7.62 mm AK~ 
+Una scatola di pallottole 7.62 mm AK giace qui.~ 
+~ 
+7 0 a 
+9 0 0 50 
+1 400 0
+#111
+pallottola 5.42mm~ 
+una pallottola 5.42 mm~ 
+Una pallottola 5.42 mm giace qui.~ 
+~ 
+7 0 a 
+10 0 0 1 
+1 9 0
+#112
+pack scatola pallottole 5.42mm~ 
+una scatola di pallottole 5.42 mm~ 
+Una scatola di pallottole 5.42 mm giace qui.~ 
+~ 
+7 0 a 
+10 0 0 50 
+1 450 0
+#113
+pallottola 9mm parabellum~ 
+una pallottola 9 mm parabellum~ 
+Una pallottola 9 mm parabellum giace qui.~ 
+~ 
+7 0 a 
+11 0 0 1 
+1 10 0
+#114
+pack scatola pallottole 9mm parabellum~ 
+una scatola di pallottole 9 mm parabellum~ 
+Una scatola di pallottole 9 mm parabellum giace qui.~ 
+~ 
+7 0 a 
+11 0 0 50 
+1 500 0
+#115
+M16A1 assalto fucile~
+un fucile da assalto M16A1~
+Un fucile da assalto M16A1 giace qui.~
+~
+6 z ao
+8 1 30 0
+4 10000 25
+E
+M16 assalto fucile~
+E' un fucile da assalto M16A1. E' tutto nero 
+~
+#116
+AK47 Kalashnikov assalto fucile~
+un fucile da assalto AK47 Kalashnikov ~
+Un fucile da assalto AK47 Kalashnikov  giace qui.~
+~
+6 z ao
+9 1 30 0
+4 7500 20
+E
+AK47 Kalashnikov fucile~
+E' un fucile da assalto AK47 Kalashnikov. E' tutto nero 
+~
+#117
+MP5 mitra~
+un mitra MP5 ~
+Un mitra MP5 giace qui.~
+~
+6 z ao
+11 1 30 0
+4 7500 20
+E
+MP5 mitra~
+E' una mitra Heckler und Koch MP5. 
+~
+#118
+UZI mitra~
+un mitra UZI ~
+Un mitra UZI giace qui.~
+~
+6 z ao
+11 1 18 0
+4 5000 20
+E
+MP5 mitra~
+E' una mitra UZI. 
+~
+#119
+FAMAS assalto fucile~
+un fucile da assalto FAMAS~
+Un fucile da assalto FAMAS giace qui.~
+~
+6 z ao
+8 1 24 0
+4 10000 25
+E
+FAMAS assalto fucile~
+E' un fucile da assalto FAMAS di produzione francese. Noti il 
+caratteristico design di costruzione bullpup.
+~
+#120
+L7A1 assalto fucile~
+un fucile da assalto L7A1~
+Un fucile da assalto L7A1 giace qui.~
+~
+6 z ao
+8 1 21 0
+4 10000 25
+E
+L7A1 assalto fucile~
+E' un fucile da assalto L7A1. Noti il caratteristico design bullpup 
+con il caricatore dei colpi posizionato sul calcio del fucile.
+~
+#121
+L7A1 assalto fucile~
+un fucile da assalto L7A1~
+Un fucile da assalto L7A1 giace qui.~
+~
+6 z ao
+8 1 21 0
+4 10000 25
+E
+L7A1 assalto fucile~
+E' un fucile da assalto L7A1. Noti il caratteristico design bullpup 
+con il caricatore dei colpi posizionato sul calcio del fucile.
+~
+#122
+Steyr AUG assalto fucile~
+un fucile da assalto Steyr AUG~
+Un fucile da assalto Steyr AUG giace qui.~
+~
+6 z ao
+8 1 24 0
+4 10000 25
+E
+Steyr AUG assalto fucile~
+E' un fucile da assalto Steyr AUG. Noti il caratteristico design bullpup 
+con il caricatore dei colpi posizionato sul calcio del fucile.
+~
+#123
+PM-12 mitra~
+un mitra PM-12~
+Un mitra PM-12 giace qui.~
+~
+6 z ao
+11 1 15 0
+4 7500 15
+E
+PM-12 mitra~
+E' una mitraglietta PM-12 come quelle in dotazione ai Carabinieri.
+~
+#124
+92S beretta pistola~
+una pistola automatica 92S~
+Una pistola automatica Beretta 92S giace qui.~
+~
+6 0 ao
+11 0 12 0
+4 7500 15
+E
+92S beretta pistola~
+E' una pistola automatica Berretta 92S.
+~
+#125
+AR70 assalto fucile~
+un fucile da assalto AR70/90~
+Un fucile da assalto AR70/90 giace qui.~
+~
+6 z ao
+8 1 21 0
+4 10000 25
+E
+AR70 assalto fucile~
+E' un fucile da assalto Beretta AR 70/90. 
+~
+#126
+AKM assalto fucile~
+un fucile da assalto AKM~
+Un fucile da assalto AKM giace qui.~
+~
+6 z ao
+10 1 30 0
+4 9000 20
+E
+AKM assalto fucile~
+E' un fucile da assalto AKM russo. 
+~
+$~

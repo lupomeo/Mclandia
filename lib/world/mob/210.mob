@@ -1,0 +1,354 @@
+#21000
+spettatore~
+uno spettatore~
+Uno spettatore e' qui ad assistere allo spettacolo.
+~
+E' una persona qualunque, non ha nulla di speciale.
+~
+b 0 0 S
+1 20 10 1d4+8 1d4+0
+1 90
+8 8 1
+#21001
+moses custode~
+moses il custode~
+Moses il custode della sala e' qui dietro un banchetto.
+~
+Moses e' vecchio e sciatto.
+Ma ha l'aria di chi sa il fatto suo, di chi ne ha viste
+tante.
+~
+abcl 0 -750 S
+5 17 5 4d6+42 1d5+1
+100 5000
+8 8 0
+#21002
+giocatore~
+un giocatore di biliardo~
+un giocatore sta giocando a biliardo.
+~
+E' un normale giocatore di quelli che si possono trovare
+nelle sale di tutto il mondo.
+~
+bclm 0 0 S
+2 19 9 2d4+16 1d4+1
+25 900
+8 8 1
+#21003
+mamita jo~
+Mamita Jo~
+Mamita Jo e' qui dietro al bancone della reception e ti accoglie
+sorridendoti.
+~
+Mamita e' alta e imponente. Ti guarda con aria dolce ma severa.
+Ti sembra la classica donnona nera che e' capace di tenere a
+bada chiunque.
+~
+abcl 0 0 S
+7 15 5 3d5+85 2d4+1
+1000 5000
+8 8 2
+#21004
+scrittore~
+uno scrittore~
+Uno scrittore e' qui e si aggira per la stanza in vestaglia.
+~
+E' sciatto, scarmigliato e sporco. A guardarlo bene sembra pure
+ubriaco.
+Ah...., questi artisti !!
+~
+bcl 0 300 S
+4 17 7 8d5+20 1d6+1
+25 500
+8 8 1
+#21005
+prostituta~
+una prostituta~
+Una prostituta e' qui completamentre nuda.
+~
+Mhhh, non e' male. 
+Ho due belle tette e delle
+splendide cosce tornite.
+~
+bclm 0 300 S
+4 17 7 8d5+20 1d6+1
+25 500
+8 8 2
+#21006
+gangster~
+un gangster~
+Un gangster e' qui nudo come un verme.
+~
+Senza vestiti e senza armi non fa poi paura, anzi,
+a guardarlo bene e' un po' piccolo e mingherlino.
+~
+bclm 0 300 S
+4 17 7 8d5+20 1d6+1
+25 500
+8 8 1
+#21007
+giocatore poker~
+un giocatore di poker~
+Un giocatore di poker e' qui al tavolo verde.
+~
+E' giallognolo e sudato.
+Puzza di alcool e di fumo di sigaro scadente.
+~
+bclm 0 300 S
+4 17 7 8d5+20 1d6+1
+25 500
+8 8 1
+#21008
+kid grimlinn cameriere~
+Kid Grimlinn~
+Kid Grimlinn il capo cameriere del club e' qui a servire i clienti
+speciali.
+~
+Kid e' alto e imponente. Una specie di gigante nero.
+Ti guarda con aria bonaria, ma hai idea che non e' uno con cui
+conviene litigare.
+~
+bcl 0 0 S
+7 15 5 3d5+85 2d4+1
+10 3000
+8 8 1
+#21009
+duke ellington~
+Duke Ellington~
+Duke Ellington e' qui a suonare con la sua band.
+~
+E' un artista vero. Lascialo suonare in pace!!
+~
+abcl 0 0 S
+7 15 5 3d5+85 2d4+1
+10 3000
+8 8 1
+#21010
+cotie virtuoso williams~
+Cotie "Virtuoso" Williams~
+Cotie "Virtuoso" Williams e' qui a suonare la sua tromba.
+~
+Non disturbare questa splendida esecuzione. 
+Suona la tromba come un Dio!!
+~
+bclm 0 0 S
+5 17 9 10d5+20 2d3+2
+11 1000
+8 8 1
+#21011
+tricky sam nanton~
+Tricky Sam Nanton~
+Tricky Sam Nanton e' qui a suonare il suo trombone.
+~
+Non disturbare questa splendida esecuzione. 
+Tricky e' l'unico al mondo che riesce a
+tirare fuori dal trombone delle note cosi' dolci.
+Lascialo suonare in pace!!
+~
+bclm 0 0 S
+5 17 9 10d5+20 2d3+2
+11 1000
+8 8 1
+#21012
+johnny hodges~
+Johnny Hodges~
+Johnny Hodges e' qui a suonare il sax alto.
+~
+Johnny e' un mito. Ascolta la sua musica e
+lascialo suonare in pace!!
+~
+bclm 0 0 S
+5 17 9 10d5+20 2d3+2
+11 1000
+8 8 1
+#21013
+harry carney~
+Harry Carney~
+Harry Carney e' qui a suonare il sax baritono.
+~
+Attento che quel sassofono dato in testa deve
+fare molto male !!
+lascialo suonare in pace!!
+~
+bclm 0 0 S
+5 17 9 10d5+20 2d3+2
+11 1000
+8 8 1
+#21014
+barney bigard~
+Barney Bigard~
+Barney Bigard e' qui a suonare il clarinetto.
+~
+Barney non ha gli occhi amichevoli.
+Attento a non disturbarlo.
+~
+bclm 0 0 S
+5 17 9 10d5+20 2d3+2
+11 1000
+8 8 1
+#21015
+aletha hill~
+Aletha Hill~
+Aletha Hill canta con la sua dolcissima voce.
+~
+Aletha e' carina.
+~
+bclm 0 0 S
+3 18 8 6d5+22 1d7+1
+11 200
+8 8 2
+#21016
+ethel waters~
+Ethel Waters~
+Ethel Waters canta in coro con Aletha.
+~
+Ethel e' giovane e bella. Il suo costume lascia
+intravedere genersoe porzioni del suo corpo.
+Ti ecciti solo a guardarla.
+~
+bclm 0 0 S
+3 18 8 6d5+22 1d7+1
+11 200
+8 8 2
+#21017
+may johnson~
+May Johnson~
+May Johnson canta in coro con Aletha ed Ethel.
+~
+May e' piccola e proporzionata.
+E' sudata ed il suo costume bagnato un po' trasparente
+lascia intrvedere l'ombra dei suoi capezzoli induriti dalla
+passione che mette nella sua interpretazione.
+Guardarla ti fa venire i brividi.
+~
+bclm 0 0 S
+3 18 8 6d5+22 1d7+1
+11 200
+8 8 2
+#21018
+jazzroot richardson~
+Jazzroot Richardson~
+Jazzroot Richardson balla a torso nudo sul palco.
+~
+Jazroot e' sudato e perso nella sua danza
+non si rende conto di quello che gli succede intorno.
+~
+bc 0 0 S
+3 18 8 6d5+42 1d7+1
+11 300
+8 8 1
+#21019
+coles~
+Coles~
+Coles balla a torso nudo sul palco.
+~
+Coles e' sudato e perso nella sua danza
+non si rende conto di quello che gli succede intorno.
+~
+bc 0 0 S
+3 18 8 6d5+42 1d7+1
+11 300
+8 8 1
+#21020
+atkinson~
+Atkinson~
+Atkinson balla a torso nudo sul palco.
+~
+Atkinson e' sudato e perso nella sua danza
+non si rende conto di quello che gli succede intorno.
+~
+bc 0 0 S
+3 18 8 6d5+42 1d7+1
+11 300
+8 8 1
+#21021
+pianista anonimo~
+un pianista anonimo~
+Un pianista anonimo sta accompagnando al piano l'esibizione
+della favolosa Lady Day.
+~
+Il pianista guarda con occhi sognati Billie e non ci vuole molto
+per rendersi conto che e' completamente pazzo di lei.
+~
+bclm 0 0 S
+6 16 3 3d5+62 2d4+2
+10 2000
+8 8 1
+#21022
+billie holiday lady day~
+Billie Holiday~
+Billie Holiday sta cantando appoggiata al pianoforte.
+~
+Billie ti fissa negli occhi con la sua aria languida e sensuale.
+Mentre canta e ti guarda sempra quasi implorarti di prenderla
+di fare di lei quello che vuoi. 
+Hai la sensazione che stia aspettando.
+Forse aspetta di essere uccisa. 
+Non si difendera', ma guardala negli occhi mentre gli togli la vita.
+Forse anche tu imparerai qualcosa.
+~
+bcl 0 0 S
+4 20 10 1d1+0 1d1+0
+10 500
+8 8 2
+#21023
+duncan attore~
+Duncan~
+Un attore sta interpretando il ruolo di Duncan.
+~
+E' vestito con il costume di scena e sembra molto sorpreso
+della tua presenza.
+~
+bcl 0 0 S
+6 16 3 3d5+62 2d4+0
+0 1600
+8 8 1
+#21024
+lady macbeth attrice~
+Lady Macbeth~
+Un'attrice sta interpretando il ruolo di Lady Macbeth.
+~
+E' vestita con il costume di scena ed e' molto affascinante.
+~
+bcl 0 0 S
+6 16 3 3d5+62 2d4+0
+0 1600
+8 8 2
+#21025
+Dama strega attrice~
+La Dama Strega~
+Un'attrice sta interpretando il ruolo della Dama strega.
+~
+E' vestita con il costume di scena ed e' molto inquitante.
+Ehi, ma sara' una strega vera??
+~
+abcl 0 0 S
+10 16 3 3d5+62 2d4+0
+0 2000
+8 8 2
+#21026
+sicario attore~
+Il sicario~
+Un attore sta interpretando il ruolo del sicario.
+~
+E' vestito con il costume di scena e sembra un sicario
+vero.
+~
+bcl 0 0 S
+6 13 1 3d5+62 2d4+0
+0 1600
+8 8 1
+#21027
+father major jealous divine~
+Father Major Jealous Divine~
+Father Major Jealous Divine il capo e fondatore della missione
+ti accoglie benevolmente cercando di circuirti.
+~
+E' alto e imponente. I suoi occhi caldi e magnetici ti
+fissano quasi a ipnotizzarti.
+~
+abcl 0 0 S
+15 15 5 3d5+185 3d4+1
+8000 6000
+8 8 1
+$~

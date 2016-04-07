@@ -1,0 +1,2041 @@
+***********************************
+*** Zone : Marrakesh
+*** Author : WindOver&CertainDeath
+***********************************
+#3600
+Locanda di Marrakesh~
+ La locanda e' molto pittoresca e si nota come un continuo
+passaggio di razze diverse possano trasformare un luogo.
+Sui muri noti dei particolari, forse sarebbe meglio darci un'occhiata ;)
+~
+36 0 0 
+D3
+se esci dalla locanda entrerai nel vicolo stretto
+~
+~
+0 -1 3610 0
+D4
+~
+~
+0 -1 3601 0
+E
+muro muri~
+Noti che sul muro accanto a te c'e' un megaschermo acceso
+~
+E
+megaschermo mega shermo~
+Nel video, MaxMax e' intento ad elencare l'efficacia delle nuove droghe .. 
+sembra molto affidabile ... infatti per dare un giudizio 
+lui le PROVA TUTTE QUANTE!!!!
+~
+S
+#3601
+Corridoio~
+ Nulla di particolare ... solo un corridoio, a Nord e a Sud ci sono delle 
+stanze, il corridoio continua verso Est
+~
+36 0 0 
+D0
+Vedi una stanza
+~
+~
+0 -1 3604 0
+D1
+il corridoio continua in quella direzione
+~
+~
+0 -1 3602 0
+D2
+Vedi una stanza
+~
+~
+0 -1 3605 0
+D5
+~
+~
+0 -1 3600 0
+S
+#3602
+Corridoio~
+ Ancora nulla di particolare, a Nord e a Sud ci sono delle stanze, il 
+corridoio continua a Ovest e ad Est
+~
+36 0 0 
+D0
+Una stanza
+~
+~
+0 -1 3606 0
+D1
+Intravedi la fine del corridoio
+~
+~
+0 -1 3603 0
+D2
+c'e' una stanza
+~
+~
+0 -1 3607 0
+D3
+Vedi il corridoio e delle scale che vanno in basso
+~
+~
+0 -1 3601 0
+S
+#3603
+La fine del Corridoio~
+ Qui finisce il corridoio, a Nord e a Sud ci sono delle stanze mentre ad Est 
+c'e' una finestra
+~
+36 0 0 
+D0
+Una porta chiusa
+~
+~
+2 3600 3608 0
+D2
+una porta chiusa a chiave
+~
+~
+2 3601 3609 0
+D3
+Un corridoio
+~
+~
+0 -1 3602 0
+E
+finestra~
+ Dalla finestra puoi godere un paesaggio fantastico, tutto e' avvolto da cavi 
+elettrici e i palazzi, altissimi, si perdono nel cielo. E' sempre piacevole 
+guardare i flyer scorrazzare a mezz'aria e i giovani giocare con i loro 
+HooverBoard.
+~
+S
+#3604
+Una stanza~
+ La stanza e' quadrata e piuttosto anonima apparte il fatto che e' 
+completamente vuota .... ci devono essere passati i ladri qui dentro.
+~
+36 0 0 
+D2
+Il corridoio con le scale
+~
+~
+0 -1 3601 0
+S
+#3605
+Una stanza~
+ Entri in una stanza accogliente dove puoi notare un terminale cyberlink 
+collegato chissa' dove nella rete, il letto e' sfatto e ci sono strani 
+odori, pare proprio che qua viva un'hacker... L'unica uscita e a Nord
+~
+36 0 0 
+D0
+Il corridoio con le scale
+~
+~
+0 -1 3601 0
+E
+terminale cyberlink cyber link~
+ La finestra attiva indica una connessione con una banca dati a te 
+sconosciuta ma forse se riesci a capire qualche comando potresti anche 
+utilizzarla
+~
+E
+Finestra attiva~
+La banca dati che vedi e' di una multinazionale la Okosama Starr.
+~
+S
+#3606
+Una stanza~
+ La stanza e' fortemente illuminata sembra, piu' che una camera d'albergo, 
+una locazione internet. Strane forme appaiono e scompaiono sul muro, noti 
+una protuberanza sul terreno.
+~
+36 0 0 
+D2
+Il corridoio
+~
+~
+0 -1 3602 0
+E
+muro~
+E' un muro strano, pare quasi che vibri velocemente
+~
+E
+protuberanza~
+Delle mattonelle hanno fatto una bolla a causa dell'umidita'.
+~ 
+S
+#3607
+Una stanza~
+ Finalmente una camera normale ... un bel letto una sedia e un comodino.
+Il letto e' un po' in disordine e si respira un po' di aria viziata.
+~
+36 0 0 
+D0
+~
+~
+0 -1 3602 0
+E
+letto~
+ Un semplice letto sospeso a mezz'aria, la sensazione di essere cullati 
+mentre ci si addormenta e' fantastica
+~
+E
+sedia~
+Una sedia confortevole, con braccioli e imbottita, rifinita in chip usati e' 
+l'ideale per un riposino
+~
+E
+comodino~
+Con un cassetto chiuso e' l'ideale per attirare la curiosita' di chiunque
+~
+E
+cassetto~
+se hai fortuna hai trovato la chiave di Solo.
+~
+S
+#3608
+La camera di Solo~
+ La camera e' piena di ciarpame e l'unica cosa interessante parrebbe la 
+finestra. Bah .. come stanza fa un po' schifo .... fogliacci e carte di 
+pizza sparsi sul pavimento, chip saldati nei muri, un'armadio socchiuso e 
+una porta che da' sul corridoio a Sud
+~
+36 0 0 
+D2
+vedi la fine del corridoio
+~
+~
+2 3600 3603 0
+E
+ Fogli pizza carte fogliacci ciarpame chip~
+Tutta roba da buttare
+~
+E
+finestra~
+ La veduta e' agghiacciante, tutto scuro e incasinato ..... e sinistramente 
+immobile ... poi guardando meglio ti accorgi che e' un tromp l'oil!
+~
+E
+armadio~
+ Questa e' la porta di accesso al programma vero e proprio, attraverso una 
+complicatissima procedura credo sia possibile entrarci .... chissa' come :PP
+~
+S
+#3609
+Stanza privata~
+ Appena entrate una voce calda vi da' il benvenuto, e' la voce di CASA, 
+l'intelligenza artificiale che si prende cura della stanza. La stanza e' 
+confortevole e piena di computer perennemente accesi. Qui WindOver vive e 
+invita i suoi amici. Se siete qui vuol dire che siete stati invitati da 
+WindOver, buona permanenza.
+~
+36 0 0 
+D0
+vedi la fine del corridoio
+~
+~
+2 3601 3603 0
+E
+computer pc computers calcolatori~
+Sono tutti l'ultimo ritrovato della scienza
+~
+E
+ai ia intelligenza artificiale ~
+ Ti saluta con la sua voce calda e rassicurante, CASA e' qui per farti star 
+bene
+~
+S
+#3610
+Vicolo stretto~
+Il vicolo e' umido e affollato, attenzione a chi vi sta' intorno.
+~
+36 0 1 
+D1
+ Ad Est puoi vedere la locanda di Marrakesh dove ti potrai riposare e passare 
+le notti ... da solo o in compagnia ;)
+~
+~
+0 -1 3600 0
+D3
+Tra la folla riesci a scorgere un' incrocio a tre vie
+~
+~
+0 -1 3611 0
+S
+#3611
+Il trivio~
+ E' un incrocio che porta a Est verso il vicolo, a Nord verso un atrio e a 
+Sud verso una piazzetta. Per il resto non vedi nulla di particolare ... 
+apparte una porta sprangata ad Ovest.
+~
+36 0 1 
+D0
+C'e' uno spazioso atrio in quella direzione
+~
+~
+0 -1 3612 0
+D1
+c'e' un vicolo poco rassicurante
+~
+~
+0 -1 3610 0
+D2
+Una Piazzetta carina e accogliente ti aspetta a Sud
+~
+~
+0 -1 3613 0
+D3
+Vedi una porta chiusa
+~
+porta~
+1 -1 3614 0
+S
+#3612
+L'Atrio~
+ E' un posto scuro e scarno .. decine di persone stanno ammassate una 
+sull'altra a fumare
+l'indicibile. Non sembrano pericolose ...... ma e' bene stare in guardia.
+L'unica uscita parrebbe a Sud.
+~
+36 0 0 
+D2
+Vedi il trivio
+~
+~
+0 -1 3611 0
+D4
+Su per le scale vedi l'entrata al Laser Game
+~
+~
+0 -1 3623 0
+E
+persone~
+ Gente assurda fatta di ogni tipo di droghe tradizionali e sintetiche, devono 
+essere tutti amici di MaxMax :)
+~
+S
+#3613
+La Piazzetta~
+ Qui c'e' aria di festa.... giocolieri, trampolieri e incantatori di serpenti 
+fanno a gara per accattivarsi la vostra attenzione .... a Sud vedi qualcosa di 
+particolare, una porta malmessa in un'edificio pericolante e' ad Est, mentre 
+a nord la strada continua verso il centro.
+~
+36 0 1 
+D0
+C'e' il trivio da quella parte
+~
+~
+0 -1 3611 0
+D1
+Una strada che piu' avanti pare fuori citta'
+~
+~
+0 -1 3622 0
+D2
+Vedi le scale che portano in basso alla vecchia metropolitana
+~
+~
+0 -1 3618 0
+D3
+Vedi il Souk
+~
+~
+0 -1 3651 0
+S
+#3614
+La stanza chiusa~
+ All'interno della stanza trovi un gran ciarpame e sui muri vedi schermi 
+rotti e scritte sataniche. Probabilmente in questa stanza si radunavano 
+sette poco gradite dalla legge o qualcosa di simile. Guardandoti attorno 
+trovi solo 2 uscite ... una a Est e l'altra in Alto, un soppalco 
+seminascosto dall'oscurita'.
+~
+36 0 0 
+D1
+vedi la porta oltre la quale c'e' il bivio
+~
+porta~
+1 -1 3611 0
+D4
+Nell' oscurita' vedi un soppalco in disuso
+~
+~
+0 -1 3615 0
+D5
+~
+~
+0 -1 3666 0
+S
+#3615
+Il soppalco~
+ Attento a non cadere .... tra fili e materiale elettrico in genere qui c'e' 
+davvero pericolo di inciampare, c'e' un video ancora funzionante sul muro.
+~
+36 0 0 
+D3
+Tutto normale, non noti nulla di particolare
+~
+~
+0 -1 3616 0
+D5
+la stanza chiusa e' sotto di te
+~
+~
+0 -1 3614 0
+E
+video~
+ E' la registrazione del padrone della casa, dopo aver sputato verde in terra 
+richiama la tua attenzione su un particolare delle travi a cui non avevi 
+fatto caso
+~
+E
+travi trave~
+in questo punto le travi sono dislivellate e puoi intravedere un'iscrizione
+~
+E
+iscrizione~
+
+  //                                                      \\
+//--------------------------------------------------------\\
+//| Caro amico, sono sempre stato un taccagnaccio infame   |\\
+  | ma adesso se sei qui vuol dire che sono morto.......   |
+  | PECCATO!! cmq ad Ovest c'e' un passaggio, basta che tu |
+  | Apra il MURO e potrai trovare qualcosa di interessante.|
+\\| Tanto a me ormai non serve piu'. Buon proseguimento.   |//
+\\--------------------------------------------------------//
+  \\                                                      //
+~
+S
+#3616
+Il pertugio~
+e' molto stretto e ci entri male, ma dentro forse trovi qualcosa.
+~
+36 0 0 
+D1
+Vedi il soppalco abbastanza instabile.
+~
+~
+0 -1 3615 0
+S
+#3617
+Base dei cacciatori di ORGANI~
+ La base si riduce ad un'unica stanza nell'intero edificio, le altre sono 
+crollate o sprangate, la macabra usanza di questi cacciatori e' di cercare 
+persone VIVE a cui togliere gli organi e rivenderli al miglior offerente.
+~
+36 0 0 
+D1
+La piazzetta e' li che ti attende fresca e luminosa.
+~
+porta~
+1 -1 3618 0
+E
+muri organi~
+ I muri sono letteralmente ricoperti di ordinazioni di organi, un senso di 
+disgusto ti prende da dentro ma poi ti passa e torni ad essere chi sei di 
+solito :PP
+~
+S
+#3618
+Ingresso all'Underground~
+ Pare che sia stato devastato dalle ultime guerre, ma con un po' di 
+attenzione puoi renderti conto che qualcuno ancora ci passa per di qua'.
+~
+36 0 0 
+D0
+Vedi la piazzetta con tutte le sue spettacolarita'
+~
+~
+0 -1 3613 0
+D3
+Una palazzina in disfacimento con una porta mezza rotta
+~
+porta~
+1 -1 3617 0
+D5
+nel buio vedi solo qualche muro
+~
+~
+0 -1 3619 0
+S
+#3619
+Underground~
+ Ormai in disuso, puoi notare che granparte delle monorotaie sono state 
+divelte e usate per chiudere il passaggio ad Est, ma a Ovest qualcosa attira 
+la tua attenzione.
+~
+36 0 0 
+D3
+Da quella parte vedi un piccolo passaggio, delle orme pare che lo 
+attraversino....
+~
+~
+0 -1 3620 0
+D4
+~
+~
+0 -1 3618 0
+S
+#3620
+Passaggio nell'Undergruond~
+ Il passaggio e' abbastanza ampio per farti entrare, in terra vedi dei 
+piccoli solchi  delle impronte, qui c'e' stato qualcuno di recente!!
+~
+36 0 0 
+D0
+Una Spessa e sporca tenda ostruisce il passaggio.
+~
+tenda~
+1 -1 3621 0
+D1
+Intravedi parte dell'underground di la'.
+~
+~
+0 -1 3619 0
+D3
+Dei binari divelti.
+~
+~
+0 -1 3667 0
+S
+#3621
+La casa dell'hacker~
+ Un luogo semplice e complesso allo stesso tempo.
+Semplice per il mobilio che lo arreda, e complesso per
+la moltitudine di cavi e circuiti che trovi aggiro.
+Un pc su un tavolo e' stato aperto e smontato.
+~
+36 0 0 
+D0
+~
+porta~
+2 3666 3666 0
+D2
+Vedi solo la tenda
+~
+~
+0 -1 3620 0
+S
+#3622
+Dentro Marrakesh~
+ La via e' larga e piuttosto frequentata, verso Est vedete la via di accesso 
+mentre ad Ovest c'e' una piazzetta, attenzione a non farvi ingannare da 
+quello che vedete, qui antichita' e supertecnologia si fondono 
+perfettamente.
+~
+36 0 0 
+D1
+La via d'accesso a Marrakesh ... forse e' meglio di quello che si crede
+~
+~
+0 -1 3199 0
+D3
+La piazzetta pare accogliente e i rumori ti raggiungono fino qui
+~
+~
+0 -1 3613 0
+S
+#3623
+L'entrata del Laser Game~
+ Sopra l'atrio c'e' l'entrata al Laser Game, qui i giocatori decidono se 
+tentare di entrare o avere paura, il cassiere e' pronto a farvi entrare .... 
+poi stara' a voi cercare di uscire.
+~
+36 0 0 
+D0
+una saletta dove vengono date le spiegazioni del gioco
+~
+~
+0 -1 3624 0
+D5
+Giu' c'e' l'atrio del palazzo
+~
+~
+0 -1 3612 0
+S
+#3624
+La sala del briefing~
+ Qui i giocatori apprendono le regole del gioco e si preparano ad iniziare, 
+l'ambiente e' molto futuristico ma si vede che non e' nuovo, piccole crepe e 
+qualche dislivello del terreno tradiscono la noncuria dei propietari.
+~
+36 0 0 
+D0
+intravedi un corridoio
+~
+~
+0 -1 3625 0
+D2
+Vedi la sala briefing
+~
+~
+0 -1 3623 0
+S
+#3625
+Un corridoio~
+ L'ingresso dell'arena e' scuro e opprimente, attenti a quello che fate piu' 
+avanti c'e' solo da combattere e sopravvivere
+~
+36 0 0 
+D0
+WOW tra poco sarai dentro l'ARENA
+~
+~
+0 -1 3626 0
+D2
+il corridoio e' abbastanza scuro
+~
+~
+0 -1 3624 0
+S
+#3626
+Dentro l'arena~
+ C'e' da seguire un percorso ... allora fallo.
+L'arena e' tremendamente claustrofobica e la musica thecno sparata a palla 
+ti rimbomba nelle orecchie, muri alti e muri bassi si accavallano l'uno 
+sull'altro dandoti una sensazione di caos puro, qui non si scherza, si 
+combatte.
+~
+36 0 0 
+D0
+Vedi un'incrocio
+~
+~
+0 -1 3627 0
+D1
+un lungo corridoio semiscuro
+~
+~
+0 -1 3631 0
+S
+#3627
+Ancora nell'Arena~
+ La musica e' sempre assordante e qualcosa ti dice che e' meglio stare in 
+guardia. Raggi laser sparati dai giocatori sfrecciano vicino a te. I muri 
+pare si assottiglino ma poi si allargano di nuovo, qui e' tutto in 
+movimento.
+~
+36 0 0 
+D0
+riesci a scorgere la parte Nord dell'arena
+~
+~
+0 -1 3637 0
+D2
+dovrebbe essere da dove sei entrato
+~
+~
+0 -1 3626 0
+D3
+Vedi un cunicolo
+~
+~
+0 -1 3642 0
+S
+#3628
+la parte SudEst dell'arena~
+ Questa zona e' piu' illuminata, i muri sono di colore meno vivace, piu' a 
+sud c'e' la base rossa, attenzione non e' un luogo per dilettanti.
+~
+36 0 0 
+D1
+scorgi una curva a 90 gradi
+~
+~
+0 -1 3632 0
+D2
+Vedi chiaramente la base ROSSA
+~
+~
+0 -1 3629 0
+D3
+il corridoio
+~
+~
+0 -1 3631 0
+S
+#3629
+La Base ROSSA~
+ La stanza e' avvolta in un rosso sangue che ti fa accapponare la pelle, e' 
+spaziosa e alta, il cannoncino laser sopra la base fortunatamente pare sia 
+disattivato, ma guarda di non essere qui quando scatta l'allarme altrimenti 
+incontrerai l'ade in meno di un minuto.
+Apparte questo noti l'immensa insegna dei rossi in alto sopra la base 
+stessa, e' molto bella, contiene il simbolo stesso della squadra, dopo 
+averla osservata intuisci il perche' del loro nome da battaglia "I demoni".
+~
+36 0 0 
+D0
+intravedi l'oscurita' del corridoio
+~
+~
+0 -1 3628 0
+E
+Simbolo insegna~
+               The Red Squad                                  _( (_\
+     _ _ _                        /                          ( \> > \
+   -/_/ / _\                     :;                \       _  > /(-\/
+  || | | /\ ;\                   |l      _____     |;     ( \/    > >
+  _\\)\)\)/ ;;;                  `8o __--     -\   d|      \     / /
+///(())(__/-;;\                  "88p;.  -o _\o;.oP        (_._/ /
+(((__   __ \\   \                  `>,% (\  (\./)8"         ;:'  i
+)))--`.'-- (( ;,8 \               ,;%%%:  ./V^^^V'          ;.   ;.
+((\   |   /)) .,88  `: ..,,;;;;,-::::::'_::\   ||\         ;[8:   ;
+)|  ---  |(|(888; ..``'::::8888oooooo.  :\`^^^/,,---._    |88::  |
+|\ -===- /|  \8;; ``:.      oo.8888888888:`((( o.ooo8888Oo;:;:'  |
+|_--___--_|   `-\.   `        `o`88888888b` )) 888b88888P""'     ;
+; vVvV;Vv         "`--_`.       b`888S8D888;(.,"8P8r8O8"  ..::;-'
+   ;      ;              -"-....  b`8888888:::::.`8888. .:;;;''
+      ;    ;                 `:::. `:::OOO::S::D:.`OO' ;;;''
+:       ;                     `.      "``::::::''    .'
+    ;                           `.   \_              /
+  ;       ;                       +:   ----  `:'  -';
+                                   `:         : .::/
+      ;                            ;;+_  :::. :..;;;
+                                   ;;;;;;,;;;;;;;;,;
+~
+S
+#3630
+La Base BLU~
+ Fasci laser ti sfiorano la pelle e rumori agghiaccianti sconquassano i tuoi 
+nervi, la base BLU e' caratterizzata da scritte punk e colori freddi. 
+Un'arazzo Copre gran parte del muro ad Est.
+Al centro della base scorgi una teca contenente il simbolo della squadra, 
+dopo averlo visto capisci perche' i blu sono soprannominati "I rapaci"
+~
+36 0 0 
+D0
+~
+~
+0 -1 3635 0
+D1
+forse vedi qualcosa
+~
+arazzo~
+1 -1 3630 0
+D2
+~
+~
+0 -1 3633 0
+D3
+il corridoio pare abbastanza scuro
+~
+~
+0 -1 3634 0
+E
+simbolo insegna~        _--_                         
+                       /   -)                        
+                   ___/___|___                           
+      ____-----=--///|     ||||---==-----_____          
+    /////////////////|     |//|||||\\\\\\\\\\\\\         
+  ////////////////////|   |///////|\\\\\\\\\\\\\\\      
+ /////////////////// \ |.||//////////////////`\\\\\     
+///                  /\\|\\                      \\\   
+The blue Base       ///W^\W\                          
+                   ////|||\\\                         
+                   ///  |  \\
+~
+E
+teca~
+ C'e' il simbolo della squadra in questa teca di cristallo bordata di metallo 
+pressofuso.
+~
+E
+arazzo~
+ E' la lista completa di tutti i membri della squadra BLU, in alto, al primo 
+posto leggi il nome del fondatore, poi via via a scendere ci sono i nomi 
+messi in ordine cronologico di entrata nella squadra di tutti gli altri. 
+Ogni tanto vedi che l'arazo si muove un po', come se prendesse aria da 
+dietro.
+~
+S
+#3631
+Il giro dell'arena~
+ Stai facendo il giro dell'arena, i colori dei muri sono indefinibile e vedi 
+la folla che fa il tifo al di la' dei vetri rinforzati.
+~
+36 0 0 
+D1
+un corridoio
+~
+~
+0 -1 3628 0
+D3
+l'angolo di un corridoio
+~
+~
+0 -1 3626 0
+S
+#3632
+Il giro dell'arena~
+ Stai facendo il giro dell'arena, i colori dei muri sono indefinibile e vedi 
+la folla che fa il tifo al di la' dei vetri rinforzati.
+~
+36 0 0 
+D0
+un lungo corridoio
+~
+~
+0 -1 3633 0
+D3
+un lungo corridoio
+~
+~
+0 -1 3628 0
+S
+#3633
+Il giro dell'arena~
+ Stai facendo il giro dell'arena, i colori dei muri sono indefinibile e vedi 
+la folla che fa il tifo al di la' dei vetri rinforzati.
+~
+36 0 0 
+D0
+intravedi un incrocio
+~
+~
+0 -1 3634 0
+D2
+scorgi una curva secca
+~
+~
+0 -1 3632 0
+S
+#3634
+Un'incrocio nell'arena~
+ Qui le strade si dividono, vedi tu dove e' meglio andare.... le luci non ti 
+sono certo d'aiuto nella scelta e i muri ancora meno. se ti sei orientato o 
+se conosci l'Arena allora saprai dove andare, senno' dovrai girare ancora un 
+bel po'.
+~
+36 0 0 
+D0
+un'angolo
+~
+~
+0 -1 3635 0
+D1
+Distingui benissimo la base BLU
+~
+~
+0 -1 3630 0
+D2
+piu' avanti vedi un'angolo
+~
+~
+0 -1 3633 0
+S
+#3635
+La parte NordEst dell'Arena~
+ Il pavimento e' un po' scivoloso e gli angoli dei muri risultano un po' 
+smussati, chissa' quanti giocatori si saranno riflessi in questo specchio 
+che puoi vedere ad Est, oppure in quanti saranno inciampati in quel muretto 
+seminascosto dll'ombra laggiu'? Sbrigati ad orientarti ne va della tua 
+pelle.
+~
+36 0 0 
+D1
+Ti rifletti nello specchio, una fessura ti fa venire in mente che dietro ci 
+sia qualcosa
+~
+specchio~
+1 -1 3636 0
+D2
+~
+~
+0 -1 3634 0
+D3
+~
+~
+0 -1 3637 0
+E
+specchio~
+Il tuo riflesso e' distorto dalle luci dei raggi laser che ti passano 
+accanto
+~
+S
+#3636
+l'antraccolino~
+ Piccolo e nascosto, questo antraccolino viene di solito usato per spiare i 
+movimenti dei compagni attraverso il vetro che vedi ad Ovest e riposarsi un 
+po' in pace.
+~
+36 0 0 
+D3
+attraverso il vetro vedi quello che sta' succedendo nell'arena
+~
+vetro~
+1 -1 3635 0
+E
+vetro~
+ Attraverso il vetro riesci a vedere quello che succede nell'arena senza che 
+gli altri possano vederti ;)
+~
+S
+#3637
+La parte Nord dell'arena~
+ I vetri riflettono sia gli sguardi attenti degli spettatori che i fasci 
+laser dei concorrenti, le lotte si fanno sempre piu' accanite e i giocatori 
+piu' agguerriti, fatti sotto ed esci vivo, dimostra di essere il campione!
+~
+36 0 0 
+D0
+~
+~
+0 -1 3639 0
+D1
+~
+~
+0 -1 3635 0
+D3
+~
+~
+0 -1 3627 0
+S
+#3638
+una stanza nascosta~
+ Questa stanza situata dietro la base blu era un tempo utilizzata dai BARI 
+del gioco, qui riponevano armi e munizioni aggiuntive, e a volte vi tenevano 
+nascosti degli ostaggi che ...... beh .. non potevano certo rivelare un 
+segreto cosi' non vi pare?
+~
+36 0 0 
+D3
+c'e' la base BLU
+~
+~
+0 -1 3630 0
+S
+#3639
+Il grande corridoio~
+ Il corridoio e' grande e luminoso, anche troppo, la luce e la musica ti 
+intontiscono e fai fatica a rimanere concentrato, a Nord vedi il corridoio 
+che continua mentre a Sud torni nell'arena vera e propria.
+~
+36 0 0 
+D0
+~
+~
+0 -1 3640 0
+D2
+~
+~
+0 -1 3637 0
+S
+#3640
+Il grande corridoio~
+ Ancora grande e ancora accecante, ti chiedi cosa significa tutto questo 
+..... poi dei rumori a Nord ti fanno capiere che forse qualche senso c'e'.
+Se hai un Dio Questo e' il momento di pregarlo ;)
+~
+36 0 0 
+D0
+~
+~
+0 -1 3641 0
+D2
+~
+~
+0 -1 3639 0
+S
+#3641
+La fine dell'ARENA~
+ Qui il Piu' temibile e pratico giocatore del laser game ti aspetta a braccia 
+aperte ... per farti a pezzi, e' grosso, brutto e forte ..... ma tanto lo 
+devi abbattere lo stesso!!!
+~
+36 0 0 
+D0
+~
+~
+2 3603 3623 0
+D2
+~
+~
+0 -1 3640 0
+S
+#3642
+Cunicolo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D3
+Il cunicolo continua
+~
+~
+0 -1 3643 0
+S
+#3643
+cUnicolo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D5
+il cunicolo continua
+~
+~
+0 -1 3644 0
+S
+#3644
+cuNicolo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D3
+Il cunicolo continua
+~
+~
+0 -1 3645 0
+S
+#3645
+cunIcolo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D0
+Il cunicolo continua
+~
+~
+0 -1 3646 0
+S
+#3646
+cuniColo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D4
+Il cunicolo continua
+~
+~
+0 -1 3647 0
+S
+#3647
+cunicOlo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D4
+Il cunicolo continua
+~
+~
+0 -1 3648 0
+S
+#3648
+cunicoLo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D0
+Il cunicolo continua
+~
+~
+0 -1 3649 0
+S
+#3649
+cunicolO nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D5
+Il cunicolo continua
+~
+~
+0 -1 3650 0
+S
+#3650
+cunicolo nell'arena~
+ Il percorso e' un po' accidentato, ma seguirlo non e' difficile ..... Il 
+punto e' ...... ci arrivi in fondo?
+~
+36 0 0 
+D2
+Vedi la fine del cunicolo che sfocia in una stanza tutta Rossa
+~
+~
+0 -1 3629 0
+S
+#3651
+Ingresso al Souck~
+ Il grande schermo che sovrasta la via indica che stiamo per entrare al Souck 
+di Marrakesh, incuriosito dal nome che non conosci chiedi in giro e in breve 
+scopri che in antichita' era il mercato della citta', poi pero' fu 
+abbandonato a causa della concorrenza spietata delle multinazionali che 
+opprimevano i piccoli commercianti, da poco tempo pero' il Souck ha ripreso 
+vita, anche se adesso non e' piu' un mercato ma un ritrovo per incantatori 
+di serpenti cyborg, videogiocatori da strada, cavainnesti e quant'altro la 
+gente abbia voglia di vedere o consultare per pochi soldi.
+~
+36 0 1 
+D1
+Da quella piazza c'e' sicuramente la Piazzetta di Marrakesh
+~
+~
+0 -1 3613 0
+D3
+Il Souk continua
+~
+~
+0 -1 3652 0
+S
+#3652
+La via del Souk~
+ La via e' gremita di gente e ovunque tu guardi incontri qualche attrazione 
+da osservare, l'arte di questi uomini ti affascina ma al tempo stesso ti 
+inquieta, alcuni lo fanno per lavoro, altri per necessita', tra questi ci 
+sono anche dei Freak, veri e propri mostri nati da esperimenti sballati o 
+fuori controllo. E' necessario avere il sangue freddo per non lasciarsi 
+coinvolgere dallo spettacolo del Souk e proseguire....
+~
+36 0 1 
+D1
+Vedi l'inizio del Souk
+~
+~
+0 -1 3651 0
+D3
+Il Souk continua
+~
+~
+0 -1 3653 0
+S
+#3653
+La via del Souk~
+ La depressione che sta' contaminando la gente (cosi' come la MORTE GRIGIA) 
+pare che non abbiano intaccato minimamente il folklore e e il calore di 
+quest'angolo di Marrakesh. Tutto sembra svolgersi tranquillamente anche se 
+guardando attentamente si capisce che qualcosa e' cambiato ...
+~
+36 0 1 
+D1
+Il Souk continua
+~
+~
+0 -1 3652 0
+D3
+Il Souk continua
+~
+~
+0 -1 3654 0
+S
+#3654
+La via del Souk~
+ Ai bordi della via tutti i negozi sono chiusi e sprangati, ma capita che dei 
+senzatetto a volte ne aprano uno per passarci la notte, in questi casi 
+e'possibile che delle TRAVI risultino allentate. Guardando bene ti accorgi 
+che i lampioni sono perennemente spenti e che la luce viene emanata dai muri 
+stessi dei palazzi e dalla strada ..... non te ne frega nulla .... ma lo 
+noti lo stesso ;)
+~
+36 0 1 
+D1
+Il Souk continua
+~
+~
+0 -1 3653 0
+D2
+Guardando attentamente ti accorgi che qui delle travi sono un po' lenti
+~
+travi~
+1 -1 3655 0
+D3
+Il Souk continua
+~
+~
+0 -1 3656 0
+S
+#3655
+Negozio chiuso~
+ Questo negozio e' stato aperto di recente, lo stretto passaggio da fuori e' 
+quasi invisibile, ma da dentro si nota benissimo perche' e' l'unica fonte di 
+luce, per terra sono ammassati uno stuolo di fogliacci e di roba inutile, 
+gli scaffali sono crollati sul terreno e il bancone e' completamente 
+distrutto. il resto della stanza e' indescrivibile.
+~
+36 0 1 
+D0
+Tra le travi scorgi l'andirivieni della via del Souk
+~
+travi~
+1 -1 3654 0
+D5
+~
+~
+0 -1 3669 0
+S
+#3656
+La via del Souk~
+ L'oppressione della calca di gente e' insopportabile, qui tutto e' caos, gli 
+abitanti della citta' sono abituati alle resse e non ci fanno piu' caso, ma 
+per un forestiero e' quasi insostenibile, comunque le attrazioni non sono 
+ancora finite.
+~
+36 0 1 
+D0
+C'e' una piccola corte
+~
+~
+0 -1 3657 0
+D1
+Il Souk continua
+~
+~
+0 -1 3654 0
+D3
+Il Souk continua
+~
+~
+0 -1 3658 0
+S
+#3657
+La corte nel Souk~
+ In questa corte si ritrovano diversi attrattori e le insegne fluttuanti 
+davanti a loro permettono di conoscerli meglio, peccato che i teppisti li 
+abbiano rotti da tempo e che nessuno abbia voglia di rimediare ....
+~
+36 0 1 
+D2
+La via del Souk
+~
+~
+0 -1 3656 0
+S
+#3658
+La via del Souk~
+ Ormai la via ti e' familiare, tuttavia cerchi ancora qualcosa di 
+interessante, guardando a Nord ti pare di scorgere la casa di un mentore, 
+forse e' quello che ci vuole, andando a Ovest invece raggiungi la fine del 
+Souk, a Est la via prosegue dritta.
+~
+36 0 1 
+D1
+Il Souk continua
+~
+~
+0 -1 3656 0
+D3
+Intravedi la fine del Souk
+~
+~
+0 -1 3659 0
+S
+#3659
+La fine del Souk~
+ Qui termina il Souk, lo scenario pare incantato, orde di abitanti che 
+affollano la via non lasciano nemmeno lo spazio per camminare, sono tutti 
+ammassati di fronte alle attrazioni che si esibiscono ai bordi della via. A 
+Ovest la strada sembra meno frequentata, pare che non ci siano altre uscite.
+Sul muro una scritta spray.
+~
+36 0 1 
+D1
+Il Souk continua
+~
+~
+0 -1 3658 0
+D3
+Scorgi una stradina da quella parte
+~
+~
+0 -1 3660 0
+E
+scritta spray~
+NON C'E' PACE PER L'UOMO CHE NON VIAGGIA. ANDATE DUNQUE!
+"CertainDeath"
+~
+S
+#3660
+Una strada~
+ La strada e' stretta e poco luminosa, i grandi palazzi che la costeggiano la 
+mantengono perennemente nell'ombra e l'odore che emana e' nauseante, le 
+uniche cose che vedi sono un bidone della spazzatura e un tombino, la strada 
+e' a fondo chiuso.
+~
+36 0 1 
+D1
+Vedi la fine del Souk in tutto il suo splendore
+~
+~
+0 -1 3659 0
+D5
+~
+~
+0 -1 3661 0
+E
+bidone~
+e' un contenitore perfettamente adatto per quello che deve contenere ;)
+~
+E
+tombino~
+ Noti dei graffi e delle piccole smottature nel terreno vicino ad esso, 
+probabilmente qualcuno lo ha aperto di recente.
+~
+S
+#3661
+Sotto il tombino~
+ Una stretta scaletta in verticale non e' l'ideale per una passeggiata, 
+attento a non scivolare, potresti farti male. Tutto quello che riesci a 
+vedere sono solo le rocce davanti a te, per il resto il resto ..... buio 
+assoluto.
+~
+36 0 0 
+D4
+Il buio piu' assoluto
+~
+~
+0 -1 3660 0
+D5
+inizi a vedere dei bagliori
+~
+~
+0 -1 3662 0
+S
+#3662
+Tunnel~
+Buio sopra .... Buio sotto ..... e BUIO dappertutto .... non vedi proprio 
+nulla.
+~
+36 0 0 
+D1
+La luce ti fa vedere un cunicolo
+~
+~
+0 -1 3663 0
+D4
+il buio totale
+~
+~
+0 -1 3661 0
+S
+#3663
+Cunicolo~
+ La stanzetta e' poco illuminata ma in terra ci sono delle orme, devi stare 
+un po' gobbo perche' il soffitto non e' alto, ma verso Est pare che il 
+cunicolo si allarghi sensibilmente.
+~
+36 0 0 
+D1
+C'e' un cunicolo
+~
+~
+0 -1 3664 0
+D3
+nel buio intravedi un tunnel
+~
+~
+0 -1 3662 0
+S
+#3664
+Cunicolo~
+ Il cunicolo e' ben illuminato e ti permette di stare in piedi, sulle pareti 
+vedi schermi rotti e comandi bruciati, ma aperto uno sportello nascosto nel 
+muro noti che c'e' una circuteria perfettamente funzionante protetta da un 
+campo di forza a te sconosciuto, probabilmente lo squallore e' una finzione 
+voluta.
+~
+36 0 0 
+D1
+Vedi parecchia luce ... ma non distingui altro
+~
+~
+0 -1 3665 0
+D3
+il cunicolo
+~
+~
+0 -1 3663 0
+S
+#3665
+l'Androne dell'Hacker maledetto~
+ La vista e' sconcertante, milioni di circuiti tappezzano tutta la volta che 
+sovrasta questa stanza circolare e molto alta, ogni comando e ogni circuito 
+sono protetti da un potentissimo campo di forza e l'unico posto dove e' 
+possibile andare qui dentro e' su una specie di corridoino lasciato apposta 
+fuori dalle protezioni per arrivare .... alla cosa piu' sbalorditiva che 
+avete mai visto,. Li sospeso a mezz'aria "incastonato" in circuterie e 
+blocchi metallici ... c'e' l'involucro dell'hacker maledetto, l'unico che sia 
+mai riuscito ad andare contro i voleri di Meo, condannato a morte, scappo' e 
+si nascose da qualche parte al riparo dalla furia del DIO MEO, Per far si che 
+non fosse scoperto fu costretto a costruire questo apparato per poter rimanere in 
+incoscienza perenne senza fase R.E.M. in quanto la'attivita' prolungata 
+delle sue onde cerebrali avrebbero permesso a Meo di individuarlo.
+~
+36 0 0 
+D3
+l'inizio del cunicolo
+~
+~
+0 -1 3664 0
+E
+involucro~
++-----------------------------------------+
+| Scheda tecnica.                         |
++-----------------------------------------+
+| Nome:          Michael                  |
+| Cognome:       W. Doane                 |
+|               Founder of                |
+|     The Sound of Knowledge Group.       |
+|                                         |
+| Num ident:     545687-7862-121          |
+| Origine:       California               |
+| Trattamento:   Sonno incosciente        |
+| Sostentamento: Completamente automatico |
++-----------------------------------------+
+|             ATTENZIONE!!!!              |
++-----------------------------------------+
+|       Soggetto da NON svegliare.        |
++-----------------------------------------+
+~
+S
+#3666
+Lo sgabuzzino~
+ La stanza e' in disordine e gli scaffali traboccano di roba, una piccola 
+finestrella nel soffitto fa passare un po' d'aria, ma e' troppo stretto per 
+passarci. In un'angolo scorgi un terminale acceso dove puoi vedere il 
+resoconto della cassa dell'hacker .... non si puo' dire che gli affari gli 
+vadano male ;P
+~
+36 0 0 
+D2
+~
+porta~
+2 3666 3621 0
+E
+terminale~
+Ma farti gli affari tuoi e' diventato un'hobby??????
+~
+S
+#3667
+I binari~
+ Nell'oscurita' non riesci a vedere altro che i binari e la parte inferiore 
+della volta che, presumibilmente, sovrasta questa galleria. Ad ogni modo 
+inizi a capire perche' l'underground non viene piu' usata da tempo, 
+guardando verso Est intravedi un'ammasso di lamiere  e MACERIE che intralcia 
+l'intero tunnel ... uno spettacolo raccapricciante, guardando questa scena 
+pare ancora adesso di sentire le urla delle persone coinvolte in quel 
+tragico incidente e l'odore della morte inizia a stomacarti.
+~
+36 0 0 
+D1
+Vedi il resto del tunnel
+~
+~
+0 -1 3620 0
+D3
+Pare che ci siano degli spiragli fra le macerie.
+~
+macerie~
+1 -1 3668 0
+S
+#3668
+Dietro le macerie~
+ Dietro la catastrofe c'e' questo corridoio dimenticato da tutti ... da tempi 
+immemori nessuno ha piu' messo piede qua' dentro, infatti uno spesso strato 
+di polvere conferma questa verita'. Camminando lasci delle orme 
+perfettamente riconoscibili nel terreno umido del tunnel e la poca luce che 
+filtra e' insufficente per capire dove ti trovi, neanche le luci elettriche 
+o mentali permettono una visione accurata, sembra che la cosa sia voluta, 
+non il buio assoluto, ma una diabolica penombra che fa apparire tutto 
+decisamente piu' sinistro e spettrale.
+~
+36 0 0 
+D1
+Vedi delle luci oltre le macerie.
+~
+macerie~
+1 -1 3667 0
+D3
+~
+~
+0 -1 3669 0
+S
+#3669
+I binari morti~
+ I binari si intonano perfettamente con l'ambiente che li circonda, Morte e 
+davastazione, in un'angolino, seminascosta dallapolvere e dalla penombra 
+c'e' una piccola iscrizione, una lapide che dopo averla letta attentamente 
+scoprite essere alla memoria di antichi eroi che vissero in queste terre, ci 
+sono ancora i resti di fiori appassiti, corone e armi ormai inutili .... 
+quasi certamente un tempo appartenevano a loro. Un momento di silenzio per 
+ricordarli con dolore e poi la tua mente torna alla realta'.......
+~
+36 0 0 
+D1
+~
+~
+0 -1 3668 0
+D2
+Una lapide ti incuriosisce
+~
+~
+0 -1 3670 0
+E
+Iscrizione~
+R.I.P.
+~
+E
+Lapide~
+ Qui giaciono gli eroi che hanno segnato la nostra era, Imbattibili, venerati 
+e temuti .... cambiarono le sorti del nostro paese ... nel bene e nel male.
+Il sindaco e tutta la popolazione vi ricordano con affetto e stima, nei 
+secoli dei secoli. POSSANO UN GIORNO LE VOSTRE SPOGLIE RIPRENDERE VITA, NEL 
+BENE E EL MALE, COSI' COME UN TEMPO ..... COSI' NEL FUTURO.
+~
+S
+#3670
+Dietro la lapide~
+ Il terreno dissestato, i muri gocciolanti e il freddo umido che entra nelle 
+ossa vi fa raggelare il sangue nelle vene .... altro che l'aggiacciante 
+grido di morte di qualcuno ..... le tenebre si stanno impadronendo delle 
+vostre forze e la paura cerca di bloccarvi le gambe in una morsa di 
+ghiaccio.... Fatevi coraggio o morirete miseramente dietro una lapide 
+dedicata ad altri.
+~
+36 0 0 
+D0
+Oltre la lapide riesci a vedere i binari morti
+~
+~
+0 -1 3669 0
+D2
+~
+~
+0 -1 3671 0
+S
+#3671
+Nel sepolcro~
+ La visuale e' quasi annullata e perdersi non e' difficile, l'umidita' 
+costringe gli occhi a rimanere socchiusi e la penombra contorna di morte 
+ogni cosa .... non e' paura quella che provi .... E' TERRORE ALLO STATO PURO
+~
+36 0 0 
+D0
+~
+~
+0 -1 3670 0
+D2
+~
+~
+0 -1 3673 0
+D3
+~
+~
+0 -1 3672 0
+S
+#3672
+Nel sepolcro~
+ La visuale e' quasi annullata e perdersi non e' difficile, l'umidita' 
+costringe gli occhi a rimanere socchiusi e la penombra contorna di morte 
+ogni cosa .... non e' paura quella che provi .... E' TERRORE ALLO STATO PURO
+~
+36 0 0 
+D1
+~
+~
+0 -1 3671 0
+D2
+~
+~
+0 -1 3674 0
+S
+#3673
+Nel sepolcro~
+ La visuale e' quasi annullata e perdersi non e' difficile, l'umidita' 
+costringe gli occhi a rimanere socchiusi e la penombra contorna di morte 
+ogni cosa .... non e' paura quella che provi .... E' TERRORE ALLO STATO PURO
+~
+36 0 0 
+D0
+~
+~
+0 -1 3671 0
+D3
+~
+~
+0 -1 3674 0
+S
+#3674
+Nel sepolcro~
+ La visuale e' quasi annullata e perdersi non e' difficile, l'umidita' 
+costringe gli occhi a rimanere socchiusi e la penombra contorna di morte 
+ogni cosa .... non e' paura quella che provi .... E' TERRORE ALLO STATO PURO
+~
+36 0 0 
+D0
+~
+~
+0 -1 3672 0
+D1
+~
+~
+0 -1 3673 0
+D2
+~
+~
+0 -1 3675 0
+S
+#3675
+Le scale~
+ Al centro della stanza circolare ci sono delle antichissime scale che vanno 
+verso il basso, il muschio e l'umidita' lasciano spazio ad alcuni buchi del 
+fondo sottostante lasciando intravedere che in realta' il pavinìmento era 
+fatto di metallo fuso, la scalinata e' ornata da due bellissime quanto 
+inquietanti statue raffiguranti dei demoni di platino e silicio.
+~
+36 0 0 
+D0
+~
+~
+0 -1 3674 0
+D5
+~
+~
+0 -1 3676 0
+S
+#3676
+Il corridoio illuminato~
+ Questo corridoio e' molto ben illuminato e l'usura del tempo pare non 
+esistere per questi muri fatti di un materiale a te sconosciuto, cosi' come 
+per i pavimenti che guardandoli bene ti pare cambino colore alla pressione 
+dei tuoi passi.
+~
+36 0 0 
+D3
+~
+~
+0 -1 3677 0
+D4
+~
+~
+0 -1 3675 0
+S
+#3677
+Il corridoio illuminato~
+ I muri sono quasi completamente ricoperti di schermi al plasma dove puoi 
+vedere scene di combattimenti, di hackeraggi, di amore e di morte degli eroi 
+che hanno segnato un'epoca. Tutto e' tranquillo ma provi un brivido che non 
+ti piace. a Nord vedi una stanza
+~
+36 0 0 
+D0
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3681 0
+D1
+~
+~
+0 -1 3676 0
+D3
+~
+~
+0 -1 3678 0
+S
+#3678
+Il corridoio illuminato~
+ Guardandoti attorno inizi a capire che questo sepolcro non e' opera umana, i 
+materiali usati, lo stile ecc.. riconducono il tuo pensiero alle favole che 
+si raccontano la notte per addormentare i bambini... "Gli alieni che vennero 
+e che edificarono edifici immani e indistruttibili, che portarono conoscenza 
+e tecnologia ..." tutto inizia timidamente a riaffiorare nella tua mente, 
+mentre pensi a tutto questo puoi edere una stanza a Nord e una a Sud, ad Est 
+e ad Ovest il corridoio continua con la sua luce ambrata.
+~
+36 0 0 
+D0
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3682 0
+D1
+~
+~
+0 -1 3677 0
+D2
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3683 0
+D3
+~
+~
+0 -1 3679 0
+S
+#3679
+Il corridoio illuminato~
+ Ogni domanda dicono abbia un perche', .... allora come mai nessuno puo' 
+rispondere alla tua domanda? ..... CHE SENSO HA FARE UNA SANTUARIO DI QUESTO 
+TIPO? pare che la risposta non sia qui, pero' ad Ovest intravedi una stanza 
+che pare un tempietto ... forse li troverai qualche risposta. A Nord e a Sud 
+ci sono due stanze.
+~
+36 0 0 
+D0
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3684 0
+D1
+~
+~
+0 -1 3678 0
+D2
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3685 0
+D3
+~
+~
+0 -1 3680 0
+S
+#3680
+Il Tempietto del Santuario~
+ L'oscurita' ha ripreso il sopravvento e l'unica luce che debolmente illumina 
+la stanza e' quella di due raggi laser a dispersione che puntano su una 
+superficie curva che riflettendoli irraggiano debolmente i contorni ... 
+Tutto assume una che di spettrale e l'altare al centro della stanza e' 
+ricoperto delle olofoto dei nostri Eroi. una teca e' appoggiata al muro e, 
+anche se poco illuminati, guardando attentamente puoi vedere gli oggetti che 
+appartennero a loro, naturalmente la teca e' protetta e risulta impossibile 
+anche solo toccarla.
+Restando vicino all'altare senti piu' freddo, come se il gelo volesse 
+prenderti dai piedi per poi salire, ma poi capisce che e' solo una fessura 
+alla base dall'altare a far passare questa aria fredda.
+~
+36 0 0 
+D1
+~
+~
+0 -1 3679 0
+E
+altare~
+ Ci sono le olofoto che ritraggono WindOver, Lussia, Sunny, Luponero e 
+Supermen in attimi della loro esistenza, amori e combattimenti, dolori e 
+vittorie, esplorazioni, amicizia, curiosita' tenacia e battute. Guardando 
+queste foto capisci che la loro non era solo una'amicizia profonda, capisci 
+che avevano bisogno l'uno dell'altro .... una lacrimucia cerca di scappare 
+dal tuo occhio, na senza fartene accorgere la catturi in tempo e nessuno ti 
+vede
+~
+E
+teca~
+ E' una specie di armadio a muro, vi sono contenuti gli oggetti che 
+appartenevano ai nostri Eroi, la tuta gialla con una S ricamata di Superman, 
+il mantello del vento (nero con una W ricamatasopra) di WindOver, le calze 
+autoreggenti di Sunny, La spada di Diablomeo di Windover che gli venne 
+regalata dal nostro Dio Meo in persona ecc. ec..
+~
+S
+#3681
+Sunny~
+ Entrando ti sembra di tornare indietro nel tempo. Preziosi ARREDAMENTI
+ed antichi QUADRI fanno da cornice a questo luogo. Un grande SPECCHIO
+occupa la parete nord. Sulla sinistra vicino ad un bellissimo SOFA'
+un ARMADIO aperto lascia intravvedere ABITI stupendi.
+Non una finestra eppure una luce naturale e' diffusa nella stanza!
+~
+36 dgj 0
+D2
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3677
+E
+preziosi arredamenti~
+Mobili di famosi artigiani, costruiti con i legni piu' pregiati 
+fatti arrivare dalle coste di sperduti continenti.
+~
+E
+antichi quadri~
+88888888888888888888888888888888888888888888888888888888888888888888888
+88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .'|   |.'|     |  _..88
+88   `-.._  |    |`!  |`.  -_ -__ -_ _- _-_-  .'  |.;'   |   _.!-'|  88
+88      | `-!._  |  `;!  ;. _______________ ,'| .-' |   _!.i'     |  88
+88..__  |     |`-!._ | `.| |_______________||."'|  _!.;'   |     _|..88
+88   |``"..__ |    |`";.| i|_|MMMMMMMMMMM|_|'| _!-|   |   _|..-|'    88
+88   |      |``--..|_ | `;!|l|MMoMMMMoMMM|1|.'j   |_..!-'|     |     88
+88   |      |    |   |`-,!_|_|MMMMP'YMMMM|_||.!-;'  |    |     |     88
+88___|______|____!.,.!,.!,!|d|MMMo * loMM|p|,!,.!.,.!..__|_____|_____88
+88      |     |    |  |  | |_|MMMMb,dMMMM|_|| |   |   |    |      |  88
+88      |     |    |..!-;'i|r|MPYMoMMMMoM|r| |`-..|   |    |      |  88
+88      |    _!.-j'  | _!,"|_|M<>MMMMoMMM|_||!._|  `i-!.._ |      |  88
+88     _!.-'|    | _."|  !;|1|MbdMMoMMMMM|l|`.| `-._|    |``-.._  |  88
+88..-i'     |  _.''|  !-| !|_|MMMoMMMMoMM|_|.|`-. | ``._ |     |``"..88
+88   |      |.|    |.|  !| |u|MoMMMMoMMMM|n||`. |`!   | `".    |     88
+88   |  _.-'  |  .'  |.' |/|_|MMMMoMMMMoM|_|! |`!  `,.|    |-._|     88
+88  _!"'|     !.'|  .'| .'|[@]MMMMMMMMMMM[@] \|  `. | `._  |   `-._  88
+88-'    |   .'   |.|  |/| /                 \|`.  |`!    |.|      |`-88
+88      |_.'|   .' | .' |/                   \  \ |  `.  | `._    |  88
+88     .'   | .'   |/|  /  Autore: Felix Lee  \ |`!   |`.|    `.  |  88
+88  _.'     !'|   .' | /                       \|  `  |  `.    |`.|  88
+88 vanishing point 888888888888888888888888888888888888888888888(FL)888
+~
+E
+armadio~
+Un armadio in stile barocco in legno massello.
+~
+E
+abiti~
+ Non si puo' certo dire che la proprietaria di questi abiti manchi di fantasia e gusto!
+Vedi una intera collezione di vestiti, dal piu' casual al piu' formale, al piu' Trasgressivo!!
+~
+E
+sofa'~
+Un comodo sofa' rivestito con un velluto color porpora. Appoggiato sulla spalliera noti un pezzo di STOFFA.
+~
+E
+stoffa~
+Guardandola meglio vedi che si tratta di un reggicalze dei piu' maliziosi..
+~
+E
+specchio~
+Guardi lo specchio,ma appena cerchi di mettere a fuoco la vista, la tua immagine scompare.
+Senti una voce proveniente da dentro lo specchio dire :"Chiamami per nome ed io riconoscero' 
+che sei tu Sunny, solo allora potrai specchiarti!
+~
+E
+spooky~
+Adesso si che ti riconosco,questa e' l'immagine che voglio conservare di te                                                        
+          WMMM80MMZSX2aZZZZ22MMMMSSS MMMM         
+          MMMrMM@@MMBMMMMMMMMiaM2Z0WMMMMMMM       
+         MMMSMMM7MMMZB2r:MMMMMMMMMMMMWMMB0X       
+         0MM2M0a7Ma0M7XZMMW.,......, BBZM@S       
+       0MMMW0M20MM02;ZMMM  i;;;;;;;;r ,8MMa       
+       ;WMiZMXa8M.WMMMM7   .,:::::,,77aMMM8       
+       ;WMMMMSMMMMZ8M,..72aX:i;;;;;i,.,;ZMMM      
+       :BMM07aMMMXS8M      .2;i;;i:. ,. W2BM      
+        MMMWSMMM222WMMMMMZMB rX;ii:,8Xri2MMM      
+      SMM7M@X7MMS2M@,MMMMM0ZM::; ,8MMMMMMXaM      
+      MMM MB7ZM@77MM        a i; MMM MMMM2ZMM7    
+      MMMXMMM2MMM7MM  .,:i;i::ii     .iMMSZMMX    
+      MMMiMM0SM@;iMM..;;;;;;iSXSi;i, 0WMMSZM7     
+      MMM@MM0aMM;MMM  :i;i:. ,,i,..  MMMMSZM      
+      MMMrMB7aMM:M2aZSi,:i8WWWB8 i;2MMMMMSZM      
+      MMMrMMBaMM,MZX.@BZi  .SX, .0MM@MMMMSZM      
+      MMMXMMWXM@ MZ2i.raMii,. .:MMM0WMMMMSZM      
+      MMM MM0ZMM@MZ27,iirMMMW2MMMMW;7MW:MrSM      
+      M@MSMMX MMMMMZS X7;,;20MMMM80@MMWZMMMM      
+        aMS:S MMM.;0M           M 8M ZMM MMM      
+        . MM8 MMM   ZMW         i0MM MM M .M      
+Scusa la qualita' di riproduzione, ma mi risulta difficile portare alla memoria una tua 
+immagine di quando eri piccola.    
+~
+S
+#3682
+Luponero~
+ Forse non avresti dovuto trovarti qua!
+Sicuramente non avresti dovuto violare un santuario cosi' potente!
+Improvvisamente si accende una luce rossa e riesci a mettere a fuoco l'ambiente circostante.
+Nella stanza un grande TAVOLO e' occupato da una vecchia postazione RADIO e da un OSCILLOSCOPIO.
+Nella parete alla tua destra spicca una TARGA, sembra una specie di attestato.
+~
+36 dgj 0
+D2
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3678
+E
+targa attestato~
+   ._________________.     __       __  ___        __             _          __
+   | ._____________. |     ||      /  |/  /__ ____/ /  ___ ____  (_)______ _/ /
+   | |XX In Hack XX| |    _||_    / /|_/ / -_) __/ _ \/ _ `/ _ \/ / __/ _ `/ /
+   | |XXXXXXXXXXXXX| |   /    \  /_/  /_/\__/\__/_//_/\_,_/_//_/_/\__/\_,_/_/
+   | |XXX Whe XXXXX| |  |   @  |   ____          _                  _
+   | |XXXXXXXXXXXXX| |   \    /   / __/__  ___ _(_)__  ___ ___ ____(_)__  ___ _
+   | |XXX Trust XXX| |   //  \\  / _// _ \/ _ `/ / _ \/ -_) -_) __/ / _ \/ _ `/
+   !_________________!  //    \\/___/_//_/\_, /_/_//_/\__/\__/_/ /_/_//_/\_, /
+       _[_______]_     //      \\        /___/    ____           __     /___/
+  .___[___________]___//        \\               / __ \___ ___  / /_
+  |_________________-//----==----\\-            / /_/ / -_) _ \/ __/
+  | O       [______]//|-__        \\           /_____/\__/ .__/\__/
+  !________________//_!   \__      \\                   /_/
+    ______________//_        \      \\       
+   /Esc ### #####//# \        |      \\      
+  / ############//canc\      /        \\@    
+ / ############/###### \    /\         .\
+/ ctrl #######/alt# ### \  (__)         .
+|____________/__________|                .
+~
+E
+tavolo~
+Sembra un tavolo costruito su misura, la radio e sopratutto
+l'oscilloscopio che ci sono sopra sono incastrati in appositi spazi.
+~
+E
+radio~
+E' una radio di fabbricazione sovietica, mentre la stai osservando arriva
+una comunicazione :" bzzzz...uto bzzz bz intrusi bzzz..urezza compromessa bzz rientrare r.bzzz"
+e poi nuovamente tutto tace.
+~
+E
+oscilloscopio~
+Una piccola piramide composta da avvolgimenti in rame,con un oggetto come questo
+si potrebbe mandare in tilt ogni frequenza di una citta' intera!!
+~
+S
+#3683
+Lussia~
+ Un senso di pace ti pervade appena entri nella stanza.
+Una grande VASCA e' posta al centro della stanza.
+Le pareti di questo luogo sono interamente ricoperte di VEGETAZIONE.
+Non senti piu' il rumore dei tuoi passi visto che il pavimento si sta' trasformando 
+sotto i tuoi occhi in un bellissimo giardino. Ci sono delle ORME poco piu' adestra.
+Una SFERA trasparente flutta nell'aria.
+~
+36 dgj 0
+D0
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3678
+E
+vasca~
+Una vasca in marmo bianco, abbastanza grande da conterene una buona varieta' di PESCI.
+Sulla superfice galleggiano dei FIORI.
+~
+E
+fiori~
+Questi fiori sono molto colorati e profumati , ma non sapresti dire a che specie appartengono.
+~
+E
+pesci~
+Sono dei bellissimi esemplari di trota "fario", molto scuri e con dei puntini rossi sulla shiena.
+~
+E
+pareti vegetazione~
+Sono in maggioranza piante rampicanti quelle che ricoprono le pareti.
+~
+E
+sfera~
+Ti avvicini e guardi la sfera, vedi al suo interno una infinita distesa desertica, 
+ma mentre stai per soffermare lo sguardo, la sfera si sposta piu' lontano e senti una voce profonda dire:
+"Se scruti troppo a lungo l'Infinito, l'Infinito scrutera' dentro di te!!" 
+~
+E
+orme~
+         .oooO           Oooo.
+         (   )   _   _   (   )
+          \ (   / ) ( \   ) /
+   (gig----\_)-/ (---) \-(_/----gle)
+              (   ) (   )
+              .oooO Oooo.
+~
+S
+#3684
+WindOver~
+ Quello che vi trovate davanti agli occhi e' una scena quanto meno ...... 
+strana. siete sul ciglio di un BARATRO in cui VIVONO piccoli tornado e i 
+venti sembrano avere una propria coscienza. In mezzo al baratro c'e' una 
+piccola e stretta passerella che porta ad in isoletta sospesa in aria. Al 
+centro dell'isoletta si puo' notare un cerchio di PIETRE fuse e un SIMBOLO 
+runico di cui non conoscete il significato. Un modesto TRONO fatto di 
+rampicanti parrebbe essere il sedile di WindOver.
+~
+36 dgj 0
+D2
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3679
+E
+baratro~
+Immenso! Impossibile considerarne la profondita'.
+~
+E
+pietre~
+Sembrano fuse da un vulcano.
+~
+E
+simbolo~
+      _.^._
+     [_<X>_]
+       !_!
+       IOI
+~
+E
+trono rampicanti~
+Le radici delle piante rampicanti che formano il trono sembrano
+un fascio di nervi che sostengono una seduta.
+~
+S
+#3685
+Superman~
+ Ti si presenta un ambienta riccamente rivestito di marmo verde.
+Un TAVOLO con sopra delle CARTE e' stato sistemato al centro della stanza,
+vi sono sei SEDIE attorno ad esso. 
+Uno strano QUADRO e' appeso alla parete.
+~
+36 dgj 0
+D0
+Non vedi niente di speciale, ma senti che dovresti fare ATTENZIONE!
+~
+porta~
+1 -1 3679
+E
+quadro~
+     *   .                  .              .        .   *          .
+  .         .                     .       .           .      .        .
+        S                             .                   .
+         .              .                  .           .
+          U     .
+           .      .          .                 ,                ,    ,
+ .          P          .                         .
+      .      \   ,
+   .          E     .                 .                   .            .
+     .         \                 ,             .                .
+               #R##\#      .                              .        .
+             #  #.##\###                .                        .
+   .        #*#  #M##\###                       .                     ,
+        .   ##*#  #\##\##               .                     .
+      .      ##*#  #A##\#         .                             ,       .
+          .     *#  #\#     .                    .             .          ,
+                      N          .                         .
+____^/\___^--____/\____  _____________/\/\---/\___________---______________
+   /\^   ^  ^    ^     \/             ^^ ^  '\ ^          ^       ---
+         --           -            --  -      -         ---  __       ^
+   --  __   La nascita      ___--  ^  ^                         --  __
+Guardando bene il quadro ti accorgi che in basso ha una piccola TARGHETTA.
+~
+E
+targhetta~
+"Cosi' il cielo un giorno ci porto', in dono, colui che avevamo sempre aspettato."~
+E
+tavolo~
+E' un tavolo bellissimo, la parte a vista e' stata composta tutta a mosaico con tasselli in legno,
+mentre il piede centrale che lo sorregge e' in pieno massello.
+~
+E
+sedie~
+Riccamente inbottite di una morbida stoffa porpora hanno l'aspetto di essere molto comode.
+~
+E
+carte~                                                                                              
+                       /\
+                     /____\
+                   / ,,,,,, \
+                 /_  .----.  _\
+               /_:  <  ()  >  _:\
+             /__:__  '----'  :___:\
+           /_:_____:_____:_____:____\
+         /:_____:_____:_____:_____:___\
+       /:____:_____:_____:_____:_____:__\
+     /____:_____:_____:_____:_____:____:__\
+   /___:_____:_____:_____:_____:_____:____:_\
+ /__:_____:_____:_____:_____:_____:_____:____:\
+Sembra il progetto di una piramide.
+~
+S 
+$~
+

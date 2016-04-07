@@ -1,0 +1,580 @@
+#3100
+tazza the~
+una tazza~
+una tazza e' stata lasciata qui~
+~
+17 0 1
+2 2 20 0
+1 15 0
+E
+tazza~
+e' una semplice tazza
+~
+#3101
+tazzina caffe'~
+una tazzina~
+Una tazza e' stata lasciata qui~
+~
+17 0 1
+1 1 21 0
+1 3 0
+#3102
+bicchiere acqua~
+un bicchiere~
+Un bicchiere d'acqua e' stato lasciato qui.~
+~
+17 0 1
+8 8 16 0
+1 5 0
+#3103
+bottiglietta acqua~
+una bottiglietta~
+Una bottiglietta e' stata lasciata qui~
+~
+17 0 1
+4 4 16 0
+1 10 0
+E
+bottiglietta~
+E' una bottiglia da un litro con una etichetta.
+~
+E
+etichetta~
+Sei stato beffato! sulla bottiglia, una etichetta con la scritta piccina
+recita: 
+'Quest'acqua proviene dal naturale e pulito fiume Perrier di McLandia'
+~
+#3104
+boccale birra~
+un boccale~
+Un boccale e' stata lasciato qui~
+~
+17 0 1
+3 3 17 0
+1 25 0
+E
+boccale~
+Boccale di birra alla spina: non e' dato sapere di che marca e tipo sia:
+e' l'unico alcolico servito nel PioloPub
+~
+#3105
+chiave dollaro~
+una chiave a forma di dollaro~
+una chiave a forma di dollaro e' stata lasciata qui~
+~
+18 cdq 16385
+0 0 0 0
+1 0 0
+#3106
+chiave di legno~
+chiave di legno~
+una chiave di legno e' sul pavimento.~
+~
+18 0 a
+0 0 0 0 0
+0 0 0
+#3107
+chiave ottone~
+chiave di ottone~
+Una chiave di ottone giace sul pavimento.~
+~
+18 0 a
+0 0 0 0 0
+0 0 0
+#3108
+chiave arruginita~
+Una chiave arruginita~
+Una chiave arruginita e' poggiata sul pavimento~
+~
+18 0 a
+0 0 0 0 0
+0 0 0
+#3109
+scrivania~
+Una scrivania di legno~
+Una scrivania di legno pregiato e' in bella mostra nella stanza~
+~
+15 0 0
+10 5 0 0
+2 20 0
+E
+scrivania~
+La scrivania e' molto bella e ti viene voglia di curiosarci dentro.
+~
+
+#3110
+cassapanca~
+Una cassapanca~
+Una cassaforte e' incassata nel muro nord della stanza.~
+~
+15 0 0
+10 13 3106 0
+2 20 0
+E
+cassapanca~
+E' nascosta in un angolo buio della stanza e' chiusa e sembra molto solida.
+~
+#3111
+panchina~
+Una panchina~
+Una panchina molto comoda, situata in modo che si possa vedere il fiume e' qui.~
+~
+13 0 0
+0 0 0 0 0
+0 0 0
+E
+panchina~
+E' una panchina molto comoda, e' situata in modo che si possa vedere il fiume.
+~
+#3112
+chiave gigante~
+La chiave della citta' di Mclandia~
+La chiave della citta' e' qui che brilla.~
+~
+18 0 0
+0 0 0 0 0
+0 0 0
+#3113
+fontanella~
+Una fontanella~
+Una piccola fontanella dalla quale prendere acqua potabile.~
+~
+23 0 0
+0 0 0 0 0
+0 0 0
+#3114
+pila monete coin coins~
+una pila di monete d'oro~
+Una pila di monete d'oro e' qui seminascosta dai rifiuti.~
+~
+20 0 a
+500 0 0 0
+0 0 0
+#3115
+monete pila coin coins~
+una pila di monete d'oro~
+c'e' una pila di monete d'oro~
+~
+20 0 a
+10000 0 0 0
+0 0 0
+#3116
+candela~
+una candela~
+una candela e' stata lasciata qui~
+~
+1 0 16185
+0 0 24 0
+1 10 0
+#3117
+albero olmo~
+Un olmo.~
+Un antichissimo olmo troneggia. E' pieno di incisioni~
+~
+13 0 0
+0 0 0 0 0
+0 0 0
+E
+incisioni incisione~
+Ti sembra di girare a vuoto?
+C'e' qualcuno che puo' aiutarti e
+ti sta aspettando la piolo bar.
+~
+#3118
+mazzo rose rosa~
+Un mazzo di rose rosa~
+Un bellissimo  mazzo di rose rosa giace qui per terra~
+~
+13 0 a
+0 0 0 0 0
+1 50 0
+#3119
+mazzo margherite~
+Un mazzo di margherite~
+Un mazzo di margherite e' stato lasciato qui~
+~
+13 0 a
+0 0 0 0 0
+1 20 0
+#3120
+bambola~
+una bambola gonfiabile~
+Una bambola gonfiabile e' stata lasciata qui~
+~
+15 c a
+1 0 0 0
+2 10 0
+E
+bambola gonfiabile~
+E' una bellissima bambola molto realistica.
+La bambola e' nuda e da ehmmm... uno dei suoi orifizi vedi
+che spunta l'angolo di un postit verde.
+~
+#3121
+postit verde~
+un postit verde~
+Un postit verde e' stato lasciato qui.~
+~
+16 0 a
+0 0 0 0 0
+0 0 0
+E
+postit~
+Sul postit c'e' scritto
+ip: 195.110.131.28
+~
+#3122
+camicia~
+Una camicia su misura~
+una camicia su misura giace qui abbandonata~
+~
+9 0 9
+2 0 0 0
+5 500 0
+#3123
+floppy~
+un floppy disk~
+Un floppy disk e' stato abbandonato qui~
+~
+12 0 a
+0 0 0 0 0
+0 0 0
+E
+floppy disk~
+E' un normale floppy con un'etichetta un po' lisa.
+~
+E
+etichetta~
+
+
+                 ______
+              .-"      "-.
+             /            \
+ _          |              |          _
+( \         |,  .-.  .-.  ,|         / )
+ > "=._     | )(__/  \__)( |     _.=" <
+
+(_/"=._"=._ |/     /\     \| _.="_.="\_)
+       "=._ (_     ^^     _)"_.="
+           "=\__|IIIIII|__/="
+          _.="| \IIIIII/ |"=._
+ _    _.="_.="\          /"=._"=._     _
+( \_.="_.="    `--------`     "=._"=._/ )
+ > _.="                           "=._ <
+
+(_/                                   \_)
+
+~
+#3124
+sadomaso kit~
+un kit sadomaso~
+Un kit sadomaso con un'etichetta gialla.~
+~
+13 0 a
+8 8 11 0 0
+3 750 0
+E
+etichetta~
+vendita vietata ai minori di 24 anni.
+Il kit e' molto pericoloso. 
+~
+E
+kit~
+il kit e' composto da molti oggetti tra i quali e' in evidenza una maschera da boia.
+~
+#3125
+acido~
+una dose di acido ~
+Una dose di acido giace qui nella polvere~
+~
+3 g 16385
+20 4 4 33
+2 5000 0
+#3126
+cocaina~
+una dose di cocaina~
+Una dose di cocaina giace qui per terra~
+~
+3 g 16385
+20 4 4 33
+2 4500 100
+#3127
+floppy disk~
+un floppy disk~
+un floppy disk e' stato lasciato qui~
+~
+12 0 a
+12 12 12 0 0
+1 500 0
+E
+floppy disk~
+E' un normale floppy con un'atichetta.
+~
+E
+etichetta~
+l'etichetta e' bianca;
+non c'e' scritto nulla.
+~
+#3128
+pietra~
+La pietra della salute~
+La pietra della salute e' stata lasciata qui.~
+~
+3 cgq 16385
+20 4 4 28
+2 50000 40000
+E
+pietra salute~
+E' una bellissima pietra lucente. Ha un catellino con le avvertenze.
+~
+E
+cartellino avvertenze~
+Attenzione la pietra ha una durata limitata.
+Posologia:
+prendere in mano: hold pietra
+usare: use pietra <nome>.
+~
+#3129
+calze autoreggenti~
+un paio di calze autoreggenti nere~
+Un paio di calze autoreggenti nere e' stato lasciato qui~
+~
+9 0 33
+2 0 0 0
+8 100 0
+#3130
+body~
+un body panterato~
+Un body panterato giace qui abbandonato~
+~
+9 0 9
+2 0 0 0
+60 150 0
+#3131
+frusta~
+frusta di cuoio~
+Una frusta di cuoio e' qui per terra~
+~
+5 0 8193
+0 1 3 2
+1 50 0
+A
+18 2
+#3132
+Mac~
+un Mac~
+Un Mac e' su una scrivania~
+~
+12 0 0
+0 0 0 0 0
+1 20 0
+E
+Mac~
+e' uno splendido Mac colorato collegato in rete
+con gli altri; dei salvaschermi con password celano
+chissa' quale segreto.
+~
+#3133
+Pc~
+Un Personal computer~
+Un Pc sta in un angoletto~
+~
+12 0 0
+0 0 0 0 0
+1 20 0
+E
+Pc personal computer~
+solo soletto ecco un personal computer vecchia
+generazione attaccato in rete con un adsl; 
+il salvaschermo con password cela chissa' quale 
+segreto.
+~
+#3134
+noname~
+Un buco nel pavimento~
+Sul lato nord della stanza vedi un invisibile buco nel pavimento~
+~
+12 f 0
+0 0 0 0 0
+1 20 0
+#3135
+Ducati monster~
+Una Ducati monster 750~
+Una Ducati monster 750 fa bella mostra di se'~
+~
+12 0 0
+0 0 0 0 0
+1 20 0
+E
+ducati monster~
+E' una moto nuda, essenziale, per coloro che non amano le comodita' ma
+il brivido del contatto con l'aria. Poco comoda per la citta', ideale
+per gite fuoriporta.
+L'esemplare esposto e' giallo. Molto apprezzata dalle donne, che la
+amano ma trovano molto scomodo farci da secondo passeggero.
+~
+#3136
+Bmw R110RS borsa~
+Una BMW R110RS~
+Una BMW R110RS sta al centro della esposizione come una regina~
+~
+15 0 0
+10 5 0 0
+2 20 0
+E
+Bmw R110RS~
+Sia sportiva che turistica, e' la moto dedicata a chi ama le comodita'.
+Monta il mitico motore Boxer che ti portera' ovunque e non ti lascera'
+mai per strada. E' fornita con borsoni laterali e baule posteriore che
+permettono di trasportare il necessario anche per lunghi viaggi.
+~
+E
+borsa borsone borsoni~
+E' una normale borsa portaoggetti da moto.
+~
+#3137
+Honda CBR~
+Una Honda CBR 900 RR Fireblade~
+Una fiammante Honda CBR 900 RR Fireblade e' qui pronta a schizzare via con te!~
+~
+12 0 0
+0 0 0 0 0
+1 20 0
+E
+honda cbr fireblade~
+Ha delle alte prestazioni, mantenendo allo stesso tempo elevata
+guidabilita' anche se non c'e' molto spazio per il passeggero che
+comunque si divertira' un mondo.
+~
+#3138
+Triumph TT600~
+Una Triumph TT600~
+Una splendida Triumph TT600 emana una grande sensazione di potenza~
+~
+12 0 0
+0 0 0 0 0
+1 20 0
+E
+Triumph TT600~
+Velocita' pura, massima guidabilita' e forti emozioni non sono tutto su
+una motocicletta. Pero' alle volte aiutano. Quando sei spianato sul
+serbatoio con il casco infilato in carena e l'orizzonte si avvicina
+violentemente con l'urlo del motore che esplora quel mondo poco
+affollato che sta ben aldila' dei 14.000 giri, ti viene di pensare con
+gioia che alla Triumph sapevano quel che facevano. Dedicata a chi ama la
+velocita': e' infatti una monoposto.
+~
+#3139
+macchina tac~
+Una macchina per la Tac~
+Una grande macchina per la tac e' qui al centro della stanza.~
+~
+12 0 0
+0 0 0 0 0
+1 20 0
+E
+tac macchina~
+Noti un cartello che dice:
+ --------------------------------
+| per sottoporsi alla scansione: |
+| digitare: use tac              |
+ --------------------------------
+~
+#3140
+vibratore~
+Un vibratore in lattice~
+Un vibratore in lattice è qui appoggiato~
+~
+11 0 8193
+0 1 3 2
+1 50 0
+E
+vibratore~
+Un vibratore in lattice tutto nero, è molto grosso, 
+alla sua base una rotellina ti permette di regolare la velocità
+della vibrazione.
+~
+#3141
+pinza per capezzoli~
+Una pinza per capezzoli~
+Una pinza per capezzoli è qui appoggiata~
+~
+9 0 9
+2 0 0 0
+1 50 0
+E
+pinza per capezzoli~
+E' una pinza per capezzoli con una catenella ed un peso di 40 gr 
+attaccato alla sua estremita' che vedi oscillare fra le tue mani, 
+devono essere molto dolorose.
+~
+#3142
+guepierre~
+una guepierre nera~
+Una guepierre nera giace qui abbandonato~
+~
+9 0 9
+2 0 0 0
+12 250 0
+E
+guepierre~
+E' una bellissima guepierre di seta nera con decorazioni floreali,
+dietro ci sono tutta una serie di fori dove scorre il laccio che serve a stringerla,
+se stretta bene modella la vita fino a fare mancare il fiato.
+~
+#3143
+doppiofallo~
+un doppiofallo~
+Un doppiofallo e' qui appoggiato~
+~
+11 0 8193
+0 1 3 2
+1 80 0
+E
+doppiofallo~
+E' un doppio fallo in lattice, è rosa, è molto lungo e alle sue due estremità
+si possono vedere due punte che rassomigliano molto a due glandi.
+~
+#3144
+blocca polsi~
+Un blocca polsi con gancio~
+Un blocca polsi è qui appoggiato~
+~
+9 0 9
+2 0 0 0
+1 50 0
+E
+blocca polsi~
+E' un bloccapolsi in cuoio nero, ha due fibie che servono a stringerle ai polsi
+e due ganci che permettono di congiungerli fra di loro. 
+Un anello per agganciarci qualcosa è posto al centro.
+~
+#3145
+falloenorme~
+un fallo enorme~
+Un fallo enorme e' qui appoggiato~
+~
+11 0 8193
+0 1 3 2
+1 200 0
+E
+falloenorme~
+E' un fallo enorme in lattice, è molto realistico sia il colore che la forma.
+Le sue dimensioni sono paragonabili più ad un totem da adorare che ad altro.
+~
+#3146
+vestitomarlene~
+un vestito nero molto sexy con un ampia scollatura posteriore e un vertiginoso spacco, e' il vestito di Marlene~
+Il vestito nero molto sexy di Marlene giace qui per terra~
+~
+9 0 8
+2 0 0 0
+12 250 0
+E
+vestitonero~
+E' un vestito nero di un tessuto leggerissimo, ha una profonda scollatura sul dietro
+che fa intravedere la riga fra i glutei, ha anche uno spacco vertiginoso che mostra
+un'ampia porzione di coscia camminando. Un sottile nastro legato dietro il collo
+e' l'unica cosa che lo tiene su. Questo vestito e' di Marlene
+~
+$

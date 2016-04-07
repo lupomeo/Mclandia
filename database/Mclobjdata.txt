@@ -1,0 +1,2672 @@
+
+------------------------
+VNUM: #0
+Nome: a bug
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #1
+Nome: a pair of wings
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  200
+
+------------------------
+VNUM: #10
+Nome: a waybread
+Tipo: CIBO
+COSTO DI RENT:  50
+
+------------------------
+VNUM: #20
+Nome: una brillante porta telnet
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #50
+Nome: un revolver
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #51 
+Nome: una pallottola calibro .22~ 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  10
+
+------------------------
+VNUM: #53 
+Nome: un pacco di pallottole cal.22~ 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  15
+
+------------------------
+VNUM: #55
+Nome: un fucile winchester
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  15
+
+------------------------
+VNUM: #57
+Nome: un fucile a pompa
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  20
+
+------------------------
+VNUM: #58 
+Nome: una cartuccia~ 
+Tipo: GENERICO
+COSTO DI RENT:  10
+
+------------------------
+VNUM: #61
+Nome: una bomba a mano
+Tipo: GENERICO
+COSTO DI RENT:  50
+
+------------------------
+VNUM: #62
+Nome: una carica da demolizione
+Tipo: GENERICO
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #63
+Nome: un coltello da lancio
+Tipo: GENERICO
+COSTO DI RENT:  10
+
+------------------------
+VNUM: #64
+Nome: una doppietta a canne mozze
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #65
+Nome: una balestra
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  50
+
+------------------------
+VNUM: #66
+Nome: un arco
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  50
+
+------------------------
+VNUM: #67 
+Nome: una freccia~ 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  250
+
+------------------------
+VNUM: #72
+Nome: un lanciagranate
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  300
+
+------------------------
+VNUM: #73
+Nome: un paio di Ray-ban
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #74
+Nome: un cerchietto di platino
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #75
+Nome: un diamante
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #76
+Nome: Una borsa intarsiata di cuoio pregiato
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #77
+Nome: Uno zainetto di pelle
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #78
+Nome: Un sovraspalla chiodato
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #79
+Nome: una tuta techno da combattimento
+Tipo: ARMATURA
+AC Apply: 50 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #80
+Nome: un fucile da assalto M4
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  25
+
+------------------------
+VNUM: #81 
+Nome: un pacco di caricatori 7.42 mm~ 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #90
+Nome: uno stimolatore
+Tipo: GENERICO
+COSTO DI RENT:  1000
+
+------------------------
+VNUM: #91
+Nome: un RAM recharger
+Tipo: GENERICO
+COSTO DI RENT:  1000
+
+------------------------
+VNUM: #100
+Nome: un fucile da assalto CAW
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #101
+Nome: una pallottola cal.22~ 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  25
+
+------------------------
+VNUM: #116
+Nome: un fucile da assalto AK47 Kalashnikov 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  20
+
+------------------------
+VNUM: #117
+Nome: un mitra MP5 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  20
+
+------------------------
+VNUM: #118
+Nome: un mitra UZI 
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  20
+
+------------------------
+VNUM: #119
+Nome: un fucile da assalto FAMAS
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  25
+
+------------------------
+VNUM: #120
+Nome: un fucile da assalto L7A1
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  25
+
+------------------------
+VNUM: #121
+Nome: un fucile da assalto L7A1
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  25
+
+------------------------
+VNUM: #122
+Nome: un fucile da assalto Steyr AUG
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  25
+
+------------------------
+VNUM: #123
+Nome: un mitra PM-12
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  15
+
+------------------------
+VNUM: #124
+Nome: una pistola automatica 92S
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  15
+
+------------------------
+VNUM: #125
+Nome: un fucile da assalto AR70/90
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  25
+
+------------------------
+VNUM: #126
+Nome: un fucile da assalto AKM
+Tipo: ARMA DA FUOCO
+COSTO DI RENT:  20
+
+------------------------
+VNUM: #16000
+Nome: una divisa blu
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #16001
+Nome: un camice bianco
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  1000
+PROPRIETA': INT 3
+
+------------------------
+VNUM: #16002
+Nome: Un chip di controllo degli arti superiori
+Tipo: GENERICO
+COSTO DI RENT:  0
+PROPRIETA': DEX 3
+
+------------------------
+VNUM: #16003
+Nome: un camice verde
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  1000
+PROPRIETA': WIS 3
+
+------------------------
+VNUM: #16004
+Nome: un innesto bionico
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  1000
+PROPRIETA': MOVE 30
+
+------------------------
+VNUM: #16005
+Nome: una chiave magnetica
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #16006
+Nome: una tessera magnetica
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #16007
+Nome: un badge magnetico
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #16008
+Nome: una smart key
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #16009
+Nome: un microchip quantistico
+Tipo: GENERICO
+COSTO DI RENT:  1000
+PROPRIETA': MANA 50
+
+------------------------
+VNUM: #18600
+Nome: un frigobar
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18601
+Nome: un forno a microonde
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18602
+Nome: una Pizza McLink
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18603
+Nome: un Drink McLink
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18604
+Nome: una grossa catena
+Tipo: ARMA
+Danno: 2D4 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18605
+Nome: un portapacchi posteriore
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18606
+Nome: un casco integrale da motociclista
+Tipo: ARMATURA
+AC Apply: 20 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18607
+Nome: una gamba di tavolino
+Tipo: ARMA
+Danno: 2D5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18608
+Nome: un'ampolla trasparente
+Tipo: POZIONE
+COSTO DI RENT:  300
+
+------------------------
+VNUM: #18609
+Nome: una chiave magnetica
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18610
+Nome: un badge magnetico
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18611
+Nome: dei bracciali a fasce
+Tipo: ARMATURA
+AC Apply: -5 
+COSTO DI RENT:  100
+PROPRIETA': HITROLL 2
+PROPRIETA': DAMROLL 1
+
+------------------------
+VNUM: #18612
+Nome: un flusso di byte
+Tipo: ARMA
+Danno: 1D10 12 
+COSTO DI RENT:  0
+PROPRIETA': WIS 3
+PROPRIETA': MANA 20
+
+------------------------
+VNUM: #18613
+Nome: una backdoor
+Tipo: ARMA
+Danno: 1D15 14 
+COSTO DI RENT:  0
+PROPRIETA': STR 2
+PROPRIETA': DEX 3
+PROPRIETA': DAMROLL 2
+
+------------------------
+VNUM: #18650
+Nome: uno sfollagente
+Tipo: ARMA
+Danno: 1D3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18651
+Nome: un tubo di ferro
+Tipo: ARMA
+Danno: 2D5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18652
+Nome: una catena
+Tipo: ARMA
+Danno: 2D8 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18653
+Nome: una mazza chiodata
+Tipo: ARMA
+Danno: 2D5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18654
+Nome: un coltello a serramanico
+Tipo: ARMA
+Danno: 2D5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18655
+Nome: un paio di guanti neri
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18656
+Nome: una tuta nera
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18657
+Nome: un casco da motociclista
+Tipo: ARMATURA
+AC Apply: 9 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18658
+Nome: degli stivali da motociclista
+Tipo: ARMATURA
+AC Apply: 9 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18698
+Nome: un documento word
+Tipo: NOTA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #18699
+Nome: una pulce
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #20000
+Nome: una tuta mimetica
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #20001
+Nome: una tuta da combattimento
+Tipo: ARMATURA
+AC Apply: 8 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #20002
+Nome: una tuta da combattimento hi-tech
+Tipo: ARMATURA
+AC Apply: 20 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #20003
+Nome: Un kimono
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #20004
+Nome: una tuta da aviatore
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #20005
+Nome: un camice bianco
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21000
+Nome: una camicia tarlata
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21001
+Nome: un paio di jeans bucati
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21002
+Nome: un paio di scarpe da ginnastica
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21003
+Nome: una T-Shirt
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21004
+Nome: un lungo camicione di cotone
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21005
+Nome: un paio di scarpe basse
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21006
+Nome: una vestaglia
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21007
+Nome: una giacca gessata
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21008
+Nome: un paio di pantaloni gessati
+Tipo: ARMATURA
+AC Apply: 4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21009
+Nome: una giacca profilata d'oro
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21010
+Nome: un paio di pantaloni di raso
+Tipo: ARMATURA
+AC Apply: 4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21011
+Nome: una giacca grigio fumo
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21012
+Nome: un dolcevita
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21013
+Nome: un paio di pantaloni di cotone
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21014
+Nome: un costume di scena molto scollato e sgambato
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21015
+Nome: un paio di pantaloni sottotuta
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21016
+Nome: Un vestito da sera molto aderente con un lungo spacco
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21017
+Nome: un costume di scena teatrale
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21018
+Nome: un pugno di ferro
+Tipo: ARMA
+Danno: 1D6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21019
+Nome: una tromba
+Tipo: ARMA
+Danno: 2D4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21020
+Nome: un sax
+Tipo: ARMA
+Danno: 2D4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21021
+Nome: un trombone
+Tipo: ARMA
+Danno: 2D4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21022
+Nome: un clarinetto
+Tipo: ARMA
+Danno: 2D4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #21023
+Nome: una lunga tunica nera con cappuccio
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #22000
+Nome: una chiave hardware
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #22001
+Nome: una chiave a croce
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #22002
+Nome: .
+Tipo: SOLDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #22003
+Nome: una maglietta bucata
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  10
+
+------------------------
+VNUM: #22004
+Nome: dei pantaloni bucati
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #22005
+Nome: un coltello Butterfly
+Tipo: ARMA
+Danno: 2D15 
+COSTO DI RENT:  1000
+PROPRIETA': DEX 2
+
+------------------------
+VNUM: #22006
+Nome: un camice giallo
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  45
+PROPRIETA': CHA -2
+
+------------------------
+VNUM: #22007
+Nome: scarpe in gomma antiscivolo 
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  14
+PROPRIETA': MOVE 3
+PROPRIETA': CHAR_HEIGHT 5
+
+------------------------
+VNUM: #22008
+Nome: un camice rosso
+Tipo: ARMATURA
+AC Apply: 7 
+COSTO DI RENT:  25
+PROPRIETA': CHA -8
+PROPRIETA': NESSUNA 3
+
+------------------------
+VNUM: #22009
+Nome: un elettrificatore
+Tipo: ARMA
+Danno: 2D20 
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 1
+
+------------------------
+VNUM: #22010
+Nome: una mazzetta da muratore
+Tipo: ARMA
+Danno: 2D5 
+COSTO DI RENT:  50
+
+------------------------
+VNUM: #22011
+Nome: un filo diamantato
+Tipo: ARMA
+Danno: 1D15 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #22012
+Nome: un paio di scarponi da montagna
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  20
+
+------------------------
+VNUM: #3000
+Nome: un barilotto
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3001
+Nome: una bottiglia
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3002
+Nome: una bottiglia
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3003
+Nome: una tazza
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3004
+Nome: una tazzina
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3005
+Nome: a key of dull metal
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3006
+Nome: una chiave a forma di cuore
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3007
+Nome: una lattina
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3008
+Nome: un bicchiere
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3009
+Nome: un piatto di pappardelle al cinghiale
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3010
+Nome: una pagnotta
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3011
+Nome: un cartoccio di patatine fritte
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3012
+Nome: un hamburger
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3013
+Nome: Una insalata di pollo
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3014
+Nome: Un tramezzino al formaggio
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3015
+Nome: Una gigantesca bistecca alla fiorentina
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3020
+Nome: a dagger
+Tipo: ARMA
+Danno: 1D4 
+COSTO DI RENT:  10
+
+------------------------
+VNUM: #3021
+Nome: a small sword
+Tipo: ARMA
+Danno: 1D6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3022
+Nome: a long sword
+Tipo: ARMA
+Danno: 1D8 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3023
+Nome: uno sfollagente
+Tipo: ARMA
+Danno: 1D3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3024
+Nome: La spada laser dei Silverburg
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 3
+PROPRIETA': DAMROLL 2
+
+------------------------
+VNUM: #3025
+Nome: un elettrificatore
+Tipo: ARMA
+Danno: 2D6 
+COSTO DI RENT:  10
+
+------------------------
+VNUM: #3026
+Nome: Una nota di credito di un fucile a pompa
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3027
+Nome: Una nota di credito di una cartuccia
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3028
+Nome: Una nota di credito di un pacco di cartucce
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3029
+Nome: Una nota di credito di uno shuriken
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3030
+Nome: Una torcia elettrica
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3031
+Nome: Una lampada
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3032
+Nome: Una borsa
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3033
+Nome: una scatola
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3034
+Nome: uno sportello Bancomat
+Tipo: GENERICO
+COSTO DI RENT:  
+
+------------------------
+VNUM: #3035
+Nome: la Fontana
+Tipo: FONTANA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3036
+Nome: Una carta bancomat
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3037
+Nome: a candle
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3038
+Nome: a nail
+Tipo: ARMA
+Danno: 1D1 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3039
+Nome: a pot
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3040
+Nome: una maglietta nera
+Tipo: ARMATURA
+AC Apply: 7 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3041
+Nome: un reggiseno di pizzo rosso
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3042
+Nome: una camicia di cotone
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3043
+Nome: una giacca sportiva
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3044
+Nome: un giubbotto di cuoio nero
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3045
+Nome: un paio di pantaloni di stoffa
+Tipo: ARMATURA
+AC Apply: 4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3046
+Nome: una gonna lunga
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3047
+Nome: Una nota di credito di una bomba a mano
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3050
+Nome: un chip di identificazione
+Tipo: PERGAMENA
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3051
+Nome: una pozione gialla per vedere l'invisibile
+Tipo: POZIONE
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3052
+Nome: un chip di recall
+Tipo: PERGAMENA
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3053
+Nome: una bacchetta grigia dell'invisibilita'
+Tipo: WAND
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3054
+Nome: una bacchetta bianca del sonno
+Tipo: STAFF
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3055
+Nome: a metal staff
+Tipo: STAFF
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3056
+Nome: una bomba molotov con una piccola etichetta
+Tipo: WAND
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3060
+Nome: una zattera
+Tipo: BARCA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3061
+Nome: una canoa
+Tipo: BARCA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3062
+Nome: un bicchiere
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3063
+Nome: un bicchiere
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3064
+Nome: un bicchierino
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3070
+Nome: un paio di guanti di pelle
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3071
+Nome: un paio di guanti di pizzo
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3075
+Nome: un cappello da cowboy
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3076
+Nome: un cappello con visiera
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3080
+Nome: un paio di calze a rete nere
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3081
+Nome: una minigonna di pelle nera
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3085
+Nome: un paio di anfibi
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3086
+Nome: un paio di mocassini
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3087
+Nome: un paio di scarpe rosse con i tacchi a spillo
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3088
+Nome: un anellino d'oro
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3089
+Nome: un anello di platino
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3090
+Nome: un medaglione a forma di sole
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3091
+Nome: una collana di pietre dure
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3092
+Nome: La spada laser di Diablomeo
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  0
+PROPRIETA': AC 10
+PROPRIETA': DAMROLL 6
+
+------------------------
+VNUM: #3093
+Nome: La spada laser di Lussia
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 3
+PROPRIETA': DAMROLL 6
+
+------------------------
+VNUM: #3094
+Nome: Una nota di credito del fucile privato di Harpo
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3096
+Nome: a social bulletin board
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3097
+Nome: a frozen bulletin board
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3098
+Nome: a holy bulletin board
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3099
+Nome: a bulletin board
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30000
+Nome: un mucchio di stracci
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30001
+Nome: L'ascia laser di Jerkiel
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  1000
+PROPRIETA': DAMROLL 4
+
+------------------------
+VNUM: #30002
+Nome: Una confezione di carne in scatola
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30003
+Nome: una scatola di cartucce~ 
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  500
+PROPRIETA': DAMROLL 3
+
+------------------------
+VNUM: #30007
+Nome: una divisa d'argento
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30009
+Nome: una chiave
+Tipo: GENERICO
+COSTO DI RENT:  
+
+------------------------
+VNUM: #30010
+Nome: un Visore a raggi infrarossi
+Tipo: GENERICO
+COSTO DI RENT:  1000
+
+------------------------
+VNUM: #30090
+Nome: una tazza
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30091
+Nome: una tazzina
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30092
+Nome: una lattina
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30093
+Nome: un bicchiere
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #30094
+Nome: La pietra della salute
+Tipo: WAND
+COSTO DI RENT:  10000
+
+------------------------
+VNUM: #30099
+Nome: una pulce
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3100
+Nome: una tazza
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3101
+Nome: una tazzina
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3102
+Nome: un bicchiere
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3103
+Nome: una bottiglietta
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3104
+Nome: un boccale
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3105
+Nome: una chiave a forma di dollaro
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3106
+Nome: chiave di legno
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3107
+Nome: chiave di ottone
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3108
+Nome: Una chiave arruginita
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3109
+Nome: Una scrivania di legno
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3110
+Nome: Una cassapanca
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3111
+Nome: Una panchina
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3112
+Nome: La chiave della citta' di Mclandia
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3113
+Nome: Una fontanella
+Tipo: FONTANA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3114
+Nome: una pila di monete d'oro
+Tipo: SOLDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3115
+Nome: una pila di monete d'oro
+Tipo: SOLDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3116
+Nome: una candela
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3117
+Nome: Un olmo.
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3118
+Nome: Un mazzo di rose rosa
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3119
+Nome: Un mazzo di margherite
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3120
+Nome: una bambola gonfiabile
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3121
+Nome: un postit verde
+Tipo: NOTA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3122
+Nome: Una camicia su misura
+Tipo: ARMATURA
+AC Apply: 7 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3123
+Nome: un floppy disk
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3124
+Nome: un kit sadomaso
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3125
+Nome: una dose di acido 
+Tipo: WAND
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3126
+Nome: una dose di cocaina
+Tipo: WAND
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #3127
+Nome: un floppy disk
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3128
+Nome: La pietra della salute
+Tipo: WAND
+COSTO DI RENT:  1000
+
+------------------------
+VNUM: #3129
+Nome: un paio di calze autoreggenti nere
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3130
+Nome: un body panterato
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3131
+Nome: frusta di cuoio
+Tipo: ARMA
+Danno: 1D3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3132
+Nome: un Mac
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3133
+Nome: Un Personal computer
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3134
+Nome: Un buco nel pavimento
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3135
+Nome: Una Ducati monster 750
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3136
+Nome: Una BMW R110RS
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3137
+Nome: Una Honda CBR 900 RR Fireblade
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3138
+Nome: Una Triumph TT600
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #3139
+Nome: Una macchina per la Tac
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5400
+Nome: La chiave del palazzao di NewLand
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5401
+Nome: la chiave di NewLand
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5402
+Nome: La grande fontana centrale
+Tipo: FONTANA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5403
+Nome: una palla chiodata
+Tipo: ARMA
+Danno: 2D8 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5404
+Nome: una laser-pike
+Tipo: ARMA
+Danno: 1D12 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5405
+Nome: uno sfollagente elettrico
+Tipo: ARMA
+Danno: 2D6 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5406
+Nome: un becco di corvo
+Tipo: ARMA
+Danno: 1D8 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5407 
+Nome: un punteruolo a microonde
+Tipo: ARMA
+Danno: 2D10 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5408
+Nome: un pugnale
+Tipo: ARMA
+Danno: 1D8 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5409
+Nome: uno spadino elettrico
+Tipo: ARMA
+Danno: 1D10 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5410
+Nome: un punteruolo a microonde
+Tipo: ARMA
+Danno: 2D6 4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5411
+Nome: falcetto
+Tipo: ARMA
+Danno: 2D4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5412
+Nome: Una spada laser
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #5413
+Nome: una scimitarra a raggi infrarossi
+Tipo: ARMA
+Danno: 2D9 
+COSTO DI RENT:  0
+PROPRIETA': DAMROLL 1
+
+------------------------
+VNUM: #5414
+Nome: una cryo-lama
+Tipo: ARMA
+Danno: 1D15 
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 1
+
+------------------------
+VNUM: #5415
+Nome: una tuta al plasma
+Tipo: ARMATURA
+AC Apply: 8 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5416 
+Nome: una tuta in metal-plastica
+Tipo: ARMATURA
+AC Apply: 7 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5417
+Nome: un guscio ergonomico in kevlar
+Tipo: ARMATURA
+AC Apply: 9 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5418
+Nome: una tuta corazzata
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5419
+Nome: una tuta mimetica rinforzata
+Tipo: ARMATURA
+AC Apply: 4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5420
+Nome: un piccolo chip di protezione
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5421
+Nome: un campo di forza al plasma
+Tipo: ARMATURA
+AC Apply: 7 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5422
+Nome: un piccolo campo di forza elettrico
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5423
+Nome: un giubbotto di cuoio
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5424
+Nome: un paio di maniche di cuoio
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5425
+Nome: un cappello da cowboy
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5426
+Nome: un paio di pantaloni di cuoio
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5427
+Nome: un paio di guanti di cuoio
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5428
+Nome: un paio di stivali di cuoio
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5429
+Nome: un giubbotto di cuoio transgenico
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5430
+Nome: un paio di maniche di cuoio transgenico
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5431
+Nome: un paio di pantaloni di cuoio transgenico
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  200
+
+------------------------
+VNUM: #5432
+Nome: un paio di guanti di cuoio transgenico
+Tipo: ARMATURA
+AC Apply: 3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5433
+Nome: un campo di protezione
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5434
+Nome: una sacca
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5435
+Nome: una lampada positronica
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5436
+Nome: uno zaino
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5437
+Nome: un cestino
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5438
+Nome: una cinta portaoggetti
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5439
+Nome: una candela termoionica
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5440
+Nome: un pezzo di formaggio 
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5441
+Nome: una pagnotta
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5442
+Nome: una razione giornaliera
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5443
+Nome: una razione superconcentrata
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5445
+Nome: delle noccioline
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5446
+Nome: una cinta
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5447
+Nome: un paio di stivali di pelle
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5448
+Nome: un mantello olografico
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5449
+Nome: un corpetto
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5450
+Nome: un paio di pantaloni di criopelle neri
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5451
+Nome: un collare di cuoio
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5452
+Nome: un collare chiodato
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5453
+Nome: un paio di sandali
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5454
+Nome: una fascia di ferro
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5455
+Nome: una giacca di seta
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5456
+Nome: un uovo
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5457
+Nome: una carota
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5458
+Nome: un pomodoro
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5459
+Nome: un fico
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5460
+Nome: dei datteri
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5461
+Nome: una fettina di vitello
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5462
+Nome: un cosciotto di vitello
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5463
+Nome: un pollo arrosto
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5464
+Nome: una sardina salata
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5465
+Nome: un pezzo di carne
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5467
+Nome: un bicchiere
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5468
+Nome: un bicchiere
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5469
+Nome: una bottiglia di birra
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5470
+Nome: uno spray protettivo
+Tipo: POZIONE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5471
+Nome: uno spray cicatrizzante
+Tipo: POZIONE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5472
+Nome: un'ampolla di collirio trasparente
+Tipo: POZIONE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5473
+Nome: un'ampolla di collirio bianco
+Tipo: POZIONE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5474
+Nome: uno spray benedetto
+Tipo: POZIONE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5475
+Nome: una scorpione fiammante
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5476
+Nome: un barile
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5477
+Nome: un bicchierino 
+Tipo: CONTENITORE DI LIQUIDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5478
+Nome: un chip ritorno
+Tipo: PERGAMENA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5479
+Nome: un laser-chip argentato
+Tipo: WAND
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5480
+Nome: un laser-chip giallo
+Tipo: WAND
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5481
+Nome: un laser-chip marrone
+Tipo: WAND
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5482
+Nome: un laser-chip rosa
+Tipo: WAND
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5483
+Nome: a pair of sewing shears
+Tipo: ARMA
+Danno: 1D4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5484
+Nome: una bistecca
+Tipo: ARMA
+Danno: 1D5 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5485
+Nome: una penna fotonica
+Tipo: ARMA
+Danno: 1D3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5486
+Nome: un martello fotonico
+Tipo: ARMA
+Danno: 2D3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5487
+Nome: delle briglie di cuoio
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 1
+
+------------------------
+VNUM: #5488
+Nome: una sella
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5489
+Nome: un frustino
+Tipo: ARMA
+Danno: 1D4 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5490
+Nome: una scacchiera 
+Tipo: ARMA
+Danno: 1D30 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5491
+Nome: un seme di sesamo
+Tipo: CIBO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5492
+Nome: Gae Bolg la lama laser
+Tipo: ARMA
+Danno: 5D3 
+COSTO DI RENT:  1000
+
+------------------------
+VNUM: #5493
+Nome: la chiave della prigione
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5494
+Nome: la chiave della segreta
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #5495
+Nome: un artiglio di wolverine
+Tipo: ARMA
+Danno: 3D6 
+COSTO DI RENT:  0
+PROPRIETA': HIT -20
+
+------------------------
+VNUM: #5496
+Nome: un machete disintegrante
+Tipo: ARMA
+Danno: 4D4 
+COSTO DI RENT:  1000
+
+------------------------
+VNUM: #5497
+Nome: un transcriver a vampiro
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  300
+
+------------------------
+VNUM: #6500
+Nome: Il foglio con la combinazione
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6501
+Nome: I fondi societari
+Tipo: SOLDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6502
+Nome: Un tesserino magnetico marrone
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6503
+Nome: Un budge dorato
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6504
+Nome: Una Katana Elettromagnetica
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  500
+PROPRIETA': HITROLL 2
+PROPRIETA': DAMROLL 2
+PROPRIETA': HIT 10
+
+------------------------
+VNUM: #6505
+Nome: Un campo di stasi
+Tipo: ARMATURA
+AC Apply: -25 
+COSTO DI RENT:  30000
+PROPRIETA': STR -3
+PROPRIETA': HITROLL -5
+PROPRIETA': DAMROLL -5
+
+------------------------
+VNUM: #6506
+Nome: Una siringa di adrenalina pura
+Tipo: STAFF
+COSTO DI RENT:  5000
+
+------------------------
+VNUM: #6507
+Nome: Un topo morto a due teste
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6508
+Nome: Un'aspirapolvere a inversione protonica
+Tipo: ARMA
+Danno: 2D5 
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 1
+PROPRIETA': DAMROLL 1
+
+------------------------
+VNUM: #6509
+Nome: Un ninja-to da combattimento.
+Tipo: ARMA
+Danno: 2D7 
+COSTO DI RENT:  300
+PROPRIETA': HITROLL 2
+PROPRIETA': STR 2
+
+------------------------
+VNUM: #6510
+Nome: Delle protesi oculari
+Tipo: ARMATURA
+AC Apply: 0 
+COSTO DI RENT:  0
+PROPRIETA': INT 1
+PROPRIETA': CHAR_HEIGHT 20
+PROPRIETA': SAVING_SPELLS -2
+
+------------------------
+VNUM: #6511
+Nome: Un fine anello con un ideogramma
+Tipo: GENERICO
+COSTO DI RENT:  1500
+PROPRIETA': HITROLL 2
+PROPRIETA': DAMROLL 2
+PROPRIETA': STR 1
+PROPRIETA': AC 10
+
+------------------------
+VNUM: #6512
+Nome: Un paio di guanti in carbonio
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  200
+PROPRIETA': CON 1
+PROPRIETA': DEX 1
+
+------------------------
+VNUM: #6513
+Nome: Dei rifiuti organici
+Tipo: SPAZZATURA
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6514
+Nome: Un asse di legno
+Tipo: ARMA
+Danno: 2D3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6515
+Nome: Una carta magnetica verde scuro
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6516
+Nome: Una sbarra di metallo lucido
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #6517
+Nome: Un chip di sete
+Tipo: FONTANA
+COSTO DI RENT:  500
+
+------------------------
+VNUM: #7190
+Nome: un anello d'argento
+Tipo: GENERICO
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 2
+
+------------------------
+VNUM: #7200
+Nome: il hub demoniaco
+Tipo: ARMA
+Danno: 2D5 
+COSTO DI RENT:  0
+PROPRIETA': HITROLL 3
+PROPRIETA': STR -1
+
+------------------------
+VNUM: #7201
+Nome: il grande rack
+Tipo: ARMA
+Danno: 1D6 
+COSTO DI RENT:  0
+PROPRIETA': DAMROLL 2
+
+------------------------
+VNUM: #7202
+Nome: il rack
+Tipo: ARMA
+Danno: 1D6 
+COSTO DI RENT:  0
+PROPRIETA': DAMROLL 1
+
+------------------------
+VNUM: #7203
+Nome: un firewall viola
+Tipo: GENERICO
+COSTO DI RENT:  0
+PROPRIETA': SAVING_SPELLS 2
+PROPRIETA': AC -10
+
+------------------------
+VNUM: #7204
+Nome: una pozione color blu elettrico
+Tipo: POZIONE
+COSTO DI RENT:  100
+
+------------------------
+VNUM: #7205
+Nome: una chiave nera
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7206
+Nome: uno strano chassis grigio
+Tipo: ARMATURA
+AC Apply: 1 
+COSTO DI RENT:  0
+PROPRIETA': DEX -4
+
+------------------------
+VNUM: #7207
+Nome: un paio di guanti infangati
+Tipo: ARMATURA
+AC Apply: 6 
+COSTO DI RENT:  0
+PROPRIETA': STR 1
+
+------------------------
+VNUM: #7208
+Nome: un bastoncino verde
+Tipo: LUCE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7209
+Nome: un paio di stivali sporchi di fango
+Tipo: ARMATURA
+AC Apply: 4 
+COSTO DI RENT:  0
+PROPRIETA': MOVE 15
+
+------------------------
+VNUM: #7210
+Nome: un grosso tesoro
+Tipo: SOLDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7211
+Nome: un piccolo traceroute
+Tipo: ARMA
+Danno: 2D3 
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7212
+Nome: un teletrasporto
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7900
+Nome: bastone da passeggio
+Tipo: STAFF
+COSTO DI RENT:  200
+PROPRIETA': STR 2
+PROPRIETA': HIT -56
+PROPRIETA': HITROLL 10
+PROPRIETA': DAMROLL 10
+PROPRIETA': AC 30
+PROPRIETA': CON 2
+
+------------------------
+VNUM: #7901
+Nome: moduli per le gambe in titanio.
+Tipo: ARMATURA
+AC Apply: 10 
+COSTO DI RENT:  50
+PROPRIETA': MOVE -56
+PROPRIETA': NESSUNA -10
+
+------------------------
+VNUM: #7902
+Nome: stivali ergonomici rinforzati
+Tipo: ARMATURA
+AC Apply: 10 
+COSTO DI RENT:  50
+PROPRIETA': DEX 2
+
+------------------------
+VNUM: #7903
+Nome: cintura a led a dimensione autoregolante
+Tipo: CONTENITORE
+COSTO DI RENT:  200
+PROPRIETA': AC 2
+
+------------------------
+VNUM: #7904
+Nome: protezioni per gomiti in poliuretano espanso.
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  500
+PROPRIETA': STR 2
+
+------------------------
+VNUM: #7905
+Nome: guanti in carbon-kevlar 
+Tipo: ARMATURA
+AC Apply: 2 
+COSTO DI RENT:  200
+PROPRIETA': HITROLL 1
+PROPRIETA': DAMROLL 1
+
+------------------------
+VNUM: #7906
+Nome: un basco militare amaranto
+Tipo: ARMATURA
+AC Apply: 5 
+COSTO DI RENT:  1000
+PROPRIETA': INT 2
+PROPRIETA': HITROLL 2
+PROPRIETA': SAVING_SPELLS -5
+
+------------------------
+VNUM: #7907
+Nome: un esoscheletro metallico mod. H2o
+Tipo: BARCA
+COSTO DI RENT:  100
+PROPRIETA': MOVE 44
+PROPRIETA': DEX 3
+
+------------------------
+VNUM: #7908
+Nome: lampada alogena a contrasto.
+Tipo: LUCE
+COSTO DI RENT:  40
+
+------------------------
+VNUM: #7909
+Nome: un laser.
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  10000
+PROPRIETA': HITROLL 2
+PROPRIETA': DAMROLL 3
+
+------------------------
+VNUM: #7910
+Nome: Strangolatore molecolare shawn
+Tipo: ARMA
+Danno: 2D15 
+COSTO DI RENT:  1000
+PROPRIETA': STR 3
+PROPRIETA': DEX 4
+
+------------------------
+VNUM: #7911
+Nome: modulo lame in adamantite
+Tipo: ARMA
+Danno: 3D12 
+COSTO DI RENT:  5000
+
+------------------------
+VNUM: #7913
+Nome: stiletto al cromo-molibdeno.
+Tipo: ARMA
+Danno: 3D8 
+COSTO DI RENT:  1000
+
+------------------------
+VNUM: #7915
+Nome: una carta magnetica verde
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7916
+Nome: una carta magnetica gialla
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7917
+Nome: una carta magnetica nera
+Tipo: CHIAVE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7918
+Nome: una scrivania
+Tipo: CONTENITORE
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7919
+Nome: delle monete antiche
+Tipo: SOLDI
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7920
+Nome: un' antica collana in oro
+Tipo: ARMATURA
+AC Apply: 7 
+COSTO DI RENT:  0
+PROPRIETA': INT 3
+PROPRIETA': AGE 50
+
+------------------------
+VNUM: #7921
+Nome: un pantalone blu
+Tipo: GENERICO
+COSTO DI RENT:  5
+
+------------------------
+VNUM: #7922
+Nome: una camicia blu
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7923
+Nome: un paio di scarpe nere
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7924
+Nome: un pantalone nero
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7925
+Nome: una camicia nera
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------
+VNUM: #7926
+Nome: un camice bianco
+Tipo: GENERICO
+COSTO DI RENT:  0
+
+------------------------

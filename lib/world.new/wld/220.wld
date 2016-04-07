@@ -1,0 +1,643 @@
+**************************
+*** Zone : The Cave
+*** Author : CertainDeath
+**************************
+#22000
+Verso le montagne.~
+ Ti trovi su una strada sterrata che sembra proseguire  molto ripida
+in direzione nord. Per terra il vento smuove delle cartacce.     
+
+~
+220 c 5
+D0
+La strada per le cave.~
+~
+0 -1 22001
+D2
+~
+~
+0 -1 30000
+E
+Cartacce~
+Benvenuti in questa zona! Consiglio di usare molto il comando "LOOK"
+per  interagire al massimo con la zona.  Saluti CertainDeath.    
+
+~
+S
+#22001
+In salita.~
+ La strada prosegue in salita verso nord. Noti delle tracce di pneumatici
+sul terreno.      
+~
+220 c 5
+D0
+La strada per le cave.~
+~
+0 -1 22002
+D2
+~
+~
+0 -1 22000
+E
+tracce pneumatici~
+ Devono appartenere a qualche mezzo pesante, Probabilmente un grosso
+camion.       
+~
+S
+#22002
+Ancora in salita.~
+ La strada continua a salire molto ripida verso nord. Ti accorgi, dal dirupo che vedi ad est,
+che sei gia' salito  abbastanza in alto.  Se vuoi dare un occhiata al dirupo da piu' vicino vai ad
+est.      
+~
+220 0 5
+D0
+La strada per le cave.~
+~
+0 -1 22005
+D1
+Sul ciglio del dirupo.~
+~
+0 -1 22003
+D2
+~
+~
+0 -1 22001
+S
+#22003
+Sul ciglio del dirupo.~
+Ti avvicini al margine della strada, stando attendo a non scivolare
+ ti sporgi un po' per vedere giu' di sotto, ma non noti nulla di particolare.
+FORSE se tu andassi ancora un po' piu' ad est ..      
+~
+220 0 5
+D1
+Il dirupo~
+~
+0 -1 22004
+D3
+~
+~
+0 -1 22002
+S
+#22004
+Il dirupo~
+ Accidenti!!!.
+Non fai in tempo ad accorgertene che gia' stai scivolando
+di sotto!!!
+  Scivoli e cadi
+  e cadi
+  e cadi
+  e cadi
+    |
+    |
+    |
+    |
+    |
+  e muori.
+!     
+~
+220 b 5
+S
+#22005
+Uno spiazzo~
+Ti trovi in un piccolo spiazzo. Dalle tracce dei pneumatici capisci
+ che questo posto viene usato per fare piccole manovre con gli automezzi.
+Infatti la strada curva verso ovest.     
+~
+220 0 5
+D2
+~
+~
+0 -1 22002
+D3
+La strada per le cave.~
+~
+0 -1 22006
+S
+#22006
+La curva.~
+  Ti trovi al centro di una curva e vedi che la strada continua  a
+salire zigzagando verso ovest.      
+~
+220 0 5
+D1
+~
+~
+0 -1 22005
+D3
+La strada per le cave.~
+~
+0 -1 22007
+S
+#22007
+La fine della curva~
+ Le impronte sull terreno dei pneumatici qua' sono piu' profonde. Ovviamente
+la causa deve essere il forte sbilanciamento del carico che trasportano
+quando affrontano le curve. La strada continua in salita verso sud.
+     
+~
+220 0 5
+D1
+~
+~
+0 -1 22006
+D2
+La strada per le cave.~
+~
+0 -1 22008
+S
+#22008
+La parete rocciosa~
+ La strada continua, fiancheggiando una parete rocciosa ad ovest, verso
+sud aumentando quella che gia' ti sembrava una forte pendenza.   
+
+~
+220 0 5
+D0
+~
+~
+0 -1 22007
+D2
+La strada per le cave.~
+~
+0 -1 22009
+S
+#22009
+Verso la cava~
+ Finalmente scorgi, verso sud, l'ingresso della cava. La parete rocciosa
+costeggia sempre il lato ovest della strada, noti delle tavole di legno
+appoggiate alla parete. Guardando ad est puoi godere di un bellissimo
+panorama  della valle sottostante.      
+~
+220 c 5
+D0
+~
+~
+0 -1 22008
+D2
+La strada per le cave.~
+~
+0 -1 22010
+D3
+Uno stretto passaggio.~
+legno tavole parete~
+1 -1 22011
+E
+o ovest~
+Un bellissimo cielo terso fa da cornice alla bellissima vallata sottostante,
+potresti sempre provare con "emote scatta una fotografia al panorama"
+gig.     
+~
+E
+legno tavole parete~
+Guardando bene quelle tavole di legno sulla parete, noti che  sembrano
+nascondere una crepa sulla parete di roccia.    
+~
+S
+#22010
+L'ingresso della cava.~
+ Una sbarra di metallo blocca l'accesso alla cava. Su di essa hanno
+sistemato un cartello .     
+~
+220 0 5
+D0
+~
+~
+0 -1 22009
+D2
+La cava.~
+sbarra metallo~
+1 -1 22012
+E
+cartello~
+              VIETATO l'ingresso.
+ Pericolo frane , esplosioni , caduta massi.
+      PROPRIETA' PRIVATA GoldFusion Inc.    
+~
+S
+#22011
+La crepa nella parete.~
+ Ti trovi all'interno di una grotta molto buia ed umida.  La grotta
+sembra proseguire verso ovest.     
+~
+220 aci 0
+D1
+La grotta.~
+tavole legno parete~
+0 -1 22009
+D3
+~
+roccia~
+1 -1 22013
+S
+#22012
+La cava~
+ L'ambiente che ti circonda non e' altro che uno spiazzo interamente
+coperto di polvere di marmo che si allarga verso  sud.      
+~
+220 0 1
+D0
+~
+sbarra~
+1 -1 22010
+D2
+Il centro della cava.~
+~
+0 -1 22014
+E
+polvere~
+Ho detto polvere di MARMO !!    
+~
+S
+#22013
+La grotta.~
+ La crepa da cui sei arrivato si allarga diventanto una  specie di
+grotta. La parete ovest sembra in fase di perforazione, mentre le altre
+pareti sono intatte da chissa' quanto tempo. Sul pavimento trovi una
+botola.     
+~
+220 a 0
+D1
+~
+roccia~
+1 -1 22011
+D5
+La botola.~
+botola~
+1 -1 22020
+E
+botola~
+E' una botola in legno mezzo marcio, messa a copertura di chissa' 
+quale cunicolo.    
+~
+S
+#22014
+Il centro della cava.~
+ Ti trovi al centro di una piazza.Verso sud scorgi un polveroso prefabbricato,
+mentre ad est  una grande quantita' di blocchi di marmo sembrano 
+pronti per essere trasportati. Ad ovest una piccola costruzione. 
+
+~
+220 0 1
+D0
+~
+~
+0 -1 22012
+D1
+Il deposito.~
+~
+0 -1 22016
+D2
+Vedi un prefabbricato ricoperto di polvere bianca.~
+~
+0 -1 22015
+D3
+Una costruzione in lamiera.~
+~
+0 -1 22017
+E
+polvere~
+Questa volta ho detto bianca , ma e' sempre polvere di MARMO !!   
+
+~
+S
+#22015
+Il prefabbricato.~
+ Sei davanti al prefabbricato, sui lati della porta ci sono due  finestre,
+mentre sulla porta vedi un cartello.      
+~
+220 0 1
+D0
+~
+~
+0 -1 22014
+D2
+Dentro il prefabbricato.~
+porta~
+1 -1 22019
+E
+cart cartello~
+Ufficio Impresario.    
+~
+E
+finestra finestre ~
+ Scruti attraverso i vetri polverosi e vedi un tavolo con molti incartamenti
+sparsi sopra.    
+~
+S
+#22016
+Il deposito.~
+  Blocchi di marmo ovunque, tutti pronti per essere trasportati. Guardandoli
+bene vedi che sono di un bianco splendente e ti sembra  di riconoscere
+il famoso "Marmo Statuario" quello utilizzato  per la realizzazione
+delle migliori statue.     
+~
+220 0 1
+D3
+~
+~
+0 -1 22014
+E
+marmo bianco statuario ~
+Un marmo perfettamente liscio , bianco, e senza venature.    
+~
+S
+#22017
+Un capanno in lamiera.~
+ Ti trovi di fronte ad una piccola capanna in lamiera. E' attaccata
+al margine esterno della piazza.Costruita ed ancorata un paio di metri
+fuori del ciglio sul ravaneto. Sulla porta noti un cartello.     
+
+~
+220 0 1
+D1
+~
+~
+0 -1 22014
+D3
+La porta del bagno.~
+porta~
+1 -1 22018
+E
+cartello~
+Bagno Pubblico.    
+~
+E
+ravaneto ~
+ Tutti i resti del taglio del marmo che hanno buttato in questo dirupo
+hanno formato una scoscesa discesa di detriti.    
+~
+S
+#22018
+Il bagno pubblico.~
+ Questo e' il peggior posto che tu abbia mai visto. Ancora piu' puzzolente
+di quella volta che ti sei ritrovato  nelle fogne di McLandia . La
+struttura in lamiera non offre molti confort, praticamente e' composta
+da un solo foro al centro del pavimento!!     
+~
+220 0 0
+D1
+~
+~
+0 -1 22017
+E
+foro buco~
+ Provi a guardare dentro il buco e vedi che tutto finisce direttamente
+nel ravaneto sottostante. Questi cavatori hanno proprio uno stile
+di vita molto discutibile.    
+~
+E
+lamiera~
+Queste lamiere sono pure arrugginite..    
+~
+S
+#22019
+Dentro il prefabbricato.~
+ Appena entri la prima cosa che noti e' la confusione. Un tavolo con
+sopra carte e appunti ed una sedia sgangherata  in un angolo fanno
+da arredamento alla stanza.     
+~
+220 0 0
+D0
+~
+porta~
+1 -1 22015
+E
+sedia~
+ Non sembra che possa reggere il peso di una persona..    
+~
+E
+appunti~
+ Dire a l'operaio de sbucar ntsela pareta de roccia, ma de notta e
+chinse facce veder da nisciun!    
+~
+E
+carte~
+  Sono i piani di sfruttamento della montagna, le zone dove perforare,
+dove piazzare gli esplosivi, cose a grandi liee comprensibili, ma
+scritte con una calligrafia quasi illeggibile.     
+~
+S
+#22020
+Dentro la botola.~
+ Ti trovi a scendere verso il basso all'interno di uno stretto cunicolo,
+oppure puoi tornare su se vuoi.      
+~
+220 ac 0
+D4
+~
+botola~
+1 -1 22013
+D5
+La fine del cunicolo.~
+~
+0 -1 22021
+S
+#22021
+La fine del cunicolo.~
+ Finisci di scendere e ti ritrovi in uno spazio particolare. Questa
+stanza e' formata su tre lati da roccia ed a nord da una parete in
+cemento armato sulla quale e' sistemata una porta  blindata. Noti
+un'incisione sulla porta.      
+~
+220 0 0
+D0
+Spatial behavior simulator.~
+porta blindata~
+1 9900 22022
+D4
+~
+~
+0 -1 22020
+E
+porta blindata~
+Questa e' una solidissima porta, addirittura sembra sigillata ermeticamente
+sulla parete. Noti che ha una fessura su un lato, sicuramente e' la
+serratura.   
+~
+E
+incisione~
+Spatial behavior simulator.    
+~
+S
+#22022
+Spatial behavior simulator.~
+Sei completamente al buio, nemmeno un visore ad infrarossi  potrebbe
+servirti. Puoi solo affidarti al tuo senso di orientamento!    
+~
+220 a 0
+D0
+Buio totale.~
+porta blindata~
+1 -1 22025
+D1
+Buio totale.~
+porta~
+1 -1 22024
+D2
+~
+blindata~
+1 9900 22021
+D3
+Buio totale.~
+porta blindata~
+1 -1 22023
+S
+#22023
+Gravity.~
+Sei completamente al buio, nemmeno un visore ad infrarossi  potrebbe
+servirti. Puoi solo affidarti al tuo senso di orientamento!  
+~
+220 a 0
+D0
+Buio totale.~
+porta blindata~
+1 -1 22027
+D1
+~
+~
+0 -1 22022
+S
+#22024
+Block.~
+Sei completamente al buio, nemmeno un visore ad infrarossi  potrebbe
+servirti. Puoi solo affidarti al tuo senso di orientamento!  
+~
+220 a 0
+D0
+Buio totale.~
+porta blindata~
+1 -1 22026
+D3
+~
+~
+0 -1 22022
+S
+#22025
+Agent.~
+Sei completamente al buio, nemmeno un visore ad infrarossi  potrebbe
+servirti. Puoi solo affidarti al tuo senso di orientamento!  
+~
+220 a 0
+D1
+Buio totale.~
+porta~
+1 -1 22026
+D2
+~
+~
+0 -1 22022
+D3
+Buio totale.~
+blindata~
+1 -1 22027
+S
+#22026
+Inertia.~
+Sei completamente al buio, nemmeno un visore ad infrarossi  potrebbe
+servirti. Puoi solo affidarti al tuo senso di orientamento!  
+~
+220 a 0
+D0
+Buio totale.~
+porta blindata~
+1 -1 22028
+D2
+~
+~
+0 -1 22024
+D3
+~
+~
+0 -1 22025
+S
+#22027
+Hybrid~
+Sei completamente al buio, nemmeno un visore ad infrarossi  potrebbe
+servirti. Puoi solo affidarti al tuo senso di orientamento!  
+~
+220 a 0
+D1
+~
+~
+0 -1 22025
+D2
+~
+~
+0 -1 22023
+S
+#22028
+Model.~
+Sei completamente al buio, nemmeno un visore ad infrarossi  potrebbe
+servirti. Puoi solo affidarti al tuo senso di orientamento!  
+~
+220 a 0
+D2
+~
+~
+0 -1 22026
+D4
+Buio totale~
+porta blindata~
+1 -1 22029
+S
+#22029
+Graphical Mode.~
+  Sei entrato in una stanza luminosa.Osservi l'ambiente e noti  che
+le pareti sono rivestite di un metallo color argento. a nord una porta
+in metallo.    
+~
+220 0 0
+D0
+GOFAI room.~
+porta~
+1 9901 22030
+D5
+~
+~
+0 -1 22028
+E
+metallo pareti argento~
+E' alluminio.  
+~
+S
+#22030
+GOFAI~
+ Un enorme monitor al plasma occupa l'intera parete nord. Sulla parete
+est vi e' un disegno, mentre sulla parete  ovest una scritta 
+~
+220 0 0
+D2
+Graphical Mode.~
+porta~
+1 9901 22029
+E
+monitor plasma~
+ Ti ritrovi ad osservare questo bellissimo schermo quando , quasi preso
+da un impulso ipnotico, compare una scritta talmente reale che potresti
+anche prenderla.    Software_is_like_sex_and_sex_is_free. 
+~
+E
+disegno~
+                     .---------[ CertainDeath & ]----------.
+                     :      .-----.  .----.   .--.--.      :
+                     :      :  .--'  : .-. :  :  :  :      :
+                     !_-::  :  :     : `-' ;  :  .  :  ::-_!
+                     :_-::  :: :     :: . :   ::    :  ::-_:
+                     :      ::.`--.  ::.:  :  ::.:  :      :
+                     :      `-----'  `--'--'  `--'--'      :
+                     !_-::                             ::-_!
+                     :_-::-[ Confidence Remains High ]-::-_:
+                     :_-::                             ::-_:
+                     `-----------[ Production ]------------'
+
+~
+E
+scritta~
+                GOFAI 
+ Good Old-Fashioned Artificial Intelligence.
+           Semantic Networks 
+~
+S
+$

@@ -1,0 +1,138 @@
+**************************
+*** Zone : The Cave
+*** Author : CertainDeath
+**************************
+#22000
+chiave hardware~
+una chiave hardware~
+Una chiave hardware giace per terra.~
+~
+18 cdq ao 
+0 0 0 0
+0 0 0
+#22001
+chiave croce~
+una chiave a croce~
+Una chiave a croce giace per terra.~
+~
+18 cdq ao 
+0 0 0 0
+0 0 0
+#22002
+Software_is_like_sex_and_sex_is_free.~
+.~
+.~
+~
+20 0 a 
+50000 0 0 0
+5 4500 0
+#22003
+maglietta bucata~
+una maglietta bucata~
+UNa maglietta bucata giace al suolo.~
+~
+9 0 ad 
+2 0 0 0
+5 20 10
+#22004
+pantaloni bucati pant~
+dei pantaloni bucati~
+Un paio di pantaloni bucati sono per terra.~
+~
+9 0 af 
+3 0 0 0
+0 0 0
+#22005
+coltello butterlfy~
+un coltello Butterfly~
+Un coltello modello "butterfly" giace al suolo..~
+~
+5 bmnp an 
+0 2 15 11
+8 30000 1000
+E
+coltello butterfly~
+Sul manico del coltello c'e' una piccola scritta, ti sembra di leggere :
+" What do you want to pierce today ? "     
+~
+A
+2 2
+#22006
+camice giallo~
+un camice giallo~
+Un camice giallo giace al suolo.~
+~
+9 aq ak 
+2 0 0 0
+25 120 45
+A
+6 -2
+#22007
+scarpe antiscivolo gomma~
+scarpe in gomma antiscivolo ~
+un paio di scarpe in gomma antiscivolo giacciono al suolo!~
+~
+9 b ag 
+2 0 0 0
+15 500 14
+A
+14 3
+A
+11 5
+#22008
+camice rosso~
+un camice rosso~
+Un camice rosso giace al suolo.~
+~
+9 bjo ak 
+7 0 0 0
+15 50 25
+A
+6 -8
+A
+23 3
+#22009
+elettrificatore ele elett~
+un elettrificatore~
+Un elettrificatorea giace al suolo.~
+~
+5 aop an 
+0 2 20 12
+0 0 0
+E
+elettrificatore ele elett~
+Questa torcia emette scariche elettriche molto potenti se messa a contatto
+con il corpo di un individuo.     
+~
+A
+18 1
+#22010
+mazza mazzetta muratore~
+una mazzetta da muratore~
+Una mazzetta da muratore giace per terra.~
+~
+5 mn an 
+0 2 5 4
+15 200 50
+#22011
+filo diamantato~
+un filo diamantato~
+Un filo diamantato e' per terra.~
+~
+5 0 an 
+0 1 15 2
+0 0 0
+E
+filo diamantato~
+ Questo pezzo di filo doveva far parte di qualche macchinario per tagliare
+il marmo.     
+~
+#22012
+scarponi montagna~
+un paio di scarponi da montagna~
+Un paio di scarponi da montagna giacciono al suolo.~
+~
+9 0 ag 
+2 0 0 0
+12 50 20
+$

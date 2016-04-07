@@ -1,0 +1,284 @@
+#3100
+zingarello~
+Uno zingarello che vende i fiori~
+Uno zingarello cerca di venderti dei fiori.
+~
+Lo zingarello ha la faccia furba da scugnizzo, ed ha
+un fare molto insistente: cerca di venderti delle rose. 
+Assomigliano molto a quelle del chiosco!!!
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+300 160000
+8 8 1
+#3101
+manager~
+Un manager della new economy~
+Un manager della new economy e' seduto in un angolo.
+~
+Ha davanti a se' fogli sparsi, capelli arruffati, guarda
+fisso lo schermo del suo palm, dove stanno scorrendo le quotazioni 
+del nasdaq ed altre cose. Ha un'aria affranta.
+~
+blno 0 0 S
+0 20 10 20d8+20 1d3+1
+0 400
+8 8 1
+#3102
+spacciatore~
+Uno spacciatore~
+Un losco spacciatore dal look molto curato ma dai lineamenti 
+che non promettono nulla di buono. 
+~
+Il losco individuo si aggira nervosamente nella piazzetta.
+Sembra essere molto seccato e cattivo in attesa di qualcuno.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+300 160000
+8 8 1
+#3103
+sbirro~
+Uno sbirro~
+Uno sbirro della narcotici si aggira intorno a voi.
+~
+E' grosso ed incute molta soggezione
+~
+aglm d 1000 S
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1
+#3104
+segretaria~
+La segretaria~
+Una segretaria e' seduta dietro il desk, ha davanti una bella cliente e
+sta consultando il computer
+~
+Sembra molto occupata.
+La segretaria dice 'Scusate, ma oggi c'e' grande affluenza.'
+La segretaria dice 'Per favore accomodatevi a sedere nel frattempo.'
+~
+blno d 900 S
+15 10 5 20d3+450 7d2+5
+300 20000
+8 8 2
+#3105
+sindaco~
+Il sindaco~
+Il sindaco e' seduta nella sua comoda sedia nel suo ufficio.
+~
+Giovane donna ambiziosa e bella.
+ Si pensa sia ammanicata con la criminalita' organizzata della citta'.
+~
+aglno d 900 S
+0 20 10 2d8+200 1d1+1
+1000 1000
+8 8 2
+#3106
+venditore~
+Un venditore ambulante~
+Un venditore ambulante molesta alcuni viandanti.
+~
+Sembra essere molto pedante ed intento a chiudere piu' di una vendita.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+300 160000
+8 8 1
+#3107
+barman pennywise~
+Il barman Pennywise~
+Il barista Pennywise riesce a servire da solo i moltissimi
+clienti che affollano il bancone del rinomato pub. 
+~
+Dall'aspetto schizzato, si dimena in lungo e in largo per
+tutta la superficie del bancone, servendo molti clienti
+contemporaneamente (sara' anche per il numero limitato di
+prodotti disponibili ed ordinabili). Dal rumore dei suoi
+passi si capisce che cammina su una pedana di legno.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3108
+vigile~
+Un vigile napoletano~
+Il vigile napoletano si trova sulla pedana rotonda ed agita le
+mani per dirigere il traffico.
+~
+Basso tarchiato e grasso, il vigile napoletano cerca di mettere
+ordine nella piazza ma senza successo.
+Il vigile dice 'acca nissun e' fess.'
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+300 160000
+8 8 1
+#3109
+cigno 3120~
+Un cigno bianco~
+Un cigno sta nuotando nell'Oipaz Lake.
+~
+Il cigno bianco e' molto elegante e bello.
+~
+b 0 0 S
+0 20 10 1d2+10 1d4+4
+0 25
+8 8 0
+#3110
+anatroccolo 3121~
+Un brutto anatroccolo~
+Un brutto anatroccolo sta nuotando nel lago.
+~
+Il piccolo anatroccolo e' adorabile.
+~
+b 0 0 S
+0 20 10 1d2+10 1d2+1
+0 3
+8 8 0
+#3111
+passero~
+Un passero~
+Un passero sta volando sul prato del parco.
+~
+Il passero sembra abbia una vita felice.
+~
+b 0 0 S
+0 20 10 1d2+10 1d2+2
+0 4
+8 8 0
+#3112
+anatra~
+Un' anatra starnazza~
+C'e' un anatra che gioca nell'acqua
+~
+L'anatra e' grassottella e sembra molto appagata.
+~
+b 0 0 S
+0 20 10 1d2+10 1d2+1
+0 20
+8 8 0
+#3113
+rana~
+Una rana~
+Una rana stesa su una foglia, prende il sole.
+~
+E' una rana verde con gli occhi espressivi. Ti ricorda qualcuno!
+~
+b 0 0 S
+0 20 10 1d1+10 1d2+1
+0 10
+4 8 0
+#3114
+drum~
+Drum lo stilista~
+Drum lo stilista si occupa personalmente di tutti suoi clienti 
+ed e' molto rinomato.
+~
+E' lo stilista piu' famoso di Mclandia, rinomato per le sue
+camicie su misura e le stoffe pregiate.
+Lo copiano tutti i piu' grandi, da Dolce e Gabbana ad
+Armani e Valentino: fateglielo notare e vi farete un amico.
+Chiedete pure a lui per ottenere un look all'ultima moda.
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+300 160000
+8 8 1
+#3115
+contrabbandiere~
+Contrabbandiere d'organi~
+Un temibile contrabbandiere d'organi.
+~
+E' un contrabbandiere d'organi che sta trafficando nell'ombra.
+Cattura uomini e animali per rivendere i loro organi al miglior
+offerente.
+Non usa anestesia. Non ti conviene farti notare troppo.
+~
+blno 0 0 S
+0 20 10 20d2+20 1d3+1
+0 400
+8 8 1
+#3116
+tossico~
+Un tossico~
+Un tossico completamente fatto
+~
+E' completamente fatto, ma di cosa?
+Ci sono diverse droghe spacciate nell'Area Depressa: alcune 
+indeboliscono altre potenziano enormemente il corpo
+o la mente tenendoti in uno stato di Nirvana.
+Non puoi capirlo da qui, meglio lasciarlo stare.
+~
+b 0 0 S
+0 20 -5 1d2+1 2d4+1
+0 800
+4 6 1
+#3117
+ciccio~
+Ciccio~
+Ciccio il commesso senza pudore
+~
+Potete parlargli liberamente delle vostre perversioni,
+il pudore per lui non esiste.
+Ha una camicia aperta sul petto e collane d'oro, tra cui
+un medaglione a forma di aquila.
+Questo vi fa pensare che sia daa ladzzio.
+Ora capite perche' non abbia pudore.
+Conosce perfettamente ogni articolo nel negozio per averlo
+provato di persona, chiedete a lui!
+~
+ablno d 900 S
+33 0 -10 1d1+30000 2d8+18
+300 160000
+8 8 1
+#3118
+duundee~
+Duundee~
+Duundee il commesso senza rispetto.
+~
+Vi prendera' in giro qualsiasi cosa gli raccontiate
+della vostra vita sessuale, ma vi fara' divertire.
+E', tra dei proprietari del negozio, quello che tiene
+tutto in ordine e vigila sugli avventori.
+Dall'alto dei suoi anfibi e delle sua mimetica vi scruta.
+Non vi conviene fare scherzi per primi.
+~
+blm d 1000 S
+10 10 1 1d12+123 1d8+5
+500 9000
+8 8 1
+#3119
+prostituta~
+Una prostituta di alto bordo~
+Una prostituta di alto bordo e' qui a cercar clienti.
+~
+Bella signora bionda, che con il suo fare fa capire le sue
+intenzioni.
+Si aggira sinuosa tra i tavoli cercando il pollo di turno da
+spennare. Sul suo sedere vedi appicciccato un postit bianco
+evidente frutto di una palpatina veloce.
+Sul postit c'e' scritto:
+Nel sexyshop tra i prodotti venduti troverai sicuramente quello
+che cerchi.
+~
+blno 0 0 S
+0 20 10 20d8+20 1d3+1
+0 400
+8 8 1
+#3120
+viaggiatore~
+Un viaggiatore di passaggio~
+Un viaggiatore di passaggio e' seduto in un angolo.
+~
+Con una 24ore al suo fianco si capisce subito che e' qui
+di passaggio per parlare con il sindaco.
+Sul tavolino davanti a lui del the caldo e l'immancabile
+giornale.
+~
+blno 0 0 S
+0 20 10 20d8+20 1d3+1
+0 400
+8 8 1
+$

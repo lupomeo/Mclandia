@@ -1,0 +1,1213 @@
+#7000
+Il Crepaccio sotto la Roccia~
+C'è un piccolo crepaccio nella roccia. Sotto di te c'è una profonda pozza scura. L'acqua gocciola dalla roccia sopra di te. L'acqua ha l'odore di una fogna.
+~
+70 acd 5
+D4
+~
+~
+0 -1 7070
+D5
+Il bordo dell'acqua.
+~
+~
+0 -1 7100
+S
+#7001
+La Fogna Melmosa~
+Sei in piedi è il fango ti arriva alle ginocchia. Non è il posto adatto per un picninc. La fogna melmosa si estende verso sud.
+~
+70 ad 5
+D2
+Vedi che la fogna melmosa prosegue nell'oscurità verso sud.
+~
+~
+0 -1 7002
+E
+mud~
+E' buio pesto e sembra di stare nello scarico di in un water. La puzza è assolutamente insopportabile.
+~
+S
+#7002
+Il Bivio della Fogna Melmosa~
+La fogna prosegue nell'oscurità verso sud. Sembra che nessuno abbia mai messo piede qui, e comunque c'è troppo fango per saperlo. La fogna si dirama verso nord, sud ed est.
+~
+70 ad 5
+D0
+La fogna melmosa prosegue nell'oscurità verso nord.
+~
+~
+0 -1 7001
+D2
+Sud. La fogna finisce in una pozza di melma.
+~
+~
+0 -1 7003
+D1
+Est. La fogna porta a un'ansa che va verso sud.
+~
+~
+0 -1 7007
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7003
+La Pozza di Melma~
+Il fango ti arriva alle cosce. Non è molto comodo, perché sei abituato a un ambiente piuttosto diverso. Da qui la fogna ti porta verso nord. Dentro la pozza si intravede l'ingresso di un'enorme condotta.
+~
+70 acd 5
+D0
+Nord. Il bivio si trova in questa direzione.
+~
+~
+0 -1 7002
+D5
+Nella melma si vede l'ingresso della condotta. Tutto intorno c'è il buio più assoluto.
+~
+~
+0 -1 7101
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7004
+La Fossa Oscura~
+Sei in piedi sull'orlo di una fossa oscura. >BWWAAADDRR< - La puzza è intollerabile. La fogna prosegue nel buio verso est.
+~
+70 ad 0
+D1
+Est. Vai verso il Bivio della Fogna Melmosa.
+~
+~
+0 -1 7009
+D5
+La Fossa Oscura si estende giù, giù, ancora giù... Non si vede il fondo. Ci sono delle sbarre che potrebbero fungere da pioli di una scala.
+~
+~
+0 -1 7102
+S
+#7005
+La Fogna Melmosa~
+Ti trovi in un'ansa della condotta della fogna. E' molto buio e il fango ti si incolla alle gambe. Non molto piacevole... Da qui la condotta porta verso est e verso sud.
+~
+70 ad 4
+D1
+Est. La melma si estende nell'oscurità.
+~
+~
+0 -1 7011
+D2
+Sud. C'è ancora più melma di prima. Incredibile.  
+Incredible.
+~
+~
+0 -1 7006
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7006
+La Fogna Melmosa~
+Sei immerso in qualcosa che ti ricorda molto una zuppa di verdure. Se non altro non è caldo, anzi è piuttosto freddo. La condotta svolta verso nord e verso est.
+~
+70 ad 5
+D1
+La condotta porta a un'ansa che va verso sud.
+~
+~
+0 -1 7012
+D0
+La condotta porta a un'ansa che va verso est.
+~
+~
+0 -1 7005
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7007
+L'Ansa della Fogna Melmosa~
+Non è un posto dove rimanere troppo a lungo. Sei immerso fino alle ginocchia in qualcosa che sembra fango, ma non è detto che lo sia... L'ansa nella quale ti trovi porta verso ovest e verso sud.
+~
+70 ad 5
+D3
+La condotta, piena di melma, porta a un incrocio. Puoi andare a nord o a sud. Interessante.
+~
+~
+0 -1 7002
+D2
+La condotta porta a un incrocio che si dirama verso sud ed est. Il pavimento è coperto di melma.
+~
+~
+0 -1 7008
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7008
+Un Incrocio nella Melma~
+Hai le gambe impacciate dalla melma. Ma quello che è tremendo non è tanto la malma quanto l'odore, e il buio totale che ti circonda. Tutto qui è terribilmente deprimente. La condotta si estende verso nord, est e sud.
+~
+70 ad 4
+D0
+Nord. La condotta arriva a una curva che porta verso ovest. C'è melma anche sulle pareti.
+~
+~
+0 -1 7007
+D1
+Est. Ecco un posto adatto per il festival annuale della melma (sai che divertimento...). La condotta arriva a una curva che porta verso nord.
+~
+~
+0 -1 7014
+D2
+Sud. C'è molta meno melma da questa parte. C'è poca luce e riesci solo a vedere che la strada porta a una specie di incrocio.
+~
+~
+0 -1 7009
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7009
+Il Grande Incrocio~
+Ti trovi nel mezzo di un enorme incrocio. Vari collettori si intersecano al di sotto di quello che potrebbe essere un pozzo di ventilazione. I collettori portano a nord, sud, est ed ovest. Sembra impossibile farsi strada verso l'alto.
+~
+70 ad 3
+D0
+Nord. Il pavimento è coperto di melma. Fantastico.
+~
+~
+0 -1 7008
+D1
+Ugh! Che posto schifoso.
+~
+~
+0 -1 7017
+D2
+Sud. Questa direzione sembra buona. La condotta porta a un'ansa che va verso est.
+~
+~
+0 -1 7010
+D3
+Pochi metri più avanti, allontanandosi da questo incrocio, c'è un pozzo. ma l'odore che viene da lì... >PHEWW<.
+~
+~
+0 -1 7004
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7010
+Un'Ansa nella Condotta della Fogna~
+Ti trovi in un'ansa della condotta. Da nord viene un forte odore. La fogna prosegue verso nord e verso est.
+~
+70 ad 2
+D0
+Nord. Ti trovi in un enorme incrocio con sbocchi che portano in ogni direzione.
+~
+~
+0 -1 7009
+D1
+Est. La condotta porta nell'oscurità più totale.
+~
+~
+0 -1 7018
+S
+#7011
+La Condotta della Fogna Melmosa~
+Sei entrato in una specie di incrocio di condotte, che si dirama verso sud, ovest ed est. Sei nella melma fino alle ginocchia.
+~
+70 ad 5
+D1
+Est. C'è meno melma in questa direzione... O almeno così ti sembra.
+~
+~
+0 -1 7024
+D2
+Il percorso si perde nell'oscurità, anche se sembra che ci sia meno melma, addirittura sembra che questa fanghiglia sta finendo.
+~
+~
+0 -1 7021
+D3
+Ovest. E' pieno di melma, fin sopra ai muri.
+~
+~
+0 -1 7005
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7012
+L'Ansa della Fogna Melmosa~
+Non è proprio un bel posticino. Sei immerso nella melma fino alle ginocchia. ma come è arrivato qui tutto questo fango? La condotta porta a ovest e a sud.
+~
+70 ad 5
+D2
+Sud. C'è ancora più melma, incredibile! Sembra un'incrocio della rete fognaria, e porta ad est e a sud.
+~
+~
+0 -1 7013
+D3
+Ovest. Tutto quello che riesci a vedere è che la condotta porta a un'ansa che va verso nord. C'è meno melma qui, per quanto strano possa sembrare.
+~
+~
+0 -1 7006
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7013
+Un Incrocio Melmoso~
+Sei nella melma fino ai fianchi.  >BWAADR<. L'unica cosa a cui riesci a pensare è un bagno caldo. Questa fanghiglia non è tanto pulita... visto che sei in una fogna! Le condotte si diramano verso nord, sud ed est.
+~
+70 ad 5
+D0
+Nord. Acqua fangosa e detriti scorrono in questo corridoio della fogna, che pota a un'ansa che va verso ovest.
+~
+~
+0 -1 7012
+D1
+Est. Non vedi nulla di interessante in questa direzione (e forse è proprio per questo che è così interessante...). E poi non c'è tanta melma qui, grande!
+~
+~
+0 -1 7026
+D2
+Sud. Ancora più melma! La condotta porta a un'ansa che va verso ovest.
+~
+~
+0 -1 7014
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+E
+Detriti~
+Non è il tipo di cosa della quale normalmente ti interesseresti, ma adesso che ci stai dentro potrebbe diventare la tua principale preoccupazione. Arghh!
+~
+S
+#7014
+La Fogna Melmosa~
+Ti trovi in un'ansa della fogna, la melma ti arriva alle cosce. L'odore è tale che qualunque essere pensante può pensare solo a come uscire da questo posto ai confini della realtà. L'ansa porta verso nord e verso est.
+~
+70 ad 5
+D0
+Nord. Questo posto, pieno di melma, sembrerebbe un'incrocio di collettori che porta verso nord ed est.
+~
+~
+0 -1 7013
+D3
+Ovest. C'è meno melma qui, forse stai trovando il modo di uscire da questo luogo pazzesco.
+~
+~
+0 -1 7008
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7015
+Il Vecchio Pozzo~
+Sei accanto a un vecchio pozzo, che risalirà al secondo scorso. Da qui la fogna prosegue verso est, mentre il pozzo si affaccia nell'oscurità. Sul fianco del pozzo ci sono delle barre di metallo che portano giù, come fossero una scala.
+~
+70 ad 3
+D1
+Est. A causa dell'oscurità più totale non vedi nulla. La tua luce non serve a molto con questo buio.
+~
+~
+0 -1 7028
+D5
+Dentro il pozzo c'è ancora meno luce, dunque... Non vedi nulla. Sulla parete del pozzo ci sono delle barre di metallo che portano giù nell'oscurità.
+~
+~
+0 -1 7105
+E
+Le barre~
+Sembrano piuttosto scivolose e non molto sicure, ma forse riesci ad arrampicarti, se ti tieni con tutte e due le mani.
+~
+S
+#7016
+L'Ansa~
+Sei nel mezzo di un'ansa del sistema fognario. Che posto! La condotta porta a sud ed est.
+~
+70 ad 1
+D2
+Sud. Non vedi nulla da questa parte, è troppo buio.
+~
+~
+0 -1 7017
+D1
+Est. Hai trovato un posto tranquillo. E' un incrocio di collettori che vanno verso nord ed est.
+~
+~
+0 -1 7021
+S
+#7017
+L'Incrocio della Fogna~
+Ti trovi in un incrocio che porta a nord, ovest e sud.
+~
+70 ad 1
+D0
+Nord. Vedi un'ansa.
+~
+~
+0 -1 7016
+D3
+Ovest. da questa parte c'è un incrocio di quattro collettori.
+~
+~
+0 -1 7009
+D2
+Sud. Sembra un altro incrocio di collettori. Questo porta ad est e ovest.
+~
+~
+0 -1 7018
+S
+#7018
+L'Incrocio~
+Sembra un normalissimo incrocio, ed è molto tranquillo qui. Le condotte portano a ovest, est e nord.
+~
+70 acd 1
+D0
+Verso nord intravedi un incrocio come questo, che porta a nord e ovest.
+~
+~
+0 -1 7017
+D1
+Verso est non c'è nulla di interessante, c'è solo un incrocio con condotte che vanno verso nord ed est.
+~
+~
+0 -1 7031
+D3
+Verso ovest c'è un'ansa che porta a nord.
+~
+~
+0 -1 7010
+S
+#7021
+Un Tranquillo Incrocio di Condotte~
+E' un buon posto per fare una sosta, anche se l'odore potrebbe essere MOLTO meglio di così. La fogna si dirama verso est, nord e ovest.
+~
+70 acd 1
+D0
+In questa direzione non vedi nulla, è troppo buio.
+~
+~
+0 -1 7011
+D1
+Verso est c'è un incrocio di condotte.
+~
+~
+0 -1 7029
+D3
+Ovest. Da questa parte c'è un'ansa che porta verso sud.
+~
+~
+0 -1 7016
+S
+#7022
+La Strana Stanza con le Pareti Soffici~
+Appena entri senti uno scatto provenire da una delle pareti e.... cadi, cadi, cadi...
+.
+.
+.
+.
+... e poi arrivi al fondo. Qui è tutto piuttosto strano. C'è un'entrata a forma di arco che porta in giù.
+~
+70 ad 5
+D5
+Giù. E' molto buio, ma riesci a vedere un'incrocio di condotte che portano a ovest, nord ed est.
+~
+~
+0 -1 7112
+S
+#7024
+La Fogna~
+Sei in piedi e il fango ti arriva ai fianchi. Ti trovi ad un incrocio di condotte che portano ad est, sud e ovest.
+~
+70 acd 1
+D1
+Verso est c'è una strana stanza rotonda.
+~
+~
+0 -1 7037
+D2
+Verso sud c'è un altro incrocio con condotte che vanno a sud ed est.
+~
+~
+0 -1 7025
+D3
+Verso ovest c'è un altro incrocio come questo, con condotte che vanno verso sud e ovest.
+~
+~
+0 -1 7011
+S
+#7025
+Un Altro Incrocio~
+Noi hai mai visto nulla di così NOIOSO... Ti trovi in un incrocio di condotte che portano a nord, sud ed est.
+~
+70 ad 1
+D0
+Verso nord c'è un incrocio di condotte che portano a ovest ed est. Verso ovest il pavimento è ricoperto di melma.
+~
+~
+0 -1 7024
+D1
+Est. Non vedi nulla di interessante in questa direzione, solo un altro incrocio. Porta verso est e sud.
+~
+~
+0 -1 7038
+D2
+Verso sud c'è un altro incrocio. Porta ad ovest e a sud.
+~
+~
+0 -1 7026
+S
+#7026
+Un Bivio~
+Sembra interessante, è molto diverso dalle altre diramazioni. E' più pulito, strano. Al di sopra si trova qualcosa che sembra una presa d'aria, ma sembra troppo scivoloso per potersi arrampicare. Le condotte portano a sud, ovest e nord.
+~
+70 acd 0
+D0
+Nord. Vedi un incrocio, che porta a nord ed est.
+~
+~
+0 -1 7025
+D2
+Verso sud c'è UN ALTRO INCROCIO, che porta a ovest ed est.
+~
+~
+0 -1 7028
+D3
+Verso ovest noti un sacco di melma e sedimenti. Dovrebbe esserci un incrocio da questa parte ma non se nei sicuro.
+~
+~
+0 -1 7013
+E
+La melma~
+E' buio pesto e sembra di stare nello scarico di un water. La puzza è assolutamente insopportabile.
+~
+S
+#7028
+L'Incrocio della Fogna~
+Ti trovi ad un incrocio di condotte che portano a nord, est e ovest.
+~
+70 ad 1
+D0
+~
+~
+0 -1 7026
+D1
+Verso est vedi un'ansa che porta verso sud.
+~
+~
+0 -1 7034
+D3
+Verso ovest riesci a scorgere un vecchio pozzo.
+~
+~
+0 -1 7015
+S
+#7029
+Il Triplo Incrocio~
+Ti trovi in mezzo a un enorme incrocio di condotte, che portano in tre diverse direzioni: est, sud e ovest.
+~
+70 ad 1
+D1
+Est. Vedi un'ansa che porta a nord.
+~
+~
+0 -1 7035
+D2
+Verso sud c'è un ENORME incrocio quadruplo, tutto illuminato da una strana luce.
+~
+~
+0 -1 7030
+D3
+Verso ovest riesci a vedere un altro incrocio, simile a quello in cui ti trovi.
+~
+~
+0 -1 7021
+S
+#7030
+L'Incrocio Quadruplo sotto la Discarica~
+Ti trovi in un luogo che ti ricorda l'entrata di un formicaio. Ci sono enormi condotte che portano a nord, sud, est e ovest. Nel muro c'è una scala di metallo che si arrampica in alto attraversando uno strato di spazzatura.  
+~
+70 acd 1
+D0
+Verso nord vedi un triplo incrocio con condotte che portano a ovest ed est.
+~
+~
+0 -1 7029
+D1
+Est. Vedi una buca nel pavimento.
+~
+~
+0 -1 7036
+D2
+Verso sud c'è un incrocio con condotte che portano a est e ovest.
+~
+~
+0 -1 7031
+D3
+Verso ovest c'è una strana stanza con le pareti soffici.
+~
+~
+0 -1 7022
+D4
+Arrampicandoti su per la spazzatura trovi qualcosa che sembra la piazzetta di McLandia.
+~
+~
+2 3005 3030
+E
+La scala~
+Sembra di acciaio inossidabile e i pioli sarebbero delle mazze poderose... Ma non puoi prenderli perché sono ben fissati alla parete.
+~
+S
+#7031
+Un Triplo Incrocio~
+Ti trovi in un incrocio di condotte che portano a ovest, nord ed est.
+~
+70 ad 1
+D0
+Verso nord c'è un ENORME incrocio quadruplo, tutto illuminato da una strana luce.
+~
+~
+0 -1 7030
+D1
+Est. Riesci a vedere un triplo incrocio che porta verso nord ed est.
+~
+~
+0 -1 7044
+D3
+Ovest. Riesci a vedere un triplo incrocio che porta verso nord e ovest.
+~
+~
+0 -1 7018
+S
+#7034
+Un'Ansa nelle Condotte~
+Vedi che le condotte portano in due direzioni: sud e ovest.
+~
+70 ad 2
+D3
+Ovest. Riesci a vedere un triplo incrocio che porta a nord e ovest.
+~
+~
+0 -1 7028
+D2
+Verso sud vedi un'altra ansa che porta a ovest.
+~
+~
+0 -1 7035
+S
+#7035
+L'Ansa della Condotta Fognaria~
+La condotta va in due direzioni: ovest e nord.
+~
+70 ad 2
+D0 
+Nord. Vedi un'altra ansa che porta a ovest.
+~
+~
+0 -1 7034
+D3
+Vedi un altro incrocio, ma questo è triplo e le condotte vanno a sud e ovest.
+~
+~
+0 -1 7029
+S
+#7036
+La Buca~
+Ti trovi in una condotta senza uscita. Nel pavimento però c'è una buca, con delle barre che possono fungere da pioli di una scala.
+~
+70 ad 5
+D3
+Ovest. Vedi un incrocio quadruplo con un'uscita in alto.
+~
+~
+0 -1 7030
+D5
+In fondo alla buca è così buio che non vedi nulla.
+~
+~
+0 -1 7122
+S
+#7037
+La Stanza Rotonda~
+Appena entri, la stanza inizia a ruotare - dapprima lentamente, e poi sempre più veloce. Non capisci più qual è l'alto e quale il basso, ma sei sicuro che l'uscita è dalla parte opposta a quella da cui sei entrao. L'uscita ti porta verso est. E' l'unica uscita.
+~
+70 ad 1
+D1
+Vedi una stanza più piccola, con una sedia.
+~
+~
+0 -1 7050
+S
+#7038
+L'Incrocio a Tre Direzioni~
+Ti trovi a un incrocio di condotte che portano a ovest, est e sud.
+~
+70 ad 1
+D1
+Est. Vedi la Stanza delle Guardie.
+~
+~
+0 -1 7045
+D2
+Verso sud vedi qualcosa che somiglia a un magazzino.
+~
+~
+0 -1 7039
+D3
+Ovest. Vedi un altro incrocio simile a questo, che porta a nord e sud.
+~
+~
+0 -1 7025
+S
+#7039
+Il Magazzino delle Fogne~
+Ti trovi in una piccola stanza illuminata da una sola torcia fissata alla parete. L'unica uscita è verso nord.
+~
+70 d 1
+D0
+Verso nord vedi un incrocio di condotte.
+~
+~
+0 -1 7038
+S
+#7041
+Il Pozzo~
+Ti trovi sul bordo di un pozzo scuro e profondo. Una scala è l'unico modo di scendere, se lo desideri. Da qui la condotta porta a sud.
+~
+70 ad 1
+D2
+Verso sud vedi che la condotta si inoltra nell'oscurità.
+~
+~
+0 -1 7043
+D5
+Giù nel buio. Non si vede nulla in questa direzione.
+~
+~
+0 -1 7123
+E
+La scala~
+E' fissata saldamente alla parete del pozzo, e non c'è verso di staccarla secondo te.
+~
+S
+#7043
+L'Entrata della Fogna~
+Ti trovi a metà di un condotto che porta da nord a sud. Sopra di te un pozzo di ventilazione porta in alto, verso la luce del sole. Sembra assolutamente impossibile riuscire a salire.
+~
+70 ad 1
+D0
+Verso nord vedi un pozzo che scende verso il basso.
+~
+~
+0 -1 7041
+D2
+Verso sud vedi un triplo incrocio che porta verso ovest ed est.
+~
+~
+0 -1 7044
+S
+#7044
+L'Incrocio che Porta in Tre Direzioni~
+Ti trovi in un corridoio che porta a nord, est e ovest.
+east and west.
+~
+70 ad 1
+D0
+Vedi una condotta che porta a nord.
+~
+~
+0 -1 7043
+D1
+~
+~
+0 -1 7049
+D3
+Ovest. Vedi un altro incrocio molto simile a questo, che porta a nord e ovest.
+~
+~
+0 -1 7031
+S
+#7045
+La Stanza~
+Ti trovi in una grande stanza. Sulle pareti sono fissate delle sedie. hai la sensazione di essere osservato. A sud c'è l'ingresso ad un stanza ancora più grande. La stanza è illuminata da cinque torce, anch'esse fissate alle pareti. A ovest c'è un'uscita che porta fuori dalle fogne. 
+~
+70 d 1
+D2
+Vedi una stanza ancora più grande di questa, piena di luce.
+~
+~
+0 -1 7046
+D3
+Verso ovest puoi vedere le fogne.
+~
+~
+2 -1 7038
+S
+#7046
+la Stanza~
+Le pareti di questa stanza brillano come l'oro, anche se non sono d'oro. E' strano. Sembra che tutta la stanza risplenda. Verso sud il pavimento è ricoperto d'acqua. La direzione nord conduce a una specie di stanza delle guardie.
+~
+70 d 1
+D0 
+Verso nord puoi vedere la stanza delle guardie.
+~
+~
+0 -1 7045
+D2
+Verso sud non c'è nient'altro che acqua. Un'uscita porta a est.
+~
+~
+0 -1 7047
+S
+#7047
+La Vasca~
+Sei immerso nell'acqua fino alla cintola. Verso nord c'è l'entrata di questa stanza. Una porta conduce a est.
+~
+70 d 1
+D0
+Verso nord vedi l'entrata di questa stanza.
+~
+~
+0 -1 7046
+D1
+Attraverso la porta vedi un'enorme sala.
+~
+porta~
+1 -1 7053
+S
+#7048
+Le Fogne~
+Ti trovi in un punto morto della fogna. L'unica uscita è verso sud. Una condotta si apre verso l'alto, ma sembra troppo difficile salire su da quella parte.
+~
+70 ad 1
+D2
+~
+~
+0 -1 7049
+S
+#7049
+L'Incrocio~
+Ti trovi a un incrocio che porta a nord, ovest ed est.
+~
+70 ad 1
+D0 
+~
+~
+0 -1 7048
+D1
+Questa zona della fogna è nell'oscurità totale. Non vedi nulla in questa direzione.
+~
+~
+0 -1 7060
+D3
+Ovest. Vedi un altro incrocio molto simile a questo, che porta a nord e ovest. 
+~
+~
+0 -1 7044
+S
+#7050
+La Stanza Piccola~
+L'unica cosa interessante in questa stanza è una sedia, che sembra incatenata al pavimento di roccia. Una porta conduce a sud, un'altra ad est.
+~
+70 ad 1
+D1
+Accidenti al buio...
+~
+~
+0 -1 7055
+D2
+Vedi una stanza illuminata. Non riesci a cogliere ogni dettaglio.
+~
+~
+0 -1 7051
+S
+#7051
+La Condotta~
+Ti trovi in un posto che somiglia tanto a una fogna, come se ti piacesse stare qui! Vedi due uscite, che portano a nord oppure a sud.
+~
+70 d 1
+D0
+~
+~
+0 -1 7050
+D2
+Verso sud vedi una strana luce.
+~
+~
+0 -1 7052
+S
+#7052
+La Grande Condotta~
+Ti trovi in una gigantesca condotta che si estende verso sud. E' enorme! Una porta conduce verso est.
+~
+70 d 1
+D0
+A nord vedi una porta.
+~
+~
+0 -1 7051
+D1
+Non riesci a vedere nulla in questo buio.
+~
+~
+0 -1 7056
+D2
+Nella parte sud del condotto il "pavimento" è completamente coperto di acqua. 
+~
+~
+0 -1 7053
+S
+#7053
+Il Lato Sud della Grande Condotta~
+Sei immerso nell'acqua fino alle ginocchia. Una porta conduce a ovest. La condotta prosegue verso nord.
+~
+70 d 1
+D0
+Le pareti sono piene di decorazioni.
+~
+~
+0 -1 7052
+D3
+~
+porta~
+1 -1 7047
+S
+#7055
+La Riva dell'Acqua~
+Ti trovi in una stanza il cui pavimento è ricoperto di acqua. L'acqua conduve verso est, e una porta conduce a ovest.
+~
+70 ad 3
+D1
+L'unica cosa che capisci è che il posto successivo è una condotta con ancora più acqua..
+~
+~
+0 -1 7061
+D3
+~
+~
+0 -1 7050
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7056
+L'Androne Buio~
+Non riesci a vedere quasi nulla. L'androne porta a un corridoio verso sud. Una porta conduce a ovest. 
+~
+70 ad 1
+D2
+Non vedi nulla perché è completamente buio.
+~
+~
+0 -1 7057
+D3
+Vedi molta luce, brillante come la luce del giorno. Ma non c'è nulla di interessante.
+~
+~
+0 -1 7052
+S
+#7057
+Il Corridoio Buio~
+Vedi a malapena dove metti i piedi. Il corridoio sembra continuare verso sud e verso nord.
+~
+70 ad 1
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7056
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7058
+S
+#7058
+Il Corridoio Buio~
+Vedi a malapena dove metti i piedi. Il corridoio sembra continuare verso sud e verso nord.
+~
+70 ad 1
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7057
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7059
+S
+#7059
+Il Corridoio Buio~
+Vedi a malapena dove metti i piedi. Il corridoio sembra continuare verso sud e verso nord.
+~
+70 ad 1
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7058
+D2
+Vedi a malapena dove metti i piedi. Il corridoio sembra continuare verso sud e verso nord.
+~
+~
+0 -1 7060
+S
+#7060
+Il Corridoio Buio~
+Vedi a malapena dove metti i piedi. Il corridoio sembra continuare verso ovest e verso nord. A est il pavimento è coperto d'acqua; questa direzione porta verso una entrata a forma di arco.
+~
+70 ad 1
+D0
+Vedi a malapena dove metti i piedi. Il corridoio sembra continuare verso sud e verso nord. 
+~
+~
+0 -1 7059
+D1
+Vedi a malapena dove metti i piedi. Il corridoio sembra continuare verso sud e verso nord.
+~
+~
+0 -1 7068
+D3
+Vedi un triplo incrocio che porta a nord e ovest.
+~
+~
+0 -1 7049
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7061
+L'Ansa Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso sud e ovest.
+~
+70 ad 5
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7062
+D3
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7055
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7062
+La Fogna Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso sud e nord.
+~
+70 ad 5
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7061
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7063
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7063
+La Fogna Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso sud e nord.
+~
+70 ad 5
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7062
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7064
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7064
+L'Incrocio della Fogna Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso un incrocio che porta a sud, nord ed est.
+~
+70 ad 5
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7063
+D1
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7069
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7065
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7065
+La Fogna Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso sud e nord.
+~
+70 ad 5
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7064
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7066
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7066
+L'Incrocio della Fogna Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso un incrocio che porta a nord, sud ed est.
+~
+70 ad 5
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7065
+D1
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7070
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7067
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7067
+La Fogna Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso sud e nord.
+~
+70 ad 5
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7066
+D2
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7068
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7068
+L'Ansa Piena d'Acqua~
+Non vedi nulla, ma l'acqua ti arriva ai fianchi. La fogna sembra proseguire verso ovest e nord.
+~
+70 ad 5
+D0
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7067
+D3
+Non si vede nulla, e la tua luce è troppo debole per penetrare l'oscurità.
+~
+~
+0 -1 7060
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7069
+Il Bordo della Pozza Scura~
+Non riesci a vedere molto, ma l'eco ti dice che c'è una voragine in basso. Vedi una pozza scura, nella quale cola l'acqua. L'acqua della fogna scorre sul bordo della pozza e lo rende molto scivoloso. Da qui l'acqua cade, come una cascata, giù dentro la pozza.
+~
+70 ad 5
+D2
+Non vedi nulla, è troppo buio.
+~
+~
+0 -1 7070
+D3
+Non vedi nulla, è troppo buio.
+~
+~
+0 -1 7064
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+#7070
+Il Bordo della Pozza Scura~
+Non riesci a vedere molto, ma l'eco ti dice che c'è una voragine in basso. Vedi una pozza scura, nella quale cola l'acqua. L'acqua della fogna scorre sul bordo della pozza e lo rende molto scivoloso. Da qui l'acqua cade, come una cascata, giù dentro la pozza. Sotto di te c'è una fenditura nella roccia. Sembra grande abbastanza da contenere alcune persone.
+~
+70 ad 5
+D0
+Non vedi nulla, è troppo buio.
+~
+~
+0 -1 7069
+D3
+Non vedi nulla, è troppo buio.
+~
+~
+0 -1 7066
+D5
+~
+~
+0 -1 7000
+E
+L'acqua~
+E' scura e torbida, ed emana un tanfo micidiale.
+~
+S
+$
+

@@ -1,0 +1,2264 @@
+#20500
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 c 2
+D0
+
+~
+~
+0 -1 20473
+D2
+
+~
+~
+0 -1 20528
+S
+#20501
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20474
+D2
+
+~
+~
+0 -1 20529
+S
+#20502
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20475
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20530
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20503
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20476
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20531
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20504
+Torretta di guardia~
+   Sei nella torretta di guardia.
+La torretta e' aperta dai tre lati per pemettere una visuale
+a tutto campo della zona circostante.
+Qui dentro non c'e' nulla.
+~
+205 0 2
+D5
+
+~
+~
+0 -1 20505
+S
+#20505
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D0
+
+~
+~
+0 -1 20477
+D2
+
+~
+~
+0 -1 20533
+D4
+
+~
+~
+0 -1 20504
+S
+#20506
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20478
+D2
+
+~
+~
+0 -1 20534
+S
+#20507
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D1
+
+~
+~
+0 -1 20508
+D2
+
+~
+~
+0 -1 20535
+S
+#20508
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20509
+D3
+
+~
+~
+0 -1 20507
+S
+#20509
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20510
+D3
+
+~
+~
+0 -1 20508
+S
+#20510
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20511
+D3
+
+~
+~
+0 -1 20509
+S
+#20511
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20512
+D3
+
+~
+~
+0 -1 20510
+S
+#20512
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D0
+
+~
+~
+0 -1 20484
+D1
+
+~
+~
+0 -1 20513
+D3
+
+~
+~
+0 -1 20511
+S
+#20513
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20485
+D2
+
+~
+~
+0 -1 20541
+D3
+
+~
+~
+0 -1 20512
+S
+#20514
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D0
+
+~
+~
+0 -1 20486
+D2
+
+~
+~
+0 -1 20542
+S
+#20515
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20487
+D1
+
+~
+~
+0 -1 20516
+D2
+
+~
+~
+0 -1 20543
+S
+#20516
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20488
+D2
+
+~
+~
+0 -1 20544
+D3
+
+~
+~
+0 -1 20515
+S
+#20517
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+205 0 7
+D0
+
+~
+~
+0 -1 20489
+D2
+
+~
+~
+0 -1 20545
+S
+#20518
+Armeria~
+   Sei in un deposito di armi, pieno di ogni ben di dio.
+Osservando con attenzione, ti accorgi che anche qui ci
+ci sono sistemi elettronici di rilevamento.
+Hai pochi secondi per prendere cio' che ti serve prima
+che scatti l'allarme.
+~
+205 d 0
+D2
+
+~
+~
+0 -1 20546
+S
+#20519
+Centro di Comando~
+   Sei nel centro di comando del campo.
+L'edificio e' zeppo di congegni elettronici.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20520
+S
+#20520
+Centro di Comando~
+   Sei nel centro di comando del campo.
+L'edificio e' zeppo di congegni elettronici.
+~
+205 d 0
+D2
+
+~
+~
+0 -1 20548
+D3
+
+~
+~
+0 -1 20519
+S
+#20521
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20522
+D2
+
+~
+~
+0 -1 20549
+S
+#20522
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20523
+D3
+
+~
+~
+0 -1 20521
+S
+#20523
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20524
+D3
+
+~
+~
+0 -1 20522
+S
+#20524
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20525
+D3
+
+~
+~
+0 -1 20523
+S
+#20525
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20526
+D3
+
+~
+~
+0 -1 20524
+S
+#20526
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20527
+D3
+
+~
+~
+0 -1 20525
+S
+#20527
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20499
+D1
+
+~
+~
+0 -1 20528
+D3
+
+~
+~
+0 -1 20526
+S
+#20528
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20500
+D2
+
+~
+~
+0 -1 20556
+D3
+
+~
+~
+0 -1 20527
+S
+#20529
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20501
+D2
+
+~
+~
+0 -1 20557
+S
+#20530
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20502
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20558
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20531
+Davanti al cancello~
+   Ti trovi davanti un imponente cancello rinforzato e affiancato
+da due alte torri di guardia.
+Capisci di essere allo scoperto ed in una posizione molto 
+vulnerabile.
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20503
+D1
+Vedi l'entrata al campo.
+~
+cancello~
+0 -1 20532
+D2
+Vedi la strada.
+~
+~
+0 -1 20559
+E
+torre guardia~
+Una torretta di guardia.
+Se osservi attentamente, vedi che dispone di
+sofisticati sistemi di rilevazione e puntamento elettronici. 
+Inoltre, nella garitta ci sono delle persone.
+Speriamo che non ti vedano, perche' altrimenti sono guai.
+~
+S
+#20532
+L'entrata al campo~
+   Sei tra le due torri di guardia.
+Impossibile non essere visto dalle eventuali sentinelle.
+A est la strada si addentra nel campo che ti sembra di una
+grandezza sconfinata e pieno di pericoli.
+~
+205 c 2
+D1
+~
+~
+0 -1 20533
+D3
+~
+~
+0 -1 20531
+S
+#20533
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 c 2
+D0
+
+~
+~
+0 -1 20505
+D1
+
+~
+~
+0 -1 20534
+D2
+
+~
+~
+0 -1 20561
+D3
+
+~
+~
+0 -1 20532
+S
+#20534
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20506
+D1
+
+~
+~
+0 -1 20535
+D2
+
+~
+~
+0 -1 20562
+D3
+
+~
+~
+0 -1 20533
+S
+#20535
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20507
+D1
+
+~
+~
+0 -1 20536
+D3
+
+~
+~
+0 -1 20534
+S
+#20536
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20537
+D2
+
+~
+~
+0 -1 20564
+D3
+
+~
+~
+0 -1 20535
+S
+#20537
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20538
+D3
+
+~
+~
+0 -1 20536
+S
+#20538
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20539
+D3
+
+~
+~
+0 -1 20537
+S
+#20539
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20540
+D3
+
+~
+~
+0 -1 20538
+S
+#20540
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20541
+D3
+
+~
+~
+0 -1 20539
+S
+#20541
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20513
+D1
+
+~
+~
+0 -1 20542
+D3
+
+~
+~
+0 -1 20540
+S
+#20542
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20514
+D1
+
+~
+~
+0 -1 20543
+D3
+
+~
+~
+0 -1 20541
+S
+#20543
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20515
+D1
+
+~
+~
+0 -1 20544
+D3
+
+~
+~
+0 -1 20542
+S
+#20544
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20516
+D1
+
+~
+~
+0 -1 20545
+D3
+
+~
+~
+0 -1 20543
+S
+#20545
+Il Ponte~
+   Sei su un semplice ponte di legno rinforzato.
+Questo ponte permette l'attraversamento del fiume che scorre
+internamente al campo ad uomini e mezzi meccanici.
+Ha un'aria molto spartana e primitiva.
+Ma ti sembra solido e ben adatto al carico che deve
+sopportare.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20546
+D3
+
+~
+~
+0 -1 20544
+S
+#20546
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20547
+D3
+
+~
+~
+0 -1 20545
+S
+#20547
+Centro di Comando~
+   Sei nel centro di comando del campo.
+L'edificio e' zeppo di congegni elettronici.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20548
+D3
+
+~
+~
+0 -1 20546
+S
+#20548
+Centro di Comando~
+   Sei nel centro di comando del campo.
+L'edificio e' zeppo di congegni elettronici.
+~
+205 d 0
+D0
+
+~
+~
+0 -1 20520
+D1
+
+~
+~
+0 -1 20549
+D3
+
+~
+~
+0 -1 20547
+S
+#20549
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20521
+D1
+
+~
+~
+0 -1 20550
+D3
+
+~
+~
+0 -1 20548
+S
+#20550
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20522
+D1
+
+~
+~
+0 -1 20551
+D3
+
+~
+~
+0 -1 20549
+S
+#20551
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20523
+D1
+
+~
+~
+0 -1 20552
+D2
+
+~
+~
+0 -1 20579
+D3
+
+~
+~
+0 -1 20550
+S
+#20552
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20524
+D1
+
+~
+~
+0 -1 20553
+D2
+
+~
+~
+0 -1 20580
+D3
+
+~
+~
+0 -1 20551
+S
+#20553
+Palestra~
+   Sembra un posto pochissimo frequentato. 
+Che sia legato al fatto che in genere questa gente
+e' essenzialmente pigra ?
+Infatti, la struttura e' sorprendentemente in ordine, 
+o quasi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20554
+D2
+
+~
+~
+0 -1 20581
+D3
+
+~
+~
+0 -1 20552
+S
+#20554
+Palestra~
+   Sembra un posto pochissimo frequentato. 
+Che sia legato al fatto che in genere questa gente
+e' essenzialmente pigra ?
+Infatti, la struttura e' sorprendentemente in ordine, 
+o quasi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20555
+D3
+
+~
+~
+0 -1 20553
+S
+#20555
+Palestra~
+   Sembra un posto pochissimo frequentato. 
+Che sia legato al fatto che in genere questa gente
+e' essenzialmente pigra ?
+Infatti, la struttura e' sorprendentemente in ordine, 
+o quasi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20556
+D2
+
+~
+~
+0 -1 20583
+D3
+
+~
+~
+0 -1 20554
+S
+#20556
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20528
+D2
+
+~
+~
+0 -1 20584
+D3
+
+~
+~
+0 -1 20555
+S
+#20557
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20529
+D2
+
+~
+~
+0 -1 20585
+S
+#20558
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20530
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20586
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20559
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20531
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20587
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20560
+Torretta di guardia~
+   Sei nella torretta di guardia.
+La torretta e' aperta dai tre lati per pemettere una visuale
+a tutto campo della zona circostante.
+Qui dentro non c'e' nulla.
+~
+205 0 2
+D5
+
+~
+~
+0 -1 20561
+S
+#20561
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D0
+
+~
+~
+0 -1 20533
+D2
+
+~
+~
+0 -1 20588
+D4
+
+~
+~
+0 -1 20560
+S
+#20562
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20534
+D2
+
+~
+~
+0 -1 20589
+S
+#20563
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D1
+
+~
+~
+0 -1 20564
+S
+#20564
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20536
+D1
+
+~
+~
+0 -1 20565
+D2
+
+~
+~
+0 -1 20591
+D3
+
+~
+~
+0 -1 20563
+S
+#20565
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D1
+
+~
+~
+0 -1 20566
+D3
+
+~
+~
+0 -1 20564
+S
+#20566
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20567
+D3
+
+~
+~
+0 -1 20565
+S
+#20567
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20568
+D3
+
+~
+~
+0 -1 20566
+S
+#20568
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20569
+D3
+
+~
+~
+0 -1 20567
+S
+#20569
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20570
+D3
+
+~
+~
+0 -1 20568
+S
+#20570
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 c 2
+D1
+
+~
+~
+0 -1 20571
+D3
+
+~
+~
+0 -1 20569
+S
+#20571
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20543
+D1
+
+~
+~
+0 -1 20572
+D2
+
+~
+~
+0 -1 20598
+D3
+
+~
+~
+0 -1 20570
+S
+#20572
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20544
+D2
+
+~
+~
+0 -1 20599
+D3
+
+~
+~
+0 -1 20571
+S
+#20573
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+205 0 7
+D0
+
+~
+~
+0 -1 20545
+D1
+
+~
+~
+0 -1 20574
+S
+#20574
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+205 0 7
+D1
+
+~
+~
+0 -1 20575
+D3
+
+~
+~
+0 -1 20573
+S
+#20575
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+205 0 7
+D1
+
+~
+~
+0 -1 20576
+D3
+
+~
+~
+0 -1 20574
+S
+#20576
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+205 0 7
+D1
+
+~
+~
+0 -1 20577
+D3
+
+~
+~
+0 -1 20575
+S
+#20577
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+205 0 7
+D1
+
+~
+~
+0 -1 20578
+D3
+
+~
+~
+0 -1 20576
+S
+#20578
+Fiume~
+   Un piccolo fiumiciattolo limaccioso e turbolento
+la corrente e' pericolosa e rende il fiume impossibile
+da guadare.
+~
+205 0 7
+D2
+
+~
+~
+0 -1 20605
+D3
+
+~
+~
+0 -1 20577
+S
+#20579
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20551
+D1
+
+~
+~
+0 -1 20580
+D2
+
+~
+~
+0 -1 20606
+S
+#20580
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D2
+
+~
+~
+0 -1 20607
+D3
+
+~
+~
+0 -1 20579
+S
+#20581
+Palestra~
+   Sembra un posto pochissimo frequentato. 
+Che sia legato al fatto che in genere questa gente
+e' essenzialmente pigra ?
+Infatti, la struttura e' sorprendentemente in ordine, 
+o quasi.
+~
+205 d 0
+D0
+
+~
+~
+0 -1 20553
+D1
+
+~
+~
+0 -1 20582
+S
+#20582
+Palestra~
+   Sembra un posto pochissimo frequentato. 
+Che sia legato al fatto che in genere questa gente
+e' essenzialmente pigra ?
+Infatti, la struttura e' sorprendentemente in ordine, 
+o quasi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20583
+D3
+
+~
+~
+0 -1 20581
+S
+#20583
+Palestra~
+   Sembra un posto pochissimo frequentato. 
+Che sia legato al fatto che in genere questa gente
+e' essenzialmente pigra ?
+Infatti, la struttura e' sorprendentemente in ordine, 
+o quasi.
+~
+205 d 0
+D0
+
+~
+~
+0 -1 20555
+D3
+
+~
+~
+0 -1 20582
+S
+#20584
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20556
+D2
+
+~
+~
+0 -1 20611
+S
+#20585
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20557
+D2
+
+~
+~
+0 -1 20612
+S
+#20586
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20558
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20613
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20587
+Strada~
+   E' una normale strada bianca che corre intorno a un recinto.
+Le ottime condizioni fannno pensare che sia percorsa con una 
+certa frequenza.
+Osservando con attenzione puoi vedere che vi sono dei solchi
+per terra, come se fosse sempre lo stesso veicolo a fare il percorso.
+Una ronda ?
+~
+205 0 2
+D0
+Vedi la strada.
+~
+~
+0 -1 20559
+D1
+Vedi il recinto.
+~
+~
+0 -1 -1
+D2
+Vedi la strada.
+~
+~
+0 -1 20614
+E
+recinto~
+E' un recinto di filo spinato, coperto mucchi di cartelli che 
+recitano "Proprieta' privata, "Vietato l'accesso", "Scio'!!"
+e "Pussa via !". Dietro il recinto ci sono dei campi
+abbastanza brulli, con una vegetazione molto rada.
+Cosa strana, sembra che siano stati diserbati a
+mano. Come mai?
+Che sia un campo minato ?
+~
+S
+#20588
+Campo minato~
+   Un pezzo di terra abbastanza brulla, con pochissima vegetazione.
+Ora che ci stai camminando dentro, vedi con orrore che vi sono a 
+terra una serie di fili e di sensori. Cristo, un campo minato.
+Ti rendi conto che hai solo pochi secondi per uscire di qui, prima
+che le mine antiuomo temporizzate ti facciano a pezzettini.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20561
+D2
+
+~
+~
+0 -1 20615
+S
+#20589
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20562
+D1
+
+~
+~
+0 -1 20590
+D2
+
+~
+~
+0 -1 20616
+S
+#20590
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D1
+
+~
+~
+0 -1 20591
+D2
+
+~
+~
+0 -1 20617
+D3
+
+~
+~
+0 -1 20589
+S
+#20591
+Strada~
+   Sei su una strada che corre internamente al campo
+assicurando i collegamenti rapidi tra tutti i suoi
+settori principali.
+La strada e' asfaltata in modo rozzo e approssimativo.
+Il fondo e' sconnesso e cosparso di buche e cunette.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20564
+D1
+
+~
+~
+0 -1 20592
+D2
+
+~
+~
+0 -1 20618
+D3
+
+~
+~
+0 -1 20590
+S
+#20592
+Poligono chiuso~
+   Una galleria di tiro al coperto, completa di cubi di gelatina
+balistica sul fondo, richiami per le sagome e una fila di stalli
+di tiro. 
+Il pavimento e' coperto di bossoli di vario calibro.
+In un angolo, una pila di sagome di quelle usate dalla polizia, 
+piene di buchi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20593
+D2
+
+~
+~
+0 -1 20619
+S
+#20593
+Poligono chiuso~
+   Una galleria di tiro al coperto, completa di cubi di gelatina
+balistica sul fondo, richiami per le sagome e una fila di stalli
+di tiro. 
+Il pavimento e' coperto di bossoli di vario calibro.
+In un angolo, una pila di sagome di quelle usate dalla polizia, 
+piene di buchi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20594
+D3
+
+~
+~
+0 -1 20592
+S
+#20594
+Poligono chiuso~
+   Una galleria di tiro al coperto, completa di cubi di gelatina
+balistica sul fondo, richiami per le sagome e una fila di stalli
+di tiro. 
+Il pavimento e' coperto di bossoli di vario calibro.
+In un angolo, una pila di sagome di quelle usate dalla polizia, 
+piene di buchi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20595
+D3
+
+~
+~
+0 -1 20593
+S
+#20595
+Poligono chiuso~
+   Una galleria di tiro al coperto, completa di cubi di gelatina
+balistica sul fondo, richiami per le sagome e una fila di stalli
+di tiro. 
+Il pavimento e' coperto di bossoli di vario calibro.
+In un angolo, una pila di sagome di quelle usate dalla polizia, 
+piene di buchi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20596
+D3
+
+~
+~
+0 -1 20594
+S
+#20596
+Poligono chiuso~
+   Una galleria di tiro al coperto, completa di cubi di gelatina
+balistica sul fondo, richiami per le sagome e una fila di stalli
+di tiro. 
+Il pavimento e' coperto di bossoli di vario calibro.
+In un angolo, una pila di sagome di quelle usate dalla polizia, 
+piene di buchi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20597
+D3
+
+~
+~
+0 -1 20595
+S
+#20597
+Poligono chiuso~
+   Una galleria di tiro al coperto, completa di cubi di gelatina
+balistica sul fondo, richiami per le sagome e una fila di stalli
+di tiro. 
+Il pavimento e' coperto di bossoli di vario calibro.
+In un angolo, una pila di sagome di quelle usate dalla polizia, 
+piene di buchi.
+~
+205 d 0
+D1
+
+~
+~
+0 -1 20598
+D3
+
+~
+~
+0 -1 20596
+S
+#20598
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20571
+D1
+
+~
+~
+0 -1 20599
+D2
+
+~
+~
+0 -1 20625
+D3
+
+~
+~
+0 -1 20597
+S
+#20599
+Il Prato~
+   Un prato quasi all'inglese, abbastanza curato, ma in altri 
+punti quasi incolto e bruciato.
+Noti anche in mezzo all'erba  mucchi di carte, cicche e schifezze di 
+vario genere e natura.
+~
+205 0 2
+D0
+
+~
+~
+0 -1 20572
+D1
+
+~
+~
+0 -1 20600
+D3
+
+~
+~
+0 -1 20598
+S
+$
+
+

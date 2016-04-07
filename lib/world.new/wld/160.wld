@@ -1,0 +1,998 @@
+#16000
+Un strada molto curata.~
+   Ti trovi all'inizio di una meravigliosa strada immersa nel verde.
+La strada e' larga e ben asfaltata.
+E si inoltra verso est.
+~
+160 c 1
+D1
+
+~
+~
+0 -1 16001
+D3
+Un incorcio.
+~
+~
+0 -1 3502
+S
+#16001
+Una strada molto curata~
+   La strada e' costeggiata da mestosi alberi e cespugli in fiore.
+Guardando meglio ti rendi conto che si tratta di piante molto rare
+e delicate.
+E' evidente che questi sono i segni di una gran ricchezza.
+~
+160 0 1
+D1
+
+~
+~
+0 -1 16002
+D3
+
+~
+~
+0 -1 16000
+S
+#16002
+Una strada molto curata~
+   Qui la strada si allarga ulteriormente.
+Sugli alberi noti uccellini dai colori mai visti che emettono
+suoni di una dolcezza incredibile.
+La cosa ti lascia leggermente sconcertato.
+~
+160 0 1
+D1
+
+~
+~
+0 -1 16003
+D3
+
+~
+~
+0 -1 16001
+S
+#16003
+Uno spiazzo~
+   Sei in un grande spiazzo.
+Davanti a te si erge un grosso complesso di splendidi e
+moderni edifici.
+Tutto ha l'aria di ricchezza e lusso.
+Grandi fontane e splendidi prati costellano gli spazi interni
+tra un edificio e l'altro.
+Un cartello campeggia davanti all'entrata del complesso.
+~
+160 0 1
+D0
+
+~
+~
+0 -1 16004
+E
+cartello~
+
+ ----------------------------------
+|                                  |
+|        GOLDMEO REPLICANT         |
+|      Biomedical Engineering      |
+|                                  |
+|                                  |
+ ----------------------------------
+
+~
+D3
+
+~
+~
+0 -1 16002
+S
+#16004
+Il vialetto d'accesso~
+   Sei nel vialetto di accesso del complesso.
+Davanti a te si erge l'entrata dell'edificio 
+principale della famosa:
+GOLDMEO REPLICANT Biomedical Engineering.  
+~
+160 c 1
+D0
+La porta e' composta da un gigantesco cristallo scorrevole.
+~
+porta~
+1 -1 16007
+D2
+
+~
+~
+0 -1 16003
+S
+#16005
+Atrio~
+   Sei nell'atrio degli ascensori.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+~
+0 -1 16007
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16007
+Ingresso~
+   Sei nella sala d'ingresso.
+Rimani immediatamente impressionato dalla maestosita' dell'edificio.
+Questa sala e' gigantesca, il soffitto e' altissimo e l'arredamento
+ultramoderno. Picole sculture stilizzate sono sparse nell'immenso
+spazio che ti circonda. Un complesso di colonnine cromate forma una
+specie di disegno astratto sospeso a mezz'aria.
+In fondo alla sala una grossa scrivania di vetro e granito ospita una
+receptionist.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16005
+D1
+
+~
+~
+0 -1 16008
+D2
+
+~
+porta~
+1 -1 16004
+S
+#16008
+La stanza di controllo della sorveglianza~
+   Sei nel centro di controllo della sorveglianza.
+I monitor attaccati alle pareti sono collegati alle telecamere
+poste nei punti chiave del complesso.
+La sala e' pulita e ordinata e ti da una gran sensazione di
+efficienza.
+~
+160 d 0
+D3
+
+~
+~
+0 -1 16007
+E
+monitor~
+Smbra che tutti i punti di sorveglianza sono tranquilli.
+Nessuna attivita' sopspetta o presenza di intrusi.
+~
+S
+#16010
+Atrio del I piano~
+   Sei nell'atrio degli ascensori del I piano.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+porta~
+1 16005 16011
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16011
+Laboratorio bioelettronico fase 1~
+   Sei in una stanza piena di macchine per la progettazione e 
+realizzazione di microprocessori ad alta tecnologia.
+Dai disegni affissi ai muri ti rendi conto che qui si producono
+i chip che gestiscono il movimento e la coordinazione degli
+arti inferiori dei replicanti.
+~
+160 d 0
+D0
+
+~
+porta~
+1 16005 16010
+D1
+
+~
+~
+0 -1 16012
+D2
+
+~
+~
+0 -1 16013
+D3
+
+~
+~
+0 -1 16017
+S
+#16012
+Laboratorio bioelettronico fase 2~
+   Sei in una stanza piena di macchine per la progettazione e 
+realizzazione di microprocessori ad alta tecnologia.
+Dai disegni affissi ai muri ti rendi conto che qui si producono
+i chip che gestiscono il movimento e la coordinazione degli
+arti superiori dei replicanti.
+~
+160 d 0
+D2
+
+~
+~
+0 -1 16014
+D3
+
+~
+~
+0 -1 16011
+S
+#16013
+Laboratorio bioelettronico fase 3~
+   Sei in una stanza piena di macchine per la progettazione e 
+realizzazione di microprocessori ad alta tecnologia.
+Dai disegni affissi ai muri ti rendi conto che qui si producono
+i chip che gestiscono tutte le funzioni dei muscoli del tronco
+dei replicanti.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16011
+D2
+
+~
+~
+0 -1 16015
+S
+#16014
+Laboratorio bioelettronico fase 4~
+   Sei in una stanza piena di macchine per la progettazione e 
+realizzazione di microprocessori ad alta tecnologia.
+Dai disegni affissi ai muri ti rendi conto che qui si producono
+i chip che gestiscono il movimento e la coordinazione degli
+arti inferiori dei replicanti.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16012
+D2
+
+~
+~
+0 -1 16016
+S
+#16015
+Laboratorio bioelettronico fase 6~
+   Questa stanza e' piu' ampia e attrezzata delle altre.
+Ti rendi conto che le macchine usate in questo laboratorio
+sono di gran lunga piu' potenti.
+A ben vedere sono anche diverse, non capisci bene di che tipo
+di tecnologia si tratta.
+Evidentemente in questo laborotorio si usano tecniche del tutto
+nuove e sperimentali.
+Dai progetti sparsi in giro ti rendi infatti conto che qui si
+producono i potentissimi chip che formano la rete neurale
+che costituisce il cervello dei replicanti.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16013
+D1
+
+~
+~
+0 -1 16016
+D3
+
+~
+~
+0 -1 16018
+S
+#16016
+Laboratorio bioelettronico fase 5~
+   Sei in una stanza piena di macchine per la progettazione e 
+realizzazione di microprocessori ad alta tecnologia.
+Dai progetti che vedi in giro ti accorgi che questo laboratorio
+e' molto diverso dagli altri.
+Qui c'e' una tecnologia del tutto diversa.
+Questo e' il tempio della nuova teoria di cui hai sentito parlare
+ancora come una leggenda, ma che evidentemente qualcuno e' riuscito
+ad applicare: la 'FUZZY NO-LOGIC'.
+Infatti ti rendi conto che qui si producono i chip che gestiscono 
+la sfera emotiva dei replicanti.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16014
+D3
+
+~
+~
+0 -1 16015
+S
+#16017
+Corridoio~
+   Sei in un lungo corridoio che procede da nord a sud.
+La cosa che ti colpisce e' che le pareti sono di metallo.
+Senti un rombo di sottofondo e ti accorgi che c'e' una
+specie di impianto potentissimo che risucchia costantemente
+l'aria eliminando istantaneamente qualunque particella di
+polvere presente.
+Tutto il piano risulta infatti assolutamente asettico e
+"purificato".
+~
+160 d 0
+D1
+
+~
+~
+0 -1 16011
+D2
+
+~
+~
+0 -1 16018
+S
+#16018
+Corridoio~
+   Sei in un lungo corridoio che procede da nord a sud.
+La cosa che ti colpisce e' che le pareti sono di metallo.
+Senti un rombo di sottofondo e ti accorgi che c'e' una
+specie di impianto potentissimo che risucchia costantemente
+l'aria eliminando istantaneamente qualunque particella di
+polvere presente.
+Tutto il piano risulta infatti assolutamente asettico e
+"purificato".
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16017
+D1
+
+~
+~
+0 -1 16015
+D3
+
+~
+~
+0 -1 16019
+S
+#16019
+Laboratorio bioelettronico fase finale~
+   Sei in una stanza gigantesca.
+Un gigantesco tubo di gomma porta dal soffitto ad una vasca
+che campeggia al centro del laboratorio.
+Dalla vasca parte un nastro trasportatore che trascina verso
+una specie di tavolo chirugico quelle che ti sembrano parti 
+biologiche di corpi umanoidi.
+Dall'altra parte del tavolo campeggia un enorme robot assemblatore
+che si occupa dell'impianto dei chip nei tessuti biologici.
+In un attimo realizzi che agli occhi della macchina anche tu
+POTRESTI ESSERE UN PEZZO BIOLOGICO DA SQUARCIARE ED IN CUI
+IMPIANTARE UN INSIEME DI CHIP DI CONTROLLO !!
+~
+160 d 0
+D1
+
+~
+~
+0 -1 16018
+S
+#16025
+Atrio del II piano~
+   Sei nell'atrio degli ascensori del II piano.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D0
+
+~
+porta~
+1 16006 16026
+D1
+
+~
+~
+0 -1 16099
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16026
+Le vasche~
+   Sei in una grande stanza piena di vasche biologiche.
+Osservando bene ti accorgi che tutte le vasche sono collegate
+ad un gigantesco tubo di gomma che si innesta nel pavimento.
+~
+160 d 0
+D2
+
+~
+porta~
+1 16006 16025
+D3
+
+~
+~
+0 -1 16027
+S
+#16027
+La fabbrica dei corpi fase I~
+   Sei in uno strano laboratorio.
+Qui si costruiscono le parti del corpo dei replicanti.
+Ti chiedi di che materiale sono fatti e ti guardi intorno
+per cercare di capirlo.
+Eppure non noti nulla che possa assomigliare ad un complicato
+processo chimico di costruzione di pelle ossa e muscoli.
+Vedi solo una gigantesca vasca riempita di formalina e
+in cui galleggiano centinaia di PIEDI UMANI MOZZATI !!
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16030
+D1
+
+~
+~
+0 -1 16026
+D3
+
+~
+~
+0 -1 16028
+S
+#16028
+La fabbrica dei corpi fase II~
+   Sei in uno strano laboratorio.
+Qui si costruiscono le parti del corpo dei replicanti.
+Ti chiedi di che materiale sono fatti e ti guardi intorno
+per cercare di capirlo.
+Eppure non noti nulla che possa assomigliare ad un complicato
+processo chimico di costruzione di pelle ossa e muscoli.
+Vedi solo una gigantesca vasca riempita di formalina e
+in cui galleggiano centinaia di BRACCIA UMANE MOZZATE !!
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16029
+D1
+
+~
+~
+0 -1 16027
+S
+#16029
+Un corridoio~
+   Sei in un corridoio che procede da est a ovest.
+Nelle pareti sono incassati dei grossi ventilatori le cui
+eliche girano incessemente creando una continua corrente
+d'aria.
+Questo dovrebbe rendere l'ambiente del tutto asettico e
+inodore.
+Eppure ti accorgi che malgrado tutti i ventilatori e gli
+accorgimenti presi nulla riesce ad eliminare dall'aria
+una persistente PUZZA DI CADAVERI !!
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16035
+D1
+
+~
+~
+0 -1 16030
+D2
+
+~
+~
+0 -1 16028
+S
+#16030
+Un corridoio~
+   Sei in un corridoio che procede da est a ovest.
+Nelle pareti sono incassati dei grossi ventilatori le cui
+eliche girano incessemente creando una continua corrente
+d'aria.
+Questo dovrebbe rendere l'ambiente del tutto asettico e
+inodore.
+Eppure ti accorgi che malgrado tutti i ventilatori e gli
+accorgimenti presi nulla riesce ad eliminare dall'aria
+una persistente PUZZA DI CADAVERI !!
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16034
+D1
+
+~
+~
+0 -1 16031
+D2
+
+~
+~
+0 -1 16027
+D3
+
+~
+~
+0 -1 16029
+S
+#16031
+Un corridoio~
+   Sei in un corridoio che procede da est a ovest.
+Nelle pareti sono incassati dei grossi ventilatori le cui
+eliche girano incessemente creando una continua corrente
+d'aria.
+Questo dovrebbe rendere l'ambiente del tutto asettico e
+inodore.
+Eppure ti accorgi che malgrado tutti i ventilatori e gli
+accorgimenti presi nulla riesce ad eliminare dall'aria
+una persistente PUZZA DI CADAVERI !!
+~
+160 d 0
+D2
+
+~
+~
+0 -1 16032
+D3
+
+~
+~
+0 -1 16030
+S
+#16032
+La fabbrica dei corpi fase III~
+   Sei in uno strano laboratorio.
+Qui si costruiscono le parti del corpo dei replicanti.
+Ti chiedi di che materiale sono fatti e ti guardi intorno
+per cercare di capirlo.
+Eppure non noti nulla che possa assomigliare ad un complicato
+processo chimico di costruzione di pelle ossa e muscoli.
+Vedi solo una gigantesca vasca riempita di formalina e
+in cui galleggiano centinaia di TORSI UMANI MOZZATI !!
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16031
+S
+#16033
+La fabbrica dei corpi fase VI~
+   Sei in uno strano laboratorio.
+Qui si costruiscono le parti del corpo dei replicanti.
+Ti chiedi di che materiale sono fatti e ti guardi intorno
+per cercare di capirlo.
+Eppure non noti nulla che possa assomigliare ad un complicato
+processo chimico di costruzione di pelle ossa e muscoli.
+Vedi solo una gigantesca vasca riempita di formalina e
+in cui galleggiano centinaia di TESTE UMANE DECAPITATE !!
+~
+160 d 0
+D3
+
+~
+~
+0 -1 16034
+S
+#16034
+La fabbrica dei corpi fase IV~
+   Sei in uno strano laboratorio.
+Qui si costruiscono le parti del corpo dei replicanti.
+Ti chiedi di che materiale sono fatti e ti guardi intorno
+per cercare di capirlo.
+Eppure non noti nulla che possa assomigliare ad un complicato
+processo chimico di costruzione di pelle ossa e muscoli.
+Vedi solo una gigantesca vasca riempita di formalina e
+in cui galleggiano centinaia di MANI UMANE MOZZATE !!
+~
+160 d 0
+D1
+
+~
+~
+0 -1 16033
+D2
+
+~
+~
+0 -1 16030
+S
+#16035
+La fabbrica dei corpi fase V~
+   Sei in uno strano laboratorio.
+Qui si costruiscono le parti del corpo dei replicanti.
+Ti chiedi di che materiale sono fatti e ti guardi intorno
+per cercare di capirlo.
+Eppure non noti nulla che possa assomigliare ad un complicato
+processo chimico di costruzione di pelle ossa e muscoli.
+Vedi solo una gigantesca vasca riempita di formalina e
+in cui galleggiano centinaia di GAMBE UMANE MOZZATE !!
+~
+160 d 0
+D2
+
+~
+~
+0 -1 16029
+S
+#16040
+Atrio del III piano~
+   Sei nell'atrio degli ascensori del III piano.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+porta~
+1 16007 16041
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16041
+Un corridoio~
+   Sei in un piccolo corridoio.
+Qui le pareti sembrano di acciaio rinforzato come se il
+corridoio si addentrasse in un settore di sicurezza.
+Un cartello attira la tua attenzione.
+ ----------------------------------
+|        PERICOLO: SETTORE         |
+|       'ESPERIMENTI FALLITI'      |
+ ----------------------------------
+
+~
+160 d 0
+D0
+
+~
+porta~
+1 16007 16040
+D2
+
+~
+~
+0 -1 16042
+S
+#16042
+Una cella~
+   Ti trovi in una strana stanzetta dall'aria spartana ed essenziale.
+Degli strani campi di forza luminescenti guizzano intorno alla soglia
+evidentemente settati per funzionare a danno di una specifica entita'
+organica che di fatto non puo' in alcun modo attraversarli.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16041
+D1
+
+~
+~
+0 -1 16043
+D2
+
+~
+~
+0 -1 16045
+S
+#16043
+Un corridoio~
+   Sei in un piccolo corridoio.
+Qui le pareti sembrano di acciaio rinforzato come se il
+corridoio si addentrasse in un settore di sicurezza.
+~
+160 d 0
+D1
+
+~
+~
+0 -1 16044
+D2
+
+~
+~
+0 -1 16046
+D3
+
+~
+~
+0 -1 16042
+S
+#16044
+Una cella~
+   Ti trovi in una strana stanzetta dall'aria spartana ed essenziale.
+Degli strani campi di forza luminescenti guizzano intorno alla soglia
+evidentemente settati per funzionare a danno di una specifica entita'
+organica che di fatto non puo' in alcun modo attraversarli.
+~
+160 d 0
+D3
+
+~
+~
+0 -1 16043
+S
+#16045
+Un corridoio~
+   Sei in un piccolo corridoio.
+Qui le pareti sembrano di acciaio rinforzato come se il
+corridoio si addentrasse in un settore di sicurezza.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16042
+D1
+
+~
+~
+0 -1 16046
+S
+#16046
+Una cella~
+   Ti trovi in una strana stanzetta dall'aria spartana ed essenziale.
+Degli strani campi di forza luminescenti guizzano intorno alla soglia
+evidentemente settati per funzionare a danno di una specifica entita'
+organica che di fatto non puo' in alcun modo attraversarli.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16043
+D1
+
+~
+~
+0 -1 16047
+D3
+
+~
+~
+0 -1 16045
+S
+#16047
+Un corridoio~
+   Sei in un piccolo corridoio.
+Qui le pareti sembrano di acciaio rinforzato come se il
+corridoio si addentrasse in un settore di sicurezza.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16048
+D3
+
+~
+~
+0 -1 16046
+S
+#16048
+Una cella~
+   Questa cella e' piu' grossa delle altre.
+Le pareti sono maggiormente imbottite ed i campi di forza
+sembrano doppi.
+Uhmm deve essere stata progettata per una creatura
+particolarmente violenta e aggressiva !!
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16049
+D2
+
+~
+~
+0 -1 16047
+S
+#16049
+Un corridoio~
+   Sei in un piccolo corridoio.
+Qui le pareti sembrano di acciaio rinforzato come se il
+corridoio si addentrasse in un settore di sicurezza.
+~
+160 d 0
+D2
+
+~
+~
+0 -1 16048
+D3
+
+~
+~
+0 -1 16041
+S
+#16055
+Atrio del IV piano~
+   Sei nell'atrio delgli ascensori del IV piano.
+Alla tua destra ci sono le porte cromate e scintillanti
+di tre ascensori ultramoderni e veloci.
+Sul muro c'e' il pannello con il bottone di chiamata
+ed un piccolo cartello.
+~
+160 dq 0
+D1
+
+~
+~
+0 -1 16099
+D2
+
+~
+porta~
+1 16008 16056
+E
+piccolo cartello bottone~
+Per chiamare l'ascensore "push button".
+~
+E
+VNUM_e~
+16099~
+S
+#16056
+Il salotto~
+   Sei nell'appartamento privato del Creatore.
+Tutto e' lusso e ricercatezza.
+Il pavimento e' interamente ricoperto da preziosi tappeti
+persiani.
+I lampadari ottocenteschi sono di puro cristallo di Boemia.
+I morbidi divani di pelle sono circondati da tavolini e
+sprammobili che appartengono a famose collezioni di
+antiquariato.
+~
+160 d 0
+D0
+
+~
+porta~
+1 16008 16055
+D2
+
+~
+~
+0 -1 16057
+S
+#16057
+Lo studio del creatore~
+   Sei nello studio privato del creatore dei replicanti.
+Che strano posto...
+Non c'e' alcuna scrivania ma solo un preziosissimo e antico
+tappeto da meditazione circondato di statue di preziosi marmi
+che raffigurano tutti i passaggi e i prototipi della razza
+umana.
+~
+160 d 0
+D0
+
+~
+~
+0 -1 16056
+S
+#16099
+Ascensore~
+   Sei nell'ascensore.
+L'ascensore pur essendo ultrmoderno e' molto lussoso.
+E' tutto foderato in legno pregiato e molto confortevole.
+Il pannello con la tastiera dei comandi e' in argento
+lucidato.
+I bottoni dei piani vanno da 0 a 4.
+Un piccolo cartello e' incastonato nel legno e recita la scritta:
+"Per usare l'ascensore: push button numeropiano"
+~
+160 cdr 0
+D3
+
+~
+~
+1 -1 16005
+E
+terra zero 0~
+16005~
+E
+primo uno one 1~
+16010~
+E
+secondo due two 2~
+16025~
+E
+terzo tre three 3~
+16040~
+E
+quarto quattro four 4~
+16055~
+S
+$

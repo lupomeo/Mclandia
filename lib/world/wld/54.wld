@@ -1,0 +1,5089 @@
+#5400
+L'entrata della pensione di Newland~
+   Ti trovi all'entrata della Pensione di Newland.
+Una scala a chiocciola cromata porta su alla Reception. A SUD
+Senti il rumore di gente che balla e beve alla locanda a OVEST
+invece senti il rumore dell'intensa attivita' della metropoli.
+~
+54 d 0
+D2
+Vedi la gente ballare e bere.
+~
+~
+0 -1 5402
+D3
+Vedi la gente camminare sul Viale Sasso.
+~
+~
+0 -1 5420
+D4
+Una scala a chiocciola sale sulla Reception.
+~
+~
+0 -1 5401
+S
+#5401
+La Reception~
+   Ora stai aspettando alla reception della pensione. Una scura scrivania
+di mogano e' qui fra due sofa'. .Una scala a chiocciola cromata ti porta
+giu' all'ingresso, e alle future avventure che ti riserva la grande
+metropoli di MClandia.
+~
+
+54 deh 0
+D5
+Le scale scendono all'entrata.
+~
+~
+0 -1 5400
+S
+#5402
+La locanda della Pensione di Newland~
+   Sei in nella tranquilla locanda sotto la pensione di Newland. Ti sembra un
+posto dove la gente puo' ballare e bersi una birra o un cocktail. Senti una
+dolce musica che anima il locale e dietro al Bancone vedi tutto l'occorrente
+affinche' il barman si possa sbizzarrire realizzando cocktail di sua invenzione
+La sola uscita a NORD ti riporta all'entrata della Pensione.
+~
+54 d 0
+D0
+Vedi l'entrata della Pensione.
+~
+~
+0 -1 5400
+E
+bancone~
+Il bancone ti sembra un tantino strano. Sembra quasi che si regga in aria da
+solo, poi noti che e' sorretto da un intenso campo magnetico ai lati generato
+da due trasformatori misteriosi.
+~
+S
+#5403
+Via Medina~
+   Sei su via Medina, la strada piu' larga di Newland.
+La gente cammina e i fornitori trasportano le merci da vendere
+ai negozi della citta'. Vedi Piazza Vittoria a SUD mentre via
+Medina continua a NORD
+~
+54 0 1
+D0
+Vedi il resto di Via Medina.
+~
+~
+0 -1 5404
+D2
+Vedi Piazza Vittoria.
+~
+~
+0 -1 5410
+S
+#5404
+Via Medina~
+   Stai camminando sulla strada che collega il Mercato con Piazza
+Vittoria.  Comprendi subito che e' la strada piu' larga di Newland,
+inoltre ti e' chiara l'importanza di questa Via che collega le due
+zone principali della citta'.  Via Medina continua a SUD, mentre
+l'eccezionale Mercato ti strabilia a NORD.
+~
+54 0 1
+D0
+Vedi l'enorme area del Mercato.
+~
+~
+0 -1 5405
+D2
+Vedi il resto di Via Medina.
+~
+~
+0 -1 5403
+S
+#5405
+Il lato meridionale del Mercato~
+   La grandezza del mercato di Newland ti stupisce.  Strani canti, odori e
+suoni, che solo il mercato di Newland puo' produrre, ti catturano i sensi.
+Speri che questa sensazione rimanga a lungo nel tuo animo scosso.
+Il mercato continua a NORD, OVEST, e a EST. Vedi Via Medina che si snoda
+verso SUD. Inoltre a NORD noti al centro del mercato la Stazione
+~
+54 0 1
+D0
+~
+~
+0 -1 5406
+D1
+~
+~
+0 -1 5407
+D2
+~
+~
+0 -1 5404
+D3
+~
+~
+0 -1 5408
+S
+#5406
+La Stazione di Newland~
+   Sei alla stazione di Newland, da qui parte il treno che porta alla
+tranquilla MCLandia. La stazione e' proprio nel cuore della citta'
+al centro del maestoso Mercato. Noti subito attorno alla Statua
+sita al centro della stazione un gran via vai di persone.
+~
+54 0 1
+D0
+~
+~
+0 -1 5415
+D1
+~
+~
+0 -1 5417
+D2
+~
+~
+0 -1 5405
+D3
+~
+~
+0 -1 5409
+E
+statua~
+E' la statua piu' bella che tu abbia mai visto. Raffigura
+una donna bellissima, sicuramente e' Venere cosi'
+come la immaginava lo scultore che l'ha realizzata.
+~
+S
+#5407
+Il lato Sud-Est del Mercato~
+   In quest'angolo del mercato noti una notevole concentrazione di brutti
+ceffi. Forse questa gente viene a fare la "spesa" nel negozio di armi a
+SUD o nel negozio di corazze a EST. Potresti darci un'occhiata, verificando
+così la loro fama negozi di meglio forniti del mondo.
+~
+54 0 1
+D0
+~
+~
+0 -1 5417
+D1
+~
+~
+0 -1 5529
+D2
+~
+~
+0 -1 5536
+D3
+~
+~
+0 -1 5405
+S
+#5408
+Il lato Sud-Ovest del Mercato~
+   Quest'area del Mercato ti sembra piu' tranquilla. I commercianti 
+ti aspettano ansiosi nei loro negozi.  A SUD senti un intenso odore di pane
+proveniente dal forno, a OVEST c'e' l'entrata dell'emporio.
+   Il Mercato continua a EST e a NORD.
+~
+54 0 1
+
+D0
+~
+~
+0 -1 5409
+D1
+~
+~
+0 -1 5405
+D2
+Vedi il Forno.
+~
+~
+0 -1 5535
+D3
+Vedi l'Emporio.
+~
+~
+0 -1 5528
+S
+#5409
+Lato occidentale del Mercato~
+   Questo ti sembra il lato piu' trafficato del Mercato.  Sono
+molte le avventure che la gente si racconta in questa zona alcune
+un po troppo fantastiche per essere vere.
+   A OVEST inizia il Corso Garibaldi che continua fino alla porta
+occidentale della citta', il Mercato invece continua nelle altre
+direzioni.
+~
+54 0 1
+D0
+~
+~
+0 -1 5414
+D1
+~
+~
+0 -1 5406
+D2
+~
+~
+0 -1 5408
+D3
+~
+~
+0 -1 5426
+S
+#5410
+Piazza Vittoria~
+   La gente passeggia chiacchierando o si riposa sulle verdi
+e ben tenute aiuole di questa piazza.  Senti il rumore del fiume
+Sebeto che attraversa la citta' a parte a parte.
+  Il Corso Lussia continua a EST e a OVEST della piazza, invece a
+NORD c'e' Via MEDINA e a SUD dopo il Ponte sul Sebeto c'e'
+la porta meridionale di Newland.
+~
+54 0 1
+D0
+Vedi Via Medina.
+~
+~
+0 -1 5403
+D1
+~
+~
+0 -1 5437
+D2
+Vedi il ponte sospeso sul fiume.
+~
+~
+0 -1 5412
+D3
+~
+~
+0 -1 5436
+S
+#5411
+Outside The Southern Gate Of New Thalos~
+   You see before you the expanse of the Great Eastern Desert.
+You have heard many tales of the Great Pyramid, the lost city
+of Old Thalos and the friendly brass dragon that lies under the
+desert.
+   To the south lies the desert and the city of New Thalos is
+to the north.
+~
+54 c 1
+D0
+~
+gate~
+1 5401 5413
+D2
+~
+~
+0 -1 5039
+S
+#5412
+Il ponte meridionale sul Sebeto~
+   Cammini sul ponte e vedi le chiare acque del Sebeto sotto di te.
+Un fiume cosi' limpido che attraversa una citta' tanto grande ti sembra
+una magia e probabilmente le acque del Sebeto sono davvero soprannaturali
+A SUD vedi Porta Capuana, a NORD c'e' invece Piazza Vittoria
+~
+54 c 1
+D0
+~
+~
+0 -1 5410
+D2
+~
+~
+0 -1 5413
+D5
+~
+~
+0 -1 5485
+S
+#5413
+Il lato interno di Porta Capuana~
+   Questa e' la porta piu' grande e massiccia di Newland, si vede che
+non si e' badato a spese per erigerla, ci deve essere qualcosa di
+tremendo nel Deserto a SUD per metterci una porta tanto resistente a
+protezione.  In completa opposizione del deserto a NORD vedi scorrere
+tranquillo nel suo letto il fiume Sebeto.
+~
+54 0 1
+D0
+~
+~
+0 -1 5412
+D2
+~
+porta~
+1 5401 5411
+S
+
+#5414
+Il lato Nord-Ovest del Mercato~
+   Questo e' l'angolo del Mercato dove vedi le persone piu' civili
+di Newland.  A NORD c'e' il negozio di Ahkeem, ha la fama di essere
+il migliore della citta'.  A OVEST c'e' lo sportello del Bancomant
+della banca nazionale di MClandia.
+~
+54 0 1
+D0
+~
+~
+0 -1 5514
+D1
+~
+~
+0 -1 5415
+D2
+~
+~
+0 -1 5409
+D3
+~
+~
+0 -1 5521
+S
+#5415
+Il lato settentrionale del Mercato~
+   Questo e' il lato del Mercato continuamente attraversato.  
+A NORD c'e' il Viale Sasso, A EST, OVEST E SUD continua 
+l'intensa vita del Mercato.
+~
+54 0 1
+D0
+~
+~
+0 -1 5418
+D1
+~
+~
+0 -1 5416
+D2
+~
+~
+0 -1 5406
+D3
+~
+~
+0 -1 5414
+S
+#5416
+Il lato Nord-Est del Mercato~
+   La confusione qui e' cosi' intensa che non riesci a sentire neanche
+i tuoi pensieri.  In tutto questo caos riesci a mala pena a vedere il
+Fruttivendolo a NORD e il Macellaio a EST.
+  Il Mercato continua a SUD e a OVEST.
+~
+54 0 1
+D0
+~
+~
+0 -1 5515
+D1
+~
+~
+0 -1 5522
+D2
+~
+~
+0 -1 5417
+D3
+~
+~
+0 -1 5415
+S
+#5417
+Lato orientale del Mercato~
+   Questo lato del Mercato e' relativamente calmo. A EST Vedi li Viale
+della Sapienza.  Il Mercato si apre nelle altre direzione.
+In fondo al Viale c'e' la porta orientale di Newland.
+~
+54 0 1
+D0
+~
+~
+0 -1 5416
+D1
+~
+~
+0 -1 5427
+D2
+~
+~
+0 -1 5407
+D3
+~
+~
+0 -1 5406
+S
+#5418
+L'inizio del Viale Sasso~
+   Questo Viale alberato lastricato di marmo e' stato dedicato allo
+architetto che ha progettato sia buona parte della citta' che la villa
+del sindaco.  Il Viale si snoda da qui verso NORD fino alla porta
+settentrionale della citta'.  A SUD c'e' il Mercato.  Noti a NORD inoltre
+ la Pensione e la Villa del Sindaco di Newland.
+~
+
+54 0 1
+D0
+~
+~
+0 -1 5419
+D2
+~
+~
+0 -1 5415
+S
+#5419
+Il Viale Sasso~
+   Sul lato EST del viale noti l'edificio della Pensione di Newland.
+Intravedi da una finestra la gente che si diverte nella locanda della
+pensione. Il Viale continua da NORD a SUD.
+~
+54 0 1
+D0
+~
+~
+0 -1 5420
+D2
+~
+~
+0 -1 5418
+S
+#5420
+Il centro di Viale Sasso~
+   Ti trovi al centro del Viale.  A EST vedi la Pensione di Newland,
+rinomata per la qualita' delle stanze e il costo contenuto.  A OVEST
+invece si erge la monumentale villa del Sindaco completamente lastricata
+di pregiato marmo bianco.  Il Viale continua da NORD a SUD.
+~
+54 0 1
+D0
+~
+~
+0 -1 5421
+D1
+~
+~
+0 -1 5400
+D2
+~
+~
+0 -1 5419
+D3
+~
+~
+0 -1 5558
+S
+#5421
+La fine del Viale Sasso~
+   Il Viale e' finito, a NORD vedi la Porta Settentrionale di
+Newland.  Da qui vedi tutto il Viale Sasso verso SUD fino al 
+Mercato.
+~
+54 0 1
+D0
+~
+~
+0 -1 5422
+D2
+~
+~
+0 -1 5420
+S
+#5422
+Il lato interno di Porta Nolana~
+   Davvero imponente, Porta Nolana difende Newland dai nemici
+che potrebbero attaccarla dalla foresta a NORD.  Non e' inattaccabile
+come Porta Capuana a SUD della citta' ma sicuramente offre un'ottima
+protezione a Newland.  Da EST a OVEST vedi il Corso Galimberti, a SUD
+il Viale Sasso.
+~
+54 0 1
+D0
+~
+porta~
+1 5401 5567
+D1
+~
+~
+0 -1 5449
+D2
+~
+~
+0 -1 5421
+D3
+~
+~
+0 -1 5448
+S
+#5423
+All'interno della Porta Occidentale di Newland~
+   La massiccia Porta Orientale protegge la citta' da eventuali
+invasioni di barbari provenenti dalle Montagne a OVEST
+  A SUD vedi la palestra di Full-Contact.
+~
+54 c 1
+D1
+~
+~
+0 -1 5424
+D2
+~
+~
+0 -1 5526
+D3
+~
+gate~
+1 5401 5569
+S
+#5424
+La Fine del Corso Garibaldi~
+   Qui finisce il Corso Garibaldi.  A SUD senti il rumore
+di un martello che batte l'incudine provenire dal negozio delle
+riparazioni. A NORD vedi la Piazza del Duomo.  Inoltre vedi tutto
+il corso verso OVEST fino al Mercato.
+~
+54 0 1
+D0
+~
+~
+0 -1 5520
+D1
+~
+~
+0 -1 5425
+D2
+~
+~
+0 -1 5527
+D3
+~
+~
+0 -1 5423
+S
+#5425
+Il centro del Corso Garibaldi~
+   Il Corso continua da EST verso OVEST. A SUD e a NORD vedi
+due vicoli
+~
+54 0 1
+D0
+~
+~
+0 -1 5471
+D1
+~
+~
+0 -1 5426
+D2
+~
+~
+0 -1 5472
+D3
+~
+~
+0 -1 5424
+S
+#5426
+L'inizio del Corso Garibaldi~
+   Questo Corso, non tenuto in condizioni eccellenti, conduce verso 
+OVEST alla Porta Occidentale di Newlandia.  A EST c'e' l'immenso Mercato
+di Newland La strada passa fra la banca e l'emporio, noti sul muro
+dell'emporio un poster.
+~
+54 0 1
+D1
+~
+~
+0 -1 5409
+D3
+~
+~
+0 -1 5425
+E
+poster~
+Sul poster c'e' la foto del sindaco che ti punta con il dito.
+La scritta dice:
+
+    IL SINDACO DI NEWLAND: "RICORDA DI PAGARE LE TASSE!"
+
+~
+S
+#5427
+L'inizio del Viale della Sapienza~
+   Questo viale ti sembra come illuminato dalla conoscenza
+proveniente dai negozi che incontrerai piu' a EST
+La grandezza del Mercato di Newland ti stupisce a OVEST.
+~
+54 0 1
+D1
+~
+~
+0 -1 5428
+D3
+~
+~
+0 -1 5417
+S
+#5428
+Il Viale della Sapienza~
+   Sei al centro di un incrocio sul Viale della Sapienza.
+A NORD vedi il viale delle Universita' di Newland.
+  A SUD c'e' un vicolo oscuro.  Il viale continua da
+OVEST verso EST.
+C'e' un cartello attaccato al muro.
+~
+54 0 1
+D0
+~
+~
+0 -1 5464
+D1
+~
+~
+0 -1 5429
+D2
+~
+~
+0 -1 5465
+D3
+~
+~
+0 -1 5427
+E
+cartello~
+Sul cartello sta scritto:
+
+                Aiutaci a tenere Newland pulita!
+
+          (Una campagna di sensibilizzazione del Sindaco)
+
+~
+S
+#5429
+Il Viale della Sapienza~
+   A SUD vedi il dojo di kung-fu dei monaci Shaolin, se sei
+un combattente non perderai l'occasione di allenarti li.
+   A NORD c'e' invece un negozio altamente tecnologico con
+su scritto con un'insegna neon lampeggiante Warez Store.
+  Il viale continua da OVEST verso EST..
+~
+54 0 1
+D0
+~
+~
+0 -1 5523
+D1
+~
+~
+0 -1 5430
+D2
+~
+~
+0 -1 5530
+D3
+~
+~
+0 -1 5428
+S
+#5430
+La fine del Viale della Sapienza~
+   Sei al limite Orientale del Viale. A EST c'e' la Porta Orientale
+di Newland A NORD vedi il negozio d'informatica di Newland.
+~
+54 0 1
+D0
+~
+~
+0 -1 5524
+D1
+~
+~
+0 -1 5431
+D3
+~
+~
+0 -1 5429
+S
+#5431
+All'interno della Porta Orientale di Newland~
+   La massiccia Porta Orientale protegge la citta' da eventuali
+invasioni provenenti dal Mare. A EST della Porta c'e' il Molo di
+Newland. A NORD intravedi nascosta dalla boscaglia un Laboratorio
+d'informatica.
+~
+54 c 1
+D0
+~
+~
+0 -1 5525
+D1
+~
+porta~
+1 5401 5568
+D3
+~
+~
+0 -1 5430
+S
+#5432
+Il Mercato del Pesce di Newland~
+   Il bancone straripa di prodotti ittici di ogni genere.
+Ci sono sia specie proveniente dal mare che dal fiume Sebeto.
+Un vero paradiso per chi ama il pesce.
+~
+54 cd 0
+D2
+~
+~
+0 -1 5441
+S
+#5433
+Corso Lussia~
+   Questo e' il limite occidentale del Corso. Questa e' la zona
+mercantile di Newland, continuamente le merci provenienti dal
+porticciolo fluviale vengono depositate nei magazzini a NORD.
+Il Corso continua a EST.
+~
+54 0 1
+D0
+~
+~
+0 -1 5540
+D1
+~
+~
+0 -1 5434
+S
+#5434
+Corso Lussia~
+   C'e' un gran fermento fra lo scarico e il carico delle
+imbarcazioni attraccate la porto fluviale di Newland.
+  Buona Parte delle merci trasportate sul Sebeto vengono
+depositate nei Magazzini a NORD sui carrelli elevatori.
+Il Corso prosegue da EST verso OVEST.
+~
+54 0 1
+D0
+~
+~
+0 -1 5541
+D1
+~
+~
+0 -1 5435
+D3
+~
+~
+0 -1 5433
+S
+#5435
+Corso Lussia~
+   Sei nel mezzo dell'attivita' mercantile di Newland.  A SUD vedi
+il porticciolo sul Sebeto dove e' attivo il servizio di trasporto
+fluviale.  A NORD c'e' il piccolo cantiere navale di Newland.
+  Il Corso continua da EST verso OVEST.
+~
+54 0 1
+D0
+~
+~
+0 -1 5542
+D1
+~
+~
+0 -1 5436
+D2
+~
+~
+0 -1 5443
+D3
+~
+~
+0 -1 5434
+S
+#5436
+Corso Lussia~
+   Una fresca brezza proveniente dal Sebeto ti scompiglia
+i capelli.  Il Corso continua verso OVEST mentre a Est si
+apre ai tuoi occhi Piazza Vittoria.
+~
+54 0 1
+D1
+~
+~
+0 -1 5410
+D3
+~
+~
+0 -1 5435
+S
+#5437
+Corso Lussia~
+   Senti rumore del metallo che viene battuto dal fabbro a NORD.
+  Il Corso continua verso EST, a OVEST vedi Piazza Vittoria.
+~
+54 0 1
+D0
+~
+~
+0 -1 5544
+D1
+~
+~
+0 -1 5439
+D3
+~
+~
+0 -1 5410
+S
+#5438
+Corso Lussia~
+   Il Corso continua da OVEST verso EST, limitato solo dal Garage
+e dal fiume Sebeto.
+~
+54 0 1
+D1
+~
+~
+0 -1 5440
+D3
+~
+~
+0 -1 5439
+S
+#5439
+Corso Lussia~
+   Il fiume Sebeto ti accompagna col suo scorrere lungo la strada,
+da OVEST verso EST a NORD c'e' l'autorimessa di Newland, si dice
+che facciano miracoli coi motori
+~
+54 0 1
+D0
+~
+~
+0 -1 5545
+D1
+~
+~
+0 -1 5438
+D3
+~
+~
+0 -1 5437
+S
+#5440
+Corso Lussia~
+   Come puo' un Vicolo cosi' buio sbucare da NORD in questo Corso
+cosi' luminoso, forse finira' nel Viale della Sapienza.
+Il Corso continua da OVEST verso EST 
+~
+54 0 1
+D0
+Vedi il Vicolo oscuro.
+~
+~
+0 -1 5468
+D1
+~
+~
+0 -1 5441
+D3
+~
+~
+0 -1 5438
+S
+#5441
+Corso Lussia ~
+   Senti una puzza incredibile, e da questo deduci che l'edificio a
+NORD e' il Mercato del Pesce di Newland. Il corso continua da OVEST
+per finire a EST.
+~
+54 0 1
+D0
+~
+~
+0 -1 5432
+D1
+~
+~
+0 -1 5442
+D3
+~
+~
+0 -1 5440
+S
+#5442
+La Fine del Corso Lussia ~
+   Il grande Corso Lussia finisce qui con una ringhiera dalla quale vedi 
+il Sebeto continuare verso EST. Senti un odore nauseabondo ma sei sicuro
+che non puo' essere il fiume con le sue acque cristalline, cosi' ti accorgi
+della discarica di Newland a NORD, inoltre vedi un Cartello.
+~
+54 0 1
+D0
+~
+~
+0 -1 5547
+D3
+~
+~
+0 -1 5441
+E
+cartello~
+#====================================================#
+|                                                    |
+|              DISCARICA  DI  NEWLAND                |
+|                                                    |
+|                                                    |
+|                      -----                         |
+|                                                    |
+|         Entra a tuo rischio e pericolo.            |
+|                             -la direzione          |
+|                                                    |
+#====================================================#
+~
+S
+#5443
+Il porticciolo fluviale di Newland~
+   Sei al porticciolo sul fiume Sebeto.
+Il fulcro dell'attivita' mercantile di Newland
+Da qui puoi usufruire del servizio di trasporto passeggeri,
+col quale potrai raggiungere MClandia.
+~
+54 c 1
+D0
+~
+~
+0 -1 5435
+D2
+~
+~
+0 -1 5486
+S
+#5444
+Corso Galimberti~
+   Sei sul limite occidentale di questo Corso vedi a SUD, dietro un
+maestodontico cancello la prigione di Newland.  Fortunatamente la
+vedi dall'esterno e ti sembra meglio di quello che veramente e'.
+Salendo le scale raggiungi la torre NordOvest.
+~
+54 0 1
+D1
+~
+~
+0 -1 5445
+D2
+~
+cancello~
+2 5493 5553
+D4
+~
+~
+0 -1 5559
+S
+#5445
+Corso Galimberti~
+   Hai quasi raggiunto la fine di Corso Galimberti.  Noti una
+notevole concentrazione delle forze dell'ordine, d'altronde
+non poteva essere altrimenti, infatti a SUD c'e' il famoso
+municipio di Newland.
+Il Corso continua da EST verso OVEST.
+~
+54 0 1
+D1
+~
+~
+0 -1 5446
+D2
+~
+~
+0 -1 5554
+D3
+~
+~
+0 -1 5444
+S
+#5446
+Corso Galimberti~
+   Vedi un vicolo intrufolarsi fra le mura della Villa del Sindaco e quelle
+del palazzo di Giustizia, chi sa dove sbuchera'.....
+  Il Corso continua da EST verso OVEST.
+~
+54 0 1
+D1
+~
+~
+0 -1 5447
+D2
+~
+~
+0 -1 5458
+D3
+~
+~
+0 -1 5445
+S
+#5447
+Corso Galimberti~
+   La strada e' limitata dalle mura della citta' da un lato, e da quelle
+della villa del Sindaco dall'atro.  Il Corso continua da EST verso OVEST..
+~
+54 0 1
+D1
+~
+~
+0 -1 5448
+D3
+~
+~
+0 -1 5446
+S
+#5448
+Corso Galimberti~
+   Da qui inizia il lato occidentale di Corso Galimberti, hai avanti
+a te porta Nolana a EST e il resto del Corso a OVEST, peccato che le
+alte mura, della citta' e della Villa del Sindaco, affogano un po' la
+visuale.
+~
+54 0 1
+D1
+~
+~
+0 -1 5422
+D3
+~
+~
+0 -1 5447
+S
+#5449
+Corso Galimberti~
+   Da qui inizia il lato orientale di Corso Galimberti, hai avanti
+a te porta Nolana a OVEST e il resto del Corso a EST. Qui l'attivita'
+e' leggermente meno caotica. Riesci a distinguere la torre e la libreria
+laggiu' in fondo a EST.
+~
+54 0 1
+D1
+~
+~
+0 -1 5450
+D3
+~
+~
+0 -1 5422
+S
+#5450
+Corso Galimberti~
+   Camminando in questa strada ti senti al sicuro, le alte mura di
+Newland ti ispirano fiducia.  Il Corso continua da OVEST verso EST.
+   Piu' a EST vedi l'incrocio con il Viale dell'Universita'.
+~
+54 0 1
+D1
+~
+~
+0 -1 5451
+D3
+~
+~
+0 -1 5449
+S
+#5451
+Corso Galimberti~
+   Il rumore del Viale dell'Universita' a SUD riempie l'aria.
+Il Corso continua da OVEST verso EST, inoltre ti rendi conto
+di essere giusto nel mezzo del suo lato orientale, con Porta
+Nolana e la Torre, rispettivamente a OVEST e a EST, alla stessa
+distanza da te.
+~
+54 0 1
+D1
+~
+~
+0 -1 5452
+D2
+~
+~
+0 -1 5460
+D3
+~
+~
+0 -1 5450
+S
+#5452
+Corso Galimberti~
+   Cammini affianco le solide mura e l'Universita' d'Ingegneria
+di Newland.  Il Corso continua da OVEST a EST.
+~
+54 0 1
+D1
+~
+~
+0 -1 5453
+D3
+~
+~
+0 -1 5451
+S
+#5453
+Corso Galimberti~
+   Ormai hai quasi raggiunto la fine del Corso in questa
+direzione.  La zona nord-est della citta' e' quella con la minore
+densita' di popolazione, questo hai concluso camminando qui.  Le
+poche persone che vedi sono dirette alla libreria.
+   Il Corso continua da OVEST a EST.
+~
+54 0 1
+D1
+~
+~
+0 -1 5454
+D3
+~
+~
+0 -1 5452
+S
+#5454
+Corso Galimberti~
+   Sei sul limite orientale di questo Corso.  A Sud si snoda Via Khon con 
+la Libreria e la Discoteca.
+   La Torre Nord-Est ti sovrasta, Salendo le scale la puoi visitare.
+~
+54 0 1
+D2
+~
+~
+0 -1 5455
+D3
+~
+~
+0 -1 5453
+D4
+~
+~
+0 -1 5562
+S
+#5455
+Via Khon~
+   Non sara' la strada piu' grande di Newland, ma e' tenuta in perfette
+condizioni.  La fornitissima Libreria di Newland e' dietro quella porta
+a OVEST. A NORD vedi il Corso Galimberti.  La via continua a SUD.
+~
+54 0 1
+D0
+~
+~
+0 -1 5454
+D2
+~
+~
+0 -1 5456
+D3
+~
+~
+0 -1 5551
+S
+#5456
+Via Khon~
+   Via Khon e' gia' finita, proprio di fronte alla Discoteca a OVEST
+Strana cosa, la Discoteca affianca la Libreria creando contrasto
+nella tua mente...
+~
+54 0 1
+D0
+~
+~
+0 -1 5455
+D3
+~
+~
+0 -1 5552
+S
+#5457
+Galleria~
+   Lo stretto passaggio va da NORD a SUD.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5478
+D2
+~
+~
+0 -1 5480
+S
+#5458
+Vicolo~
+   Questo vicolo oscuro passa fra il Tribunale e la
+Villa del Sindaco.  Non vedi niente di bello, sempre
+che non ti piacciano ragni e topi.
+~
+54 0 1
+D0
+~
+~
+0 -1 5446
+D2
+~
+~
+0 -1 5459
+S
+#5459
+Vicolo~
+   Il vicolo finisce qui.
+~
+54 a 1
+D0
+~
+~
+0 -1 5458
+D5
+Vedi un tombino, che puoi aprire, in mezzo al vicolo.
+~
+tombino~
+1 -1 5475
+S
+#5460
+Viale dell'Universita'~
+   Questo viale e' pieno di vita quasi come il Mercato.  A OVEST
+vedi la Facolta' d'Informatica, a EST c'e' la Facolta' di Psicologia
+   La strada continua a SUD e finisce a NORD in Corso Galimberti.
+~
+54 0 1
+D0
+~
+~
+0 -1 5451
+D1
+~
+~
+0 -1 5556
+D2
+~
+~
+0 -1 5461
+D3
+~
+~
+0 -1 5555
+S
+#5461
+Viale dell'Universita'~
+   Sei a meta' di questa strada.  A OVEST noti la Facolta' dei Linker,
+a EST invece c'e' un ingresso a una Casupola poggiata alla Facolta'
+d'Informatica.  Il Viale continua da SUD verso NORD.
+~
+54 0 1
+D0
+~
+~
+0 -1 5460
+D1
+~
+~
+0 -1 5507
+D2
+~
+~
+0 -1 5462
+D3
+~
+~
+0 -1 5506
+S
+#5462
+Viale dell'Universita'~
+   Non ti aspettavi di trovare la Caserma di Newland qui a OVEST.
+  A EST dietro a un arco di marmo, finemente scolpito, vedi il
+Museo delle Grandi Divinita'.
+   Il Viale continua da SUD verso NORD.
+~
+54 0 1
+D0
+~
+~
+0 -1 5461
+D1
+~
+~
+0 -1 5511
+D2
+~
+~
+0 -1 5463
+D3
+~
+~
+0 -1 5564
+S
+#5463
+Viale dell'Universita'~
+   Dopo le Universita', la popolazione di Newland ha deciso di
+erigere un magnifico Museo per onorare le Divinita' che proteggono
+la citta', puoi entrarci a EST.
+   Il Viale continua da SUD verso NORD.
+~
+54 0 1
+D0
+~
+~
+0 -1 5462
+D1
+~
+~
+0 -1 5516
+D2
+~
+~
+0 -1 5464
+S
+#5464
+Viale dell'Universita'~
+   Questo piccolo viale pullula di giovani impegnati ad apprendere
+nelle facolta' che intravedi più a NORD.
+   La strada continua verso NORD e a SUD noti il Viale della Sapienza.
+~
+54 0 1
+D0
+~
+~
+0 -1 5463
+D2
+~
+~
+0 -1 5428
+S
+#5465
+Il Vicolo~
+   Nemmeno la tua luce riesce a penetrare la strana oscurita'
+che ricopre questo vicolo.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5428
+D2
+~
+~
+0 -1 5466
+S
+#5466
+Il Vicolo~
+   Non c'e' niente da fare, l'oscurita' non ti permette di
+vedere un granche'.
+~
+54 a 1
+D0
+~
+~
+0 -1 5465
+D1
+~
+~
+0 -1 5467
+D3
+~
+~
+0 -1 5537
+S
+#5467
+Il Vicolo~
+   Non c'e' niente da fare, l'oscurita' non ti permette di
+vedere un granche'.
+~
+54 a 1
+D1
+~
+~
+0 -1 5538
+D2
+~
+~
+0 -1 5468
+D3
+~
+~
+0 -1 5466
+S
+#5468
+Il Vicolo~
+   Nemmeno la tua luce riesce a penetrare la strana oscurita'
+che ricopre questo vicolo.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5467
+D2
+~
+~
+0 -1 5440
+S
+#5469
+Il Vicolo~
+   Sei in uno stretto angolo di questo Vicolo.  Le Mura del Duomo 
+chiudono la stradina a Nord e a Ovest.  Chi mai avra' lasciato quella
+Impronta gigantesca a terra.
+~
+54 a 1
+D1
+~
+~
+0 -1 5470
+D2
+~
+~
+0 -1 5471
+E
+impronta~
+Sembra quasi l'impronta dell'uomo delle Nevi... Boh?!
+~
+S
+#5470
+Il Vicolo~
+   Il Vicolo finisce qui con un bel muro massiccio che ti sbarra la
+strada.  C'e' uno strano mucchietto di stracci a terra vicino a un
+tombino.
+~
+54 a 1
+D3
+~
+~
+0 -1 5469
+D5
+Un cerchio di metallo affogato nell'asfalto.
+~
+tombino~
+1 -1 5478
+S
+#5471
+Il Vicolo~
+   Sei in un angusto vicolo fra le Mura del Duomo e quelle della Banca.
+Senti il rumore del Corso Garibaldi a SUD.  La strada e' rovinata e avrebbe
+bisogno di manutenzione.
+  Per terra c'e' una piccola Buca.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5469
+D2
+~
+~
+0 -1 5425
+E
+buca~
+Perche' guardi una buca?  Sei forse povero o cosa?
+~
+S
+#5472
+Il Vicolo~
+   Sei in un angusto vicolo fra il negozio delle riparazioni 
+e l'emporio.  Senti il rumore del Corso Garibaldi a NORD.
+  Escludendo topi e ragnatele non c'e' niente d'interessante.
+~
+54 ac 1
+D0
+~
+~
+0 -1 5425
+D2
+~
+~
+0 -1 5473
+S
+#5473
+Il Vicolo~
+   Questo e' l'angolo del Vicolo fra i magazzini e la palestra
+di full contact.  Percepisci qualche strepitio da OVEST.
+~
+54 a 1
+D0
+~
+~
+0 -1 5472
+D1
+~
+~
+0 -1 5474
+S
+#5474
+Il Vicolo~
+   Il Vicolo finisce qui come quelle impronte che ti sembrano
+fresche.
+~
+54 a 1
+D3
+~
+~
+0 -1 5473
+D5
+Vedi un Tombino. Si aprira'?.
+~
+tombino~
+1 -1 5481
+S
+#5475
+Galleria~
+   Sei in una stretta galleria sotterranea.  Vedi un
+piccolo fascio di luce filtrare dal tombino in alto e
+la galleria continua a SUD.
+~
+54 ad 1
+D2
+~
+~
+0 -1 5476
+D4
+~
+tombino~
+1 -1 5459
+S
+#5476
+Galleria~
+   Il cunicolo continua a NORD e a SUD.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5475
+D2
+~
+~
+0 -1 5477
+S
+#5477
+Galleria~
+   La galleria continua a NORD, EST, e OVEST.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5476
+D1
+~
+~
+0 -1 5478
+D3
+~
+~
+0 -1 5479
+S
+#5478
+Galleria~
+   Il cunicolo continua a SUD e a OVEST. Vedi un
+piccolo fascio di luce filtrare dal Tombino in alto 
+~
+54 ad 1
+D2
+~
+~
+0 -1 5457
+D3
+~
+~
+0 -1 5477
+D4
+~
+tombino~
+1 -1 5470
+S
+#5479
+Galleria~
+   Il cunicolo finisce qui e puoi sentire il fievole suono di una
+lagna provenire da OVEST.  Noti inoltre una scia pulita finire nel
+muro a OVEST, ma non sembra esserci una porta in quella direzione.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5477
+S
+#5480
+Galleria~
+   Il cunicolo continua a NORD e a SUD.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5457
+D2
+~
+~
+0 -1 5481
+S
+#5481
+Galleria~
+   La galleria continua verso NORD e EST.  Senti il
+rumore della citta' provenire dal tombino sopra di te.
+~
+54 ad 1
+D0
+~
+~
+0 -1 5480
+D1
+~
+~
+0 -1 5482
+D4
+~
+tombino~
+1 -1 5474
+S
+#5482
+Galleria~
+   Il cunicolo continua a EST e a OVEST.  Speranzoso hai una buona
+sensazione per la direzione scelta.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5492
+D3
+~
+~
+0 -1 5481
+S
+#5483
+Fiume Sebeto~
+   In alto sopra di te le guardie ti osservano dalle Mura della citta' 
+Per vedere se vuoi uscire dalla citta' via fiume.  Per far cio' dovrebbero
+aprire la Grata di ferro che hai di fronte.  Senti un orribile fetore
+provenire da una condotta della discarica.
+~
+54 0 7
+D1
+~
+~
+0 -1 5624
+D3
+~
+grata~
+1 -1 5484
+S
+#5484
+Fiume Sebeto~
+   Il flusso gentile dell'acqua ti conduce verso EST, guardando sopra di
+te vedi le coppiette passeggiare lungo la strada.  A OVEST vedi il Ponte
+Sud e a EST la grata d'acciaio che protegge la citta' da presenze
+indesiderate.
+~
+54 0 7
+D1
+~
+grata~
+1 -1 5483
+D3
+~
+~
+0 -1 5485
+S
+#5485
+Fiume Sebeto~
+   Senti la tua voce rimbombare sotto al ponte SOPRA di te.  Gli 
+edifici della citta' finiscono qui e una scaletta rende facile lo
+accesso al fiume.  DA OVEST a EST scorre il Sebeto con le sue
+limpide acque.
+~
+54 0 7
+D1
+~
+~
+0 -1 5484
+D3
+~
+~
+0 -1 5486
+D4
+~
+~
+0 -1 5412
+S
+#5486
+Fiume Sebeto~
+   Che intensa attivita' in questa parte del Sebeto.  Navi e tragetti
+vanno e vengono attraccando al molo del porticciolo a NORD.
+DA OVEST a EST scorre il Sebeto con le sue limpide acque. Piu' a EST
+noti il Ponte Sud di Newland.
+~
+54 0 7
+D0
+~
+~
+0 -1 5443
+D1
+~
+~
+0 -1 5485
+D3
+~
+~
+0 -1 5487
+S
+#5487
+Fiume Sebeto~
+
+   Il fiume passa attraverso una resistente grata d'acciaio che porta
+all'intero delle Mura di Newland.  Guardie possenti aprono e chiudono
+la grata per consentire l'entrata e l'uscita delle imbarcazioni.
+~
+54 0 7
+D1
+~
+~
+0 -1 5486
+D3
+~
+grata~
+1 -1 5623
+S
+#5488
+Cunicolo Oscuro~
+   Come diavolo sono finito qui!  Questo ti frulla per la testa.
+Deve esserci una porta segreta a OVEST, comunque l'unica uscita
+possibile e' a EST.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5489
+S
+#5489
+Cunicolo Oscuro~
+   Il cunicolo continua a EST e OVEST.  Senti fievoli voci provenire
+da NORD, ma in quella direzione c'e' solo il muro.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5490
+D3
+~
+~
+0 -1 5488
+S
+#5490
+Cunicolo Oscuro~
+   Il cunicolo continua a EST e OVEST.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5491
+D3
+~
+~
+0 -1 5489
+E
+masso~
+Un enorme masso e' qui.  Al suo centro qualcuno ha scavato un buco
+Perfettamente tondo.
+~
+S
+#5491
+Cunicolo Oscuro~
+   Il cunicolo finisce qui.  Ti guardi intorno e noti una scaletta
+che porta in SU. Salendoci noti una porta a trappola.
+  Il Cunicolo continua a OVEST.
+~
+54 ad 1
+D3
+~
+~
+0 -1 5490
+D4
+~
+porta~
+1 -1 5570
+E
+fuoco~
+Si muove pochissimo, sembra congelato questo fuoco.
+La fiamma irradia ancora calore, ma sembra quasi che non bruci.
+Guardando meglio noti un pezzo di carbone alla base della fiamma.
+~
+S
+#5492
+Galleria~
+   Il cunicolo continua ad EST e OVEST.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5493
+D3
+~
+~
+0 -1 5482
+S
+#5493
+Galleria~
+   Il cunicolo continua ad EST e OVEST.
+~
+54 ad 1
+D1
+~
+~
+0 -1 5500
+D3
+~
+~
+0 -1 5492
+S
+#5500
+Galleria~
+   Il cunicolo continua ad EST e OVEST.
+~
+54 ad 0
+D1
+~
+~
+0 -1 5501
+D3
+~
+~
+0 -1 5493
+S
+#5501
+Galleria~
+   Il cunicolo continua ad EST e OVEST.
+~
+54 ad 0
+D1
+~
+~
+0 -1 5502
+D3
+~
+~
+0 -1 5500
+S
+#5502
+Galleria~
+1. Il cunicolo continua ad EST e OVEST.
+~
+54 ad 0
+D1
+~
+~
+0 -1 5488
+D3
+~
+~
+0 -1 5501
+S
+#5503
+La Sala dei Diaconi~
+   Scendi le scale nel silenzio della Sala piu' importante del Seminario.
+Qui i diaconi apprendono la Teologia.
+La sola uscita possibile e' attraverso le scale che portano al Bar.
+~
+54 deh 0
+D1
+Il muro a EST ti sembra strano sembra che sia una porta segreta.
+~
+porta~
+1 -1 5479
+D4
+~
+~
+0 -1 5519
+S
+#5504
+La stanza del Cardinale~
+   Sei entrato nella stanza del piu' importante uomo di chiesa di Newland.
+Il Cardinale informa il Sindaco di tutti i problemi del mondo del sacro.
+Da quello che hai sentito, il Cardinale e' un po' irascibile, e non
+sembra contento che tu hai disturbato i suoi preti.
+   La sola uscita possibile e' a SUD.
+~
+54 d 0
+D2
+~
+~
+0 -1 5508
+S
+#5505
+L'Altare~
+   Sei sull'Altare del Duomo di Newland.  E' fatto in marmo nero,
+scolpito con grande maestria da qualche scultore.  Un paio di metri
+sopra l'altare c'e' una statua di Meo, la piu' importante divinita'
+di queste terre.
+~
+54 deg 0
+D2
+~
+~
+0 -1 5509
+E
+statua~
+Alzi lo sguardo e vedi la Statua di marmo raffigurante Meo, galleggiare
+miracolosamente sospesa in aria. E' cosi' bella che sembra viva.
+~
+S
+#5506
+La Facolta' dei Linker~
+   Questa e' di sicuro la Facolta' piu' affollata di Newland.
+Tantissime persone, per maggior parte giovani, sono qui per
+apprendere l'arte della navigazione informatica.
+~
+54 d 0
+D1
+~
+~
+0 -1 5461
+S
+#5507
+Facolta' di Hacking~
+   Quella che ti sembrava una Casupola dal Viale dell'Universita' a
+OVEST si rivela invece un laboratorio informatico attrezzatissimo per
+l'Hacking.
+~
+54 d 0
+D3
+~
+~
+0 -1 5461
+S
+#5508
+Dentro il Duomo~
+   Sei nella navata laterale del Duomo di Newland.  Tutto sembra
+immacolato.  A NORD vedi la Stanza del Cardinale di Newland, c'e'
+un cartello sulla porta che dice a caratteri cubitali'NON DISTURBARE'.
+A SUD c'e' l'ingresso de Seminario.
+~
+54 dg 0
+D0
+~
+~
+0 -1 5504
+D1
+~
+~
+0 -1 5509
+D2
+~
+~
+0 -1 5512
+S
+#5509
+Dentro il Duomo~
+   Dodici colonne di marmo bianco delimitano la navata principale
+del Duomo.  Alla fine della navata a NORD c'e' l'Altare, a EST c'e'
+la Sala delle Donazioni, a OVEST la navata laterale del Duomo.
+~
+54 dgh 0
+D0
+~
+~
+0 -1 5505
+D1
+~
+~
+0 -1 5510
+D2
+~
+~
+0 -1 5513
+D3
+~
+~
+0 -1 5508
+S
+#5510
+La Sala delle Donazioni~
+   Questa e' la Sala piu' nuova del Duomo, e' stata costruita durante
+l'ultima crisi della citta'.  Fortunatamente il Sindaco ha disposto
+un fondo affinche' ci siano sempre i beni di prima necessita'.
+Se puoi dona qualcosa anche tu, i bisognosi te ne saranno grati.
+~
+54 cd 0
+D3
+~
+~
+0 -1 5509
+S
+#5511
+Il Museo delle Grandi Divinita'~
+   Quattro grandi statue di pietra troneggiano nel museo.
+Sono state scolpite dagli abitanti di Newland per ringraziare
+i santi che hanno salvato la citta' dall'ultima crisi.
+   Il Museo continua a SUD.
+~
+54 cd 0
+D2
+~
+~
+0 -1 5516
+D3
+~
+~
+0 -1 5462
+S
+#5512
+L'entrata del Seminario~
+   Se vuoi diventare un prete, questo e' il posto giusto. Qui
+imparerai le basi della Teologia. A NORD torni nel Duomo a SUD
+vedi il Bar dei Diaconi.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5508
+D2
+~
+~
+0 -1 5519
+S
+#5513
+La porta del Duomo~
+   Sei di fronte all Duomo di Newland.  La grande porta aperta sembra
+come invitarti a entrare.
+~
+54 0 1
+D0
+~
+~
+0 -1 5509
+D2
+~
+~
+0 -1 5520
+D5
+~
+~
+0 -1 5520
+S
+#5514
+Il Negozio di Ahkeem~
+   Cammini nel negozio piu' fornito di Newland.  Qui ci stovi un po'
+di tutto.  Ahkeem conosce sicuramente i migliori commercianti della
+zona.
+~
+54 d 0
+D2
+~
+~
+0 -1 5414
+S
+#5515
+Il Fruttivendolo~
+   Qui trovi frutta e verdure fresche, un paradiso
+per i vegetariani.
+~
+54 d 0
+D2
+~
+~
+0 -1 5416
+S
+#5516
+
+Il Museo delle Grandi Divinita'~
+   Quattro grandi statue di pietra troneggiano nel museo.
+Sono state scolpite dagli abitanti di Newland per ringraziare
+i santi che hanno salvato la citta' dall'ultima crisi.
+   Il Museo continua a NORD.
+~
+54 cd 0
+
+D0
+~
+~
+0 -1 5511
+D3
+~
+~
+0 -1 5463
+S
+#5517
+Sotto il Laboratorio~
+   Una grande quantita' di cavi scende dal piano superiore, 
+sicuramente provengono da un laboratorio avanzatissimo.  Le scale
+ti possono condurre SU per darci un'occhiata.  Hai sentito dire
+che il piu' grande genio del virus writing, lavora li' forse ti
+puo' insegnare qualcosa.
+~
+54 de 0
+D1
+~
+~
+0 -1 5518
+D2
+Vedi dei segni a terra, sicuramente c'e' una porta segreta.
+~
+porta~
+1 -1 5524
+D4
+~
+~
+0 -1 5548
+S
+#5518
+Il giardino dei Virus Writers~
+   Sei entrato in un giardino con una piccolo fontana al centro.
+Il posto ideale per riposarsi un po' in tutta tranquillita'.
+A Ovest vedi un edificio, a due piani, pieno di cavi e di antenne di
+ogni genere.  E' il piu' grande laboratorio che tu abbia mai visto.
+~
+54 e 1
+D2
+~
+~
+0 -1 5525
+D3
+~
+~
+0 -1 5517
+S
+#5519
+Il Bar dei Diaconi~
+   Qui c'e' leggermente piu' rumore rispetto al resto del Seminario.
+Qui i Diaconi si rilassano e bevono qualcosa al Bar.  Nell'Angolo c'e'
+la scala  che porta alla sala dove i Diaconi apprendono la Teologia
+~
+54 deh 0
+D0
+~
+~
+0 -1 5512
+D5
+~
+~
+0 -1 5503
+S
+#5520
+La Piazza del Duomo~
+   Sei nel luogo piu' calmo della citta', nonostante la grande
+quantita' di persone che vanno e vengono per pregare.
+A NORD vedi la Porta del Duomo, a SUD il Corso Garibaldi.
+~
+54 cg 1
+D0
+~
+~
+0 -1 5513
+D2
+~
+~
+0 -1 5424
+D4
+~
+~
+0 -1 5513
+S
+#5521
+La Banca Nazionale di MClandia~
+   Il centro finanziario dello stato, qui i soldi vanno e vengono
+in quantita' industriali.
+~
+54 de 0
+D1
+~
+~
+0 -1 5414
+S
+#5522
+La Macelleria~
+   In questo negozio senti l'odore della carne macellata da poco.
+Vedi i quarti di bue gocciolare sangue, che finisce in un Serbatoio
+Sotterraneo.
+~
+54 d 0
+D3
+~
+~
+0 -1 5416
+E
+serbatoio~
+Senti un terribile rumore salire da li'... Boh?!
+~
+S
+#5523
+Il Warez Store~
+   Se sei un Virus Writer, qui trovi il pane per i tuoi denti.
+La tecnologia piu' avanzata e futuristica ti guarda e ti tenta.
+~
+54 d 0
+D2
+~
+~
+0 -1 5429
+S
+#5524
+Il Negozio d'Informatica~
+   Eccoti fra gli scaffali carichi di periferiche, computers,
+programmi di vario tipo. Da qul che vedi non ci manca proprio
+niente. Vedi un cartello affisso al muro.
+~
+54 d 0
+D2
+~
+~
+0 -1 5430
+E
+cartello~
+
+Benvenuto...
+
+LIST   - Ti mostra il listino del negozio.
+VALUE  - Mi fa valutare la tua attrezzatura.
+SELL   - Se mi interessano, mi venderai i tuoi articoli.
+BUY    - Potrai comprare i miei articoli.
+
+~
+S
+#5525
+L'entrata del Laboratorio~
+   Sei all'ingresso di un grande complesso.  Dall'esterno ti sembrava il
+solito piccolo laboratorio, invece vedi il paradiso di ogni Virus Writer
+che si rispetti.  Senti una voce che t'informa che il complesso e' stato
+realizzato da uno dei primi e piu' grande genio del virus writing di tutta
+MClandia.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5518
+D2
+~
+~
+0 -1 5431
+S
+#5526
+L'entrata della palestra di Full-Contact~
+   Una piccola e angusta sala ti sconsiglia di proseguire.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5423
+D2
+~
+~
+0 -1 5533
+S
+#5527
+Il Negozio delle Riparazioni~
+   Strano e' completamente vuoto, a parte un cartello.
+~
+54 cd 0
+D0
+~
+~
+0 -1 5424
+E
+cartello~
+Chiuso per restauro.
+~
+S
+#5528
+L'Emporio~
+   Qui trovi articoli che seppur banali ti saranno utili nella tua vita.
+Scrivi LIST e non mi smentirai.
+~
+54 d 0
+D1
+~
+~
+0 -1 5408
+S
+#5529
+Le Corazze di Abdul ~
+   Ogni sorta d'abbigliamento da "strada" lo trovi da Abdul.
+Il meglio per un guerrafondaio che si rispetti.  I commessi fanno
+la spola da qui al magazzino per riempire gli scaffali di articoli
+sempre nuovi.  Una note sul muro attira la tua attenzione.
+~
+54 d 0
+D3
+~
+~
+0 -1 5407
+E
+nota~
+
+LIST  : Ecco il listino completo.
+VALUE : Ti valuto i tuoi articoli
+SELL  : Se mi interessa, compro il tuo articolo
+BUY   : Il comando preferito di Abdul: compri l'articolo
+        di tuo interesse.
+
+~
+S
+#5530
+Il Dojo dei Monaci Shaolin~
+   La parola d'ordine qui e' Kung-fu. Questo tipo d'arte marziale
+insegnata dai monaci che l'anno resa incredibilmente efficiente.
+~
+54 d 0
+D0
+~
+~
+0 -1 5429
+D1
+You notice some small scratches in the floor next to the eastern wall.
+~
+door secret~
+1 -1 5532
+S
+#5531
+The Mercenaries Guild~
+   This is the storage room for the mercenaries to be hired.
+~
+54 dj 0
+S
+#5532
+Entrance To The Thieves' Guild~
+   This small, dark room has a single torch mounted in the wall for
+light. There is a small wooden bench and a book lying on it.  The
+assassin guarding the entrance from 'outsiders' stands as you walk
+in.
+~
+54 adeh 0
+D2
+~
+~
+0 -1 5539
+D3
+~
+door secret~
+1 -1 5530
+S
+#5533
+Il Bar della Palestra~
+   Un uomo incredibilmente muscoloso sta bevendo una bevanda energetica
+al bancone. La stanza e' davvero ampia e intuisci che l'ingresso cosi'
+angusto e' fatto cosi' di proposito per allontanare gli scocciatori.
+  C'e' a EST il Ring dove puoi allenarti con il campione del mondo di
+Full-Contact.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5526
+D1
+~
+~
+0 -1 5534
+S
+#5534
+Il Ring dei Tornei~
+   Un ampio salone con, al centro, il Ring dove ti trovi.
+~
+54 deh 0
+D1
+Vedi dei segni a terra vicino al muro, forse e' una porta segreta.
+~
+porta segreta~
+1 -1 5473
+D3
+~
+~
+0 -1 5533
+S
+#5535
+Il forno~
+   Il pane e' qui, fresco sfornato, dietro il bancone.
+Ci sono vari tipi, hai solo l'imbarazzo della scelta.
+~
+54 d 0
+D0
+~
+~
+0 -1 5408
+S
+#5536
+Il Negozio di Armi di Igor~
+   Si potrebbe vincere una guerra con le armi che vedi in questo 
+negozio.  Igor ne e' molto fiero.  C'e' una nota sul bancone.
+~
+54 d 0
+D0
+~
+~
+0 -1 5407
+E
+nota~
+
+LEGGI LA NOTA DEL NEGOZIO DI CORAZZE
+
+                          Igor.
+
+~
+S
+#5537
+La vecchia boutique~
+   Sei nella vecchia boutique di Newland, gli articoli sono un po'
+fuori moda e per questo non vende molto, comunque puoi trovarci 
+qualcosa d'interessante.
+~
+54 d 0
+D1
+~
+~
+0 -1 5466
+S
+#5538
+La Locanda Losca~
+   Questa locanda e' molto malridotta, forse una trentina d'anni fa
+questo era un locale ben frequentato, ma ora a parte qualche brutto
+ceffo non c'e' nessun altro.  In un angolo del muro vedi un tavolo
+da poker e le persone che stanno giocando non ti fanno di certo
+sentire il benvenuto.  Il bancone ha numerosi segni di coltello e il
+barman aspetta impaziente la tua ordinazione.
+~
+54 d 0
+D3
+~
+~
+0 -1 5467
+S
+#5539
+The Filthy Unicorn~
+   A draft chills your bones as you enter, though you see no open
+window or door.  Hooded figures lurk around in the shadows and speak
+in low voices.  A flash of steel lets you know that weapons are in
+great abundance in this crowd.  As you quickly check your beltpouch
+you notice a small staircase leading down.
+~
+54 deh 0
+D0
+~
+~
+0 -1 5532
+D5
+~
+~
+0 -1 5546
+S
+#5540
+Il Magazzino~
+   Sei in una grande stanza che e' adoperata per depositare le merci da
+caricare sulle navi attraccate al molo fluviale.  Tutti questi articoli
+sono prodotti a Newland ed esportati.
+~
+54 d 0
+D1
+~
+~
+0 -1 5541
+D2
+~
+~
+0 -1 5433
+S
+#5541
+Il Magazzino~
+   In questo deposito c'e' un gran via vai di gente e di merci, qui
+sono stoccati tutti gli articoli importati dalle navi ormeggiate al
+porticciolo fluviale.  Il lato meridionale del magazzino invece e' 
+destinato alle esportazioni.
+~
+54 d 0
+D2
+~
+~
+0 -1 5434
+D3
+~
+~
+0 -1 5540
+S
+#5542
+Il Cantiere Navale~
+   Qui un esperto lupo di mare, aiutato dai suoi figli, realizza o ripara
+le piccole e medie imbarcazioni, che rendono Newland famosa per la sua 
+attivita' armatoriale.  L'astuto marinaio ti scruta aspettando con ansia
+la tua ordinazione.
+~
+54 d 0
+D1
+~
+~
+0 -1 5543
+D2
+~
+~
+0 -1 5435
+S
+#5543
+La Sala da Disegno~
+   Le pareti sono ricoperte dai progetti delle imbarcazioni realizzate
+nel cantiere.  In questa stanza si lavora alla progettazione di nuovi e
+piu' efficienti natanti.
+~
+54 d 0
+D3
+~
+~
+0 -1 5542
+S
+#5544
+La Forgia~
+   Fa un caldo infernale.  Il crogiolo e' colmo di ferro fuso, pronto per
+essere colato nelle forme, per realizzare lame e utensili di vario genere.
+Il maniscalco inoltre si diletta a forgiare diverse figure di animali.  Noti
+diversi cavalli di bronzo sugli scaffali. 
+~
+54 d 0
+D2
+~
+~
+0 -1 5437
+S
+#5545
+L'Autorimessa~
+   Se hai una macchina in panne, o che fa semplicemente fa i
+Capricci, sei nel posto giusto.  Qui coi motori si fanno dei veri
+e propri miracoli.  Noti avanti a te a EST il Garage dove i meccanici
+posano le autovetture una volta completate le riparazioni.
+~
+54 d 1
+D1
+~
+~
+0 -1 5549
+D2
+~
+~
+0 -1 5439
+S
+#5546
+The Secret Yard~
+   This is a hidden yard known to only a few people in New Thalos.  Here
+you may train in the arts of stealing, picking locks, and becoming almost
+invisible.
+   A small staircase leads back up to the Unicorn.
+~
+54 deh 0
+D2
+You see some small scratches in the wall to the south.
+~
+secret door~
+1 -1 5489
+D4
+~
+~
+0 -1 5539
+S
+#5547
+La Discarica~
+   Eccoti alla fonte del fetore che ti ha sconvolto il senso dello
+olfatto. Questo e' il luogo dove finiscono le montagne di rifiuti 
+prodotte dalla citta'.  Il vento costante che soffia su questo luogo
+spinge la puzza verso il deserto a SUD.
+~
+54 0 1
+D2
+~
+~
+0 -1 5442
+S
+#5548
+Il Laboratorio~
+   Sei nel piu' grande laboratorio informatico che tu abbia mai visto.
+Vedi apparecchiature che pensavi esistessero sono nei film fantascientifici.
+Un giovane uomo sta lavorando vicino a tre terminali differenti scrivendo
+programmi con una sfilza di "1" e di "0".  Da quello che vedi lo riconosci
+e capisci che le leggende che parlavano di lui sono vere.
+~
+54 deh 0
+D5
+~
+~
+0 -1 5517
+S
+#5549
+Il Garage~
+   Le auto sono parcheggiate in fila.  In fondo al Garage, noti due
+Go-kart, nuovi fiammanti, da competizione.  Un giretto lo te faresti
+Volentieri, ma sapendo come reagisce un meccanico quando gli toccano
+il Kart, non tenti neanche di chiedere se e' possibile.
+~
+54 d 0
+D3
+~
+~
+0 -1 5545
+S
+#5550
+L'Ingresso della Villa~
+   Qualcosa di grandioso ti si para avanti agli occhi.  Non avevi mai
+visto in tutta la tua vita una quantita' di ricchezze disposte cosi'.
+Ci sono candelabri di platino, busti d'oro, e sei solo all'ingresso.
+A OVEST vedi l'ingresso del Gran Salone, a EST il cancello e sia a SUD
+che a NORD ci sono le Case dei Guardiani.
+~
+54 d 0
+D0
+~
+~
+0 -1 5560
+D1
+~
+cancello~
+2 5400 5558
+D2
+~
+~
+0 -1 5557
+D3
+~
+~
+0 -1 5605
+S
+#5551
+La Libreria~
+   Quest'edificio e' il fulcro della vita culturale di Newland.
+Si trovano migliaia di libri sugli scaffali di questa libreria,
+considerata la piu' fornita di tutto il paese.  Seduti ai tavoli
+numerosi studiosi consultano i volumi in un silenzio talmente
+rigoroso che ti sembra di sentire i loro pensieri.
+~
+54 df 0
+D1
+~
+~
+0 -1 5455
+S
+#5552
+La Discoteca~
+   Ti devi essere perso una festa strepitosa.  Gli impiegati stanno
+ripulendo il locale da rifiuti finiti un po' ovunque.  Centinaia fra
+bicchieri e bottiglie sparse sul pavimento ai lati della pista da
+ballo, ti suggeriscono che i cittadini di Newland amano bere in
+questo luogo, i cocktail realizzati dal barman.  C'e' ancora uno
+striscione appeso al muro.
+~
+54 d 0
+D1
+~
+~
+0 -1 5456
+E
+striscione~
+========================================================================
+
+          10    A N N I    D I    D I S C O N E W L A N D
+
+========================================================================
+~
+S
+#5553
+La prigione~
+   Sei finito in galera.  Qualcosa hai combinato di sbagliato
+per cacciarti nei guai, non ti resta che aspettare.
+~
+54 defhj 0
+D0
+~
+cancello~
+2 5493 5444
+S
+#5554
+Il Municipio~
+   Sei nel cuore amministrativo di Newland.  Qui sono prese le 
+decisioni riguardanti l'attivita' della polizia cittadina.
+Questo e' il luogo dove il Sindaco di Newland decide, insieme
+alla giunta, i provvedimenti da prendere per migliorare la vita
+in citta'.
+~
+54 d 0
+D0
+~
+~
+0 -1 5445
+S
+#5555
+La Facolta' di Psicologia~
+   Questa facolta' ha qualcosa di strano, non nell'aspetto, ma in una 
+sensazione che ti invade la mente, ti sembra quasi che ti stiano leggendo
+nei pensieri.  Intuisci in poco tempo che, in questo luogo, ci sono molti
+individui con grandi poteri mentali.
+~
+54 d 0
+D1
+~
+~
+0 -1 5460
+S
+#5556
+La Facolta' d'Informatica~
+   Non ci sono dubbi, qui le attrezzature non mancano.  Ci sono compurers
+sparsi in tutta la struttura, inoltre la fama di questo luogo gia' ti aveva
+raggiunto.  Senza alcun ombra di dubbio questo e' il miglior posto dove
+apprendere la teoria e la pratica della programmazione.
+~
+54 d 0
+D3
+~
+~
+0 -1 5460
+S
+#5557
+La Casa del Guardiano~
+   Sei nella Casa del Guardiano a Sud della Villa.  L'arredamento
+spartano ed economico, si distacca molto da quello che hai visto
+all'ingresso.  Sicuramente il Sindaco non ha investito molti soldi
+in quest'ala della Villa
+~
+54 d 0
+D0
+~
+~
+0 -1 5550
+S
+#5558
+Il Cancello della Villa~
+   Sei di fronte al magnifico Cancello che permette l'ingresso alla villa
+del Sindaco di Newland.  Intravedi fra le sbarre d'acciaio lavorato lo
+splendore della Villa che in Sindaco ha fatto progettare dall'architetto
+Sasso. A EST c'e' appunto il viale a lui dedicato.
+~
+54 0 1
+D1
+~
+~
+0 -1 5420
+D3
+~
+cancello~
+2 5400 5550
+S
+#5559
+La Torre Nordovest~
+   Sei su una delle quattro torri che sorvegliano la citta'.  La vista da
+qui e' stupenda. A Ovest vedi le alte montagne che dividono Newland da
+Mclandia.  Il fiume Sebeto scorre tranquillo da quella direzione.  A Sud
+vedi l'intera citta' e il grande Deserto.
+~
+54 d 0
+D5
+~
+~
+0 -1 5444
+S
+#5560
+La Casa del Guardiano~
+   Sei nella Casa del Guardiano a Nord della Villa.  L'arredamento
+spartano ed economico, si distacca molto da quello che hai visto
+all'ingresso.  Sicuramente il Sindaco non ha investito molti soldi
+in quest'ala della Villa
+~
+54 d 0
+D2
+~
+~
+0 -1 5550
+S
+#5561
+La Cucina~
+   L'intenso odore dei manicaretti preparati dallo chef ti provocao un
+attacco di fame.  Purtroppo intuisci che lo chef non sarebbe felice se
+tu provassi ad assaggiare qualcosa dal tavolo, infatti e' cosi' intento
+a rendere il pranzo perfetto che ogni interferenza potrebbe portarlo a
+usare i suoi coltelli in maniera impropria.  Dei camerieri sono qui ad
+aiutarlo passandogli gli strumenti come si farebbe con un chirurgo
+nel bel mezzo di un complicato intervento.
+~
+54 d 0
+D0
+~
+porta~
+1 -1 5563
+D3
+~
+~
+0 -1 5571
+S
+#5562
+La Torre Nordest~
+   Sei su una delle quattro torri che sorvegliano la citta'.  A Nord
+vedi la grande pianura e la foresta. A Sud invece la citta' e poi il
+deserto.
+~
+54 d 0
+D5
+~
+~
+0 -1 5454
+S
+#5563
+La Sala~
+   Sei nel lato Sudest della sala. Una piccola porta di servizio permette
+l'accesso alla Cucina a SUD.
+~
+54 d 0
+D2
+~
+porta~
+1 -1 5561
+D3
+~
+~
+0 -1 5572
+S
+#5564
+La Caserma~
+   Ti trovi in una grande stanza molto spartana dove si aggirano strani
+energumeni.
+Hai la sensazione che in questo posto non e' il caso di dire nulla di
+sbagliato.  A EST c'e' il viale dell'universita'. 
+Vedi una targa sul muro.
+~
+54 d 0
+D1
+~
+~
+0 -1 5462
+E
+targa~
+DA QUI USCIRAI UN VERO GUERRIERO.
+~
+S
+#5565
+La Sala~
+   Sei nel lato Nordest della sala. L'unica uscita possibile, escludendo
+una semplice porta di legno a NORD, e' a OVEST.
+C'e' una placca d'oro sulla porta.
+~
+54 d 0
+D0
+~
+porta~
+1 -1 5566
+D3
+~
+~
+0 -1 5574
+E
+placca~
+Le seguenti parole sono incise sulla porta:
+
+                  La piccola Cappella del Sindaco
+
+~
+S
+#5566
+La piccola Cappella~
+   Si vede che il Sindaco e' molto religioso, la cappella e' una versione
+In miniatura del duomo di Newland. 
+~
+54 d 0
+D2
+~
+porta~
+1 -1 5565
+S
+#5567
+Outside The Northern Gate Of New Thalos~
+   You stand outside the gate of New Thalos.  The city lies to the south,
+and wilderness to the north.
+~
+54 c 1
+D0
+~
+~
+0 -1 5681
+D2
+~
+gate~
+1 5401 5422
+S
+#5568
+Outside The Eastern Gate Of New Thalos~
+   You stand outside the protective walls of the city.  The massive iron
+gate sits to the west and the unknown awaits you eastward.
+~
+54 0 1
+D1
+~
+~
+0 -1 5690
+D2
+~
+~
+0 -1 5570
+D3
+~
+gate~
+1 5401 5431
+S
+#5569
+Outside The West Gate Of New Thalos~
+   You stand outside the city walls, the iron gate to the east.  The city
+lies in that direction and the road to Midgaard lies west.
+~
+54 0 1
+D1
+~
+gate~
+1 5401 5423
+D3
+~
+~
+0 -1 5618
+S
+#5570
+Outside The Wall~
+   You are in a small clearing outside the east wall of the city.  The
+ground seems well trodden but you can see no apparent exit save that
+to the north.
+~
+54 0 2
+D0
+~
+~
+0 -1 5568
+S
+#5571
+La Grande Camera da Pranzo~
+   Una grandissima tavola ovale completamente apparecchiata.  Noti la
+fine argenteria e il servizio di piatti di ottima porcellana, non c'e'
+dubbio il Sindaco ama molto curare i dettagli.
+~
+54 d 0
+D0
+~
+porta~
+1 -1 5572
+D1
+~
+~
+0 -1 5561
+S
+#5572
+La Sala~
+   Sei nel punto meridionale della sala, noti a SUD una porta.
+A OVEST vedi il corridoio Nord della Villa.
+~
+54 d 0
+D0
+~
+~
+0 -1 5573
+D1
+~
+~
+0 -1 5563
+D2
+~
+porta~
+1 -1 5571
+D3
+~
+~
+0 -1 5577
+S
+#5573
+La Sala~
+   Sei in un'intersezione della Sala.  Vedi a OVEST il giardino della
+Villa.
+~
+54 d 0
+D0
+~
+~
+0 -1 5574
+D1
+~
+~
+0 -1 5605
+D2
+~
+~
+0 -1 5572
+D3
+~
+~
+0 -1 5578
+S
+#5574
+La Sala~
+ Sei nel punto settentrionale della sala, noti a NORD una Pesante Porta
+d'Acciaio.  A OVEST vedi il corridoio Nord della Villa.
+
+~
+54 d 0
+D0
+~
+pesante porta d'acciaio~
+1 -1 5575
+D1
+~
+~
+0 -1 5565
+D2
+~
+~
+0 -1 5573
+D3
+~
+~
+0 -1 5579
+S
+#5575
+L'Entrata delle Segrete~
+   Sei entrato in una stanza fredda e sporca.  I muri sono fatti di solida
+pietra, e' davvero strano che ci sia un luogo del genere in una Villa cosi'
+bella.  C'e' una larga grata d'acciaio a terra, come d'acciaio e' la pesante
+porta che da sulla Sala..
+~
+54 d 0
+D2
+~
+pesante porta d'acciaio~
+1 -1 5574
+D5
+~
+grata d'acciaio~
+1 -1 5591
+S
+#5576
+La Stanza degli Ospiti~
+   Questa semplice camera da letto ospita le importanti personalita' che
+fanno spesso visita al sindaco.  Un Armadio con Specchiera e' appoggiato
+sulla parete est della stanza.  Un letto regale fatto in ebano e' sotto
+alla finestra che ti apre il paesaggio a sud.
+~
+54 d 0
+D0
+~
+porta~
+1 -1 5577
+E
+finestra~
+Guardando fuori dalla finestra puoi vedere la larga giardino che separa
+le mura della Villa da quelle di recinzione.
+~
+E
+specchiera~
+Vedi la tua immagine riflessa e ne approfitti per ridarti una ripulita.
+~
+S
+#5577
+Il Corridoio Sud~
+   Da qui inizia il Corridoio di cui noti le porte sulla parete Sud e dei
+magnifici quadri, forse dei sindaci precedenti, appesi alla parete Nord.
+~
+54 d 0
+D1
+~
+~
+0 -1 5572
+D2
+~
+porta~
+1 -1 5576
+D3
+~
+~
+0 -1 5582
+S
+#5578
+Il Giardino del Sindaco~
+   Sei entrato nel giardino privato del Sindaco.  La luce e il profumo
+Dei fiori ti coccolano dolcemente facendoti sentire come a casa.  Vedi
+ogni genere di pianta tropicale piantate e curare con grande maestria
+dai giardinieri della Villa.  Sotto le palme, noti un piccolo gazebo
+bianco.  Una stradina di ghiaia, a EST, conduce a una grande Serra,
+orgoglio del Sindaco per la grande varieta' di piante che contiene.
+Alla tua destra noti una targa d'oro.
+~
+54 0 2
+D1
+~
+~
+0 -1 5573
+D3
+~
+~
+0 -1 5583
+E
+targa~
+=========================================================================
+=========================================================================
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||        Benvenuto nel mio giardino.  Ho creato questo piccolo        ||
+||        angolo di paradiso per il piacere dei miei ospiti.           ||
+||        Ricordatelo... Lasciaci solo le tue orme...                  ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||                                 Il Sindaco                          ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+=========================================================================
+=========================================================================
+~
+S
+#5579
+Il Corridoio Nord~
+   Un lungo e stretto corridoio inizia da qui verso ovest, uno piccolo
+tappeto rosso ne ricopre il centro.  A NORD c'e' una porta con sopra
+montata una Placca.
+~
+54 d 0
+D0
+~
+porta~
+1 -1 5580
+D1
+~
+~
+0 -1 5574
+D3
+~
+~
+0 -1 5584
+E
+placca~
+
+                 La Galleria d'Arte
+                         di
+                       NEWLAND
+
+          - la direzione non e' responsabile degli oggetti smarriti.
+
+~
+S
+#5580
+La Galleria d'Arte~
+   Questo e' il tributo del sindaco agli abilissimi artisti di Newland.
+I quadri di ottima qualita', esposti sulle pareti di questa stanza, 
+ritraggono nature morte, nudi, gloriose scene di battaglia.  Le molte
+sculture che sono qui ti danno l'impressione che i personaggi immortalati
+nella pietra siamo ancora vivi.  I tuoi occhi sono attratti da un grande
+affresco che domina una delle pareti.
+~
+54 d 0
+D2
+~
+porta~
+1 -1 5579
+E
+affresco~
+Questo stupendo affresco ritrae il Duomo di Newland e occupa l'intera
+parete occidentale della sala.
+~
+S
+#5581
+La Stanza degli Ospiti~
+   Questa e' un'altra stanza degli ospiti.  Un Armadio con Specchiera e'
+appoggiato sulla parete est della stanza.  Un letto regale fatto in ebano
+e' sotto alla finestra che ti apre il paesaggio a sud.
+~
+54 d 0
+D0
+~
+porta~
+1 -1 5582
+S
+#5582
+Il Corridoio Sud~
+   Hai raggiunto la parte piu' occidentale di questo corridoio.  Ci
+sono due porte, una a SUD e una a OVEST.
+~
+54 d 0
+D1
+~
+~
+0 -1 5577
+D2
+~
+porta~
+1 -1 5581
+D3
+~
+porta~
+2 5401 5587
+S
+#5583
+La Serra~
+   Sei nella Serra piu' grande che tu abbia mai visto.  Vedi ogni
+varieta' di pianta che conosci.  Hai sentito dire che il giardinaggio
+e' il principale hobby del Sindaco, e si vede che e' molto esperto,
+infatti non c'e' neanche una fogliolina ingiallita in questa serra.
+~
+54 d 0
+D1
+~
+~
+0 -1 5578
+S
+#5584
+Il Corridoio Nord~
+   Hai raggiunto la parte piu' occidentale di questo corridoio.  Ci
+sono due porte, una a NORD e una a OVEST.
+~
+54 d 0
+D0
+~
+porta~
+1 -1 5585
+D1
+~
+~
+0 -1 5579
+D3
+~
+porta~
+1 -1 5589
+S
+#5585
+La Stanza da Bagno~
+   Nella tua vita non avevi mai visto un bagno cosi' ben realizzato.
+I servizi igienici, in ottima porcellana, sono decorati con tanti fiori.
+La qualita' delle decorazioni ti portano ad intuire che sono state dipinte
+da un buon pittore.  Al centro della stanza c'e' una magnifica vasca ad
+idromassaggio, che ti tenta.  Pensi che un bagno tonificante ti farebbe
+anche bene, peccato che non hai tempo....
+   La porta a SUD ti conduce al corridoio..
+~
+54 d 0
+D2
+~
+porta~
+1 -1 5584
+S
+#5586
+La Camera del Maggiordomo~
+   Rispetto alle due camere degli ospiti, questa e' arredata con un mobilio
+piu' umile, ma comunque di buona fattura.  C'e' un piccolo armadio, una
+scrivania e un letto.
+~
+54 d 0
+D0
+~
+~
+0 -1 5587
+S
+#5587
+La Camera da Letto del Sindaco~
+   Un maestoso letto a baldacchino trionfa al centro della stanza.
+Di fronte al letto c'e' un grande armadio che ha pero' qualcosa di strano,
+ci sono infatti delle striature circolari sul pavimento in corrispondenza
+dei piedi.
+~
+54 d 0
+D0
+~
+armadio~
+1 -1 5588
+D1
+~
+porta~
+2 5401 5582
+D2
+~
+~
+0 -1 5586
+S
+#5588
+La Stanza Segreta~
+   Questa piccola stanzetta permette al sindaco di nascondersi in caso di
+emergenza. Da un lato c'e' l'armadio che porta alla Camera da Letto, dallo
+altro invece c'e' la libreria che ti porta nello studio.
+~
+54 d 0
+D0
+~
+libreria~
+1 -1 5589
+D2
+~
+armadio~
+1 -1 5587
+S
+#5589
+Lo Studio~
+   Questo e' il centro dell'attivita' politica del Sindaco.  Qui vengono
+prese le decisioni riguardanti i piani da attuare per tenere Newland una
+citta' in perfetta efficienza.  Al centro dello studio c'e' una lussuosa
+scrivania d'ebano. sulla parete NORD e' appeso un quadro a figura intera
+del Sindaco, invece sulla parete SUD c'e' una completissima biblioteca.
+~
+54 d 0
+D0
+~
+quadro~
+2 5400 5590
+D1
+~
+porta~
+1 -1 5584
+D2
+~
+libreria~
+1 -1 5588
+S
+#5590
+Dentro alla Cassaforte~
+   Ecco dove il Sindaco custodisce le sue ricchezze.  La grande quantita'
+di soldi e gioielli stipati sugli scaffati ti fanno crescere il dubbio che
+il Sindaco non sia completamente onesto nello svolgere il suo lavoro.
+~
+54 d 0
+D2
+~
+quadro~
+2 5400 5589
+S
+#5591
+La Prigione~
+   Questa stanza che anticamente doveva essere un prigione e' ora
+adoperata come cantinola della Villa.  Infatti sono conservate qui
+una grande quantita' di bottiglie di vino, che costituiscono la
+riserva personale del Sindaco.  C'e' una porta sulla parete NORD.
+~
+54 ad 0
+D1
+~
+porta~
+1 -1 5592
+D4
+~
+grata~
+1 -1 5575
+S
+#5592
+A Tunnel In The Dungeon~
+   You stand in a roughly hewn stone tunnel with cells to the north and
+south.  The tunnel continues east.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5597
+D1
+~
+~
+0 -1 5593
+D2
+~
+cell~
+2 5493 5601
+D3
+~
+door~
+1 -1 5491
+S
+#5593
+A Tunnel In The Dungeon~
+   You stand in a roughly hewn stone tunnel with cells to the north and
+south.  The tunnel continues east and west.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5598
+D1
+~
+~
+0 -1 5594
+D2
+~
+cell~
+2 5493 5602
+D3
+~
+~
+0 -1 5592
+S
+#5594
+A Tunnel In The Dungeon~
+   You stand in a roughly hewn stone tunnel with cells to the north and
+south.  The tunnel continues east and west.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5599
+D1
+~
+~
+0 -1 5595
+D2
+~
+cell~
+2 5493 5603
+D3
+~
+~
+0 -1 5593
+S
+#5595
+A Tunnel In The Dungeon~
+   You stand in a roughly hewn stone tunnel with cells to the north and
+south.  The tunnel continues west and you notice a small crack in the
+stone to the east.
+~
+54 ad 0
+D0
+~
+cell~
+2 5493 5600
+D1
+~
+crack~
+2 5400 5596
+D2
+~
+cell~
+2 5493 5604
+D3
+~
+~
+0 -1 5594
+S
+#5596
+The Secret Cell~
+   This room seems more like a lair than a cell.  Small bits of hay lie
+strewn about the floor covering bones of unkown origin.  Spatterd blood
+and tufts of grey hair lie matted in one corner.  As you turn to leave
+you notice a pair of small red eyes peering at you from the darkness.
+~
+54 adfj 0
+D3
+~
+crack~
+2 5400 5595
+S
+#5597
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5592
+S
+#5598
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5593
+S
+#5599
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5594
+S
+#5600
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D2
+~
+cell~
+2 5493 5595
+S
+#5601
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5592
+S
+#5602
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5593
+S
+#5603
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5594
+S
+#5604
+The Cell~
+   You are in a cold, cramped chamber with only one exit.
+~
+54 adfj 0
+D0
+~
+cell~
+2 5493 5595
+S
+#5605
+La Sala~
+   Sei nella grande Sala della Villa.  Qui si tengono i ricevimenti che
+tiene il Sindaco di tanto in tanto per stringere accordi economici con i
+paesi vicini.  A EST Vedi l'ingresso a OVEST continua la Sala.
+~
+54 d 0
+D1
+~
+~
+0 -1 5550
+D3
+~
+~
+0 -1 5573
+S
+#5606
+A Path Through The Mountains~
+   The narrow path turns here heading south and west.
+~
+54 0 5
+D2
+~
+~
+0 -1 5607
+D3
+~
+~
+0 -1 5611
+S
+#5607
+A Path Through The Mountains~
+   Travel is hard and slow as you almost have to climb around large
+boulders strewn about the path.
+~
+54 0 5
+D0
+~
+~
+0 -1 5606
+D1
+~
+~
+0 -1 5608
+S
+#5608
+The Edge Of The Ravine~
+   The ground drops off below down to a rushing river.  A small rope
+bridge sways to and fro in the wind giving you access to the other
+side.
+~
+54 0 5
+D1
+~
+~
+0 -1 5609
+D3
+~
+~
+0 -1 5607
+S
+#5609
+On A Rope Bridge~
+   The small rope bridge shudders under your weight as you make your
+way across the valley.
+~
+54 0 2
+D1
+~
+~
+0 -1 5627
+D3
+~
+~
+0 -1 5608
+S
+#5610
+The Ledge Around The Valley~
+   You are walking around a small ledge overlooking a large valley
+deep within the eastern mountains.  The ledge turns north following
+the shape of the valley and a steep trail continues to the east.
+~
+54 0 5
+D0
+This can be used to add something onto... such as the valley that is 
+supposed to exist here. (=
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 5611
+S
+#5611
+A Path Through The Mountains~
+   You are walking through a rock strewn path deep within the mountains
+east of Midgaard.  The going is rough and you constantly twist your
+ankle on the small stones lying about.
+~
+54 0 5
+D1
+~
+~
+0 -1 5606
+D3
+~
+~
+0 -1 5610
+S
+#5612
+On The Eastern Edge Of The Mountains~
+   You stand on the eastern edge of the eastern mountains.  The high
+peaks lie to the west and rolling hills and plains open up to your
+east.
+~
+54 0 5
+D2
+~
+~
+0 -1 5613
+D3
+~
+~
+0 -1 5629
+S
+#5613
+In The Foothills~
+   The path curves down the face of the mountain allowing you to
+move up or down the face of this missive hunk of stone.
+~
+54 0 5
+D0
+~
+~
+0 -1 5612
+D1
+~
+~
+0 -1 5614
+S
+#5614
+In The Foothills~
+   The path curves down the face of the mountain allowing you to
+move up or down as you please.
+~
+54 0 5
+D2
+~
+~
+0 -1 5615
+D3
+~
+~
+0 -1 5613
+S
+#5615
+A Rocky Trail~
+   The faint sound of a flowing river reaches your ears from the south and 
+through the trees you can see water.  The path you are on continues north
+and east from here.
+~
+54 0 5
+D0
+~
+~
+0 -1 5614
+D1
+~
+~
+0 -1 5630
+D2
+~
+~
+0 -1 5645
+S
+#5616
+On A Road~
+   This long road continues to the east and south.
+~
+54 0 2
+D1
+~
+~
+0 -1 5617
+D2
+~
+~
+0 -1 5633
+S
+#5617
+On A Road~
+   The well kept road continues east and west from here.
+~
+54 0 2
+D1
+~
+~
+0 -1 5618
+D3
+~
+~
+0 -1 5616
+S
+#5618
+On A Road~
+   You stand on a well maintained road leading east towards New Thalos
+and west towards the Eastern Mountains.  To the north you can see wide
+plains stretching out as far as the eye can see.  South of you begins
+a dark green forest.
+~
+54 0 2
+D1
+~
+~
+0 -1 5569
+D3
+~
+~
+0 -1 5617
+S
+#5619
+The Headwaters Of The River Of Lost Souls~
+   You are at the headwaters of what is oft called the darkest river
+in the land.  Looking at the swampy water pooling in this rocky valley,
+you can see why the water downstream is so dark.  The rock walls reach
+up around you blocking all exits except that to the north up onto the
+banks, and to the south where the river flows.
+~
+54 0 7
+D0
+There is a small path leading away from the bank just to the north.
+~
+~
+0 -1 1500
+D2
+The waters of this swampy pool are flowing slowly towards the south.
+~
+~
+0 -1 5634
+S
+#5620
+Fiume Sebeto~
+   Le calme e limpide acque di questo fiume scorrono da OVEST
+verso EST
+~
+54 0 7
+D1
+~
+~
+0 -1 5621
+D3
+~
+~
+0 -1 5639
+S
+#5621
+Fiume Sebeto~
+   Le calme e limpide acque di questo fiume scorrono da OVEST
+verso EST
+~
+54 0 7
+D1
+~
+~
+0 -1 5622
+D3
+~
+~
+0 -1 5620
+S
+#5622
+Fiume Sebeto~
+   Le calme e limpide acque di questo fiume scorrono da OVEST
+verso EST
+~
+54 0 7
+D1
+~
+~
+0 -1 5644
+D3
+~
+~
+0 -1 5621
+S
+#5623
+Fiume Sebeto~
+   Le calme e limpide acque di questo fiume scorrono da OVEST
+verso EST.  Il fiume entra all'interno delle mura di Newland
+attraversando una grata comandata dalle guardie che controllano
+cosi' l'accesso delle imbarcazioni da e alla citta'.
+~
+54 0 7
+D1
+~
+grata~
+1 -1 5487
+D3
+~
+~
+0 -1 5649
+S
+#5624
+River Ishtar~
+   The river flows out from the city down a long winding gully towards
+the Sea of Dragons.  To the south of you lies the Great Eastern Desert
+and north a wide open expanse of grass.  You can just barely make out
+a road that seems to be traveling along side the river but the
+banks are to steep for you to see very far.
+~
+54 0 7
+D1
+~
+~
+0 -1 5625
+D3
+~
+~
+0 -1 5483
+S
+#5625
+River Ishtar~
+   The river continues its descent down the lowlands flowing ever so
+gently south.  It is hard to believe this is the same river that came
+cascading down the mountainside.
+~
+54 0 7
+D1
+~
+~
+0 -1 5626
+D3
+~
+~
+0 -1 5624
+S
+#5626
+River Ishtar~
+   Small animals and herd animals can be heard in the distance, though 
+you don't actually see any near the river.  Perhaps the steep slopes
+pervent them from using the river.
+~
+54 0 7
+D1
+~
+~
+0 -1 5684
+D3
+~
+~
+0 -1 5625
+S
+#5627
+The Edge Of The Ravine~
+  You stand at the edge of a really long drop down.  A small rope
+bridge has conviently been placed here to allow you access to the
+other side of the bridge.  Unfortunately the wind seems to be kicking
+up making the bridge sway slightly.  The path leads off through the
+mountains to the east.
+~
+54 0 5
+D1
+~
+~
+0 -1 5628
+D3
+~
+~
+0 -1 5609
+S
+#5628
+A Path Through The Mountains~
+   The narrow path makes its way through the mountains east
+and west.  You hear the squawking of a large bird over head
+most likely a buzzard waiting for you to drop.
+~
+54 0 5
+D1
+~
+~
+0 -1 5629
+D2
+~
+~
+0 -1 4049
+D3
+~
+~
+0 -1 5627
+S
+#5629
+A Path Through The Mountains~
+   A large boulder suddenly decides it wants to occupy the same space
+you are currently standing in.
+~
+54 0 5
+D1
+~
+~
+0 -1 5612
+D3
+~
+~
+0 -1 5628
+S
+#5630
+On A Road~
+   The road you are on continues east and west.
+~
+54 0 4
+D1
+~
+~
+0 -1 5631
+D3
+~
+~
+0 -1 5615
+S
+#5631
+On A Road~
+   The road you are on continues east and west.
+~
+54 0 2
+D1
+~
+~
+0 -1 5632
+D3
+~
+~
+0 -1 5630
+S
+#5632
+On A Road~
+   The road you are on continues east and west.
+~
+54 0 2
+D1
+~
+~
+0 -1 5633
+D3
+~
+~
+0 -1 5631
+S
+#5633
+On A Road~
+   The road bends here toward the riverbank giving access to
+the River Ishtar.  The road continues north and west from the
+river bank.
+~
+54 0 2
+D0
+~
+~
+0 -1 5616
+D2
+~
+~
+0 -1 5649
+D3
+~
+~
+0 -1 5632
+S
+#5634
+The River Of Lost Souls~
+   The river flows south through a valley in the mountains.  You can see
+a small village to the west.
+~
+54 0 7
+D0
+~
+~
+0 -1 5619
+D2
+~
+~
+0 -1 5635
+S
+#5635
+The River Of Lost Souls~
+   The river flows south in the southern end of this wide valley.  The
+walls of the valley close in to the south.
+~
+54 0 7
+D0
+~
+~
+0 -1 5634
+D2
+~
+~
+0 -1 5636
+S
+#5636
+The River Of Lost Souls~
+   The river begins to speed up as it cascades down this mountain
+crevice.  High above you a small rope bridge sways in the wind.
+~
+54 0 7
+D0
+~
+~
+0 -1 5635
+D2
+~
+~
+0 -1 5637
+S
+#5637
+The River Of Lost Souls~
+   The river rapidly flows down this crack in the side of the mountain
+to the south.  Hopefully you will hear any aproaching rapids.
+~
+54 0 7
+D0
+~
+~
+0 -1 5636
+D2
+~
+~
+0 -1 5638
+S
+#5638
+The River Of Lost Souls~
+   The river seems to calm a bit as the crevase widens lessens
+its stranglehold on the waters.  The river continues to the north 
+through a crack and flows to the south.
+~
+54 0 7
+D0
+~
+~
+0 -1 5637
+D2
+~
+~
+0 -1 5639
+S
+#5639
+A Split In The River~
+   The waters of the river crash down upon a rock and split into
+two bodies of water.  The river you are on continues its southern
+course and the new river heads off to the east.  To your west you
+notice that the rocks have split and crumbled as if torn asunder
+by some massive force.  It looks impossible to traverse.  The River
+of Lost Souls also continues to the north.
+~
+54 0 7
+D0
+~
+~
+0 -1 5638
+D1
+~
+~
+0 -1 5620
+D2
+~
+~
+0 -1 5640
+S
+#5640
+The River Of Lost Souls~
+   The river continues north and south from here through a water
+eroded valley.
+~
+54 0 7
+D0
+~
+~
+0 -1 5639
+D2
+~
+~
+0 -1 5641
+S
+#5641
+The River Of Lost Souls~
+   The river continues north and south from here through a water
+eroded valley.
+~
+54 0 7
+D0
+~
+~
+0 -1 5640
+D2
+~
+~
+0 -1 5642
+S
+#5642
+The River Of Lost Souls~
+   The river continues north and south from here through a water
+eroded valley.
+~
+54 0 7
+D0
+~
+~
+0 -1 5641
+D2
+~
+~
+0 -1 5643
+S
+#5643
+The River Of Lost Souls~
+   The river makes a sharp bend here and heads south into a large
+mountain and north through a valley.  On a ledge above you, and to
+the west, you can see movement.
+~
+54 0 7
+D0
+~
+~
+0 -1 5642
+D2
+~
+~
+0 -1 5004
+S
+#5644
+River Ishtar~
+   The river widens here, no longer bounded by rock, and flows east
+towards a plain.
+~
+54 0 7
+D1
+~
+~
+0 -1 5645
+D3
+~
+~
+0 -1 5622
+S
+#5645
+River Ishtar~
+   The river continues here east to east.  There is a landing area to
+the north where you can gain access to the shore.
+~
+54 0 7
+D0
+~
+~
+0 -1 5615
+D1
+~
+~
+0 -1 5646
+D3
+~
+~
+0 -1 5644
+S
+#5646
+River Ishtar~
+   The river meanders through the foothills of the eastern mountains.
+The air is dryer on this side of the continental divide and it seems
+a bit warmer.
+~
+54 0 7
+D1
+~
+~
+0 -1 5647
+D3
+~
+~
+0 -1 5645
+S
+#5647
+River Ishtar~
+   The river continues its journey eastward flowing through the
+plains.  To the west you see the peaks of large snow capped
+mountains and to the east you see the outline of a large city.
+~
+54 0 7
+D1
+~
+~
+0 -1 5648
+D3
+~
+~
+0 -1 5646
+S
+#5648
+River Ishtar~
+   The river flows east and west from here.
+~
+54 0 7
+D1
+~
+~
+0 -1 5649
+D3
+~
+~
+0 -1 5647
+S
+#5649
+River Ishtar~
+   The river slows as it widens and meanders through the lowlands.  A
+small dock give access to the north shore.
+~
+54 0 7
+D0
+~
+~
+0 -1 5633
+D1
+~
+~
+0 -1 5623
+D3
+~
+~
+0 -1 5648
+S
+#5651
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652
+D1
+~
+~
+0 -1 5656
+D2
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5657
+S
+#5652
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652
+D1
+~
+~
+0 -1 5655
+D2
+~
+~
+0 -1 5652
+D3
+~
+~
+0 -1 5651
+S
+#5653
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654
+D1
+You see a large boulder blocking your path.
+~
+boulder rock crack~
+1 -1 5639
+D2
+~
+~
+0 -1 5656
+D3
+~
+~
+0 -1 5657
+S
+#5654
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654
+D1
+~
+~
+0 -1 5658
+D2
+~
+~
+0 -1 5657
+D3
+~
+~
+0 -1 5660
+S
+#5655
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5655
+D1
+~
+~
+0 -1 5659
+D2
+~
+~
+0 -1 5658
+D3
+~
+~
+0 -1 5654
+S
+#5656
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 0
+D0
+~
+~
+0 -1 5653
+D1
+~
+~
+0 -1 5658
+D2
+~
+~
+0 -1 5655
+D3
+~
+~
+0 -1 5651
+S
+#5657
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654
+D1
+~
+~
+0 -1 5658
+D2
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5654
+S
+#5658
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5655
+D1
+~
+~
+0 -1 5657
+D2
+~
+~
+0 -1 5659
+D3
+~
+~
+0 -1 5654
+S
+#5659
+In The Mountains~
+   You are walking over rocks and stones through the mountains between 
+the Ishtar and Dark rivers.
+   It is funny how all the rocks look alike.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652
+D1
+~
+~
+0 -1 5659
+D2
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5658
+S
+#5660
+The Headwaters Of The Dark River~
+   A large natural spring issues forth from the heart of the mountain
+and flows west down the mountain.  It looks like there was a terrible
+earthquake here not too long ago, and a path that leads eastwards
+through the mountains is covered with rocks, making passage difficult.
+~
+54 a 7
+D1
+~
+~
+0 -1 5654
+D3
+~
+~
+0 -1 5661
+S
+#5661
+On The Dark River~
+   The river flows down the mountain through a large crevasse to the west
+and up into the mountains east.
+~
+54 a 7
+D1
+~
+~
+0 -1 5660
+D3
+~
+~
+0 -1 5662
+S
+#5662
+On The Dark River~
+   The walls of this canyon tower overhead as the river continues east
+and west from here.
+~
+54 a 7
+D1
+~
+~
+0 -1 5661
+D3
+~
+~
+0 -1 5663
+S
+#5663
+On The Dark River~
+   The walls of rock around you slowly shrink to ground level as the river 
+flows out of the mountains and onto the plains.
+~
+54 a 7
+D1
+~
+~
+0 -1 5662
+D3
+~
+~
+0 -1 5664
+S
+#5664
+On The Dark River~
+   The river continues east and west from here out of the foothills
+to the east down into the mountains south of here.
+~
+54 a 7
+D1
+~
+~
+0 -1 5663
+D2
+~
+~
+0 -1 5665
+S
+#5665
+On The Dark River~
+   The river, following a low spot in the foothills, bends and twists.
+Tall mountains can be seen off to the south and east.
+~
+54 a 7
+D0
+~
+~
+0 -1 5664
+D2
+~
+~
+0 -1 5666
+S
+#5666
+On The Dark River~
+   The river makes a wide sweeping turn here into the mountain.
+~
+54 a 7
+D0
+~
+~
+0 -1 5665
+D3
+~
+~
+0 -1 5667
+S
+#5667
+On The Dark River~
+   The river flows west from here into the heart of the mountain and
+east towards the foothills once more.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5666
+D3
+~
+~
+0 -1 5668
+S
+#5668
+On The Dark River~
+   You can barely make out what is ahead of you as the river flows
+quietly through the passageway.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5667
+D2
+~
+~
+0 -1 5669
+S
+#5669
+On The Dark River~
+   The river slowly flows west towards the heart of the mountain.  There
+are small cracks in the passage wall to the north where you might be able
+to get up out of the water.
+~
+54 ad 7
+D0
+~
+~
+0 -1 5672
+D1
+~
+~
+0 -1 5668
+D3
+~
+~
+0 -1 5670
+S
+#5670
+On The Dark River~
+   The river continues east and west from here flowing south of a dark
+ledge high above the water level.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5669
+D3
+~
+~
+0 -1 5671
+S
+#5671
+On The Dark River~
+   The river flows south through a narrowing part of the passage as it
+progresses deeper into the mountain.
+~
+54 ad 7
+D1
+~
+~
+0 -1 5670
+D2
+~
+~
+0 -1 5005
+S
+#5672
+On A Small Ledge~
+   You clamber out of the water up onto this narrow ledge to see if
+it leads deeper into the mountain.  Unfortunately, the ledge is only
+wide enough to rest upon for a while and there does not appear to be
+any other exits other than rejoining the underground river.
+~
+54 ad 2
+D2
+~
+~
+0 -1 5669
+S
+#5681
+On The Plains~
+   You stand on an open expanse of grass extending in all directions.
+To the south of you stand the might northern gates of New Thalos.  East
+and west of you the grassy fields continue and north, in the distance,
+you see a line of trees.
+~
+54 0 2
+D0
+~
+~
+0 -1 5682
+D1
+~
+~
+0 -1 5681
+D2
+~
+~
+0 -1 5567
+D3
+~
+~
+0 -1 5681
+S
+#5682
+On The Plains~
+   You stand on an open field of grass.  The forest to the north is
+closer but still a good distance away.  To the south a small dirt
+path has been trodden into the ground heading towards New Thalos.
+~
+54 0 2
+D0
+~
+~
+0 -1 5683
+D1
+~
+~
+0 -1 5682
+D2
+~
+~
+0 -1 5681
+D3
+~
+~
+0 -1 5682
+S
+#5683
+The Edge Of The Forest~
+   You stand at the edge of a huge forest.  The line of trees
+continues as far as the eye can see to the east and west.  A
+large expanse of grass spreads out to the south.
+~
+54 0 2
+D1
+~
+~
+0 -1 5683
+D2
+~
+~
+0 -1 5682
+D3
+~
+~
+0 -1 5683
+S
+#5684
+River Ishtar~
+   The river broadens even more here and the waters become murky.
+The smell of saltwater has reached you from the east.  The Dragon
+Sea cannot be far away.  To the east you can see the faint outline
+of a city and to the north you see a large expanse of grass.
+~
+54 0 7
+D1
+~
+~
+0 -1 5685
+D3
+~
+~
+0 -1 5626
+S
+#5685
+The River Delta~
+   This is where the river empties out into the Dragon Sea.  The backrush
+of water has kicked up a lot of sand and the blue sea is stained where
+the river empties.  Looking west all you can see is water... all the way
+to the horizon.  North of here is a small dock you think you should be
+able to reach with out too much trouble.  The river stretches off to the
+west back towards New Thalos.
+~
+54 0 7
+D1
+~
+~
+0 -1 5686
+D3
+~
+~
+0 -1 5684
+S
+#5686
+The Dragon Sea~
+   You are on the clear blue seas of the Dragon Sea.  Water extends
+in all directions as far as the eye can see.  Off in the distance
+you think you might see a small dock to the north.
+~
+54 0 7
+D0
+~
+~
+0 -1 5687
+D1
+~
+~
+0 -1 5686
+D2
+~
+~
+0 -1 5686
+D3
+~
+~
+0 -1 5685
+S
+#5687
+The Dragon Sea~
+   The Dragon Sea comes up along the shore here.  The deep blue waters
+rolling in and crashing against the beach.  To the north you see a 
+small dock jutting out into the surf.
+~
+54 0 7
+D0
+~
+~
+0 -1 5695
+D1
+~
+~
+0 -1 5696
+D2
+~
+~
+0 -1 5686
+S
+#5688
+The Dragon Sea~
+   You are on the clear blue seas of the Dragon Sea.  Water extends
+in all directions as far as the eye can see.  Off in the distance
+you think you might see a small dock to the west.
+~
+54 0 7
+D0
+~
+~
+0 -1 5688
+D1
+~
+~
+0 -1 5697
+D2
+~
+~
+0 -1 5695
+S
+#5689
+The Dragon Sea~
+   You are on the clear blue seas of the Dragon Sea.  Water extends
+in all directions as far as the eye can see.  Off in the distance
+you think you might see a small dock to the west.
+~
+54 0 7
+D0
+~
+~
+0 -1 5697
+D1
+~
+~
+0 -1 5689
+D2
+~
+~
+0 -1 5696
+D3
+~
+~
+0 -1 5695
+D5
+~
+~
+0 -1 5698
+S
+#5690
+On A Road~
+   The people of New Thalos take great pride in the services their
+city may provide.  One of these services is the construction crews
+the go to great lengths to keep all the roads in order.  Although
+the taxes in New Thalos are higher then other cities in the realm
+most of the money is used for the good of the people.
+~
+54 0 2
+D1
+~
+~
+0 -1 5691
+D3
+~
+~
+0 -1 5568
+S
+#5691
+On A Road~
+   You walk along a well used road with beautiful scenery.  To the north
+tall pine trees form a wall that goes on for miles.  Between the road
+and the trees lies a great expanse of grassy plains.  South of here, 
+beyond the river, lies the Great Eastern Desert.  The road continues
+east and west.
+~
+54 0 2
+D1
+~
+~
+0 -1 5692
+D3
+~
+~
+0 -1 5690
+S
+#5692
+On A Road~
+   The Dragon Sea can be seen to the east now spreading out to unknown
+lands.  The road continues east and west.  To the south you hear the
+sounds of boats traveling the River Ishtar delivering goods.
+~
+54 0 2
+D1
+~
+~
+0 -1 5693
+D3
+~
+~
+0 -1 5691
+S
+#5693
+On A Road~
+   This is the man land route through the land.  Merchants can bring
+their goods to the coastline and have them ferried onto ships for
+export.  Travel by foot west will take you through New Thalos up and
+over the Eastern Mountains and down into Midgaard.
+~
+54 0 2
+D1
+~
+~
+0 -1 5694
+D3
+~
+~
+0 -1 5692
+S
+#5694
+Near The Shore~
+   The road ends here turning into a small dirt path leading down the
+beach and onto a dock.  To the north and south you see the coastline
+stretching out before you.  West of here the lowlands roll up into
+huge snow capped mountains.
+~
+54 0 2
+D1
+~
+~
+0 -1 5695
+D3
+~
+~
+0 -1 5693
+S
+#5695
+On A Dock~
+   You stand on a simple wooden dock that acts as an extension of the
+road to the west.  The dock seems to have been here for quite a long
+time but is still sturdy.  A small ladder has been built on the eastern
+end to allow easy access to and from ships.
+~
+54 0 1
+D0
+~
+~
+0 -1 5688
+D1
+~
+~
+0 -1 5689
+D2
+~
+~
+0 -1 5687
+D3
+~
+~
+0 -1 5694
+S
+#5696
+The Dragon Sea~
+   You are on the clear blue seas of the Dragon Sea.  Water extends in
+all directions as far as the eye can see.  Off in the distance you think
+you might see a small dock to the west.
+~
+54 0 7
+D0
+~
+~
+0 -1 5689
+D1
+~
+~
+0 -1 5696
+D3
+~
+~
+0 -1 5687
+S
+#5697
+The Dragon Sea~
+   The ocean spreads out in all directions rolling gently.  In the
+distance you can see an island on the horizon.  To the west you see
+the mainland.
+~
+54 0 7
+D0
+~
+~
+0 -1 5697
+D1
+~
+~
+0 -1 5697
+D2
+~
+~
+0 -1 5689
+D3
+~
+~
+0 -1 5688
+S
+#5698
+Under The dock~
+   You are swiming underneath the dock.  You can see the four wooden
+pylons that support the structure.  The murky water clouds you vision
+as you gaze westward, but you think you can make out an iron grating
+in that direction.
+~
+54 1 7
+D3
+~
+grate~
+1 -1 5699
+D4
+~
+~
+0 -1 5697
+S
+#5699
+The Lair Of The Ixitxachitl~
+   Blood swirls around in the water as the Ixitxachitl devours the 
+last of its meal.  Swirling around quickly as you intrude upon his
+meal the large sting ray attacks!
+~
+54 1 7
+D1
+~
+grate~
+1 -1 5698
+S
+
+$

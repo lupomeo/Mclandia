@@ -1,0 +1,17 @@
+Porting Ascii Pfiles version 2.1
+
+All known portability issues have been resolved.  However, only limited
+portability testing has been done prior to this release.  All makefiles
+included in the stock circle 3.0 bpl 17 release have been modified and
+should work, but only Makefile.in has been tested.
+
+This distribution has been tested in FreeBSD 4.1, Slackware 7.1, RedHat
+6.2, and Windows 98/MS Visual C++ 6.0.
+
+One possible issue may be the inclusion of sys/stat.h in diskio.c.
+Originally I thought this would cause problems in non-unix operating
+systems, but if it has, I haven't been told.
+
+If you have any difficulty installing this release in one of the operating
+systems supported by stock circle or would like help porting it to any
+non-supported OS, please let me know and provide details.

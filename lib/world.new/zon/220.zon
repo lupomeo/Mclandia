@@ -1,0 +1,54 @@
+**************************
+*** Zone : The Cave
+*** Author : CertainDeath
+**************************
+#220
+The Cave~
+22099 50 2 
+M     0 22000     1 22019	* Load L'impresario della cava. in Dentro il prefabbricato.
+E     1 22011     20    16	* Equip with un filo diamantato come arma
+E     1 22012     100    8	* Equip with un paio di scarponi da montagna ai piedi
+E     1 22003     100     5	* Equip with una maglietta bucata sul corpo
+E     1 22004     100     7	* Equip with dei pantaloni bucati sulle gambe
+M     0 22001     1 22016	* Load un custode  in Il deposito.
+E     1 22005     20    16	* Equip with un coltello Butterfly come arma
+E     1 22012     100     8	* Equip with un paio di scarponi da montagna ai piedi
+E     1 22004     100     7	* Equip with dei pantaloni bucati sulle gambe
+E     1 22003     100     5	* Equip with una maglietta bucata sul corpo
+M     0 22002     3 22014	* Load Un cavatore in pausa. in Il centro della cava.
+E     1 22012     100     8	* Equip with un paio di scarponi da montagna ai piedi
+E     1 22004     100     7	* Equip with dei pantaloni bucati sulle gambe
+E     1 22003     100     5	* Equip with una maglietta bucata sul corpo
+M     0 22006     5 22017	* Load un manovale in Un capanno in lamiera.
+E     1 22012     100     8	* Equip with un paio di scarponi da montagna ai piedi
+E     1 22010     20    16	* Equip with una mazzetta da muratore come arma
+E     1 22004     100     7	* Equip with dei pantaloni bucati sulle gambe
+E     1 22003     100     5	* Equip with una maglietta bucata sul corpo
+M     0 22003     1 22021	* Load Yang Yin  in La fine del cunicolo.
+E     1 22005     20    16	* Equip with un coltello Butterfly come arma
+E     1 22007     100     8	* Equip with scarpe in gomma antiscivolo  ai piedi
+E     1 22006     100    12	* Equip with un camice giallo attorno al corpo
+E     1 22000     100    17	* Equip with una chiave hardware in mano
+M     0 22004     1 22029	* Load Prof. Aldous Huxley  in Graphical Mode.
+E     1 22007     100     8	* Equip with scarpe in gomma antiscivolo  ai piedi
+E     1 22009     20    16	* Equip with un elettrificatore come arma
+E     1 22008     100    12	* Equip with un camice rosso attorno al corpo
+E     1 22001     100    17	* Equip with una chiave a croce in mano
+M     0 22005     3 22025	* Load polo neurale in Agent.
+M     0 22005     3 22028	* Load polo neurale in Model.
+M     0 22005     3 22026	* Load polo neurale in Inertia.
+O     0 22002     1 22030	* Load object . in GOFAI
+D     1 22009     3     2	* Close and Lock door Est      of room Verso la cava
+D     1 22011     3     1	* Close door Ovest     of room La crepa nella parete.
+D     1 22013     5     2	* Close and Lock door basso     of room La grotta.
+D     1 22020     4     1	* Close door alto    of room Dentro la botola.
+D     1 22021     0     2	* Close and Lock door Nord     of room La fine del cunicolo.
+D     1 22022     2     2	* Close and Lock door Sud       of room Spatial behavior simulator.
+D     1 22029     0     2	* Close and Lock door Nord     of room Graphical Mode.
+D     1 22030     2     2	* Close and Lock door Sud       of room GOFAI
+D     1 22010     2     1	* Close door Sud       of room L'ingresso della cava.
+D     1 22012     0     1	* Close door Nord     of room La cava
+D     1 22015     2     1	* Close door Sud       of room Il prefabbricato.
+D     1 22017     1     1	* Close door Est      of room Un capanno in lamiera.
+S
+$~

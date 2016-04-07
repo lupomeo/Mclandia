@@ -1,0 +1,133 @@
+#65
+La Corporazione Asukaga~
+6599 50 2
+*
+* Mobiles
+M 0 6500 11 6505        Affiliato Asukaga anabolizzato
+E 1 6504 100 16                 Una Katana Elettromagnetica
+E 1 6505 100 5                  Un campo di stasi
+E 1 6515 1 17                   Una carta magnetica verde scuro
+M 0 6500 11 6540        Affiliato Asukaga anabolizzato
+E 1 6504 100 16                 Una Katana Elettromagnetica
+E 1 6505 100 5                  Un campo di stasi
+E 1 6502 1 17                 Un tesserino magnetico marrone
+M 0 6500 11 6505        Affiliato Asukaga anabolizzato
+E 1 6504 100 16                 Una Katana Elettromagnetica
+E 1 6505 100 5                  Un campo di stasi
+M 0 6500 11 6540        Affiliato Asukaga anabolizzato
+E 1 6504 100 16                 Una Katana Elettromagnetica
+E 1 6505 100 5                  Un campo di stasi
+M 0 6500 11 6509        Affiliato Asukaga anabolizzato
+E 1 6512 100 9                  Un paio di guanti in carbonio
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6500 11 6521        Affiliato Asukaga anabolizzato
+M 1 6500 11 6521        Affiliato Asukaga anabolizzato
+M 1 6500 11 6521        Affiliato Asukaga anabolizzato
+M 0 6500 11 6512        Affiliato Asukaga anabolizzato
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6500 11 6512        Affiliato Asukaga anabolizzato
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6500 11 6509        Affiliato Asukaga anabolizzato
+E 1 6509 100 16                 Un ninja-to da combattimento
+E 1 6510 10 6                  Delle protesi oculari
+M 0 6501 9 6503         Impiegato Asukaga
+M 0 6501 9 6502         Impiegato Asukaga
+M 0 6501 9 6501         Impiegato Asukaga
+M 0 6502 1 6527         Il Direttore del Laboratorio
+E 1 6511 10 1                   Un fine anello con un ideogramma
+E 1 6503 1 17                 Un budge dorato
+* Shopkeepers
+M 0 6503 1 6516         L'addetto alle vendite
+G 1 6509 100                    Un ninja-to da combattimento
+G 1 6504 100                    Una Katana Elettromagnetica
+G 1 6505 100                    Un campo di stasi
+G 1 6510 10                    Delle protesi oculari
+G 1 6512 100                    Un paio di guanti in carbonio
+E 1 6504 100 16                 Una Katana Elettromagnetica
+M 0 6504 1 6535         Gotropex
+G 1 3000 100                    Beer Barrel
+G 1 3003 100                    Firebreather
+G 1 3010 100                    Loaf Of Bread
+G 1 3011 100                    Danish Pastry
+G 1 3031 100                    Lantern
+G 1 6517 100                    Chip di sete
+E 1 6504 100 16                 Una Katana Elettromagnetica
+* Mobiles
+M 0 6505 2 6515         Un cane da guardia cybernetico
+M 0 6505 2 6520         Un cane da guardia cybernetico
+M 0 6506 2 6508         Un Enorme Automa
+E 1 6505 100 5                  Un campo di stasi
+M 0 6507 4 6543         Un vecchio inserviente
+E 1 6508 100 16                 Un'aspirapolvere a inversione protonica
+M 0 6507 4 6543         Un vecchio inserviente
+E 1 6508 100 16                 Un'aspirapolvere a inversione protonica
+M 0 6507 4 6542         Un vecchio inserviente
+E 1 6508 100 16                 Un'aspirapolvere a inversione protonica
+M 0 6507 4 6542         Un vecchio inserviente
+E 1 6508 100 16                 Un'aspirapolvere a inversione protonica
+M 0 6508 1 6543         Il Comandante della sicurezza
+E 1 6512 100 9                  Un paio di guanti in carbonio
+E 1 6504 100 16                 Una Katana Elettromagnetica
+M 0 6509 1 6534         Il dottore della Asukaga
+E 1 6506 100 17                 Una siringa di adrenalina pura
+M 0 6510 4 6534         Un infermiere anabolizzato
+E 1 6506 100 17                 Una siringa di adrenalina pura
+M 0 6510 4 6534         Un infermiere anabolizzato
+E 1 6506 100 17                 Una siringa di adrenalina pura
+M 0 6511 8 6523         Un Corporativo
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6511 8 6523         Un Corporativo
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6511 8 6523         Un Corporativo
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6511 8 6524         Un Corporativo
+E 1 6504 100 16                 Una Katana Elettromagnetica
+M 0 6511 8 6524         Un Corporativo
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6511 8 6524         Un Corporativo
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6514 4 6521         Una guardia del dormitorio
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6514 4 6521         Una guardia del dormitorio
+E 1 6509 100 16                 Un ninja-to da combattimento
+M 0 6516 1 6553         Il Custode
+E 1 6500 1 17                   Il foglio con la combinazione
+O 1 6501 1 6554         I fondi societari
+M 0 6517 2 6548         Blanka il distruttore
+M 0 6517 2 6549         Blanka il distruttore
+M 0 6518 1 6533		Il Dott. Awaru Okeguri Asukaga 
+* Objects
+R 0 6513 6507
+O 0 6507 4 6513         Un topo morto a due teste
+R 0 6505 6507
+O 0 6507 4 6505         Un topo morto a due teste
+R 0 6503 6507
+O 0 6507 4 6503         Un topo morto a due teste
+R 0 6540 6507
+O 0 6507 4 6540         Un topo morto a due teste
+O 0 6513 6 6545         Dei rifiuti organici
+R 0 6551 6514
+O 0 6514 3 6551         Un asse di legno
+O 0 6516 1 6532         Una sbarra di metallo lucido
+* Doors
+D 0 6505 3 2            Porta
+D 0 6513 1 2
+D 0 6509 0 2            Statua
+D 0 6510 2 2
+D 0 6512 1 2            Ostacolo
+D 0 6525 3 2
+D 0 6521 2 1            Vetri
+D 0 6523 0 1
+D 0 6526 2 1            Porta
+D 0 6527 0 1
+D 0 6531 0 1            Porta
+D 0 6532 2 1
+D 0 6532 3 2            Caveau
+D 0 6554 1 2
+D 0 6540 1 2            Blindata
+D 0 6541 3 2
+D 0 6544 0 2            Parete
+D 0 6546 2 2
+*
+S
+$

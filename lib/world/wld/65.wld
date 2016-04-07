@@ -1,0 +1,851 @@
+#6500
+La strada verso la Corporazione della Asukaga~
+   Ti stai avventurando verso il quartier generale della Asukaga.
+   La strada e' pulita e ben mantenura.
+   Noti delle telecamere che sorvegliano l'accesso.
+~
+65 c 2
+D0
+La strada continua.
+~
+~
+0 -1 6501
+D4
+L'incrocio.
+~
+~
+0 -1 3502
+S
+#6501
+Continuando per la strada~
+   Noti delle pattuglie che sorvegliano la zona. Qualcuna ti osserva
+freddamente ma senza venirti incontro.
+~
+65 0 4
+D0
+L'ingresso all'edificio.
+~
+~
+0 -1 6502
+D2
+L'inizio della strada.
+~
+~
+0 -1 6500
+S
+#6502
+L'atrio del Q.G. della Asukaga~
+   Nonostante l'ambiente sia semplice, dei piccoli particolari ti fanno
+notare che si tratta di una Corporazione molto potente.
+   Tutto risplende alla perfezione ed e' in ordine impeccabile.
+~
+65 0 5
+D0
+La sala d'aspetto.
+~
+~
+0 -1 6503
+D2
+La Strada.
+~
+~
+0 -1 6501
+S
+#6503
+La sala d'aspetto~
+   Ci sono dei divani dall'aspetto molto comodo e dei giornali
+elettronici su di un tavolino fluttuante.
+~
+65 0 4
+D1
+Lato est dell'edificio.
+~
+~
+0 -1 6540
+D2
+L'atrio della corporazione.
+~
+~
+0 -1 6502
+D3
+Lato ovest dell'edificio.
+~
+~
+0 -1 6505
+S
+#6504
+Il Corridoio Nord Est~
+   Un larghissimo corridoio, con molte luci e personale indaffarato
+a compiere il proprio lavoro, nessuno qui ha intenzione di far arrabbiare
+il Presidente... dicono sia un tipo molto temibile
+~
+65 d 0
+D0
+~
+~
+0 -1 6506
+D2
+~
+~
+0 -1 6540
+S
+#6505
+Il corridoio ovest~
+   Il corridoio e' interrotto da una porta a vetri...noti un lettore
+magnetico sulla sinistra. Una voce elettronica ti chiede di identificarti.
+~
+65 0 2
+D1
+~
+~
+0 -1 6503
+D3
+~
+porta~
+2 6515 6513
+S
+#6506
+Il Corridoio Nord Est~
+   Un larghissimo corridoio, con molte luci e personale indaffarato
+a compiere il proprio lavoro, nessuno qui ha intenzione di far arrabbiare
+il Presidente... dicono sia un tipo molto temibile
+~
+65 d 0
+D1
+~
+~
+0 -1 6507
+D2
+~
+~
+0 -1 6504
+S
+#6507
+Il Corridoio Nord Est~
+   Un larghissimo corridoio, con molte luci e personale indaffarato
+a compiere il proprio lavoro, nessuno qui ha intenzione di far arrabbiare
+il Presidente... dicono sia un tipo molto temibile
+~
+65 d 0
+D0
+~
+~
+0 -1 6508
+D3
+~
+~
+0 -1 6506
+S
+#6508
+Un posto di guardia~
+   E' l'unico posto di guardia che hai trovato camminando nel Q.G. della
+corporazione e ti insospettisci, forse sei al limite di una grande scoperta.
+Purtroppo pero' noti che il guardiano non e' umano... stai molto attento.
+~
+65 d 0
+D0
+~
+~
+0 -1 6509
+D2
+~
+~
+0 -1 6507
+S
+#6509
+Nel cuore della corporazione~
+   Arrivato qui sei di fronte a un bivio. A ovest c'e' una stanza buia, mentre
+il passaggio verso nord e' bloccato da una enorme statua di un samuray grande
+quanto tutto il corridoio.
+~
+65 d 0
+D0
+~
+statua~
+2 6503 6510
+D2
+~
+~
+0 -1 6508
+D3
+~
+~
+0 -1 6522
+S
+#6510
+Il corridoio verso il Presidente~
+   Un larghissimo corridoio, con molte luci e personale indaffarato
+a compiere il proprio lavoro, nessuno qui ha intenzione di far arrabbiare
+il Presidente... dicono sia un tipo molto temibile
+~
+65 d 0
+D0
+~
+~
+0 -1 6511
+D2
+~
+statua~
+2 6503 6509
+S
+#6511
+Il corridoio verso il Presidente~
+   Un larghissimo corridoio, con molte luci e personale indaffarato
+a compiere il proprio lavoro, nessuno qui ha intenzione di far arrabbiare
+il Presidente... dicono sia un tipo molto temibile
+~
+65 d 0
+D0
+~
+~
+0 -1 6512
+D2
+~
+~
+0 -1 6510
+S
+#6512
+Il corridoio verso il Presidente~
+   Sei nuovamente di fronte ad un ostacolo.
+Un'altra porta si erige davanti a te bloccandoti la strada.
+~
+65 d 0
+D1
+~
+ostacolo~
+2 6503 6525
+D2
+~
+~
+0 -1 6511
+S
+#6513
+Oltre la porta~
+   Sei riuscito a procurarti la chiave per entrare...
+Avverti una strana elettricita' nell'aria.
+~
+65 d 0
+D0
+Il lato nord dell'edificio.
+~
+~
+0 -1 6514
+D1
+Il corridoio ovest.
+~
+porta~
+2 6515 6505
+D3
+L'ufficio della segretaria.
+~
+~
+0 -1 6526
+S
+#6514
+Il corridoio nord ovest~
+   Un larghissimo corridoio, con molte luci e personale indaffarato
+a compiere il proprio lavoro, nessuno qui ha intenzione di far arrabbiare
+il Presidente... dicono sia un tipo molto temibile.
+~
+65 d 0
+D0
+~
+~
+0 -1 6515
+D2
+~
+~
+0 -1 6513
+S
+#6515
+In prossimita' del reparto vendite~
+   Ti trovi in prossimita' del magazzino delle guardie, se vuoi
+continuare in questa direzione non devi fare altro che entrare.
+~
+65 d 0
+D2
+~
+~
+0 -1 6514
+D3
+Il Magazzino.
+~
+~
+0 -1 6516
+S
+#6516
+Il Magazzino di approvvigionamento~
+   Sei nel posto in cui le guardie possono rifornirsi dell'equipaggiamento
+che viene rovinato nelle ardue missioni alle quali sono sottoposte quotidianamente.
+~
+65 df 0
+D0
+~
+~
+0 -1 6517
+D1
+~
+~
+0 -1 6515
+S
+#6517
+Il Corridoio Nord~
+   Il corridoio si biforca, verso ovest puoi notare la mensa,
+verso nord ci sono altri reparti.
+~
+65 d 0
+D0
+~
+~
+0 -1 6518
+D2
+~
+~
+0 -1 6516
+D3
+~
+~
+0 -1 6535
+S
+#6518
+Verso la sala medici~
+   Inizi a sentire odore di medicinali e odi qualche urlo di dolore
+provenire da est.
+~
+65 d 0
+D1
+~
+~
+0 -1 6519
+D2
+~
+~
+0 -1 6517
+S
+#6519
+Il corridoio~
+   Qui l'odore e' fortissimo e proviene da nord.
+Senti un gran vociare provenire da est, dai discorsi che senti ti sembrano
+persone che discutono di affari importanti.
+~
+65 d 0
+D0
+~
+~
+0 -1 6534
+D1
+~
+~
+0 -1 6520
+D3
+~
+~
+0 -1 6518
+S
+#6520
+Verso la fine del corridoio~
+   Il vociare aumenta, se prosegui potrai ascoltare bene cio' che si dicono
+Altrimenti torna indietro, sarebbe preferibile... non so se coloro che parlano
+sarebbero contenti di vederti li.
+~
+65 d 0
+D1
+~
+~
+0 -1 6521
+D3
+~
+~
+0 -1 6519
+S
+#6521
+L'entrata della sala delle riunioni~
+   Sei di fronte a una grande porta a vetri decorati opachi
+Una guardia ti osserva in modo molto severo e ti viene incontro.
+~
+65 d 0
+D2
+~
+vetri~
+1 -1 6523
+D3
+~
+~
+0 -1 6520
+S
+#6522
+Una stanza vuota~
+   Una stanza completamente vuota e pulitissima, sul pavimento in marmo
+bianco ti potresti specchiare.
+~
+65 d 0
+D1
+~
+~
+0 -1 6509
+S
+#6523
+La sala riunioni~
+   Sei nella prima delle due sale riunioni della Asukaga
+Un enorme tavolo di legno e' al centro della stanza e ci sono numerosi monitor
+per videoconferenza un po' ovunque.
+~
+65 d 0
+D0
+~
+vetro~
+1 -1 6521
+D2
+~
+~
+0 -1 6524
+S
+#6524
+La sala riunioni~
+   E' la seconda e ultima sala riunioni, molto piu' curata nella mobilia.
+Poltrone automassaggianti in pelle nera e un mobile bar che farebbe invidia
+al piu' ricco dei miliardari.
+~
+65 d 0
+D0
+~
+~
+0 -1 6523
+S
+#6525
+Oltre l'ostacolo~
+   Complimenti, hai passato anche questo.
+Ora pare non ci sia piu' nulla ad impedirti l'accesso al Presidente...forse.
+Qui finisce il corridoio e iniziano delle scale molto ripide sorvegliate da
+molte telecamere a circuito chiuso.
+~
+65 d 0
+D3
+~
+ostacolo~
+2 6514 6512
+D4
+~
+~
+0 -1 6528
+S
+#6526
+L'ufficio della segretaria del direttore~
+   Al monento la segretaria non e' al suo posto...
+Sara' la sua ora di spacco...
+~
+65 ad 0
+D1
+Oltre la porta.
+~
+~
+0 -1 6513
+D2
+L'ufficio del direttore!
+~
+porta~
+1 -1 6527
+S
+#6527
+La stanza del direttore~
+   In questa stanza tutto sembra perfetto.
+Noti pero' qualcosa di strano... non ci sono finestre
+sui muri, ma solo paesaggi olografici.
+~
+65 ad 0
+D0
+~
+porta~
+1 -1 6526
+S
+#6528
+Il primo piano~
+   Sei al primo piano dell'edificio e sembra disabitato.
+Non senti nessun rumore e le luci sono tutte spente.
+Non ti rimane altro da fare se non continuare a salire.
+~
+65 d 0
+D4
+~
+~
+0 -1 6529
+D5
+~
+~
+0 -1 6525
+S
+#6529
+Il secondo piano~
+   Sei al secondo piano dell'edificio e sembra disabitato.
+Non senti nessun rumore e le luci sono tutte spente.
+Non ti rimane altro da fare se non continuare a salire~
+65 d 0
+D4
+~
+~
+0 -1 6530
+D5
+~
+~
+0 -1 6528
+S
+#6530
+Il terzo piano~
+   Sei in cima alle scale, non puoi piu' continuare a salire.
+Verso est noti un cartello a muro con su scritto :
+      
+        Sala d'aspetto
+        Visite solo su appuntamento.
+~
+65 d 0
+D1
+~
+~
+0 -1 6531
+D5
+~
+~
+0 -1 6529
+S
+#6531
+La sala d'aspetto~
+   Qui e' dove si aspetta di essere ricevuti dal Presidente.
+E' un'enorme sala con divani al massimo della tecnologia e
+schermi al plasma sintonizzati sui canali principali di tutto
+il mondo.
+~
+65 d 0
+D0
+~
+porta~
+1 -1 6532
+D3
+~
+~
+0 -1 6530
+S
+#6532
+La sorpresa~
+   Pensi di essere nell'ufficio del Presidente, a ti ritrovi in una
+sala riunioni. Inizi a pensare che il Presidente non esista e che sia
+molto da molti anni.
+Un cartello sul muro dice :
+
+       Un presidente forte e potente
+       Rende la sua corporazione forte e potente
+       Un presidente morto e sepolto
+       Rende la sua corporazione finita e scomparsa 
+
+~
+65 d 0
+D2
+~
+porta~
+1 -1 6531
+D3
+~
+caveau~
+2 6500 6554
+D5
+~
+~
+0 -1 6533
+S
+#6533
+La stanza del Presidente~
+   Finalmente lo hai trovato... Il Presidente.
+Ti e' subito chiaro che tutte le voci sul suo conto fossero
+veritiere, scappa finche' sei in tempo
+~
+65 0 0
+D4
+~
+~
+0 -1 6532
+S
+#6534
+L'infermeria~
+   Sei dentro l'infermeria della corporazione.
+E' equipaggiata con i materiali piu' all'avnguardia che ci siano
+sul mercato, non credi ai tuoi occhi.
+~
+65 d 0
+D2
+~
+~
+0 -1 6519
+S
+#6535
+La mensa~
+   Il profumo che senti in questa stanza ti fa venire l'acquolina in bocca.
+Riesci ad immaginare singolarmente tutto cio' che e' stato cucinato e ti viene
+una gran voglia di mangiare.
+~
+65 dh 0
+D1
+~
+~
+0 -1 6517
+S
+#6540
+Il corridoio est~
+   Alla fine di questo corridoio, noti un cartello con una freccia verso nord
+con su scritto 'Ufficio del Presidente'.
+   Davanti a te invece che una porta che a prima vista ti serve blindata, 
+ti servira' la chiave di accesso.
+~
+65 d 0
+D0
+~
+Ufficio del direttore
+~
+0 -1 6504
+D1
+~
+blindata~
+1 6502 6541
+D3
+~
+~
+0 -1 6503
+S
+#6541
+Ingresso alla sala degli esperimenti~
+   Qui i ricercatori della Asukaga sperimentano le loro creazioni piu'
+diaboliche che serviranno nella lotta continua contro le altre corporazioni.
+~
+65 d 0
+D3
+~
+blindata~
+1 6502 6540
+D5
+~
+~
+0 -1 6542
+S
+#6542
+Addentrandoti nella sala~
+   Il pavimento si fa sempre piu' sporco man mano che ti addentri nella sala.
+Urla e macchie di sangue ti fanno rabrividire... E' il caso di continuare?
+~
+65 ad 0
+D1
+~
+Dentro la sala
+~
+0 -1 6543
+D4
+~
+~
+0 -1 6541
+S
+#6543
+Sei ancora in tempo~
+   Uomo...sei ancora in tempo per tornare indietro, sicuramente non avrai le
+forze per continuare, vai via...vai VIAAAA!!!
+~
+65 ad 0
+D1
+~
+~
+0 -1 6544
+D3
+~
+~
+0 -1 6542
+S
+#6544
+Nei pressi del labirinto~
+   Sei nei pressi del punto cruciale della sala degli esperimenti, il labirinto.
+In citta' si mormora che da queste parti si aggirano dei mostri geneticamente
+modificati per ricercare i modello di soldato perfetto.Purtroppo verso nord
+noti che la parete e' crollata... ti servira' qualcosa per fare leva.
+~
+65 ad 0
+D0
+~
+parete~
+2 6516 6546
+D1
+~
+~
+0 -1 6545
+D2
+~
+~
+0 -1 6551
+D3
+~
+~
+0 -1 6543
+S
+#6545
+Una stanza abbandonata~
+   Questa stanza e' vuota, dalla polvere che noti a terra non entra nessuno qui da
+molto tempo, forse nascondera' una trappola per le spie poco informate.
+~
+54 ad 0
+D3
+~
+~
+0 -1 6544
+S
+#6546
+Oltre il muro~
+   Bravo! Sei riuscito ad entrare.
+Hai saputo dai tuoi informatori che il Custode della sala degli esperimenti e' scomparso.
+   Si dice che lui abbia ancora con se una chiave di primaria importanza per la Corporazione.
+...ma lo troverai ancora vivo???
+~
+65 ad 0
+D1
+~
+~
+0 -1 6547
+D2
+~
+parete~
+2 6516 6544
+S
+#6547
+L'inizio dell'area di prova~
+   Sei all'interno della sala di prova ma non ancora troppo per poter uscire di qui vivo.
+C'e' un cartello con su scritto :
+
+          Non essere
+	    Negligente
+	    Oppure
+	    Soccomberai
+
+Non capisci granche' di quello che hai letto e sei molto perplesso.
+~
+65 ad 0
+D0
+~
+~
+0 -1 6548
+D1
+~
+~
+0 -1 6544
+D3
+~
+~
+0 -1 6546
+S
+#6548
+L'area di prova~
+   Da questo punto in poi dovrai combattere per la tua vita, non usare pero'
+le tue armi migliori... forse quelli vogliono proprio studiare te.
+~
+65 ad 0
+D0
+~
+~
+0 -1 6549
+D2
+~
+~
+0 -1 6547
+D3
+~
+~
+0 -1 6548
+S
+#6549
+L'area di prova~
+   Da questo punto in poi dovrai combattere per la tua vita, non usare pero'
+le tue armi migliori... forse quelli vogliono proprio studiare te.
+~
+65 ad 0
+D0
+~
+~
+0 -1 6548
+D2
+~
+~
+0 -1 6548
+D3
+~
+~
+0 -1 6550
+S
+#6550
+L'area di prova~
+   Da questo punto in poi dovrai combattere per la tua vita, non usare pero'
+le tue armi migliori... forse quelli vogliono proprio studiare te.
+~
+65 ad 0
+D0
+~
+~
+0 -1 6549
+D1
+~
+~
+0 -1 6549
+D2
+~
+~
+0 -1 6552
+D3
+~
+~
+0 -1 6548
+S
+#6551
+La stanza degli inservienti~
+   Questa e' la stanza dove gli inservienti conservano il loro
+maretiale di lavoro, e' discretamente pulita e ci sono anche delle
+brande per riposare
+~
+65 ad 0
+D0
+~
+~
+0 -1 6544
+S
+#6552
+La fine dell'area di prova~
+   Sei riuscito a sconfiggere le bestie, complimenti...
+Ma del custode ancora nessuna traccia... ti iniziano a venire dei forti dubbi...
+   Per un attimo pensi che sia stato tutto inutile, il custode e' morto.
+Noti una piccola fessura nel muro verso sud... un uomo di piccole dimensioni
+ci passerebbe a stento.
+
+~
+65 ad 0
+D0
+~
+~
+0 -1 6550
+D2
+~
+~
+0 -1 6553
+S
+#6553
+Dentro la fessura~
+   Sei riuscito a passare nella fessura e ti ritrovi in una piccola stanzetta.
+Forse e' stata costruita a posta per scappare dalle bestie in caso di pericolo.
+~
+65 ad 0
+D0
+~
+~
+0 -1 6552
+S
+#6554
+Il Caveau~
+   Sei entrato nel Caveau della corporazione... non hai mai visto tanti
+soldi tutti insieme.
+~
+65 dj 1
+D1
+~
+caveau~
+2 6500 6532
+S
+$

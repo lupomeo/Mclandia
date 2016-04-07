@@ -1,0 +1,29 @@
+CircleMUD v3.0 Shop File~
+#3100~
+3100
+3101
+3102
+3103
+3104
+-1
+1.4
+1.0
+-1
+%s Non ce l'ho, prova con list!~
+%s Non sembri averlo.~
+%s Io non compro nulla, vuoi un drink?~
+%s BUG, Please report.~
+%s Non hai quello che chiedono, consigli di cercarlo altrove.~
+%s Ecco qui, sono %d monete, grazie.~
+%s Bug, please report (%d).~
+0
+0
+3107
+0
+3106
+-1
+6
+22
+23
+24
+$~

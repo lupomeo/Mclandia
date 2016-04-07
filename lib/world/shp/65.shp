@@ -1,0 +1,63 @@
+CircleMUD v3.0 Shop File~
+#6503~
+3022
+6504
+6505
+6510
+6512
+-1
+2
+0.2
+9
+5
+-1
+%s Ma per chi mi hai preso! Non vendo quella robaccia!~
+%s Non hai quello che vuoi vendermi!!.~
+%s Non sapei che farmene.~
+%s Gli affari vanno male, non posso permettermelo!~
+%s Vai a lavorare, pezzente, non faccio credito!~
+%s Questo bidone ti e' costato %d monete.~
+%s E' un piacere fare affari con te, tieni queste %d monete.~
+0
+1
+6503
+0
+6516
+-1
+1
+22
+23
+28
+#6504~
+3000
+3003
+3010
+3011
+3031
+6013
+-1
+1.9
+0.2
+1
+15
+17
+19
+-1
+%s Ma per chi mi hai preso! Non vendo quella robaccia!~
+%s Non hai quello che vuoi vendermi!!.~
+%s Non sapei che farmene.~
+%s Gli affari vanno male, non posso permettermelo!~
+%s Vai a lavorare, pezzente, non faccio credito!~
+%s Questo bidone ti e' costato %d monete.~
+%s E' un piacere fare affari con te, tieni queste %d monete.~
+1
+1
+6504
+0
+6535
+-1
+4
+19
+20
+28
+$~
